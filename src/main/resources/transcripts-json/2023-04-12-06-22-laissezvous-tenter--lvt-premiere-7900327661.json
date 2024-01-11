@@ -1,0 +1,2746 @@
+{
+  "media": {
+    "id": 7900327661,
+    "programId": 18102,
+    "program": "Laissez-vous tenter",
+    "date": "2023-04-12",
+    "time": "06:22",
+    "title": "LIVRE - Philippe Coupérie-Eiffel publie \"Eiffel par Eiffel\"",
+    "summary": "Gustave Eiffel disparaissait le 27 décembre 1923, à l'approche du centenaire de sa mort, son arrière-arrière-petit-fils, Philippe Coupérie-Eiffel publie \"Eiffel par Eiffel\" (Michel Lafon). Bernard Lehut l'a lu pour nous.\nInvités prestigieux, coups de cœur, critiques, reportages, interviews : \"Laissez-Vous Tenter\" dresse un panorama de l'actualité cinéma, musique, littérature, médias, people...\nEcoutez Laissez-vous tenter - Première du 04 décembre 2023 avec Bernard Lehut.",
+    "speakers": [
+      "Bernard Lehut"
+    ]
+  },
+  "source": "amazon",
+  "segments": [
+    {
+      "startTime": 340,
+      "endTime": 2150,
+      "speaker": "Jingle",
+      "items": [
+        {
+          "startTime": 340,
+          "endTime": 860,
+          "content": "vous"
+        },
+        {
+          "startTime": 870,
+          "endTime": 1100,
+          "content": " êtes"
+        },
+        {
+          "startTime": 1110,
+          "endTime": 1460,
+          "content": " sur"
+        },
+        {
+          "startTime": 1470,
+          "endTime": 2150,
+          "content": " RTL."
+        }
+      ]
+    },
+    {
+      "startTime": 4730,
+      "endTime": 6679,
+      "speaker": "Voix 1",
+      "items": [
+        {
+          "startTime": 4730,
+          "endTime": 5170,
+          "content": "Laissez"
+        },
+        {
+          "startTime": 5179,
+          "endTime": 5360,
+          "content": " vous"
+        },
+        {
+          "startTime": 5369,
+          "endTime": 5769,
+          "content": " tenter"
+        },
+        {
+          "startTime": 5889,
+          "endTime": 6679,
+          "content": " Première"
+        }
+      ]
+    },
+    {
+      "startTime": 6690,
+      "endTime": 28780,
+      "speaker": "Voix 2",
+      "items": [
+        {
+          "startTime": 6690,
+          "endTime": 7059,
+          "content": "avec"
+        },
+        {
+          "startTime": 7070,
+          "endTime": 7280,
+          "content": " vous"
+        },
+        {
+          "startTime": 7289,
+          "endTime": 7429,
+          "content": " donc"
+        },
+        {
+          "startTime": 7440,
+          "endTime": 7590,
+          "content": " ce"
+        },
+        {
+          "startTime": 7599,
+          "endTime": 7920,
+          "content": " matin,"
+        },
+        {
+          "startTime": 7929,
+          "endTime": 8319,
+          "content": " Bernard"
+        },
+        {
+          "startTime": 8329,
+          "endTime": 8520,
+          "content": " le"
+        },
+        {
+          "startTime": 8529,
+          "endTime": 8710,
+          "content": " Hue"
+        },
+        {
+          "startTime": 8720,
+          "endTime": 8970,
+          "content": " Et"
+        },
+        {
+          "startTime": 8979,
+          "endTime": 9140,
+          "content": " à"
+        },
+        {
+          "startTime": 9149,
+          "endTime": 9520,
+          "content": " l'approche"
+        },
+        {
+          "startTime": 9529,
+          "endTime": 9640,
+          "content": " du"
+        },
+        {
+          "startTime": 9649,
+          "endTime": 10119,
+          "content": " centenaire"
+        },
+        {
+          "startTime": 10130,
+          "endTime": 10159,
+          "content": " de"
+        },
+        {
+          "startTime": 10170,
+          "endTime": 10260,
+          "content": " la"
+        },
+        {
+          "startTime": 10270,
+          "endTime": 10800,
+          "content": " disparition"
+        },
+        {
+          "startTime": 10810,
+          "endTime": 10840,
+          "content": " de"
+        },
+        {
+          "startTime": 10850,
+          "endTime": 11300,
+          "content": " Gustave"
+        },
+        {
+          "startTime": 11310,
+          "endTime": 11520,
+          "content": " Eiffel,"
+        },
+        {
+          "startTime": 11529,
+          "endTime": 11729,
+          "content": " il"
+        },
+        {
+          "startTime": 11739,
+          "endTime": 11770,
+          "content": " est"
+        },
+        {
+          "startTime": 11779,
+          "endTime": 12000,
+          "content": " mort"
+        },
+        {
+          "startTime": 12010,
+          "endTime": 12159,
+          "content": " le"
+        },
+        {
+          "startTime": 12170,
+          "endTime": 12520,
+          "content": " vingt"
+        },
+        {
+          "startTime": 12529,
+          "endTime": 12840,
+          "content": " sept"
+        },
+        {
+          "startTime": 12850,
+          "endTime": 13199,
+          "content": " décembre"
+        },
+        {
+          "startTime": 13210,
+          "endTime": 13359,
+          "content": " mille"
+        },
+        {
+          "startTime": 13369,
+          "endTime": 13529,
+          "content": " neuf"
+        },
+        {
+          "startTime": 13539,
+          "endTime": 13739,
+          "content": " cent"
+        },
+        {
+          "startTime": 13750,
+          "endTime": 13970,
+          "content": " vingt"
+        },
+        {
+          "startTime": 13979,
+          "endTime": 14479,
+          "content": " trois,"
+        },
+        {
+          "startTime": 14930,
+          "endTime": 15060,
+          "content": " un"
+        },
+        {
+          "startTime": 15069,
+          "endTime": 15380,
+          "content": " album"
+        },
+        {
+          "startTime": 15390,
+          "endTime": 15800,
+          "content": " richement"
+        },
+        {
+          "startTime": 15810,
+          "endTime": 16510,
+          "content": " illustré"
+        },
+        {
+          "startTime": 16520,
+          "endTime": 16959,
+          "content": " Eiffel"
+        },
+        {
+          "startTime": 16969,
+          "endTime": 17209,
+          "content": " par"
+        },
+        {
+          "startTime": 17219,
+          "endTime": 17520,
+          "content": " Eiffel,"
+        },
+        {
+          "startTime": 17530,
+          "endTime": 17920,
+          "content": " retrace"
+        },
+        {
+          "startTime": 17930,
+          "endTime": 18040,
+          "content": " la"
+        },
+        {
+          "startTime": 18049,
+          "endTime": 18200,
+          "content": " vie"
+        },
+        {
+          "startTime": 18209,
+          "endTime": 18270,
+          "content": " et"
+        },
+        {
+          "startTime": 18280,
+          "endTime": 18520,
+          "content": " l'oeuvre"
+        },
+        {
+          "startTime": 18530,
+          "endTime": 18620,
+          "content": " du"
+        },
+        {
+          "startTime": 18629,
+          "endTime": 19010,
+          "content": " créateur"
+        },
+        {
+          "startTime": 19020,
+          "endTime": 19059,
+          "content": " de"
+        },
+        {
+          "startTime": 19069,
+          "endTime": 19190,
+          "content": " la"
+        },
+        {
+          "startTime": 19200,
+          "endTime": 19600,
+          "content": " tour,"
+        },
+        {
+          "startTime": 19610,
+          "endTime": 20010,
+          "content": " devenu"
+        },
+        {
+          "startTime": 20020,
+          "endTime": 20139,
+          "content": " le"
+        },
+        {
+          "startTime": 20149,
+          "endTime": 20690,
+          "content": " symbole"
+        },
+        {
+          "startTime": 20700,
+          "endTime": 20770,
+          "content": " de"
+        },
+        {
+          "startTime": 20780,
+          "endTime": 21209,
+          "content": " Paris,"
+        },
+        {
+          "startTime": 21219,
+          "endTime": 21719,
+          "content": " voire"
+        },
+        {
+          "startTime": 21729,
+          "endTime": 21930,
+          "content": " de"
+        },
+        {
+          "startTime": 21940,
+          "endTime": 22079,
+          "content": " la"
+        },
+        {
+          "startTime": 22090,
+          "endTime": 22879,
+          "content": " France."
+        },
+        {
+          "startTime": 22889,
+          "endTime": 23100,
+          "content": " Et"
+        },
+        {
+          "startTime": 23110,
+          "endTime": 23620,
+          "content": " l'auteur"
+        },
+        {
+          "startTime": 23629,
+          "endTime": 23690,
+          "content": " de"
+        },
+        {
+          "startTime": 23700,
+          "endTime": 23899,
+          "content": " ce"
+        },
+        {
+          "startTime": 23909,
+          "endTime": 24049,
+          "content": " beau"
+        },
+        {
+          "startTime": 24059,
+          "endTime": 24340,
+          "content": " livre,"
+        },
+        {
+          "startTime": 24350,
+          "endTime": 24709,
+          "content": " Bernard,"
+        },
+        {
+          "startTime": 24719,
+          "endTime": 25229,
+          "content": " n'est"
+        },
+        {
+          "startTime": 25239,
+          "endTime": 25360,
+          "content": " autre"
+        },
+        {
+          "startTime": 25370,
+          "endTime": 25600,
+          "content": " donc"
+        },
+        {
+          "startTime": 25610,
+          "endTime": 25739,
+          "content": " que"
+        },
+        {
+          "startTime": 25750,
+          "endTime": 26100,
+          "content": " son"
+        },
+        {
+          "startTime": 26110,
+          "endTime": 26879,
+          "content": " arrière"
+        },
+        {
+          "startTime": 26889,
+          "endTime": 27399,
+          "content": " arrière"
+        },
+        {
+          "startTime": 27409,
+          "endTime": 27670,
+          "content": " petit"
+        },
+        {
+          "startTime": 27680,
+          "endTime": 27950,
+          "content": " fils."
+        },
+        {
+          "startTime": 28059,
+          "endTime": 28090,
+          "content": " Et"
+        },
+        {
+          "startTime": 28329,
+          "endTime": 28780,
+          "content": " oui,"
+        }
+      ]
+    },
+    {
+      "startTime": 28790,
+      "endTime": 74122,
+      "speaker": "Voix 3",
+      "items": [
+        {
+          "startTime": 28790,
+          "endTime": 29180,
+          "content": "Philippe"
+        },
+        {
+          "startTime": 29190,
+          "endTime": 29870,
+          "content": " Cupr"
+        },
+        {
+          "startTime": 30000,
+          "endTime": 30530,
+          "content": " Eiffel."
+        },
+        {
+          "startTime": 30540,
+          "endTime": 30870,
+          "content": " Il"
+        },
+        {
+          "startTime": 30879,
+          "endTime": 31280,
+          "content": " entretient"
+        },
+        {
+          "startTime": 31290,
+          "endTime": 31479,
+          "content": " avec"
+        },
+        {
+          "startTime": 31489,
+          "endTime": 31819,
+          "content": " passion"
+        },
+        {
+          "startTime": 31829,
+          "endTime": 31940,
+          "content": " la"
+        },
+        {
+          "startTime": 31950,
+          "endTime": 32259,
+          "content": " mémoire"
+        },
+        {
+          "startTime": 32270,
+          "endTime": 32310,
+          "content": " de"
+        },
+        {
+          "startTime": 32319,
+          "endTime": 32540,
+          "content": " son"
+        },
+        {
+          "startTime": 32549,
+          "endTime": 33119,
+          "content": " ancêtre"
+        },
+        {
+          "startTime": 33130,
+          "endTime": 33610,
+          "content": " grâce"
+        },
+        {
+          "startTime": 33619,
+          "endTime": 33630,
+          "content": " aux"
+        },
+        {
+          "startTime": 33639,
+          "endTime": 34229,
+          "content": " trésors"
+        },
+        {
+          "startTime": 34240,
+          "endTime": 34700,
+          "content": " d'archives"
+        },
+        {
+          "startTime": 34709,
+          "endTime": 35360,
+          "content": " familiales"
+        },
+        {
+          "startTime": 35409,
+          "endTime": 35599,
+          "content": " dont"
+        },
+        {
+          "startTime": 35610,
+          "endTime": 35630,
+          "content": " il"
+        },
+        {
+          "startTime": 35639,
+          "endTime": 35759,
+          "content": " est"
+        },
+        {
+          "startTime": 35770,
+          "endTime": 36060,
+          "content": " le"
+        },
+        {
+          "startTime": 36069,
+          "endTime": 36810,
+          "content": " détenteur"
+        },
+        {
+          "startTime": 36819,
+          "endTime": 37000,
+          "content": " et"
+        },
+        {
+          "startTime": 37009,
+          "endTime": 37450,
+          "content": " grâce"
+        },
+        {
+          "startTime": 37459,
+          "endTime": 37470,
+          "content": " au"
+        },
+        {
+          "startTime": 37479,
+          "endTime": 38150,
+          "content": " souvenir"
+        },
+        {
+          "startTime": 38159,
+          "endTime": 38270,
+          "content": " que"
+        },
+        {
+          "startTime": 38279,
+          "endTime": 38409,
+          "content": " lui"
+        },
+        {
+          "startTime": 38419,
+          "endTime": 38500,
+          "content": " a"
+        },
+        {
+          "startTime": 38509,
+          "endTime": 39090,
+          "content": " raconté"
+        },
+        {
+          "startTime": 39299,
+          "endTime": 40159,
+          "content": " Valentine,"
+        },
+        {
+          "startTime": 40169,
+          "endTime": 40500,
+          "content": " son"
+        },
+        {
+          "startTime": 40509,
+          "endTime": 40819,
+          "content": " arrière"
+        },
+        {
+          "startTime": 40830,
+          "endTime": 41040,
+          "content": " grand"
+        },
+        {
+          "startTime": 41049,
+          "endTime": 41400,
+          "content": " mère,"
+        },
+        {
+          "startTime": 41409,
+          "endTime": 41569,
+          "content": " la"
+        },
+        {
+          "startTime": 41580,
+          "endTime": 41860,
+          "content": " fille"
+        },
+        {
+          "startTime": 41869,
+          "endTime": 41990,
+          "content": " de"
+        },
+        {
+          "startTime": 42000,
+          "endTime": 42619,
+          "content": " Gustave."
+        },
+        {
+          "startTime": 42630,
+          "endTime": 42819,
+          "content": " Alors"
+        },
+        {
+          "startTime": 42830,
+          "endTime": 43060,
+          "content": " avec"
+        },
+        {
+          "startTime": 43069,
+          "endTime": 43340,
+          "content": " lui,"
+        },
+        {
+          "startTime": 43416,
+          "endTime": 43425,
+          "content": " au"
+        },
+        {
+          "startTime": 43436,
+          "endTime": 43965,
+          "content": " plongeon"
+        },
+        {
+          "startTime": 43976,
+          "endTime": 44116,
+          "content": " dans"
+        },
+        {
+          "startTime": 44125,
+          "endTime": 44695,
+          "content": " l'intimité"
+        },
+        {
+          "startTime": 44706,
+          "endTime": 44805,
+          "content": " de"
+        },
+        {
+          "startTime": 44816,
+          "endTime": 45366,
+          "content": " l'ingénieur"
+        },
+        {
+          "startTime": 45375,
+          "endTime": 45456,
+          "content": " de"
+        },
+        {
+          "startTime": 45465,
+          "endTime": 46026,
+          "content": " génie"
+        },
+        {
+          "startTime": 46035,
+          "endTime": 46226,
+          "content": " et"
+        },
+        {
+          "startTime": 46236,
+          "endTime": 46346,
+          "content": " dans"
+        },
+        {
+          "startTime": 46355,
+          "endTime": 46526,
+          "content": " la"
+        },
+        {
+          "startTime": 46535,
+          "endTime": 46965,
+          "content": " genèse"
+        },
+        {
+          "startTime": 46976,
+          "endTime": 47076,
+          "content": " de"
+        },
+        {
+          "startTime": 47085,
+          "endTime": 47285,
+          "content": " ses"
+        },
+        {
+          "startTime": 47296,
+          "endTime": 47526,
+          "content": " grands"
+        },
+        {
+          "startTime": 47535,
+          "endTime": 48035,
+          "content": " chantiers."
+        },
+        {
+          "startTime": 48105,
+          "endTime": 48465,
+          "content": " À"
+        },
+        {
+          "startTime": 48476,
+          "endTime": 49035,
+          "content": " commencer,"
+        },
+        {
+          "startTime": 49046,
+          "endTime": 49206,
+          "content": " bien"
+        },
+        {
+          "startTime": 49215,
+          "endTime": 49425,
+          "content": " sûr,"
+        },
+        {
+          "startTime": 49436,
+          "endTime": 49625,
+          "content": " par"
+        },
+        {
+          "startTime": 49636,
+          "endTime": 49736,
+          "content": " son"
+        },
+        {
+          "startTime": 49745,
+          "endTime": 49986,
+          "content": " chef"
+        },
+        {
+          "startTime": 49995,
+          "endTime": 50445,
+          "content": " d'oeuvre"
+        },
+        {
+          "startTime": 50456,
+          "endTime": 50726,
+          "content": " pour"
+        },
+        {
+          "startTime": 50736,
+          "endTime": 51265,
+          "content": " l'Exposition"
+        },
+        {
+          "startTime": 51276,
+          "endTime": 51826,
+          "content": " universelle"
+        },
+        {
+          "startTime": 51835,
+          "endTime": 51905,
+          "content": " de"
+        },
+        {
+          "startTime": 51916,
+          "endTime": 52105,
+          "content": " mille"
+        },
+        {
+          "startTime": 52116,
+          "endTime": 52226,
+          "content": " huit"
+        },
+        {
+          "startTime": 52236,
+          "endTime": 52366,
+          "content": " cent"
+        },
+        {
+          "startTime": 52375,
+          "endTime": 52585,
+          "content": " quatre"
+        },
+        {
+          "startTime": 52596,
+          "endTime": 52706,
+          "content": " vingt"
+        },
+        {
+          "startTime": 52715,
+          "endTime": 53006,
+          "content": " neuf"
+        },
+        {
+          "startTime": 53015,
+          "endTime": 53186,
+          "content": " à"
+        },
+        {
+          "startTime": 53195,
+          "endTime": 53726,
+          "content": " Paris"
+        },
+        {
+          "startTime": 53736,
+          "endTime": 53965,
+          "content": " et"
+        },
+        {
+          "startTime": 53976,
+          "endTime": 54236,
+          "content": " lancer"
+        },
+        {
+          "startTime": 54245,
+          "endTime": 54355,
+          "content": " le"
+        },
+        {
+          "startTime": 54366,
+          "endTime": 54826,
+          "content": " projet"
+        },
+        {
+          "startTime": 54835,
+          "endTime": 55046,
+          "content": " d'une"
+        },
+        {
+          "startTime": 55055,
+          "endTime": 55395,
+          "content": " tour"
+        },
+        {
+          "startTime": 55405,
+          "endTime": 55515,
+          "content": " de"
+        },
+        {
+          "startTime": 55526,
+          "endTime": 55886,
+          "content": " mille"
+        },
+        {
+          "startTime": 55895,
+          "endTime": 56236,
+          "content": " pieds,"
+        },
+        {
+          "startTime": 56245,
+          "endTime": 56666,
+          "content": " soit"
+        },
+        {
+          "startTime": 56675,
+          "endTime": 56945,
+          "content": " trois"
+        },
+        {
+          "startTime": 56956,
+          "endTime": 57166,
+          "content": " cents"
+        },
+        {
+          "startTime": 57175,
+          "endTime": 57555,
+          "content": " mètres"
+        },
+        {
+          "startTime": 57566,
+          "endTime": 57805,
+          "content": " la"
+        },
+        {
+          "startTime": 57816,
+          "endTime": 58105,
+          "content": " plus"
+        },
+        {
+          "startTime": 58116,
+          "endTime": 58305,
+          "content": " haute"
+        },
+        {
+          "startTime": 58316,
+          "endTime": 58445,
+          "content": " du"
+        },
+        {
+          "startTime": 58456,
+          "endTime": 58726,
+          "content": " monde."
+        },
+        {
+          "startTime": 58736,
+          "endTime": 58805,
+          "content": " À"
+        },
+        {
+          "startTime": 58816,
+          "endTime": 59355,
+          "content": " l'époque"
+        },
+        {
+          "startTime": 59366,
+          "endTime": 59675,
+          "content": " Alors,"
+        },
+        {
+          "startTime": 59686,
+          "endTime": 60035,
+          "content": " puisque"
+        },
+        {
+          "startTime": 60046,
+          "endTime": 60085,
+          "content": " Eiffel"
+        },
+        {
+          "startTime": 60096,
+          "endTime": 60645,
+          "content": " était"
+        },
+        {
+          "startTime": 60655,
+          "endTime": 60945,
+          "content": " déjà"
+        },
+        {
+          "startTime": 60956,
+          "endTime": 61026,
+          "content": " le"
+        },
+        {
+          "startTime": 61035,
+          "endTime": 61776,
+          "content": " spécialiste"
+        },
+        {
+          "startTime": 61785,
+          "endTime": 62006,
+          "content": " des"
+        },
+        {
+          "startTime": 62015,
+          "endTime": 62526,
+          "content": " viaducs"
+        },
+        {
+          "startTime": 62535,
+          "endTime": 63155,
+          "content": " métalliques,"
+        },
+        {
+          "startTime": 63166,
+          "endTime": 63445,
+          "content": " ses"
+        },
+        {
+          "startTime": 63456,
+          "endTime": 64106,
+          "content": " collaborateurs"
+        },
+        {
+          "startTime": 64115,
+          "endTime": 64246,
+          "content": " lui"
+        },
+        {
+          "startTime": 64255,
+          "endTime": 64585,
+          "content": " proposent"
+        },
+        {
+          "startTime": 64596,
+          "endTime": 64695,
+          "content": " de"
+        },
+        {
+          "startTime": 64706,
+          "endTime": 65225,
+          "content": " reprendre"
+        },
+        {
+          "startTime": 65236,
+          "endTime": 65555,
+          "content": " les"
+        },
+        {
+          "startTime": 65566,
+          "endTime": 65646,
+          "content": " mêmes"
+        },
+        {
+          "startTime": 65655,
+          "endTime": 66265,
+          "content": " techniques"
+        },
+        {
+          "startTime": 66276,
+          "endTime": 66606,
+          "content": " pour"
+        },
+        {
+          "startTime": 66615,
+          "endTime": 67426,
+          "content": " concevoir"
+        },
+        {
+          "startTime": 67435,
+          "endTime": 67825,
+          "content": " une"
+        },
+        {
+          "startTime": 67835,
+          "endTime": 68346,
+          "content": " immense"
+        },
+        {
+          "startTime": 68356,
+          "endTime": 68765,
+          "content": " pile"
+        },
+        {
+          "startTime": 68776,
+          "endTime": 68916,
+          "content": " de"
+        },
+        {
+          "startTime": 68926,
+          "endTime": 69316,
+          "content": " ponts."
+        },
+        {
+          "startTime": 69475,
+          "endTime": 70206,
+          "content": " Gustave,"
+        },
+        {
+          "startTime": 70216,
+          "endTime": 70825,
+          "content": " heureusement,"
+        },
+        {
+          "startTime": 70835,
+          "endTime": 70986,
+          "content": " va"
+        },
+        {
+          "startTime": 70996,
+          "endTime": 71096,
+          "content": " se"
+        },
+        {
+          "startTime": 71106,
+          "endTime": 71435,
+          "content": " montrer"
+        },
+        {
+          "startTime": 71445,
+          "endTime": 71706,
+          "content": " plus"
+        },
+        {
+          "startTime": 72421,
+          "endTime": 73171,
+          "content": " Philippe"
+        },
+        {
+          "startTime": 73181,
+          "endTime": 73681,
+          "content": " C."
+        },
+        {
+          "startTime": 73692,
+          "endTime": 73821,
+          "content": " Eiffel."
+        },
+        {
+          "startTime": 73851,
+          "endTime": 74122,
+          "content": " Il"
+        }
+      ]
+    },
+    {
+      "startTime": 74132,
+      "endTime": 97861,
+      "speaker": "Voix 4",
+      "items": [
+        {
+          "startTime": 74132,
+          "endTime": 74311,
+          "content": "dit"
+        },
+        {
+          "startTime": 74321,
+          "endTime": 74582,
+          "content": " Écoutez,"
+        },
+        {
+          "startTime": 74592,
+          "endTime": 75452,
+          "content": " essayez"
+        },
+        {
+          "startTime": 75461,
+          "endTime": 76152,
+          "content": " d'aménager"
+        },
+        {
+          "startTime": 76162,
+          "endTime": 76321,
+          "content": " un"
+        },
+        {
+          "startTime": 76332,
+          "endTime": 76751,
+          "content": " peu,"
+        },
+        {
+          "startTime": 76762,
+          "endTime": 77101,
+          "content": " donner"
+        },
+        {
+          "startTime": 77111,
+          "endTime": 77192,
+          "content": " une"
+        },
+        {
+          "startTime": 77202,
+          "endTime": 77512,
+          "content": " meilleure"
+        },
+        {
+          "startTime": 77522,
+          "endTime": 78012,
+          "content": " allure."
+        },
+        {
+          "startTime": 78022,
+          "endTime": 78171,
+          "content": " Et"
+        },
+        {
+          "startTime": 78181,
+          "endTime": 78372,
+          "content": " là,"
+        },
+        {
+          "startTime": 78382,
+          "endTime": 78531,
+          "content": " c'est"
+        },
+        {
+          "startTime": 78541,
+          "endTime": 78732,
+          "content": " là"
+        },
+        {
+          "startTime": 78741,
+          "endTime": 79372,
+          "content": " qu'intervient"
+        },
+        {
+          "startTime": 79382,
+          "endTime": 80012,
+          "content": " l'architecte"
+        },
+        {
+          "startTime": 80022,
+          "endTime": 80452,
+          "content": " maison"
+        },
+        {
+          "startTime": 80461,
+          "endTime": 80541,
+          "content": " qui"
+        },
+        {
+          "startTime": 80552,
+          "endTime": 80872,
+          "content": " était"
+        },
+        {
+          "startTime": 80882,
+          "endTime": 81652,
+          "content": " sare"
+        },
+        {
+          "startTime": 81662,
+          "endTime": 82402,
+          "content": " pour"
+        },
+        {
+          "startTime": 82412,
+          "endTime": 82632,
+          "content": " faire"
+        },
+        {
+          "startTime": 82641,
+          "endTime": 82671,
+          "content": " un"
+        },
+        {
+          "startTime": 82681,
+          "endTime": 83012,
+          "content": " dessin"
+        },
+        {
+          "startTime": 83022,
+          "endTime": 83052,
+          "content": " un"
+        },
+        {
+          "startTime": 83061,
+          "endTime": 83152,
+          "content": " peu"
+        },
+        {
+          "startTime": 83162,
+          "endTime": 83321,
+          "content": " plus"
+        },
+        {
+          "startTime": 83332,
+          "endTime": 83811,
+          "content": " abouti."
+        },
+        {
+          "startTime": 83821,
+          "endTime": 83991,
+          "content": " Là,"
+        },
+        {
+          "startTime": 84001,
+          "endTime": 84082,
+          "content": " vous,"
+        },
+        {
+          "startTime": 84122,
+          "endTime": 84162,
+          "content": " Eiffel,"
+        },
+        {
+          "startTime": 84171,
+          "endTime": 85302,
+          "content": " effectivement,"
+        },
+        {
+          "startTime": 85311,
+          "endTime": 85531,
+          "content": " il"
+        },
+        {
+          "startTime": 85541,
+          "endTime": 85601,
+          "content": " en"
+        },
+        {
+          "startTime": 85611,
+          "endTime": 85811,
+          "content": " parle"
+        },
+        {
+          "startTime": 85821,
+          "endTime": 86082,
+          "content": " d'ailleurs"
+        },
+        {
+          "startTime": 86092,
+          "endTime": 86302,
+          "content": " avec"
+        },
+        {
+          "startTime": 86311,
+          "endTime": 86482,
+          "content": " ses"
+        },
+        {
+          "startTime": 86491,
+          "endTime": 86982,
+          "content": " enfants."
+        },
+        {
+          "startTime": 86991,
+          "endTime": 87311,
+          "content": " Il"
+        },
+        {
+          "startTime": 87321,
+          "endTime": 87702,
+          "content": " voit"
+        },
+        {
+          "startTime": 87711,
+          "endTime": 88171,
+          "content": " que"
+        },
+        {
+          "startTime": 88732,
+          "endTime": 89351,
+          "content": " cette"
+        },
+        {
+          "startTime": 89361,
+          "endTime": 89891,
+          "content": " Tour"
+        },
+        {
+          "startTime": 89902,
+          "endTime": 90751,
+          "content": " avait"
+        },
+        {
+          "startTime": 90791,
+          "endTime": 91391,
+          "content": " beaucoup"
+        },
+        {
+          "startTime": 91402,
+          "endTime": 91501,
+          "content": " de"
+        },
+        {
+          "startTime": 91512,
+          "endTime": 92061,
+          "content": " beauté,"
+        },
+        {
+          "startTime": 92141,
+          "endTime": 92681,
+          "content": " avait"
+        },
+        {
+          "startTime": 92692,
+          "endTime": 93061,
+          "content": " beaucoup"
+        },
+        {
+          "startTime": 93071,
+          "endTime": 93851,
+          "content": " d'allure,"
+        },
+        {
+          "startTime": 94311,
+          "endTime": 95141,
+          "content": " permettait"
+        },
+        {
+          "startTime": 95192,
+          "endTime": 95491,
+          "content": " de"
+        },
+        {
+          "startTime": 95652,
+          "endTime": 96071,
+          "content": " donner"
+        },
+        {
+          "startTime": 96082,
+          "endTime": 96291,
+          "content": " toutes"
+        },
+        {
+          "startTime": 96302,
+          "endTime": 96452,
+          "content": " ses"
+        },
+        {
+          "startTime": 96461,
+          "endTime": 96641,
+          "content": " lettres"
+        },
+        {
+          "startTime": 96652,
+          "endTime": 96711,
+          "content": " de"
+        },
+        {
+          "startTime": 96722,
+          "endTime": 97241,
+          "content": " noblesse"
+        },
+        {
+          "startTime": 97251,
+          "endTime": 97262,
+          "content": " au"
+        },
+        {
+          "startTime": 97272,
+          "endTime": 97861,
+          "content": " fer."
+        }
+      ]
+    },
+    {
+      "startTime": 98052,
+      "endTime": 101597,
+      "speaker": "Voix 5",
+      "items": [
+        {
+          "startTime": 98052,
+          "endTime": 98372,
+          "content": "Pourtant,"
+        },
+        {
+          "startTime": 98382,
+          "endTime": 98491,
+          "content": " la"
+        },
+        {
+          "startTime": 98501,
+          "endTime": 98692,
+          "content": " Tour"
+        },
+        {
+          "startTime": 98702,
+          "endTime": 98891,
+          "content": " Eiffel"
+        },
+        {
+          "startTime": 98902,
+          "endTime": 98961,
+          "content": " a"
+        },
+        {
+          "startTime": 98972,
+          "endTime": 99082,
+          "content": " ses"
+        },
+        {
+          "startTime": 99092,
+          "endTime": 99601,
+          "content": " détracteurs"
+        },
+        {
+          "startTime": 99611,
+          "endTime": 99622,
+          "content": " au"
+        },
+        {
+          "startTime": 99632,
+          "endTime": 99821,
+          "content": " moment"
+        },
+        {
+          "startTime": 99832,
+          "endTime": 99851,
+          "content": " de"
+        },
+        {
+          "startTime": 99861,
+          "endTime": 99991,
+          "content": " sa"
+        },
+        {
+          "startTime": 100001,
+          "endTime": 100452,
+          "content": " construction."
+        },
+        {
+          "startTime": 101517,
+          "endTime": 101597,
+          "content": " Que"
+        }
+      ]
+    },
+    {
+      "startTime": 101608,
+      "endTime": 138313,
+      "speaker": "Voix 3",
+      "items": [
+        {
+          "startTime": 101608,
+          "endTime": 101947,
+          "content": "oui,"
+        },
+        {
+          "startTime": 101958,
+          "endTime": 102148,
+          "content": " une"
+        },
+        {
+          "startTime": 102157,
+          "endTime": 102708,
+          "content": " pétition"
+        },
+        {
+          "startTime": 102718,
+          "endTime": 102748,
+          "content": " est"
+        },
+        {
+          "startTime": 102758,
+          "endTime": 102998,
+          "content": " même"
+        },
+        {
+          "startTime": 103008,
+          "endTime": 103367,
+          "content": " lancée"
+        },
+        {
+          "startTime": 103377,
+          "endTime": 103617,
+          "content": " par"
+        },
+        {
+          "startTime": 103627,
+          "endTime": 103688,
+          "content": " de"
+        },
+        {
+          "startTime": 103697,
+          "endTime": 103938,
+          "content": " grands"
+        },
+        {
+          "startTime": 103947,
+          "endTime": 104458,
+          "content": " artistes"
+        },
+        {
+          "startTime": 104468,
+          "endTime": 104527,
+          "content": " de"
+        },
+        {
+          "startTime": 104538,
+          "endTime": 105117,
+          "content": " l'époque."
+        },
+        {
+          "startTime": 105138,
+          "endTime": 105517,
+          "content": " Les"
+        },
+        {
+          "startTime": 105527,
+          "endTime": 106157,
+          "content": " écrivains"
+        },
+        {
+          "startTime": 106167,
+          "endTime": 106697,
+          "content": " Alexandre"
+        },
+        {
+          "startTime": 106708,
+          "endTime": 107097,
+          "content": " Dumas,"
+        },
+        {
+          "startTime": 107108,
+          "endTime": 107237,
+          "content": " Guy"
+        },
+        {
+          "startTime": 107248,
+          "endTime": 107328,
+          "content": " de"
+        },
+        {
+          "startTime": 107337,
+          "endTime": 108038,
+          "content": " Maupassant,"
+        },
+        {
+          "startTime": 108047,
+          "endTime": 108237,
+          "content": " le"
+        },
+        {
+          "startTime": 108248,
+          "endTime": 108947,
+          "content": " compositeur"
+        },
+        {
+          "startTime": 108958,
+          "endTime": 109277,
+          "content": " Charles"
+        },
+        {
+          "startTime": 109288,
+          "endTime": 109788,
+          "content": " Gounod"
+        },
+        {
+          "startTime": 109797,
+          "endTime": 110047,
+          "content": " ou"
+        },
+        {
+          "startTime": 110057,
+          "endTime": 110678,
+          "content": " l'architecte"
+        },
+        {
+          "startTime": 110688,
+          "endTime": 110788,
+          "content": " de"
+        },
+        {
+          "startTime": 110797,
+          "endTime": 111197,
+          "content": " l'Opéra"
+        },
+        {
+          "startTime": 111208,
+          "endTime": 111277,
+          "content": " de"
+        },
+        {
+          "startTime": 111288,
+          "endTime": 111678,
+          "content": " Paris"
+        },
+        {
+          "startTime": 111688,
+          "endTime": 112047,
+          "content": " Charles"
+        },
+        {
+          "startTime": 112057,
+          "endTime": 112568,
+          "content": " Garnier."
+        },
+        {
+          "startTime": 112678,
+          "endTime": 112987,
+          "content": " En"
+        },
+        {
+          "startTime": 112998,
+          "endTime": 113438,
+          "content": " vain."
+        },
+        {
+          "startTime": 113447,
+          "endTime": 113697,
+          "content": " La"
+        },
+        {
+          "startTime": 113708,
+          "endTime": 114188,
+          "content": " tour"
+        },
+        {
+          "startTime": 114197,
+          "endTime": 114227,
+          "content": " est"
+        },
+        {
+          "startTime": 114237,
+          "endTime": 114837,
+          "content": " construite"
+        },
+        {
+          "startTime": 114847,
+          "endTime": 114998,
+          "content": " et"
+        },
+        {
+          "startTime": 115008,
+          "endTime": 115318,
+          "content": " devient"
+        },
+        {
+          "startTime": 115328,
+          "endTime": 115617,
+          "content": " la"
+        },
+        {
+          "startTime": 115627,
+          "endTime": 115917,
+          "content": " grande"
+        },
+        {
+          "startTime": 115928,
+          "endTime": 116498,
+          "content": " attraction"
+        },
+        {
+          "startTime": 116508,
+          "endTime": 116568,
+          "content": " de"
+        },
+        {
+          "startTime": 116578,
+          "endTime": 117208,
+          "content": " l'Exposition"
+        },
+        {
+          "startTime": 117218,
+          "endTime": 117958,
+          "content": " universelle."
+        },
+        {
+          "startTime": 118068,
+          "endTime": 118458,
+          "content": " Deux"
+        },
+        {
+          "startTime": 118468,
+          "endTime": 118898,
+          "content": " millions"
+        },
+        {
+          "startTime": 118907,
+          "endTime": 118987,
+          "content": " de"
+        },
+        {
+          "startTime": 118998,
+          "endTime": 119557,
+          "content": " visiteurs"
+        },
+        {
+          "startTime": 119568,
+          "endTime": 119777,
+          "content": " s'y"
+        },
+        {
+          "startTime": 119788,
+          "endTime": 120538,
+          "content": " précipitent."
+        },
+        {
+          "startTime": 120568,
+          "endTime": 120788,
+          "content": " Alors"
+        },
+        {
+          "startTime": 120797,
+          "endTime": 120917,
+          "content": " si"
+        },
+        {
+          "startTime": 120928,
+          "endTime": 121017,
+          "content": " le"
+        },
+        {
+          "startTime": 121027,
+          "endTime": 121208,
+          "content": " nom"
+        },
+        {
+          "startTime": 121218,
+          "endTime": 121277,
+          "content": " de"
+        },
+        {
+          "startTime": 121288,
+          "endTime": 121727,
+          "content": " Gustave"
+        },
+        {
+          "startTime": 121737,
+          "endTime": 122078,
+          "content": " Eiffel"
+        },
+        {
+          "startTime": 122087,
+          "endTime": 122337,
+          "content": " reste"
+        },
+        {
+          "startTime": 122347,
+          "endTime": 122727,
+          "content": " lié"
+        },
+        {
+          "startTime": 122748,
+          "endTime": 122998,
+          "content": " à"
+        },
+        {
+          "startTime": 123008,
+          "endTime": 123167,
+          "content": " la"
+        },
+        {
+          "startTime": 123178,
+          "endTime": 123667,
+          "content": " Tour"
+        },
+        {
+          "startTime": 123678,
+          "endTime": 123828,
+          "content": " et"
+        },
+        {
+          "startTime": 123837,
+          "endTime": 123917,
+          "content": " à"
+        },
+        {
+          "startTime": 123928,
+          "endTime": 124178,
+          "content": " son"
+        },
+        {
+          "startTime": 124188,
+          "endTime": 124608,
+          "content": " génie"
+        },
+        {
+          "startTime": 124617,
+          "endTime": 124667,
+          "content": " de"
+        },
+        {
+          "startTime": 124678,
+          "endTime": 124797,
+          "content": " la"
+        },
+        {
+          "startTime": 124807,
+          "endTime": 125377,
+          "content": " construction"
+        },
+        {
+          "startTime": 125388,
+          "endTime": 125828,
+          "content": " métallique"
+        },
+        {
+          "startTime": 125837,
+          "endTime": 125898,
+          "content": " à"
+        },
+        {
+          "startTime": 125907,
+          "endTime": 126197,
+          "content": " travers"
+        },
+        {
+          "startTime": 126208,
+          "endTime": 126288,
+          "content": " le"
+        },
+        {
+          "startTime": 126297,
+          "endTime": 126557,
+          "content": " monde,"
+        },
+        {
+          "startTime": 126568,
+          "endTime": 127157,
+          "content": " on"
+        },
+        {
+          "startTime": 127167,
+          "endTime": 127458,
+          "content": " connaît"
+        },
+        {
+          "startTime": 127468,
+          "endTime": 127938,
+          "content": " moins"
+        },
+        {
+          "startTime": 127947,
+          "endTime": 128177,
+          "content": " le"
+        },
+        {
+          "startTime": 128188,
+          "endTime": 128927,
+          "content": " scientifique"
+        },
+        {
+          "startTime": 128938,
+          "endTime": 129218,
+          "content": " et"
+        },
+        {
+          "startTime": 129294,
+          "endTime": 130184,
+          "content": " l'inventeur"
+        },
+        {
+          "startTime": 130223,
+          "endTime": 130794,
+          "content": " pionnier"
+        },
+        {
+          "startTime": 130804,
+          "endTime": 130893,
+          "content": " de"
+        },
+        {
+          "startTime": 130904,
+          "endTime": 131783,
+          "content": " l'aviation."
+        },
+        {
+          "startTime": 131794,
+          "endTime": 132024,
+          "content": " Et"
+        },
+        {
+          "startTime": 132033,
+          "endTime": 132593,
+          "content": " ça,"
+        },
+        {
+          "startTime": 132714,
+          "endTime": 132923,
+          "content": " ça"
+        },
+        {
+          "startTime": 132934,
+          "endTime": 133093,
+          "content": " va"
+        },
+        {
+          "startTime": 133104,
+          "endTime": 133794,
+          "content": " particulièrement"
+        },
+        {
+          "startTime": 133804,
+          "endTime": 133934,
+          "content": " vous"
+        },
+        {
+          "startTime": 133944,
+          "endTime": 134444,
+          "content": " intéresser."
+        },
+        {
+          "startTime": 134453,
+          "endTime": 135244,
+          "content": " Marina,"
+        },
+        {
+          "startTime": 135324,
+          "endTime": 135833,
+          "content": " père"
+        },
+        {
+          "startTime": 135843,
+          "endTime": 135944,
+          "content": " de"
+        },
+        {
+          "startTime": 135953,
+          "endTime": 136164,
+          "content": " la"
+        },
+        {
+          "startTime": 136173,
+          "endTime": 137003,
+          "content": " météorologie"
+        },
+        {
+          "startTime": 137014,
+          "endTime": 137503,
+          "content": " moderne"
+        },
+        {
+          "startTime": 137514,
+          "endTime": 137733,
+          "content": " Le"
+        },
+        {
+          "startTime": 137744,
+          "endTime": 138024,
+          "content": " vent"
+        },
+        {
+          "startTime": 138033,
+          "endTime": 138063,
+          "content": " a"
+        },
+        {
+          "startTime": 138074,
+          "endTime": 138313,
+          "content": " été"
+        }
+      ]
+    },
+    {
+      "startTime": 138324,
+      "endTime": 139173,
+      "speaker": "Voix 4",
+      "items": [
+        {
+          "startTime": 138324,
+          "endTime": 138464,
+          "content": "son"
+        },
+        {
+          "startTime": 138473,
+          "endTime": 138904,
+          "content": " ennemi"
+        },
+        {
+          "startTime": 138914,
+          "endTime": 139173,
+          "content": " depuis"
+        }
+      ]
+    },
+    {
+      "startTime": 139184,
+      "endTime": 140393,
+      "speaker": "Voix 3",
+      "items": [
+        {
+          "startTime": 139184,
+          "endTime": 139654,
+          "content": "toujours"
+        },
+        {
+          "startTime": 139664,
+          "endTime": 139873,
+          "content": " sur"
+        },
+        {
+          "startTime": 139884,
+          "endTime": 140044,
+          "content": " ces"
+        },
+        {
+          "startTime": 140054,
+          "endTime": 140393,
+          "content": " chantiers"
+        }
+      ]
+    },
+    {
+      "startTime": 140404,
+      "endTime": 171899,
+      "speaker": "Voix 4",
+      "items": [
+        {
+          "startTime": 140404,
+          "endTime": 140524,
+          "content": "et"
+        },
+        {
+          "startTime": 141123,
+          "endTime": 141393,
+          "content": " tout"
+        },
+        {
+          "startTime": 141404,
+          "endTime": 142104,
+          "content": " naturellement,"
+        },
+        {
+          "startTime": 142113,
+          "endTime": 142343,
+          "content": " il"
+        },
+        {
+          "startTime": 142354,
+          "endTime": 142604,
+          "content": " s'est"
+        },
+        {
+          "startTime": 142613,
+          "endTime": 143194,
+          "content": " intéressé"
+        },
+        {
+          "startTime": 143203,
+          "endTime": 143283,
+          "content": " à"
+        },
+        {
+          "startTime": 143294,
+          "endTime": 143393,
+          "content": " la"
+        },
+        {
+          "startTime": 143404,
+          "endTime": 143833,
+          "content": " météo."
+        },
+        {
+          "startTime": 143873,
+          "endTime": 144063,
+          "content": " La"
+        },
+        {
+          "startTime": 144074,
+          "endTime": 144423,
+          "content": " première"
+        },
+        {
+          "startTime": 144434,
+          "endTime": 144833,
+          "content": " loi"
+        },
+        {
+          "startTime": 144843,
+          "endTime": 144964,
+          "content": " de"
+        },
+        {
+          "startTime": 144973,
+          "endTime": 145563,
+          "content": " résistance"
+        },
+        {
+          "startTime": 145574,
+          "endTime": 145634,
+          "content": " de"
+        },
+        {
+          "startTime": 145643,
+          "endTime": 146063,
+          "content": " l'air,"
+        },
+        {
+          "startTime": 146074,
+          "endTime": 146253,
+          "content": " c'est"
+        },
+        {
+          "startTime": 146264,
+          "endTime": 146643,
+          "content": " Gustave"
+        },
+        {
+          "startTime": 146654,
+          "endTime": 147063,
+          "content": " Eiffel"
+        },
+        {
+          "startTime": 147074,
+          "endTime": 147253,
+          "content": " qui"
+        },
+        {
+          "startTime": 147264,
+          "endTime": 147544,
+          "content": " la"
+        },
+        {
+          "startTime": 147554,
+          "endTime": 147744,
+          "content": " met"
+        },
+        {
+          "startTime": 147753,
+          "endTime": 147764,
+          "content": " au"
+        },
+        {
+          "startTime": 147774,
+          "endTime": 148143,
+          "content": " point"
+        },
+        {
+          "startTime": 148154,
+          "endTime": 148764,
+          "content": " avec"
+        },
+        {
+          "startTime": 148774,
+          "endTime": 149173,
+          "content": " un"
+        },
+        {
+          "startTime": 149184,
+          "endTime": 149554,
+          "content": " appareil"
+        },
+        {
+          "startTime": 149563,
+          "endTime": 149613,
+          "content": " de"
+        },
+        {
+          "startTime": 149623,
+          "endTime": 150024,
+          "content": " chute"
+        },
+        {
+          "startTime": 150033,
+          "endTime": 150164,
+          "content": " qui"
+        },
+        {
+          "startTime": 150173,
+          "endTime": 150574,
+          "content": " descend"
+        },
+        {
+          "startTime": 150583,
+          "endTime": 150944,
+          "content": " du"
+        },
+        {
+          "startTime": 150953,
+          "endTime": 151203,
+          "content": " deuxième"
+        },
+        {
+          "startTime": 151214,
+          "endTime": 151554,
+          "content": " étage"
+        },
+        {
+          "startTime": 151563,
+          "endTime": 151593,
+          "content": " de"
+        },
+        {
+          "startTime": 151604,
+          "endTime": 151723,
+          "content": " la"
+        },
+        {
+          "startTime": 151733,
+          "endTime": 151944,
+          "content": " tour"
+        },
+        {
+          "startTime": 151953,
+          "endTime": 152404,
+          "content": " Eiffel"
+        },
+        {
+          "startTime": 152524,
+          "endTime": 152533,
+          "content": " au"
+        },
+        {
+          "startTime": 152623,
+          "endTime": 153063,
+          "content": " sommet"
+        },
+        {
+          "startTime": 153074,
+          "endTime": 153104,
+          "content": " de"
+        },
+        {
+          "startTime": 153113,
+          "endTime": 153203,
+          "content": " la"
+        },
+        {
+          "startTime": 153214,
+          "endTime": 153453,
+          "content": " tour"
+        },
+        {
+          "startTime": 153464,
+          "endTime": 153604,
+          "content": " Eiffel."
+        },
+        {
+          "startTime": 153613,
+          "endTime": 153843,
+          "content": " Il"
+        },
+        {
+          "startTime": 153854,
+          "endTime": 154313,
+          "content": " installe"
+        },
+        {
+          "startTime": 154324,
+          "endTime": 154824,
+          "content": " une"
+        },
+        {
+          "startTime": 154833,
+          "endTime": 155143,
+          "content": " petite"
+        },
+        {
+          "startTime": 155154,
+          "endTime": 155813,
+          "content": " chambre"
+        },
+        {
+          "startTime": 155824,
+          "endTime": 156024,
+          "content": " dans"
+        },
+        {
+          "startTime": 156033,
+          "endTime": 156873,
+          "content": " laquelle"
+        },
+        {
+          "startTime": 156953,
+          "endTime": 157184,
+          "content": " il"
+        },
+        {
+          "startTime": 157194,
+          "endTime": 157623,
+          "content": " fait"
+        },
+        {
+          "startTime": 157634,
+          "endTime": 157764,
+          "content": " des"
+        },
+        {
+          "startTime": 157774,
+          "endTime": 157813,
+          "content": " études"
+        },
+        {
+          "startTime": 157824,
+          "endTime": 157843,
+          "content": " de"
+        },
+        {
+          "startTime": 157919,
+          "endTime": 158179,
+          "content": " météo."
+        },
+        {
+          "startTime": 158279,
+          "endTime": 158570,
+          "content": " Il"
+        },
+        {
+          "startTime": 158580,
+          "endTime": 159119,
+          "content": " invente"
+        },
+        {
+          "startTime": 159130,
+          "endTime": 159479,
+          "content": " un"
+        },
+        {
+          "startTime": 159490,
+          "endTime": 160160,
+          "content": " héliographie"
+        },
+        {
+          "startTime": 160169,
+          "endTime": 160330,
+          "content": " pour"
+        },
+        {
+          "startTime": 160339,
+          "endTime": 161059,
+          "content": " mesurer"
+        },
+        {
+          "startTime": 161070,
+          "endTime": 161309,
+          "content": " le"
+        },
+        {
+          "startTime": 161320,
+          "endTime": 162190,
+          "content": " soleil"
+        },
+        {
+          "startTime": 162300,
+          "endTime": 162740,
+          "content": " des"
+        },
+        {
+          "startTime": 162750,
+          "endTime": 163649,
+          "content": " baromètres."
+        },
+        {
+          "startTime": 163660,
+          "endTime": 164050,
+          "content": " Il"
+        },
+        {
+          "startTime": 164059,
+          "endTime": 164610,
+          "content": " étudie"
+        },
+        {
+          "startTime": 164619,
+          "endTime": 164789,
+          "content": " la"
+        },
+        {
+          "startTime": 164800,
+          "endTime": 165630,
+          "content": " pluviométrie,"
+        },
+        {
+          "startTime": 165750,
+          "endTime": 166100,
+          "content": " la"
+        },
+        {
+          "startTime": 166110,
+          "endTime": 166479,
+          "content": " vitesse"
+        },
+        {
+          "startTime": 166490,
+          "endTime": 166630,
+          "content": " du"
+        },
+        {
+          "startTime": 166639,
+          "endTime": 167009,
+          "content": " vent,"
+        },
+        {
+          "startTime": 167020,
+          "endTime": 167039,
+          "content": " la"
+        },
+        {
+          "startTime": 167050,
+          "endTime": 167740,
+          "content": " température,"
+        },
+        {
+          "startTime": 167770,
+          "endTime": 167800,
+          "content": " etc."
+        },
+        {
+          "startTime": 168139,
+          "endTime": 168410,
+          "content": " Il"
+        },
+        {
+          "startTime": 168419,
+          "endTime": 168470,
+          "content": " a"
+        },
+        {
+          "startTime": 168479,
+          "endTime": 168889,
+          "content": " toujours"
+        },
+        {
+          "startTime": 168899,
+          "endTime": 169470,
+          "content": " pensé"
+        },
+        {
+          "startTime": 169479,
+          "endTime": 169770,
+          "content": " que"
+        },
+        {
+          "startTime": 169779,
+          "endTime": 170009,
+          "content": " la"
+        },
+        {
+          "startTime": 170020,
+          "endTime": 170440,
+          "content": " météo"
+        },
+        {
+          "startTime": 170449,
+          "endTime": 170929,
+          "content": " était"
+        },
+        {
+          "startTime": 170940,
+          "endTime": 171089,
+          "content": " une"
+        },
+        {
+          "startTime": 171100,
+          "endTime": 171529,
+          "content": " science"
+        },
+        {
+          "startTime": 171539,
+          "endTime": 171649,
+          "content": " qui"
+        },
+        {
+          "startTime": 171660,
+          "endTime": 171899,
+          "content": " devait"
+        }
+      ]
+    },
+    {
+      "startTime": 171910,
+      "endTime": 184970,
+      "speaker": "Voix 3",
+      "items": [
+        {
+          "startTime": 171910,
+          "endTime": 171990,
+          "content": "se"
+        },
+        {
+          "startTime": 172000,
+          "endTime": 172419,
+          "content": " développer."
+        },
+        {
+          "startTime": 172520,
+          "endTime": 173250,
+          "content": " Philippe"
+        },
+        {
+          "startTime": 173259,
+          "endTime": 173520,
+          "content": " Cery"
+        },
+        {
+          "startTime": 173529,
+          "endTime": 173929,
+          "content": " Eiffel"
+        },
+        {
+          "startTime": 173940,
+          "endTime": 174539,
+          "content": " raconte"
+        },
+        {
+          "startTime": 174550,
+          "endTime": 174860,
+          "content": " son"
+        },
+        {
+          "startTime": 174869,
+          "endTime": 175330,
+          "content": " arrière"
+        },
+        {
+          "startTime": 175339,
+          "endTime": 175710,
+          "content": " arrière"
+        },
+        {
+          "startTime": 175720,
+          "endTime": 175940,
+          "content": " grand"
+        },
+        {
+          "startTime": 175949,
+          "endTime": 176410,
+          "content": " père"
+        },
+        {
+          "startTime": 176419,
+          "endTime": 177250,
+          "content": " Gustave"
+        },
+        {
+          "startTime": 177259,
+          "endTime": 177800,
+          "content": " dans"
+        },
+        {
+          "startTime": 177809,
+          "endTime": 178339,
+          "content": " Eiffel"
+        },
+        {
+          "startTime": 178360,
+          "endTime": 178759,
+          "content": " par"
+        },
+        {
+          "startTime": 178770,
+          "endTime": 179380,
+          "content": " Eiffel."
+        },
+        {
+          "startTime": 179610,
+          "endTime": 179699,
+          "content": " Un"
+        },
+        {
+          "startTime": 179710,
+          "endTime": 179910,
+          "content": " très"
+        },
+        {
+          "startTime": 179919,
+          "endTime": 180020,
+          "content": " beau"
+        },
+        {
+          "startTime": 180029,
+          "endTime": 180320,
+          "content": " livre"
+        },
+        {
+          "startTime": 180330,
+          "endTime": 180470,
+          "content": " à"
+        },
+        {
+          "startTime": 180479,
+          "endTime": 180690,
+          "content": " lire"
+        },
+        {
+          "startTime": 180699,
+          "endTime": 180789,
+          "content": " ou"
+        },
+        {
+          "startTime": 180800,
+          "endTime": 180869,
+          "content": " à"
+        },
+        {
+          "startTime": 180880,
+          "endTime": 181330,
+          "content": " offrir"
+        },
+        {
+          "startTime": 181339,
+          "endTime": 181649,
+          "content": " puisque"
+        },
+        {
+          "startTime": 181660,
+          "endTime": 181880,
+          "content": " Noël"
+        },
+        {
+          "startTime": 181889,
+          "endTime": 182289,
+          "content": " approche"
+        },
+        {
+          "startTime": 182300,
+          "endTime": 182660,
+          "content": " chez"
+        },
+        {
+          "startTime": 182669,
+          "endTime": 182889,
+          "content": " Michel"
+        },
+        {
+          "startTime": 182899,
+          "endTime": 183410,
+          "content": " Lafon"
+        },
+        {
+          "startTime": 183419,
+          "endTime": 183639,
+          "content": " vingt"
+        },
+        {
+          "startTime": 183649,
+          "endTime": 184070,
+          "content": " neuf"
+        },
+        {
+          "startTime": 184080,
+          "endTime": 184429,
+          "content": " quatre"
+        },
+        {
+          "startTime": 184440,
+          "endTime": 184610,
+          "content": " vingt"
+        },
+        {
+          "startTime": 184619,
+          "endTime": 184970,
+          "content": " quinze."
+        }
+      ]
+    },
+    {
+      "startTime": 184979,
+      "endTime": 186470,
+      "speaker": "Voix 2",
+      "items": [
+        {
+          "startTime": 184979,
+          "endTime": 185570,
+          "content": "Merci"
+        },
+        {
+          "startTime": 185580,
+          "endTime": 185830,
+          "content": " beaucoup."
+        },
+        {
+          "startTime": 185839,
+          "endTime": 186470,
+          "content": " Bernard"
+        }
+      ]
+    }
+  ]
+}

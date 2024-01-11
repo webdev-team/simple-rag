@@ -1,0 +1,2421 @@
+{
+  "media": {
+    "id": 7900327756,
+    "programId": 7770882811,
+    "program": "Le journal RTL",
+    "date": "2023-04-12",
+    "time": "10:00",
+    "title": "Le journal RTL de 10h du 04 décembre 2023",
+    "summary": "Ecoutez Le journal RTL du 04 décembre 2023 avec La rédaction de RTL.",
+    "speakers": [
+      "La rédaction de RTL"
+    ]
+  },
+  "source": "human",
+  "segments": [
+    {
+      "startTime": 340,
+      "endTime": 2150,
+      "speaker": "Jingle",
+      "items": [
+        {
+          "startTime": 340,
+          "endTime": 860,
+          "content": "vous"
+        },
+        {
+          "startTime": 870,
+          "endTime": 1100,
+          "content": " êtes"
+        },
+        {
+          "startTime": 1110,
+          "endTime": 1460,
+          "content": " sur"
+        },
+        {
+          "startTime": 1470,
+          "endTime": 2150,
+          "content": " RTL."
+        }
+      ]
+    },
+    {
+      "startTime": 3390,
+      "endTime": 9829,
+      "speaker": "Julien Courbet",
+      "items": [
+        {
+          "startTime": 3390,
+          "endTime": 3430,
+          "content": " "
+        },
+        {
+          "startTime": 7019,
+          "endTime": 7269,
+          "content": "les"
+        },
+        {
+          "startTime": 7280,
+          "endTime": 7590,
+          "content": " trois"
+        },
+        {
+          "startTime": 7599,
+          "endTime": 7900,
+          "content": " infos"
+        },
+        {
+          "startTime": 7909,
+          "endTime": 8039,
+          "content": " du"
+        },
+        {
+          "startTime": 8050,
+          "endTime": 8310,
+          "content": " jour"
+        },
+        {
+          "startTime": 8319,
+          "endTime": 8510,
+          "content": " avec"
+        },
+        {
+          "startTime": 8520,
+          "endTime": 8680,
+          "content": " vous"
+        },
+        {
+          "startTime": 8689,
+          "endTime": 9229,
+          "content": " Alexandre"
+        },
+        {
+          "startTime": 9239,
+          "endTime": 9310,
+          "content": " de"
+        },
+        {
+          "startTime": 9319,
+          "endTime": 9529,
+          "content": " Saint"
+        },
+        {
+          "startTime": 9539,
+          "endTime": 9829,
+          "content": " Aignan bonjour."
+        }
+      ]
+    },
+    {
+      "startTime": 10600,
+      "endTime": 56860,
+      "speaker": "Alexandre de Saint Aignan",
+      "items": [
+        {
+          "startTime": 10600,
+          "endTime": 11090,
+          "content": "Bonjour"
+        },
+        {
+          "startTime": 11100,
+          "endTime": 11390,
+          "content": " Julien,"
+        },
+        {
+          "startTime": 11399,
+          "endTime": 11710,
+          "content": " bonjour"
+        },
+        {
+          "startTime": 11720,
+          "endTime": 11800,
+          "content": " à"
+        },
+        {
+          "startTime": 11810,
+          "endTime": 11989,
+          "content": " tous!"
+        },
+        {
+          "startTime": 12000,
+          "endTime": 12350,
+          "content": " Gérald"
+        },
+        {
+          "startTime": 12359,
+          "endTime": 13010,
+          "content": " Darmanin"
+        },
+        {
+          "startTime": 13029,
+          "endTime": 13390,
+          "content": " estime"
+        },
+        {
+          "startTime": 13399,
+          "endTime": 13659,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 13670,
+          "endTime": 13750,
+          "content": " y"
+        },
+        {
+          "startTime": 13760,
+          "endTime": 13789,
+          "content": " a"
+        },
+        {
+          "startTime": 13800,
+          "endTime": 14029,
+          "content": " eu"
+        },
+        {
+          "startTime": 14039,
+          "endTime": 15050,
+          "content": " manifestement"
+        },
+        {
+          "startTime": 15060,
+          "endTime": 15090,
+          "content": " un"
+        },
+        {
+          "startTime": 15100,
+          "endTime": 15710,
+          "content": " ratage"
+        },
+        {
+          "startTime": 15720,
+          "endTime": 15859,
+          "content": " dans"
+        },
+        {
+          "startTime": 15869,
+          "endTime": 15970,
+          "content": " le"
+        },
+        {
+          "startTime": 15979,
+          "endTime": 16360,
+          "content": " suivi"
+        },
+        {
+          "startTime": 16370,
+          "endTime": 17190,
+          "content": " psychiatrique"
+        },
+        {
+          "startTime": 17280,
+          "endTime": 17440,
+          "content": " de"
+        },
+        {
+          "startTime": 17450,
+          "endTime": 17780,
+          "content": " l'auteur"
+        },
+        {
+          "startTime": 17790,
+          "endTime": 18200,
+          "content": " présumé"
+        },
+        {
+          "startTime": 18209,
+          "endTime": 18379,
+          "content": " d'une"
+        },
+        {
+          "startTime": 18389,
+          "endTime": 18629,
+          "content": " attaque"
+        },
+        {
+          "startTime": 18639,
+          "endTime": 18649,
+          "content": " au"
+        },
+        {
+          "startTime": 18659,
+          "endTime": 18959,
+          "content": " couteau"
+        },
+        {
+          "startTime": 18969,
+          "endTime": 19090,
+          "content": " ce"
+        },
+        {
+          "startTime": 19100,
+          "endTime": 19290,
+          "content": " week-"
+        },
+        {
+          "startTime": 19299,
+          "endTime": 19420,
+          "content": "end"
+        },
+        {
+          "startTime": 19430,
+          "endTime": 19510,
+          "content": " à"
+        },
+        {
+          "startTime": 19520,
+          "endTime": 19790,
+          "content": " Paris,"
+        },
+        {
+          "startTime": 19799,
+          "endTime": 19950,
+          "content": " près"
+        },
+        {
+          "startTime": 19959,
+          "endTime": 19989,
+          "content": " de"
+        },
+        {
+          "startTime": 20000,
+          "endTime": 20090,
+          "content": " la"
+        },
+        {
+          "startTime": 20100,
+          "endTime": 20350,
+          "content": " Tour"
+        },
+        {
+          "startTime": 20360,
+          "endTime": 20770,
+          "content": " Eiffel."
+        },
+        {
+          "startTime": 20780,
+          "endTime": 20809,
+          "content": " Un"
+        },
+        {
+          "startTime": 20819,
+          "endTime": 21100,
+          "content": " jeune"
+        },
+        {
+          "startTime": 21110,
+          "endTime": 21219,
+          "content": " homme"
+        },
+        {
+          "startTime": 21229,
+          "endTime": 21569,
+          "content": " franco"
+        },
+        {
+          "startTime": 21579,
+          "endTime": 21979,
+          "content": " iranien"
+        },
+        {
+          "startTime": 21989,
+          "endTime": 22059,
+          "content": " de"
+        },
+        {
+          "startTime": 22069,
+          "endTime": 22250,
+          "content": " vingt"
+        },
+        {
+          "startTime": 22260,
+          "endTime": 22520,
+          "content": " six"
+        },
+        {
+          "startTime": 22530,
+          "endTime": 22809,
+          "content": " ans"
+        },
+        {
+          "startTime": 23010,
+          "endTime": 23180,
+          "content": " a"
+        },
+        {
+          "startTime": 23190,
+          "endTime": 23469,
+          "content": " tué"
+        },
+        {
+          "startTime": 23479,
+          "endTime": 23569,
+          "content": " un"
+        },
+        {
+          "startTime": 23579,
+          "endTime": 24059,
+          "content": " touriste"
+        },
+        {
+          "startTime": 24069,
+          "endTime": 24510,
+          "content": " germano"
+        },
+        {
+          "startTime": 24520,
+          "endTime": 25059,
+          "content": " philippin"
+        },
+        {
+          "startTime": 25069,
+          "endTime": 25180,
+          "content": " et"
+        },
+        {
+          "startTime": 25190,
+          "endTime": 25549,
+          "content": " blessé"
+        },
+        {
+          "startTime": 25559,
+          "endTime": 25889,
+          "content": " deux"
+        },
+        {
+          "startTime": 25899,
+          "endTime": 26159,
+          "content": " autres"
+        },
+        {
+          "startTime": 26170,
+          "endTime": 26540,
+          "content": " personnes"
+        },
+        {
+          "startTime": 26549,
+          "endTime": 26780,
+          "content": " avant"
+        },
+        {
+          "startTime": 26790,
+          "endTime": 27010,
+          "content": " d'être"
+        },
+        {
+          "startTime": 27020,
+          "endTime": 27469,
+          "content": " interpellé."
+        },
+        {
+          "startTime": 27479,
+          "endTime": 27579,
+          "content": " Il"
+        },
+        {
+          "startTime": 27590,
+          "endTime": 27739,
+          "content": " était"
+        },
+        {
+          "startTime": 27750,
+          "endTime": 28319,
+          "content": " pourtant"
+        },
+        {
+          "startTime": 28409,
+          "endTime": 28979,
+          "content": " connu"
+        },
+        {
+          "startTime": 28989,
+          "endTime": 29159,
+          "content": " des"
+        },
+        {
+          "startTime": 29170,
+          "endTime": 29559,
+          "content": " services"
+        },
+        {
+          "startTime": 29569,
+          "endTime": 29680,
+          "content": " de"
+        },
+        {
+          "startTime": 29690,
+          "endTime": 30100,
+          "content": " police,"
+        },
+        {
+          "startTime": 30110,
+          "endTime": 30209,
+          "content": " de"
+        },
+        {
+          "startTime": 30219,
+          "endTime": 30780,
+          "content": " justice,"
+        },
+        {
+          "startTime": 30790,
+          "endTime": 30920,
+          "content": " de"
+        },
+        {
+          "startTime": 30930,
+          "endTime": 31620,
+          "content": " renseignement."
+        },
+        {
+          "startTime": 31629,
+          "endTime": 31739,
+          "content": " Il"
+        },
+        {
+          "startTime": 31750,
+          "endTime": 31940,
+          "content": " était"
+        },
+        {
+          "startTime": 31950,
+          "endTime": 32630,
+          "content": " radicalisé"
+        },
+        {
+          "startTime": 32639,
+          "endTime": 33310,
+          "content": " depuis"
+        },
+        {
+          "startTime": 33319,
+          "endTime": 33520,
+          "content": " deux"
+        },
+        {
+          "startTime": 33529,
+          "endTime": 33720,
+          "content": " mille"
+        },
+        {
+          "startTime": 33729,
+          "endTime": 34080,
+          "content": " quinze."
+        },
+        {
+          "startTime": 34090,
+          "endTime": 34830,
+          "content": " Soumis"
+        },
+        {
+          "startTime": 34840,
+          "endTime": 35040,
+          "content": " à"
+        },
+        {
+          "startTime": 35049,
+          "endTime": 35259,
+          "content": " une"
+        },
+        {
+          "startTime": 35270,
+          "endTime": 35869,
+          "content": " injonction"
+        },
+        {
+          "startTime": 35880,
+          "endTime": 36000,
+          "content": " de"
+        },
+        {
+          "startTime": 36009,
+          "endTime": 36479,
+          "content": " soins"
+        },
+        {
+          "startTime": 36490,
+          "endTime": 36990,
+          "content": " contrôlé"
+        },
+        {
+          "startTime": 37000,
+          "endTime": 37279,
+          "content": " par"
+        },
+        {
+          "startTime": 37290,
+          "endTime": 37319,
+          "content": " un"
+        },
+        {
+          "startTime": 37330,
+          "endTime": 37720,
+          "content": " médecin"
+        },
+        {
+          "startTime": 37729,
+          "endTime": 38400,
+          "content": " coordinateur,"
+        },
+        {
+          "startTime": 38409,
+          "endTime": 38470,
+          "content": " le"
+        },
+        {
+          "startTime": 38479,
+          "endTime": 38880,
+          "content": " ministre"
+        },
+        {
+          "startTime": 38889,
+          "endTime": 38919,
+          "content": " de"
+        },
+        {
+          "startTime": 38930,
+          "endTime": 39450,
+          "content": " l'Intérieur"
+        },
+        {
+          "startTime": 39459,
+          "endTime": 39889,
+          "content": " estime"
+        },
+        {
+          "startTime": 40040,
+          "endTime": 40250,
+          "content": " que"
+        },
+        {
+          "startTime": 40259,
+          "endTime": 40479,
+          "content": " ces"
+        },
+        {
+          "startTime": 40490,
+          "endTime": 41049,
+          "content": " services"
+        },
+        {
+          "startTime": 41060,
+          "endTime": 41259,
+          "content": " ont"
+        },
+        {
+          "startTime": 41270,
+          "endTime": 41439,
+          "content": " fait"
+        },
+        {
+          "startTime": 41450,
+          "endTime": 41540,
+          "content": " le"
+        },
+        {
+          "startTime": 41549,
+          "endTime": 42180,
+          "content": " maximum."
+        },
+        {
+          "startTime": 42189,
+          "endTime": 42360,
+          "content": " Il"
+        },
+        {
+          "startTime": 42369,
+          "endTime": 42740,
+          "content": " affirme"
+        },
+        {
+          "startTime": 42750,
+          "endTime": 43069,
+          "content": " même"
+        },
+        {
+          "startTime": 43080,
+          "endTime": 43180,
+          "content": " que"
+        },
+        {
+          "startTime": 43189,
+          "endTime": 43369,
+          "content": " la"
+        },
+        {
+          "startTime": 43380,
+          "endTime": 43979,
+          "content": " DGSI"
+        },
+        {
+          "startTime": 43990,
+          "endTime": 44119,
+          "content": " avait"
+        },
+        {
+          "startTime": 44130,
+          "endTime": 44569,
+          "content": " proposé"
+        },
+        {
+          "startTime": 44580,
+          "endTime": 44759,
+          "content": " une"
+        },
+        {
+          "startTime": 44770,
+          "endTime": 45569,
+          "content": " hospitalisation"
+        },
+        {
+          "startTime": 45580,
+          "endTime": 46099,
+          "content": " d'office"
+        },
+        {
+          "startTime": 46110,
+          "endTime": 46220,
+          "content": " à"
+        },
+        {
+          "startTime": 46229,
+          "endTime": 46360,
+          "content": " la"
+        },
+        {
+          "startTime": 46369,
+          "endTime": 46659,
+          "content": " mère"
+        },
+        {
+          "startTime": 46669,
+          "endTime": 46720,
+          "content": " de"
+        },
+        {
+          "startTime": 46729,
+          "endTime": 47159,
+          "content": " l'assaillant"
+        },
+        {
+          "startTime": 47169,
+          "endTime": 47630,
+          "content": " présumé."
+        },
+        {
+          "startTime": 48040,
+          "endTime": 48340,
+          "content": " Mais"
+        },
+        {
+          "startTime": 48349,
+          "endTime": 48389,
+          "content": " elle"
+        },
+        {
+          "startTime": 48400,
+          "endTime": 48569,
+          "content": " avait"
+        },
+        {
+          "startTime": 48580,
+          "endTime": 49080,
+          "content": " refusé,"
+        },
+        {
+          "startTime": 49090,
+          "endTime": 49549,
+          "content": " selon"
+        },
+        {
+          "startTime": 49560,
+          "endTime": 49770,
+          "content": " G."
+        },
+        {
+          "startTime": 49919,
+          "endTime": 50430,
+          "content": " Darmanin"
+        },
+        {
+          "startTime": 50439,
+          "endTime": 51020,
+          "content": " Faut-il"
+        },
+        {
+          "startTime": 51029,
+          "endTime": 51169,
+          "content": " faire"
+        },
+        {
+          "startTime": 51180,
+          "endTime": 51880,
+          "content": " évoluer"
+        },
+        {
+          "startTime": 51889,
+          "endTime": 52150,
+          "content": " la"
+        },
+        {
+          "startTime": 52159,
+          "endTime": 52439,
+          "content": " loi."
+        },
+        {
+          "startTime": 52450,
+          "endTime": 52560,
+          "content": " Le"
+        },
+        {
+          "startTime": 52569,
+          "endTime": 53229,
+          "content": " porte-parole"
+        },
+        {
+          "startTime": 53240,
+          "endTime": 53369,
+          "content": " du"
+        },
+        {
+          "startTime": 53380,
+          "endTime": 54340,
+          "content": " gouvernement"
+        },
+        {
+          "startTime": 54430,
+          "endTime": 54439,
+          "content": " Olivier"
+        },
+        {
+          "startTime": 54560,
+          "endTime": 54869,
+          "content": " Véran"
+        },
+        {
+          "startTime": 54880,
+          "endTime": 55389,
+          "content": " s'interroge"
+        },
+        {
+          "startTime": 55400,
+          "endTime": 55490,
+          "content": " Ce"
+        },
+        {
+          "startTime": 55500,
+          "endTime": 55750,
+          "content": " matin,"
+        },
+        {
+          "startTime": 55759,
+          "endTime": 55840,
+          "content": " il"
+        },
+        {
+          "startTime": 55849,
+          "endTime": 55990,
+          "content": " était"
+        },
+        {
+          "startTime": 56000,
+          "endTime": 56279,
+          "content": " l'invité"
+        },
+        {
+          "startTime": 56290,
+          "endTime": 56380,
+          "content": " de"
+        },
+        {
+          "startTime": 56389,
+          "endTime": 56860,
+          "content": " RTL."
+        }
+      ]
+    },
+    {
+      "startTime": 57200,
+      "endTime": 88194,
+      "speaker": "Inconnu",
+      "items": [
+        {
+          "startTime": 57200,
+          "endTime": 57529,
+          "content": "Les Éléments"
+        },
+        {
+          "startTime": 57540,
+          "endTime": 58139,
+          "content": " préliminaires"
+        },
+        {
+          "startTime": 58150,
+          "endTime": 58389,
+          "content": " montrent"
+        },
+        {
+          "startTime": 58400,
+          "endTime": 58470,
+          "content": " que"
+        },
+        {
+          "startTime": 58479,
+          "endTime": 58669,
+          "content": " les"
+        },
+        {
+          "startTime": 58680,
+          "endTime": 59189,
+          "content": " parcours"
+        },
+        {
+          "startTime": 59509,
+          "endTime": 60069,
+          "content": " médical,"
+        },
+        {
+          "startTime": 60080,
+          "endTime": 61080,
+          "content": " administratif"
+        },
+        {
+          "startTime": 61220,
+          "endTime": 61430,
+          "content": " et"
+        },
+        {
+          "startTime": 61439,
+          "endTime": 61830,
+          "content": " pénal"
+        },
+        {
+          "startTime": 61840,
+          "endTime": 61930,
+          "content": " pour"
+        },
+        {
+          "startTime": 61939,
+          "endTime": 62099,
+          "content": " cet"
+        },
+        {
+          "startTime": 62110,
+          "endTime": 62720,
+          "content": " individu"
+        },
+        {
+          "startTime": 62729,
+          "endTime": 62930,
+          "content": " ont"
+        },
+        {
+          "startTime": 62939,
+          "endTime": 63119,
+          "content": " été"
+        },
+        {
+          "startTime": 63130,
+          "endTime": 63630,
+          "content": " conformes"
+        },
+        {
+          "startTime": 63639,
+          "endTime": 63770,
+          "content": " à"
+        },
+        {
+          "startTime": 63779,
+          "endTime": 63930,
+          "content": " ce"
+        },
+        {
+          "startTime": 63939,
+          "endTime": 64099,
+          "content": " qui"
+        },
+        {
+          "startTime": 64110,
+          "endTime": 64589,
+          "content": " était"
+        },
+        {
+          "startTime": 64819,
+          "endTime": 65230,
+          "content": " possible"
+        },
+        {
+          "startTime": 65239,
+          "endTime": 65400,
+          "content": " avec"
+        },
+        {
+          "startTime": 65410,
+          "endTime": 65660,
+          "content": " l'Etat"
+        },
+        {
+          "startTime": 65669,
+          "endTime": 65750,
+          "content": " du"
+        },
+        {
+          "startTime": 65760,
+          "endTime": 66169,
+          "content": " droit"
+        },
+        {
+          "startTime": 66180,
+          "endTime": 66400,
+          "content": " et"
+        },
+        {
+          "startTime": 66410,
+          "endTime": 66599,
+          "content": " toutes"
+        },
+        {
+          "startTime": 66610,
+          "endTime": 66690,
+          "content": " les"
+        },
+        {
+          "startTime": 66699,
+          "endTime": 67169,
+          "content": " décisions"
+        },
+        {
+          "startTime": 67180,
+          "endTime": 67209,
+          "content": " que"
+        },
+        {
+          "startTime": 67220,
+          "endTime": 67290,
+          "content": " ce"
+        },
+        {
+          "startTime": 67300,
+          "endTime": 67489,
+          "content": " soit"
+        },
+        {
+          "startTime": 67500,
+          "endTime": 67910,
+          "content": " justice"
+        },
+        {
+          "startTime": 67919,
+          "endTime": 67949,
+          "content": " ou"
+        },
+        {
+          "startTime": 67959,
+          "endTime": 68430,
+          "content": " médicale"
+        },
+        {
+          "startTime": 68440,
+          "endTime": 68870,
+          "content": " c'est-à-dire"
+        },
+        {
+          "startTime": 68879,
+          "endTime": 69069,
+          "content": " les"
+        },
+        {
+          "startTime": 69080,
+          "endTime": 69309,
+          "content": " quatre"
+        },
+        {
+          "startTime": 69319,
+          "endTime": 69370,
+          "content": " ans"
+        },
+        {
+          "startTime": 69379,
+          "endTime": 69430,
+          "content": " de"
+        },
+        {
+          "startTime": 69440,
+          "endTime": 70019,
+          "content": " prison,"
+        },
+        {
+          "startTime": 70029,
+          "endTime": 70589,
+          "content": " l'obligation"
+        },
+        {
+          "startTime": 70599,
+          "endTime": 70610,
+          "content": " de"
+        },
+        {
+          "startTime": 70620,
+          "endTime": 70830,
+          "content": " suivi"
+        },
+        {
+          "startTime": 70839,
+          "endTime": 70989,
+          "content": " pendant"
+        },
+        {
+          "startTime": 71000,
+          "endTime": 71069,
+          "content": " trois"
+        },
+        {
+          "startTime": 71080,
+          "endTime": 71089,
+          "content": " ans,"
+        },
+        {
+          "startTime": 71165,
+          "endTime": 71345,
+          "content": " trois"
+        },
+        {
+          "startTime": 71355,
+          "endTime": 71654,
+          "content": " ans"
+        },
+        {
+          "startTime": 71754,
+          "endTime": 72035,
+          "content": " la"
+        },
+        {
+          "startTime": 72044,
+          "endTime": 72605,
+          "content": " surveillance"
+        },
+        {
+          "startTime": 72614,
+          "endTime": 72625,
+          "content": " au"
+        },
+        {
+          "startTime": 72635,
+          "endTime": 72794,
+          "content": " long"
+        },
+        {
+          "startTime": 72805,
+          "endTime": 73305,
+          "content": " cours,"
+        },
+        {
+          "startTime": 73334,
+          "endTime": 73944,
+          "content": " ses"
+        },
+        {
+          "startTime": 73955,
+          "endTime": 74495,
+          "content": " obligations"
+        },
+        {
+          "startTime": 74504,
+          "endTime": 74754,
+          "content": " ont"
+        },
+        {
+          "startTime": 74764,
+          "endTime": 74904,
+          "content": " été"
+        },
+        {
+          "startTime": 74915,
+          "endTime": 75315,
+          "content": " remplies."
+        },
+        {
+          "startTime": 75324,
+          "endTime": 75654,
+          "content": " Pour"
+        },
+        {
+          "startTime": 75665,
+          "endTime": 75974,
+          "content": " autant,"
+        },
+        {
+          "startTime": 75985,
+          "endTime": 76224,
+          "content": " il"
+        },
+        {
+          "startTime": 76235,
+          "endTime": 76275,
+          "content": " a"
+        },
+        {
+          "startTime": 76285,
+          "endTime": 76415,
+          "content": " pu"
+        },
+        {
+          "startTime": 76425,
+          "endTime": 76915,
+          "content": " tuer."
+        },
+        {
+          "startTime": 76925,
+          "endTime": 77214,
+          "content": " Donc"
+        },
+        {
+          "startTime": 77224,
+          "endTime": 77495,
+          "content": " cela"
+        },
+        {
+          "startTime": 77504,
+          "endTime": 77654,
+          "content": " pose"
+        },
+        {
+          "startTime": 77665,
+          "endTime": 77754,
+          "content": " la"
+        },
+        {
+          "startTime": 77764,
+          "endTime": 78135,
+          "content": " question"
+        },
+        {
+          "startTime": 78144,
+          "endTime": 78345,
+          "content": " de"
+        },
+        {
+          "startTime": 78385,
+          "endTime": 78824,
+          "content": " comment"
+        },
+        {
+          "startTime": 78834,
+          "endTime": 79135,
+          "content": " A-t-il"
+        },
+        {
+          "startTime": 79144,
+          "endTime": 79275,
+          "content": " pu"
+        },
+        {
+          "startTime": 79285,
+          "endTime": 79864,
+          "content": " tuer"
+        },
+        {
+          "startTime": 80555,
+          "endTime": 80724,
+          "content": " Est-ce"
+        },
+        {
+          "startTime": 80735,
+          "endTime": 80974,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 80985,
+          "endTime": 81175,
+          "content": " aurait"
+        },
+        {
+          "startTime": 81184,
+          "endTime": 81555,
+          "content": " pu"
+        },
+        {
+          "startTime": 81565,
+          "endTime": 81714,
+          "content": " est-ce,"
+        },
+        {
+          "startTime": 81724,
+          "endTime": 82044,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 82055,
+          "endTime": 82504,
+          "content": " faudrait"
+        },
+        {
+          "startTime": 82635,
+          "endTime": 83074,
+          "content": " pouvoir"
+        },
+        {
+          "startTime": 83084,
+          "endTime": 83855,
+          "content": " renforcer"
+        },
+        {
+          "startTime": 83864,
+          "endTime": 84055,
+          "content": " le"
+        },
+        {
+          "startTime": 84065,
+          "endTime": 84394,
+          "content": " droit"
+        },
+        {
+          "startTime": 84404,
+          "endTime": 84464,
+          "content": " de"
+        },
+        {
+          "startTime": 84474,
+          "endTime": 85105,
+          "content": " manière"
+        },
+        {
+          "startTime": 85114,
+          "endTime": 85394,
+          "content": " à"
+        },
+        {
+          "startTime": 85404,
+          "endTime": 85745,
+          "content": " éviter"
+        },
+        {
+          "startTime": 85754,
+          "endTime": 85915,
+          "content": " que"
+        },
+        {
+          "startTime": 85925,
+          "endTime": 86144,
+          "content": " ce"
+        },
+        {
+          "startTime": 86154,
+          "endTime": 86294,
+          "content": " type"
+        },
+        {
+          "startTime": 86305,
+          "endTime": 86464,
+          "content": " de"
+        },
+        {
+          "startTime": 86474,
+          "endTime": 86815,
+          "content": " drame"
+        },
+        {
+          "startTime": 86964,
+          "endTime": 87214,
+          "content": " ne"
+        },
+        {
+          "startTime": 87224,
+          "endTime": 87955,
+          "content": " réapparaisse."
+        },
+        {
+          "startTime": 87974,
+          "endTime": 88194,
+          "content": " "
+        }
+      ]
+    },
+    {
+      "startTime": 88205,
+      "endTime": 124209,
+      "speaker": "Alexandre de Saint Aignan",
+      "items": [
+        {
+          "startTime": 88205,
+          "endTime": 88495,
+          "content": "Le porte"
+        },
+        {
+          "startTime": 88504,
+          "endTime": 88745,
+          "content": " parole"
+        },
+        {
+          "startTime": 88754,
+          "endTime": 88894,
+          "content": " du"
+        },
+        {
+          "startTime": 88904,
+          "endTime": 89415,
+          "content": " gouvernement,"
+        },
+        {
+          "startTime": 89425,
+          "endTime": 89824,
+          "content": " Olivier"
+        },
+        {
+          "startTime": 89834,
+          "endTime": 90294,
+          "content": " Véran,"
+        },
+        {
+          "startTime": 90305,
+          "endTime": 90684,
+          "content": " invité"
+        },
+        {
+          "startTime": 90694,
+          "endTime": 90995,
+          "content": " ce"
+        },
+        {
+          "startTime": 91004,
+          "endTime": 91254,
+          "content": " matin"
+        },
+        {
+          "startTime": 91264,
+          "endTime": 91735,
+          "content": " d'Amandine"
+        },
+        {
+          "startTime": 91745,
+          "endTime": 92025,
+          "content": " Bégot"
+        },
+        {
+          "startTime": 92035,
+          "endTime": 92275,
+          "content": " sur"
+        },
+        {
+          "startTime": 92285,
+          "endTime": 92574,
+          "content": " RTL,"
+        },
+        {
+          "startTime": 92584,
+          "endTime": 92714,
+          "content": " Le"
+        },
+        {
+          "startTime": 92724,
+          "endTime": 93254,
+          "content": " procès"
+        },
+        {
+          "startTime": 93264,
+          "endTime": 93394,
+          "content": " d'Eric"
+        },
+        {
+          "startTime": 93404,
+          "endTime": 94235,
+          "content": " Dupond-moretti"
+        },
+        {
+          "startTime": 94529,
+          "endTime": 94940,
+          "content": " n'ira"
+        },
+        {
+          "startTime": 94949,
+          "endTime": 95080,
+          "content": " pas"
+        },
+        {
+          "startTime": 95089,
+          "endTime": 95239,
+          "content": " plus"
+        },
+        {
+          "startTime": 95250,
+          "endTime": 95599,
+          "content": " loin."
+        },
+        {
+          "startTime": 95610,
+          "endTime": 95720,
+          "content": " Le"
+        },
+        {
+          "startTime": 95730,
+          "endTime": 96300,
+          "content": " procureur"
+        },
+        {
+          "startTime": 96309,
+          "endTime": 96660,
+          "content": " général"
+        },
+        {
+          "startTime": 96669,
+          "endTime": 96699,
+          "content": " de"
+        },
+        {
+          "startTime": 96709,
+          "endTime": 96839,
+          "content": " la"
+        },
+        {
+          "startTime": 96849,
+          "endTime": 97000,
+          "content": " Cour"
+        },
+        {
+          "startTime": 97010,
+          "endTime": 97069,
+          "content": " de"
+        },
+        {
+          "startTime": 97080,
+          "endTime": 97580,
+          "content": " cassation,"
+        },
+        {
+          "startTime": 97589,
+          "endTime": 97900,
+          "content": " Rémy"
+        },
+        {
+          "startTime": 97910,
+          "endTime": 98080,
+          "content": " Heats,"
+        },
+        {
+          "startTime": 98089,
+          "endTime": 98500,
+          "content": " annonce"
+        },
+        {
+          "startTime": 98510,
+          "endTime": 98660,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 98669,
+          "endTime": 98790,
+          "content": " ne"
+        },
+        {
+          "startTime": 98800,
+          "endTime": 99360,
+          "content": " formera"
+        },
+        {
+          "startTime": 99370,
+          "endTime": 99550,
+          "content": " pas"
+        },
+        {
+          "startTime": 99559,
+          "endTime": 99680,
+          "content": " de"
+        },
+        {
+          "startTime": 99690,
+          "endTime": 100400,
+          "content": " pourvoi"
+        },
+        {
+          "startTime": 100430,
+          "endTime": 100819,
+          "content": " contre"
+        },
+        {
+          "startTime": 100830,
+          "endTime": 100919,
+          "content": " la"
+        },
+        {
+          "startTime": 100930,
+          "endTime": 101400,
+          "content": " relaxe"
+        },
+        {
+          "startTime": 101410,
+          "endTime": 101680,
+          "content": " du"
+        },
+        {
+          "startTime": 101690,
+          "endTime": 102120,
+          "content": " ministre"
+        },
+        {
+          "startTime": 102129,
+          "endTime": 102190,
+          "content": " de"
+        },
+        {
+          "startTime": 102199,
+          "endTime": 102319,
+          "content": " la"
+        },
+        {
+          "startTime": 102330,
+          "endTime": 102680,
+          "content": " Justice."
+        },
+        {
+          "startTime": 102690,
+          "endTime": 103050,
+          "content": " Rendons"
+        },
+        {
+          "startTime": 103059,
+          "endTime": 103459,
+          "content": " donc"
+        },
+        {
+          "startTime": 103540,
+          "endTime": 103849,
+          "content": " cette"
+        },
+        {
+          "startTime": 103860,
+          "endTime": 104319,
+          "content": " relaxe"
+        },
+        {
+          "startTime": 104330,
+          "endTime": 105059,
+          "content": " définitive"
+        },
+        {
+          "startTime": 105069,
+          "endTime": 105330,
+          "content": " dans"
+        },
+        {
+          "startTime": 105339,
+          "endTime": 105440,
+          "content": " un"
+        },
+        {
+          "startTime": 105449,
+          "endTime": 105870,
+          "content": " souci"
+        },
+        {
+          "startTime": 105879,
+          "endTime": 106559,
+          "content": " d'apaisement,"
+        },
+        {
+          "startTime": 106569,
+          "endTime": 106680,
+          "content": " je"
+        },
+        {
+          "startTime": 106690,
+          "endTime": 107099,
+          "content": " cite."
+        },
+        {
+          "startTime": 107110,
+          "endTime": 107510,
+          "content": " Et"
+        },
+        {
+          "startTime": 107519,
+          "endTime": 107720,
+          "content": " puis,"
+        },
+        {
+          "startTime": 107730,
+          "endTime": 107839,
+          "content": " à"
+        },
+        {
+          "startTime": 107849,
+          "endTime": 108019,
+          "content": " vingt"
+        },
+        {
+          "startTime": 108029,
+          "endTime": 108160,
+          "content": " et"
+        },
+        {
+          "startTime": 108169,
+          "endTime": 108199,
+          "content": " un"
+        },
+        {
+          "startTime": 108209,
+          "endTime": 108440,
+          "content": " jours"
+        },
+        {
+          "startTime": 108449,
+          "endTime": 108500,
+          "content": " de"
+        },
+        {
+          "startTime": 108510,
+          "endTime": 108720,
+          "content": " Noël,"
+        },
+        {
+          "startTime": 108730,
+          "endTime": 109230,
+          "content": " l'esprit"
+        },
+        {
+          "startTime": 109239,
+          "endTime": 109599,
+          "content": " des"
+        },
+        {
+          "startTime": 109610,
+          "endTime": 109680,
+          "content": " fêtes"
+        },
+        {
+          "startTime": 109690,
+          "endTime": 110120,
+          "content": " flotte"
+        },
+        {
+          "startTime": 110129,
+          "endTime": 110440,
+          "content": " déjà"
+        },
+        {
+          "startTime": 110449,
+          "endTime": 110599,
+          "content": " dans"
+        },
+        {
+          "startTime": 110610,
+          "endTime": 110879,
+          "content": " l'air"
+        },
+        {
+          "startTime": 110889,
+          "endTime": 111059,
+          "content": " à"
+        },
+        {
+          "startTime": 111069,
+          "endTime": 111379,
+          "content": " Metz."
+        },
+        {
+          "startTime": 111389,
+          "endTime": 111699,
+          "content": " Hier"
+        },
+        {
+          "startTime": 111709,
+          "endTime": 111879,
+          "content": " soir,"
+        },
+        {
+          "startTime": 111889,
+          "endTime": 111980,
+          "content": " les"
+        },
+        {
+          "startTime": 111989,
+          "endTime": 112279,
+          "content": " messins "
+        },
+        {
+          "startTime": 112290,
+          "endTime": 112379,
+          "content": "ont"
+        },
+        {
+          "startTime": 112389,
+          "endTime": 112709,
+          "content": " commencé"
+        },
+        {
+          "startTime": 112720,
+          "endTime": 112819,
+          "content": " à"
+        },
+        {
+          "startTime": 112830,
+          "endTime": 113069,
+          "content": " fêter"
+        },
+        {
+          "startTime": 113080,
+          "endTime": 113199,
+          "content": " la"
+        },
+        {
+          "startTime": 113209,
+          "endTime": 113309,
+          "content": " Saint"
+        },
+        {
+          "startTime": 113319,
+          "endTime": 113720,
+          "content": " Nicolas."
+        },
+        {
+          "startTime": 113730,
+          "endTime": 113809,
+          "content": " Ce"
+        },
+        {
+          "startTime": 113819,
+          "endTime": 114059,
+          "content": " sera"
+        },
+        {
+          "startTime": 114069,
+          "endTime": 114819,
+          "content": " mercredi."
+        },
+        {
+          "startTime": 114949,
+          "endTime": 115239,
+          "content": " Mais"
+        },
+        {
+          "startTime": 115250,
+          "endTime": 115419,
+          "content": " hier"
+        },
+        {
+          "startTime": 115430,
+          "endTime": 115959,
+          "content": " soir,"
+        },
+        {
+          "startTime": 115970,
+          "endTime": 116220,
+          "content": " avec"
+        },
+        {
+          "startTime": 116230,
+          "endTime": 116790,
+          "content": " quelques"
+        },
+        {
+          "startTime": 116800,
+          "endTime": 117019,
+          "content": " jours"
+        },
+        {
+          "startTime": 117029,
+          "endTime": 117500,
+          "content": " d'avance,"
+        },
+        {
+          "startTime": 117510,
+          "endTime": 117599,
+          "content": " le"
+        },
+        {
+          "startTime": 117610,
+          "endTime": 117860,
+          "content": " saint"
+        },
+        {
+          "startTime": 117870,
+          "endTime": 118260,
+          "content": " patron"
+        },
+        {
+          "startTime": 118269,
+          "endTime": 118440,
+          "content": " des"
+        },
+        {
+          "startTime": 118449,
+          "endTime": 118879,
+          "content": " enfants"
+        },
+        {
+          "startTime": 118889,
+          "endTime": 118959,
+          "content": " a"
+        },
+        {
+          "startTime": 118970,
+          "endTime": 119470,
+          "content": " défilé"
+        },
+        {
+          "startTime": 119480,
+          "endTime": 119599,
+          "content": " dans"
+        },
+        {
+          "startTime": 119610,
+          "endTime": 119750,
+          "content": " les"
+        },
+        {
+          "startTime": 119760,
+          "endTime": 120040,
+          "content": " rues,"
+        },
+        {
+          "startTime": 120379,
+          "endTime": 120959,
+          "content": " accompagné"
+        },
+        {
+          "startTime": 120970,
+          "endTime": 121290,
+          "content": " par"
+        },
+        {
+          "startTime": 121300,
+          "endTime": 121550,
+          "content": " six"
+        },
+        {
+          "startTime": 121559,
+          "endTime": 122000,
+          "content": " chars"
+        },
+        {
+          "startTime": 122010,
+          "endTime": 122489,
+          "content": " pour"
+        },
+        {
+          "startTime": 122500,
+          "endTime": 122919,
+          "content": " distribuer"
+        },
+        {
+          "startTime": 122930,
+          "endTime": 123050,
+          "content": " des"
+        },
+        {
+          "startTime": 123059,
+          "endTime": 123709,
+          "content": " sucreries."
+        },
+        {
+          "startTime": 123970,
+          "endTime": 124209,
+          "content": " "
+        }
+      ]
+    },
+    {
+      "startTime": 124220,
+      "endTime": 140440,
+      "speaker": "Voix 5",
+      "items": [
+        {
+          "startTime": 124220,
+          "endTime": 124430,
+          "content": "Les chars"
+        },
+        {
+          "startTime": 124440,
+          "endTime": 124589,
+          "content": " sont"
+        },
+        {
+          "startTime": 124599,
+          "endTime": 124839,
+          "content": " beaux"
+        },
+        {
+          "startTime": 124849,
+          "endTime": 125080,
+          "content": " et"
+        },
+        {
+          "startTime": 125089,
+          "endTime": 125209,
+          "content": " les"
+        },
+        {
+          "startTime": 125220,
+          "endTime": 125569,
+          "content": " bonbons"
+        },
+        {
+          "startTime": 125580,
+          "endTime": 125949,
+          "content": " aussi."
+        },
+        {
+          "startTime": 125959,
+          "endTime": 126430,
+          "content": " On"
+        },
+        {
+          "startTime": 126440,
+          "endTime": 126489,
+          "content": " en"
+        },
+        {
+          "startTime": 126500,
+          "endTime": 126870,
+          "content": " profite."
+        },
+        {
+          "startTime": 126879,
+          "endTime": 127089,
+          "content": " Ils"
+        },
+        {
+          "startTime": 127099,
+          "endTime": 127129,
+          "content": " ont"
+        },
+        {
+          "startTime": 127139,
+          "endTime": 127349,
+          "content": " été sages,  "
+        },
+        {
+          "startTime": 127680,
+          "endTime": 127769,
+          "content": "Ils"
+        },
+        {
+          "startTime": 127779,
+          "endTime": 128029,
+          "content": " méritent"
+        },
+        {
+          "startTime": 128039,
+          "endTime": 128210,
+          "content": " d'avoir"
+        },
+        {
+          "startTime": 128220,
+          "endTime": 128289,
+          "content": " les"
+        },
+        {
+          "startTime": 128300,
+          "endTime": 128490,
+          "content": " mots"
+        },
+        {
+          "startTime": 128539,
+          "endTime": 128850,
+          "content": " Très"
+        },
+        {
+          "startTime": 128860,
+          "endTime": 129000,
+          "content": " bon"
+        },
+        {
+          "startTime": 129009,
+          "endTime": 129509,
+          "content": " bulletin."
+        },
+        {
+          "startTime": 129520,
+          "endTime": 129779,
+          "content": " Oui,"
+        },
+        {
+          "startTime": 130889,
+          "endTime": 131130,
+          "content": " je"
+        },
+        {
+          "startTime": 131139,
+          "endTime": 131199,
+          "content": " n'en"
+        },
+        {
+          "startTime": 131210,
+          "endTime": 131289,
+          "content": " ai"
+        },
+        {
+          "startTime": 131300,
+          "endTime": 131369,
+          "content": " eu"
+        },
+        {
+          "startTime": 131380,
+          "endTime": 131529,
+          "content": " qu'un"
+        },
+        {
+          "startTime": 131539,
+          "endTime": 131809,
+          "content": " seul,"
+        },
+        {
+          "startTime": 131820,
+          "endTime": 131910,
+          "content": " mais"
+        },
+        {
+          "startTime": 131919,
+          "endTime": 132009,
+          "content": " c'est"
+        },
+        {
+          "startTime": 132020,
+          "endTime": 132220,
+          "content": " déjà"
+        },
+        {
+          "startTime": 132229,
+          "endTime": 132619,
+          "content": " bien."
+        },
+        {
+          "startTime": 132630,
+          "endTime": 132850,
+          "content": " C'est"
+        },
+        {
+          "startTime": 132860,
+          "endTime": 133050,
+          "content": " le"
+        },
+        {
+          "startTime": 133059,
+          "endTime": 133350,
+          "content": " début"
+        },
+        {
+          "startTime": 133360,
+          "endTime": 133639,
+          "content": " des"
+        },
+        {
+          "startTime": 133649,
+          "endTime": 133679,
+          "content": " fêtes"
+        },
+        {
+          "startTime": 133690,
+          "endTime": 133729,
+          "content": " en"
+        },
+        {
+          "startTime": 133740,
+          "endTime": 134050,
+          "content": " Lorraine."
+        },
+        {
+          "startTime": 134059,
+          "endTime": 134210,
+          "content": " Mais"
+        },
+        {
+          "startTime": 134220,
+          "endTime": 134339,
+          "content": " chez"
+        },
+        {
+          "startTime": 134350,
+          "endTime": 134490,
+          "content": " nous,"
+        },
+        {
+          "startTime": 134500,
+          "endTime": 134660,
+          "content": " c'est"
+        },
+        {
+          "startTime": 134669,
+          "endTime": 135110,
+          "content": " important."
+        },
+        {
+          "startTime": 135119,
+          "endTime": 135279,
+          "content": " C'est"
+        },
+        {
+          "startTime": 135289,
+          "endTime": 135789,
+          "content": " gai,"
+        },
+        {
+          "startTime": 135800,
+          "endTime": 135979,
+          "content": " il"
+        },
+        {
+          "startTime": 135990,
+          "endTime": 136130,
+          "content": " fait"
+        },
+        {
+          "startTime": 136139,
+          "endTime": 136380,
+          "content": " beau."
+        },
+        {
+          "startTime": 136410,
+          "endTime": 136699,
+          "content": " C'est"
+        },
+        {
+          "startTime": 136710,
+          "endTime": 137149,
+          "content": " agréable"
+        },
+        {
+          "startTime": 137160,
+          "endTime": 137369,
+          "content": " d'être"
+        },
+        {
+          "startTime": 137380,
+          "endTime": 137529,
+          "content": " avec"
+        },
+        {
+          "startTime": 137539,
+          "endTime": 137610,
+          "content": " les"
+        },
+        {
+          "startTime": 137619,
+          "endTime": 137860,
+          "content": " enfants,"
+        },
+        {
+          "startTime": 137869,
+          "endTime": 137899,
+          "content": " de"
+        },
+        {
+          "startTime": 137910,
+          "endTime": 138259,
+          "content": " partager"
+        },
+        {
+          "startTime": 138270,
+          "endTime": 138389,
+          "content": " ce"
+        },
+        {
+          "startTime": 138399,
+          "endTime": 138570,
+          "content": " moment,"
+        },
+        {
+          "startTime": 138580,
+          "endTime": 138589,
+          "content": " de"
+        },
+        {
+          "startTime": 138600,
+          "endTime": 139100,
+          "content": " transmettre"
+        },
+        {
+          "startTime": 139110,
+          "endTime": 139600,
+          "content": " aussi"
+        },
+        {
+          "startTime": 139610,
+          "endTime": 139789,
+          "content": " cette"
+        },
+        {
+          "startTime": 139800,
+          "endTime": 140440,
+          "content": " tradition."
+        }
+      ]
+    },
+    {
+      "startTime": 145210,
+      "endTime": 155490,
+      "speaker": "Alexandre de Saint Aignan",
+      "items": [
+        {
+          "startTime": 145210,
+          "endTime": 145520,
+          "content": "Voilà"
+        },
+        {
+          "startTime": 145529,
+          "endTime": 145679,
+          "content": " pour"
+        },
+        {
+          "startTime": 145690,
+          "endTime": 145800,
+          "content": " le"
+        },
+        {
+          "startTime": 145809,
+          "endTime": 146250,
+          "content": " défilé"
+        },
+        {
+          "startTime": 146259,
+          "endTime": 146320,
+          "content": " de"
+        },
+        {
+          "startTime": 146330,
+          "endTime": 146539,
+          "content": " la"
+        },
+        {
+          "startTime": 146550,
+          "endTime": 147240,
+          "content": " Saint-nicolas,"
+        },
+        {
+          "startTime": 147250,
+          "endTime": 147429,
+          "content": " hier"
+        },
+        {
+          "startTime": 147440,
+          "endTime": 147679,
+          "content": " soir"
+        },
+        {
+          "startTime": 147690,
+          "endTime": 147990,
+          "content": " à"
+        },
+        {
+          "startTime": 148000,
+          "endTime": 148449,
+          "content": " Metz."
+        },
+        {
+          "startTime": 148490,
+          "endTime": 148649,
+          "content": " Des"
+        },
+        {
+          "startTime": 148660,
+          "endTime": 148929,
+          "content": " propos"
+        },
+        {
+          "startTime": 148940,
+          "endTime": 149300,
+          "content": " recueillis"
+        },
+        {
+          "startTime": 149309,
+          "endTime": 149479,
+          "content": " par"
+        },
+        {
+          "startTime": 149490,
+          "endTime": 149880,
+          "content": " Dmitri"
+        },
+        {
+          "startTime": 149889,
+          "endTime": 150169,
+          "content": " Ramelot"
+        },
+        {
+          "startTime": 150179,
+          "endTime": 150389,
+          "content": " pour"
+        },
+        {
+          "startTime": 150399,
+          "endTime": 150679,
+          "content": " RTL."
+        },
+        {
+          "startTime": 150690,
+          "endTime": 150839,
+          "content": " La"
+        },
+        {
+          "startTime": 150850,
+          "endTime": 151179,
+          "content": " météo,"
+        },
+        {
+          "startTime": 151190,
+          "endTime": 151419,
+          "content": " cet"
+        },
+        {
+          "startTime": 151429,
+          "endTime": 151860,
+          "content": " après-midi"
+        },
+        {
+          "startTime": 151869,
+          "endTime": 152199,
+          "content": " retour"
+        },
+        {
+          "startTime": 152210,
+          "endTime": 152380,
+          "content": " d'une"
+        },
+        {
+          "startTime": 152389,
+          "endTime": 152720,
+          "content": " certaine"
+        },
+        {
+          "startTime": 152729,
+          "endTime": 153240,
+          "content": " douceur"
+        },
+        {
+          "startTime": 153250,
+          "endTime": 153429,
+          "content": " sous"
+        },
+        {
+          "startTime": 153440,
+          "endTime": 153500,
+          "content": " un"
+        },
+        {
+          "startTime": 153509,
+          "endTime": 153899,
+          "content": " ciel"
+        },
+        {
+          "startTime": 153910,
+          "endTime": 154220,
+          "content": " encore"
+        },
+        {
+          "startTime": 154229,
+          "endTime": 154380,
+          "content": " assez"
+        },
+        {
+          "startTime": 154389,
+          "endTime": 154929,
+          "content": " perturbé"
+        },
+        {
+          "startTime": 155199,
+          "endTime": 155490,
+          "content": " avec"
+        }
+      ]
+    }
+  ]
+}

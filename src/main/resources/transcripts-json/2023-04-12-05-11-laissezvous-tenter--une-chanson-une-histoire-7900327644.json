@@ -1,0 +1,891 @@
+{
+  "media": {
+    "id": 7900327644,
+    "programId": 18102,
+    "program": "Laissez-vous tenter",
+    "date": "2023-04-12",
+    "time": "05:11",
+    "title": "UNE CHANSON - L'histoire de \"My Sweet Lord\" de George Harrison",
+    "summary": "Ecoutez \"Une chanson, une histoire\" du 4 décembre 2023 avec Jérôme Florin.",
+    "speakers": [
+      "Jérôme Florin"
+    ]
+  },
+  "source": "amazon",
+  "segments": [
+    {
+      "startTime": 340,
+      "endTime": 2150,
+      "speaker": "Jingle",
+      "items": [
+        {
+          "startTime": 340,
+          "endTime": 860,
+          "content": "vous"
+        },
+        {
+          "startTime": 870,
+          "endTime": 1100,
+          "content": " êtes"
+        },
+        {
+          "startTime": 1110,
+          "endTime": 1460,
+          "content": " sur"
+        },
+        {
+          "startTime": 1470,
+          "endTime": 2150,
+          "content": " RTL"
+        }
+      ]
+    },
+    {
+      "startTime": 3700,
+      "endTime": 306660,
+      "speaker": "Voix 2",
+      "items": [
+        {
+          "startTime": 3700,
+          "endTime": 3960,
+          "content": "une"
+        },
+        {
+          "startTime": 3970,
+          "endTime": 4630,
+          "content": " chanson,"
+        },
+        {
+          "startTime": 4639,
+          "endTime": 4840,
+          "content": " une"
+        },
+        {
+          "startTime": 4849,
+          "endTime": 5250,
+          "content": " histoire"
+        },
+        {
+          "startTime": 5260,
+          "endTime": 5349,
+          "content": " ce"
+        },
+        {
+          "startTime": 5360,
+          "endTime": 5550,
+          "content": " matin"
+        },
+        {
+          "startTime": 5559,
+          "endTime": 5750,
+          "content": " avec"
+        },
+        {
+          "startTime": 5760,
+          "endTime": 6010,
+          "content": " George"
+        },
+        {
+          "startTime": 6019,
+          "endTime": 6659,
+          "content": " Harrison"
+        },
+        {
+          "startTime": 12590,
+          "endTime": 13050,
+          "content": " My"
+        },
+        {
+          "startTime": 13329,
+          "endTime": 13800,
+          "content": " Lord"
+        },
+        {
+          "startTime": 13810,
+          "endTime": 14039,
+          "content": " mille"
+        },
+        {
+          "startTime": 14050,
+          "endTime": 14279,
+          "content": " neuf"
+        },
+        {
+          "startTime": 14289,
+          "endTime": 14609,
+          "content": " cent"
+        },
+        {
+          "startTime": 14619,
+          "endTime": 15119,
+          "content": " soixante"
+        },
+        {
+          "startTime": 15130,
+          "endTime": 15310,
+          "content": " dix."
+        },
+        {
+          "startTime": 15319,
+          "endTime": 15409,
+          "content": " Est"
+        },
+        {
+          "startTime": 15420,
+          "endTime": 15829,
+          "content": " ce"
+        },
+        {
+          "startTime": 15840,
+          "endTime": 15850,
+          "content": " que"
+        },
+        {
+          "startTime": 15859,
+          "endTime": 15979,
+          "content": " vous"
+        },
+        {
+          "startTime": 15989,
+          "endTime": 16540,
+          "content": " connaissez"
+        },
+        {
+          "startTime": 16549,
+          "endTime": 16700,
+          "content": " le"
+        },
+        {
+          "startTime": 16709,
+          "endTime": 17049,
+          "content": " mot"
+        },
+        {
+          "startTime": 17190,
+          "endTime": 18329,
+          "content": " cryptomnésie?"
+        },
+        {
+          "startTime": 18680,
+          "endTime": 18899,
+          "content": " Non"
+        },
+        {
+          "startTime": 18909,
+          "endTime": 19559,
+          "content": " cryptomonnaie"
+        },
+        {
+          "startTime": 19569,
+          "endTime": 19770,
+          "content": " oui,"
+        },
+        {
+          "startTime": 19780,
+          "endTime": 19889,
+          "content": " mais"
+        },
+        {
+          "startTime": 20469,
+          "endTime": 21370,
+          "content": " cryptomnésie"
+        },
+        {
+          "startTime": 21379,
+          "endTime": 21569,
+          "content": " ça"
+        },
+        {
+          "startTime": 21579,
+          "endTime": 21670,
+          "content": " veut"
+        },
+        {
+          "startTime": 21680,
+          "endTime": 22079,
+          "content": " dire"
+        },
+        {
+          "startTime": 22090,
+          "endTime": 22739,
+          "content": " souvenir"
+        },
+        {
+          "startTime": 22750,
+          "endTime": 23170,
+          "content": " caché,"
+        },
+        {
+          "startTime": 23579,
+          "endTime": 23799,
+          "content": " c'est"
+        },
+        {
+          "startTime": 23809,
+          "endTime": 24000,
+          "content": " quand"
+        },
+        {
+          "startTime": 24010,
+          "endTime": 24200,
+          "content": " on"
+        },
+        {
+          "startTime": 24209,
+          "endTime": 24659,
+          "content": " croit"
+        },
+        {
+          "startTime": 24670,
+          "endTime": 25360,
+          "content": " découvrir"
+        },
+        {
+          "startTime": 25370,
+          "endTime": 25479,
+          "content": " ou"
+        },
+        {
+          "startTime": 25489,
+          "endTime": 25969,
+          "content": " inventer"
+        },
+        {
+          "startTime": 25979,
+          "endTime": 26329,
+          "content": " quelque"
+        },
+        {
+          "startTime": 26340,
+          "endTime": 26719,
+          "content": " chose,"
+        },
+        {
+          "startTime": 26729,
+          "endTime": 26940,
+          "content": " alors"
+        },
+        {
+          "startTime": 26950,
+          "endTime": 27100,
+          "content": " qu'en"
+        },
+        {
+          "startTime": 27110,
+          "endTime": 27469,
+          "content": " réalité"
+        },
+        {
+          "startTime": 27479,
+          "endTime": 27600,
+          "content": " on"
+        },
+        {
+          "startTime": 27610,
+          "endTime": 27670,
+          "content": " ne"
+        },
+        {
+          "startTime": 27680,
+          "endTime": 27879,
+          "content": " fait"
+        },
+        {
+          "startTime": 27889,
+          "endTime": 28270,
+          "content": " que"
+        },
+        {
+          "startTime": 28510,
+          "endTime": 28670,
+          "content": " que"
+        },
+        {
+          "startTime": 28680,
+          "endTime": 28860,
+          "content": " se"
+        },
+        {
+          "startTime": 28870,
+          "endTime": 29809,
+          "content": " souvenir."
+        },
+        {
+          "startTime": 30209,
+          "endTime": 30250,
+          "content": " C'est"
+        },
+        {
+          "startTime": 30260,
+          "endTime": 30569,
+          "content": " ce"
+        },
+        {
+          "startTime": 30579,
+          "endTime": 30840,
+          "content": " qu'aurait"
+        },
+        {
+          "startTime": 30850,
+          "endTime": 31450,
+          "content": " expérimenté"
+        },
+        {
+          "startTime": 31459,
+          "endTime": 31780,
+          "content": " l'ancien"
+        },
+        {
+          "startTime": 31790,
+          "endTime": 32150,
+          "content": " beatle"
+        },
+        {
+          "startTime": 32159,
+          "endTime": 32659,
+          "content": " George"
+        },
+        {
+          "startTime": 32669,
+          "endTime": 33200,
+          "content": " Harrison,"
+        },
+        {
+          "startTime": 33209,
+          "endTime": 33360,
+          "content": " qui"
+        },
+        {
+          "startTime": 33369,
+          "endTime": 33500,
+          "content": " fut"
+        },
+        {
+          "startTime": 33509,
+          "endTime": 33849,
+          "content": " accusé"
+        },
+        {
+          "startTime": 33860,
+          "endTime": 33979,
+          "content": " de"
+        },
+        {
+          "startTime": 33990,
+          "endTime": 34630,
+          "content": " plagiat"
+        },
+        {
+          "startTime": 34639,
+          "endTime": 35000,
+          "content": " Pour"
+        },
+        {
+          "startTime": 35009,
+          "endTime": 35290,
+          "content": " cette"
+        },
+        {
+          "startTime": 35299,
+          "endTime": 35740,
+          "content": " chanson,"
+        },
+        {
+          "startTime": 36040,
+          "endTime": 36130,
+          "content": " il"
+        },
+        {
+          "startTime": 36139,
+          "endTime": 36209,
+          "content": " y"
+        },
+        {
+          "startTime": 36220,
+          "endTime": 36259,
+          "content": " a"
+        },
+        {
+          "startTime": 36270,
+          "endTime": 36290,
+          "content": " eu"
+        },
+        {
+          "startTime": 36299,
+          "endTime": 36450,
+          "content": " un"
+        },
+        {
+          "startTime": 36459,
+          "endTime": 36970,
+          "content": " procès"
+        },
+        {
+          "startTime": 36979,
+          "endTime": 37110,
+          "content": " et"
+        },
+        {
+          "startTime": 37119,
+          "endTime": 37189,
+          "content": " le"
+        },
+        {
+          "startTime": 37200,
+          "endTime": 37650,
+          "content": " tribunal"
+        },
+        {
+          "startTime": 37659,
+          "endTime": 37990,
+          "content": " a"
+        },
+        {
+          "startTime": 38000,
+          "endTime": 38299,
+          "content": " conclu"
+        },
+        {
+          "startTime": 38310,
+          "endTime": 38750,
+          "content": " qu'Harrison"
+        },
+        {
+          "startTime": 38759,
+          "endTime": 39139,
+          "content": " s'était"
+        },
+        {
+          "startTime": 39150,
+          "endTime": 40159,
+          "content": " involontairement"
+        },
+        {
+          "startTime": 40169,
+          "endTime": 40790,
+          "content": " inspiré"
+        },
+        {
+          "startTime": 40799,
+          "endTime": 41110,
+          "content": " d'une"
+        },
+        {
+          "startTime": 41119,
+          "endTime": 41490,
+          "content": " chanson"
+        },
+        {
+          "startTime": 41500,
+          "endTime": 41840,
+          "content": " sortie"
+        },
+        {
+          "startTime": 41849,
+          "endTime": 42090,
+          "content": " quelques"
+        },
+        {
+          "startTime": 42099,
+          "endTime": 42299,
+          "content": " années"
+        },
+        {
+          "startTime": 42310,
+          "endTime": 42549,
+          "content": " plus"
+        },
+        {
+          "startTime": 42560,
+          "endTime": 42900,
+          "content": " tôt."
+        },
+        {
+          "startTime": 43240,
+          "endTime": 43340,
+          "content": " Un"
+        },
+        {
+          "startTime": 43349,
+          "endTime": 43860,
+          "content": " titre"
+        },
+        {
+          "startTime": 43869,
+          "endTime": 44020,
+          "content": " du"
+        },
+        {
+          "startTime": 44029,
+          "endTime": 44209,
+          "content": " groupe"
+        },
+        {
+          "startTime": 44220,
+          "endTime": 44830,
+          "content": " féminin"
+        },
+        {
+          "startTime": 44840,
+          "endTime": 45090,
+          "content": " The"
+        },
+        {
+          "startTime": 45099,
+          "endTime": 45500,
+          "content": " Siffons"
+        },
+        {
+          "startTime": 46009,
+          "endTime": 46080,
+          "content": " Hea"
+        },
+        {
+          "startTime": 46259,
+          "endTime": 46680,
+          "content": " fin."
+        },
+        {
+          "startTime": 62770,
+          "endTime": 62939,
+          "content": " C'est"
+        },
+        {
+          "startTime": 62950,
+          "endTime": 63049,
+          "content": " vrai"
+        },
+        {
+          "startTime": 63060,
+          "endTime": 63110,
+          "content": " que"
+        },
+        {
+          "startTime": 63119,
+          "endTime": 63209,
+          "content": " c'est"
+        },
+        {
+          "startTime": 63220,
+          "endTime": 63349,
+          "content": " très"
+        },
+        {
+          "startTime": 63360,
+          "endTime": 63729,
+          "content": " proche,"
+        },
+        {
+          "startTime": 63740,
+          "endTime": 64029,
+          "content": " très,"
+        },
+        {
+          "startTime": 64040,
+          "endTime": 64199,
+          "content": " très"
+        },
+        {
+          "startTime": 64209,
+          "endTime": 64559,
+          "content": " proche."
+        },
+        {
+          "startTime": 64980,
+          "endTime": 65330,
+          "content": " Mêmes"
+        },
+        {
+          "startTime": 65339,
+          "endTime": 65769,
+          "content": " harmonies,"
+        },
+        {
+          "startTime": 65779,
+          "endTime": 65989,
+          "content": " mêmes"
+        },
+        {
+          "startTime": 66000,
+          "endTime": 66410,
+          "content": " accords."
+        },
+        {
+          "startTime": 66419,
+          "endTime": 66569,
+          "content": " Mais"
+        },
+        {
+          "startTime": 66580,
+          "endTime": 66830,
+          "content": " bon,"
+        },
+        {
+          "startTime": 66839,
+          "endTime": 66860,
+          "content": " on"
+        },
+        {
+          "startTime": 66870,
+          "endTime": 66910,
+          "content": " est"
+        },
+        {
+          "startTime": 66919,
+          "endTime": 67319,
+          "content": " toujours"
+        },
+        {
+          "startTime": 67330,
+          "endTime": 67860,
+          "content": " embarqué"
+        },
+        {
+          "startTime": 67870,
+          "endTime": 68190,
+          "content": " par"
+        },
+        {
+          "startTime": 68199,
+          "endTime": 68459,
+          "content": " la"
+        },
+        {
+          "startTime": 68470,
+          "endTime": 69089,
+          "content": " guitare"
+        },
+        {
+          "startTime": 69099,
+          "endTime": 69230,
+          "content": " et"
+        },
+        {
+          "startTime": 69239,
+          "endTime": 69339,
+          "content": " le"
+        },
+        {
+          "startTime": 69349,
+          "endTime": 69919,
+          "content": " style"
+        },
+        {
+          "startTime": 69930,
+          "endTime": 70089,
+          "content": " de"
+        },
+        {
+          "startTime": 70099,
+          "endTime": 70480,
+          "content": " George"
+        },
+        {
+          "startTime": 70489,
+          "endTime": 71330,
+          "content": " Harrison."
+        },
+        {
+          "startTime": 71410,
+          "endTime": 71680,
+          "content": " On"
+        },
+        {
+          "startTime": 71690,
+          "endTime": 72010,
+          "content": " écoute"
+        },
+        {
+          "startTime": 72019,
+          "endTime": 72370,
+          "content": " maintenant"
+        },
+        {
+          "startTime": 72379,
+          "endTime": 72569,
+          "content": " Miles"
+        },
+        {
+          "startTime": 72580,
+          "endTime": 72849,
+          "content": " Whit"
+        },
+        {
+          "startTime": 72860,
+          "endTime": 73129,
+          "content": " Lord"
+        },
+        {
+          "startTime": 73139,
+          "endTime": 73430,
+          "content": " sur"
+        },
+        {
+          "startTime": 73440,
+          "endTime": 73849,
+          "content": " RTL."
+        },
+        {
+          "startTime": 76250,
+          "endTime": 76529,
+          "content": " Une"
+        },
+        {
+          "startTime": 76540,
+          "endTime": 77379,
+          "content": " chanson,"
+        },
+        {
+          "startTime": 77500,
+          "endTime": 77760,
+          "content": " une"
+        },
+        {
+          "startTime": 77769,
+          "endTime": 78410,
+          "content": " histoire."
+        },
+        {
+          "startTime": 300010,
+          "endTime": 300040,
+          "content": " On"
+        },
+        {
+          "startTime": 300049,
+          "endTime": 300119,
+          "content": " a"
+        },
+        {
+          "startTime": 300130,
+          "endTime": 300309,
+          "content": " tous"
+        },
+        {
+          "startTime": 300320,
+          "endTime": 300579,
+          "content": " envie"
+        },
+        {
+          "startTime": 300589,
+          "endTime": 300619,
+          "content": " de"
+        },
+        {
+          "startTime": 300630,
+          "endTime": 300760,
+          "content": " se"
+        },
+        {
+          "startTime": 300769,
+          "endTime": 300989,
+          "content": " lever,"
+        },
+        {
+          "startTime": 301000,
+          "endTime": 301089,
+          "content": " de"
+        },
+        {
+          "startTime": 301100,
+          "endTime": 301260,
+          "content": " faire"
+        },
+        {
+          "startTime": 301269,
+          "endTime": 301369,
+          "content": " la"
+        },
+        {
+          "startTime": 301380,
+          "endTime": 301440,
+          "content": " fête"
+        },
+        {
+          "startTime": 301450,
+          "endTime": 301660,
+          "content": " et"
+        },
+        {
+          "startTime": 301670,
+          "endTime": 301700,
+          "content": " de"
+        },
+        {
+          "startTime": 301709,
+          "endTime": 302170,
+          "content": " s'embrasser"
+        },
+        {
+          "startTime": 302179,
+          "endTime": 302339,
+          "content": " Quand"
+        },
+        {
+          "startTime": 302350,
+          "endTime": 302450,
+          "content": " on"
+        },
+        {
+          "startTime": 302459,
+          "endTime": 302739,
+          "content": " écoute"
+        },
+        {
+          "startTime": 302750,
+          "endTime": 302920,
+          "content": " cette"
+        },
+        {
+          "startTime": 302929,
+          "endTime": 303760,
+          "content": " chanson."
+        },
+        {
+          "startTime": 304260,
+          "endTime": 304459,
+          "content": " Se"
+        },
+        {
+          "startTime": 304470,
+          "endTime": 304709,
+          "content": " lever,"
+        },
+        {
+          "startTime": 304910,
+          "endTime": 305119,
+          "content": " alors"
+        },
+        {
+          "startTime": 305130,
+          "endTime": 305269,
+          "content": " faire"
+        },
+        {
+          "startTime": 305279,
+          "endTime": 305399,
+          "content": " la"
+        },
+        {
+          "startTime": 305410,
+          "endTime": 305630,
+          "content": " fête,"
+        },
+        {
+          "startTime": 305640,
+          "endTime": 305899,
+          "content": " non,"
+        },
+        {
+          "startTime": 305910,
+          "endTime": 306040,
+          "content": " Mais"
+        },
+        {
+          "startTime": 306049,
+          "endTime": 306660,
+          "content": " sinon"
+        }
+      ]
+    }
+  ]
+}

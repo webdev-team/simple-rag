@@ -18,13 +18,15 @@ import org.springframework.context.annotation.Bean
 import org.springframework.core.io.ResourceLoader
 
 import java.time.Duration
-import java.time.temporal.ChronoUnit
 
 import static java.time.temporal.ChronoUnit.SECONDS
 
 @SpringBootApplication
 class SimpleRagApplication {
     static final String MODEL = OpenAiModelName.GPT_4
+
+    @Value('${OPENAI_API_KEY}')
+    String openAiApiKey
 
     static void main(String[] args) {
         SpringApplication.run(SimpleRagApplication, args)
@@ -41,7 +43,7 @@ class SimpleRagApplication {
     @Bean
     ChatLanguageModel chatLanguageModel() {
         OpenAiChatModel.builder()
-                .apiKey('xxx')
+                .apiKey(openAiApiKey)
                 .modelName(MODEL)
                 .temperature(0)
 //                .topP(1.0)

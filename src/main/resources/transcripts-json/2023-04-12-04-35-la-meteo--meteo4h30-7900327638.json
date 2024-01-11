@@ -1,0 +1,2555 @@
+{
+  "media": {
+    "id": 7900327638,
+    "programId": 5141228,
+    "program": "La météo",
+    "date": "2023-04-12",
+    "time": "04:35",
+    "title": "La météo du 04 décembre 2023",
+    "summary": "Ecoutez La météo du 04 décembre 2023 avec Le service météo de RTL.",
+    "speakers": [
+      "Le service météo de RTL"
+    ]
+  },
+  "source": "amazon",
+  "segments": [
+    {
+      "startTime": 340,
+      "endTime": 2150,
+      "speaker": "Jingle",
+      "items": [
+        {
+          "startTime": 340,
+          "endTime": 860,
+          "content": "vous"
+        },
+        {
+          "startTime": 870,
+          "endTime": 1100,
+          "content": " êtes"
+        },
+        {
+          "startTime": 1110,
+          "endTime": 1460,
+          "content": " sur"
+        },
+        {
+          "startTime": 1470,
+          "endTime": 2150,
+          "content": " RTL"
+        }
+      ]
+    },
+    {
+      "startTime": 3339,
+      "endTime": 7309,
+      "speaker": "Voix 2",
+      "items": [
+        {
+          "startTime": 3339,
+          "endTime": 3480,
+          "content": "le"
+        },
+        {
+          "startTime": 3490,
+          "endTime": 4090,
+          "content": " matin."
+        },
+        {
+          "startTime": 4099,
+          "endTime": 4639,
+          "content": " Marina,"
+        },
+        {
+          "startTime": 4650,
+          "endTime": 4679,
+          "content": " Est"
+        },
+        {
+          "startTime": 4690,
+          "endTime": 4769,
+          "content": " ce"
+        },
+        {
+          "startTime": 4780,
+          "endTime": 4869,
+          "content": " qu'on"
+        },
+        {
+          "startTime": 4880,
+          "endTime": 5010,
+          "content": " va"
+        },
+        {
+          "startTime": 5019,
+          "endTime": 5369,
+          "content": " garder"
+        },
+        {
+          "startTime": 5380,
+          "endTime": 5610,
+          "content": " ce"
+        },
+        {
+          "startTime": 5619,
+          "endTime": 6030,
+          "content": " froid"
+        },
+        {
+          "startTime": 6039,
+          "endTime": 6190,
+          "content": " qui"
+        },
+        {
+          "startTime": 6199,
+          "endTime": 6329,
+          "content": " nous"
+        },
+        {
+          "startTime": 6340,
+          "endTime": 6369,
+          "content": " a"
+        },
+        {
+          "startTime": 6380,
+          "endTime": 6760,
+          "content": " accompagnés"
+        },
+        {
+          "startTime": 6769,
+          "endTime": 6920,
+          "content": " tout"
+        },
+        {
+          "startTime": 6929,
+          "endTime": 6980,
+          "content": " le"
+        },
+        {
+          "startTime": 6989,
+          "endTime": 7170,
+          "content": " week"
+        },
+        {
+          "startTime": 7179,
+          "endTime": 7309,
+          "content": " end?"
+        }
+      ]
+    },
+    {
+      "startTime": 7320,
+      "endTime": 129354,
+      "speaker": "Voix 3",
+      "items": [
+        {
+          "startTime": 7320,
+          "endTime": 7510,
+          "content": "Non,"
+        },
+        {
+          "startTime": 7519,
+          "endTime": 7670,
+          "content": " non,"
+        },
+        {
+          "startTime": 7679,
+          "endTime": 7809,
+          "content": " non,"
+        },
+        {
+          "startTime": 7820,
+          "endTime": 7989,
+          "content": " non."
+        },
+        {
+          "startTime": 8000,
+          "endTime": 8149,
+          "content": " Les"
+        },
+        {
+          "startTime": 8159,
+          "endTime": 8770,
+          "content": " températures"
+        },
+        {
+          "startTime": 8779,
+          "endTime": 8989,
+          "content": " vont"
+        },
+        {
+          "startTime": 9000,
+          "endTime": 9539,
+          "content": " remonter."
+        },
+        {
+          "startTime": 9550,
+          "endTime": 9789,
+          "content": " Alors"
+        },
+        {
+          "startTime": 9800,
+          "endTime": 9909,
+          "content": " ce"
+        },
+        {
+          "startTime": 9920,
+          "endTime": 10109,
+          "content": " matin,"
+        },
+        {
+          "startTime": 10119,
+          "endTime": 10189,
+          "content": " il"
+        },
+        {
+          "startTime": 10199,
+          "endTime": 10250,
+          "content": " y"
+        },
+        {
+          "startTime": 10260,
+          "endTime": 10310,
+          "content": " a"
+        },
+        {
+          "startTime": 10319,
+          "endTime": 10470,
+          "content": " quand"
+        },
+        {
+          "startTime": 10479,
+          "endTime": 10630,
+          "content": " même"
+        },
+        {
+          "startTime": 10640,
+          "endTime": 10909,
+          "content": " encore"
+        },
+        {
+          "startTime": 10920,
+          "endTime": 11090,
+          "content": " des"
+        },
+        {
+          "startTime": 11100,
+          "endTime": 11319,
+          "content": " gelées"
+        },
+        {
+          "startTime": 11329,
+          "endTime": 11529,
+          "content": " sur"
+        },
+        {
+          "startTime": 11539,
+          "endTime": 11649,
+          "content": " la"
+        },
+        {
+          "startTime": 11659,
+          "endTime": 12029,
+          "content": " façade"
+        },
+        {
+          "startTime": 12039,
+          "endTime": 12289,
+          "content": " est."
+        },
+        {
+          "startTime": 12300,
+          "endTime": 12409,
+          "content": " On"
+        },
+        {
+          "startTime": 12420,
+          "endTime": 12500,
+          "content": " a"
+        },
+        {
+          "startTime": 12510,
+          "endTime": 12689,
+          "content": " moins"
+        },
+        {
+          "startTime": 12699,
+          "endTime": 12949,
+          "content": " trois"
+        },
+        {
+          "startTime": 12960,
+          "endTime": 13090,
+          "content": " à"
+        },
+        {
+          "startTime": 13100,
+          "endTime": 13539,
+          "content": " Épinal"
+        },
+        {
+          "startTime": 13550,
+          "endTime": 13590,
+          "content": " et"
+        },
+        {
+          "startTime": 13600,
+          "endTime": 13640,
+          "content": " à"
+        },
+        {
+          "startTime": 13649,
+          "endTime": 14069,
+          "content": " Mulhouse,"
+        },
+        {
+          "startTime": 14079,
+          "endTime": 14279,
+          "content": " moins"
+        },
+        {
+          "startTime": 14289,
+          "endTime": 14510,
+          "content": " deux"
+        },
+        {
+          "startTime": 14520,
+          "endTime": 14619,
+          "content": " à"
+        },
+        {
+          "startTime": 14630,
+          "endTime": 15149,
+          "content": " Besançon,"
+        },
+        {
+          "startTime": 15159,
+          "endTime": 15380,
+          "content": " moins"
+        },
+        {
+          "startTime": 15390,
+          "endTime": 15439,
+          "content": " un"
+        },
+        {
+          "startTime": 15449,
+          "endTime": 15550,
+          "content": " à"
+        },
+        {
+          "startTime": 15560,
+          "endTime": 16159,
+          "content": " Grenoble,"
+        },
+        {
+          "startTime": 16370,
+          "endTime": 16729,
+          "content": " deux"
+        },
+        {
+          "startTime": 16739,
+          "endTime": 16829,
+          "content": " à"
+        },
+        {
+          "startTime": 16840,
+          "endTime": 17069,
+          "content": " Lille,"
+        },
+        {
+          "startTime": 17079,
+          "endTime": 17270,
+          "content": " trois"
+        },
+        {
+          "startTime": 17280,
+          "endTime": 17350,
+          "content": " à"
+        },
+        {
+          "startTime": 17360,
+          "endTime": 17629,
+          "content": " Évreux."
+        },
+        {
+          "startTime": 17639,
+          "endTime": 17780,
+          "content": " C'est"
+        },
+        {
+          "startTime": 17790,
+          "endTime": 17899,
+          "content": " quand"
+        },
+        {
+          "startTime": 17909,
+          "endTime": 18209,
+          "content": " même"
+        },
+        {
+          "startTime": 18219,
+          "endTime": 18670,
+          "content": " faible."
+        },
+        {
+          "startTime": 18680,
+          "endTime": 19030,
+          "content": " Quatre"
+        },
+        {
+          "startTime": 19040,
+          "endTime": 19110,
+          "content": " à"
+        },
+        {
+          "startTime": 19120,
+          "endTime": 19709,
+          "content": " Paris,"
+        },
+        {
+          "startTime": 19719,
+          "endTime": 20229,
+          "content": " six"
+        },
+        {
+          "startTime": 20239,
+          "endTime": 20309,
+          "content": " à"
+        },
+        {
+          "startTime": 20319,
+          "endTime": 20559,
+          "content": " Nice."
+        },
+        {
+          "startTime": 20569,
+          "endTime": 20750,
+          "content": " Mais"
+        },
+        {
+          "startTime": 20760,
+          "endTime": 21030,
+          "content": " déjà"
+        },
+        {
+          "startTime": 21040,
+          "endTime": 21170,
+          "content": " sur"
+        },
+        {
+          "startTime": 21180,
+          "endTime": 21280,
+          "content": " la"
+        },
+        {
+          "startTime": 21290,
+          "endTime": 21629,
+          "content": " façade"
+        },
+        {
+          "startTime": 21639,
+          "endTime": 22090,
+          "content": " atlantique,"
+        },
+        {
+          "startTime": 22100,
+          "endTime": 22200,
+          "content": " les"
+        },
+        {
+          "startTime": 22209,
+          "endTime": 22709,
+          "content": " températures"
+        },
+        {
+          "startTime": 22719,
+          "endTime": 22780,
+          "content": " ont"
+        },
+        {
+          "startTime": 22790,
+          "endTime": 22930,
+          "content": " bien"
+        },
+        {
+          "startTime": 22940,
+          "endTime": 23159,
+          "content": " remonté"
+        },
+        {
+          "startTime": 23170,
+          "endTime": 23409,
+          "content": " et"
+        },
+        {
+          "startTime": 23420,
+          "endTime": 23450,
+          "content": " on"
+        },
+        {
+          "startTime": 23459,
+          "endTime": 23790,
+          "content": " dépasse"
+        },
+        {
+          "startTime": 23799,
+          "endTime": 23909,
+          "content": " les"
+        },
+        {
+          "startTime": 23920,
+          "endTime": 24049,
+          "content": " dix"
+        },
+        {
+          "startTime": 24059,
+          "endTime": 24479,
+          "content": " degrés"
+        },
+        {
+          "startTime": 24680,
+          "endTime": 25000,
+          "content": " puisque"
+        },
+        {
+          "startTime": 25010,
+          "endTime": 25170,
+          "content": " l'on"
+        },
+        {
+          "startTime": 25180,
+          "endTime": 25270,
+          "content": " a"
+        },
+        {
+          "startTime": 25280,
+          "endTime": 25559,
+          "content": " douze"
+        },
+        {
+          "startTime": 25569,
+          "endTime": 25639,
+          "content": " à"
+        },
+        {
+          "startTime": 25649,
+          "endTime": 26149,
+          "content": " Biarritz"
+        },
+        {
+          "startTime": 26159,
+          "endTime": 26229,
+          "content": " et"
+        },
+        {
+          "startTime": 26239,
+          "endTime": 26329,
+          "content": " à"
+        },
+        {
+          "startTime": 26340,
+          "endTime": 26680,
+          "content": " Quimper."
+        },
+        {
+          "startTime": 26690,
+          "endTime": 26870,
+          "content": " Il"
+        },
+        {
+          "startTime": 26879,
+          "endTime": 26950,
+          "content": " fait"
+        },
+        {
+          "startTime": 26959,
+          "endTime": 27379,
+          "content": " quatorze"
+        },
+        {
+          "startTime": 27389,
+          "endTime": 27879,
+          "content": " degrés"
+        },
+        {
+          "startTime": 27969,
+          "endTime": 28270,
+          "content": " sur"
+        },
+        {
+          "startTime": 28280,
+          "endTime": 28450,
+          "content": " l'île"
+        },
+        {
+          "startTime": 28459,
+          "endTime": 28629,
+          "content": " d'Yeu,"
+        },
+        {
+          "startTime": 28639,
+          "endTime": 28709,
+          "content": " donc"
+        },
+        {
+          "startTime": 28719,
+          "endTime": 28790,
+          "content": " en"
+        },
+        {
+          "startTime": 28799,
+          "endTime": 29020,
+          "content": " fait"
+        },
+        {
+          "startTime": 29145,
+          "endTime": 29225,
+          "content": " a"
+        },
+        {
+          "startTime": 29236,
+          "endTime": 29315,
+          "content": " une"
+        },
+        {
+          "startTime": 29326,
+          "endTime": 30045,
+          "content": " perturbation"
+        },
+        {
+          "startTime": 30055,
+          "endTime": 30215,
+          "content": " qui"
+        },
+        {
+          "startTime": 30225,
+          "endTime": 30475,
+          "content": " arrive"
+        },
+        {
+          "startTime": 30486,
+          "endTime": 30676,
+          "content": " avec"
+        },
+        {
+          "startTime": 30686,
+          "endTime": 30725,
+          "content": " de"
+        },
+        {
+          "startTime": 30736,
+          "endTime": 30986,
+          "content": " l'air"
+        },
+        {
+          "startTime": 30996,
+          "endTime": 31156,
+          "content": " plus"
+        },
+        {
+          "startTime": 31166,
+          "endTime": 31725,
+          "content": " doux."
+        },
+        {
+          "startTime": 31736,
+          "endTime": 31975,
+          "content": " Donc"
+        },
+        {
+          "startTime": 31986,
+          "endTime": 32206,
+          "content": " cet"
+        },
+        {
+          "startTime": 32215,
+          "endTime": 32445,
+          "content": " après"
+        },
+        {
+          "startTime": 32456,
+          "endTime": 32835,
+          "content": " midi,"
+        },
+        {
+          "startTime": 32846,
+          "endTime": 33055,
+          "content": " les"
+        },
+        {
+          "startTime": 33066,
+          "endTime": 33875,
+          "content": " températures"
+        },
+        {
+          "startTime": 33886,
+          "endTime": 34305,
+          "content": " seront"
+        },
+        {
+          "startTime": 34316,
+          "endTime": 34566,
+          "content": " en"
+        },
+        {
+          "startTime": 34576,
+          "endTime": 35015,
+          "content": " hausse."
+        },
+        {
+          "startTime": 35116,
+          "endTime": 35326,
+          "content": " On"
+        },
+        {
+          "startTime": 35335,
+          "endTime": 35515,
+          "content": " aura"
+        },
+        {
+          "startTime": 35526,
+          "endTime": 35715,
+          "content": " trois"
+        },
+        {
+          "startTime": 35726,
+          "endTime": 35776,
+          "content": " à"
+        },
+        {
+          "startTime": 35785,
+          "endTime": 36326,
+          "content": " Strasbourg,"
+        },
+        {
+          "startTime": 36335,
+          "endTime": 36456,
+          "content": " mais"
+        },
+        {
+          "startTime": 36465,
+          "endTime": 36566,
+          "content": " c'est"
+        },
+        {
+          "startTime": 36576,
+          "endTime": 36695,
+          "content": " quand"
+        },
+        {
+          "startTime": 36706,
+          "endTime": 36875,
+          "content": " même"
+        },
+        {
+          "startTime": 36886,
+          "endTime": 37055,
+          "content": " deux"
+        },
+        {
+          "startTime": 37066,
+          "endTime": 37326,
+          "content": " degrés"
+        },
+        {
+          "startTime": 37335,
+          "endTime": 37405,
+          "content": " de"
+        },
+        {
+          "startTime": 37416,
+          "endTime": 37645,
+          "content": " plus"
+        },
+        {
+          "startTime": 37655,
+          "endTime": 37956,
+          "content": " qu'hier"
+        },
+        {
+          "startTime": 37965,
+          "endTime": 38215,
+          "content": " après"
+        },
+        {
+          "startTime": 38226,
+          "endTime": 38515,
+          "content": " midi."
+        },
+        {
+          "startTime": 38526,
+          "endTime": 38796,
+          "content": " Quatre"
+        },
+        {
+          "startTime": 38805,
+          "endTime": 38875,
+          "content": " à"
+        },
+        {
+          "startTime": 38886,
+          "endTime": 39316,
+          "content": " Mulhouse,"
+        },
+        {
+          "startTime": 39636,
+          "endTime": 40136,
+          "content": " cinq"
+        },
+        {
+          "startTime": 40145,
+          "endTime": 40236,
+          "content": " à"
+        },
+        {
+          "startTime": 40245,
+          "endTime": 40645,
+          "content": " Lille,"
+        },
+        {
+          "startTime": 40655,
+          "endTime": 41035,
+          "content": " sept"
+        },
+        {
+          "startTime": 41046,
+          "endTime": 41125,
+          "content": " à"
+        },
+        {
+          "startTime": 41136,
+          "endTime": 41416,
+          "content": " Rouen,"
+        },
+        {
+          "startTime": 41425,
+          "endTime": 41745,
+          "content": " vous"
+        },
+        {
+          "startTime": 41756,
+          "endTime": 41936,
+          "content": " aurez"
+        },
+        {
+          "startTime": 41945,
+          "endTime": 42305,
+          "content": " neuf"
+        },
+        {
+          "startTime": 42316,
+          "endTime": 42386,
+          "content": " à"
+        },
+        {
+          "startTime": 42395,
+          "endTime": 43015,
+          "content": " Paris,"
+        },
+        {
+          "startTime": 43085,
+          "endTime": 43436,
+          "content": " neuf"
+        },
+        {
+          "startTime": 43445,
+          "endTime": 43515,
+          "content": " à"
+        },
+        {
+          "startTime": 43526,
+          "endTime": 43756,
+          "content": " Paris,"
+        },
+        {
+          "startTime": 43765,
+          "endTime": 43875,
+          "content": " on"
+        },
+        {
+          "startTime": 43886,
+          "endTime": 44105,
+          "content": " gagne"
+        },
+        {
+          "startTime": 44116,
+          "endTime": 44296,
+          "content": " cinq"
+        },
+        {
+          "startTime": 44305,
+          "endTime": 44596,
+          "content": " degrés"
+        },
+        {
+          "startTime": 44605,
+          "endTime": 44736,
+          "content": " quand"
+        },
+        {
+          "startTime": 44745,
+          "endTime": 44905,
+          "content": " même"
+        },
+        {
+          "startTime": 44916,
+          "endTime": 45035,
+          "content": " par"
+        },
+        {
+          "startTime": 45046,
+          "endTime": 45316,
+          "content": " rapport"
+        },
+        {
+          "startTime": 45326,
+          "endTime": 45456,
+          "content": " à"
+        },
+        {
+          "startTime": 45465,
+          "endTime": 45765,
+          "content": " Hyères,"
+        },
+        {
+          "startTime": 45776,
+          "endTime": 46046,
+          "content": " neuf"
+        },
+        {
+          "startTime": 46055,
+          "endTime": 46116,
+          "content": " à"
+        },
+        {
+          "startTime": 46125,
+          "endTime": 46476,
+          "content": " Lyon,"
+        },
+        {
+          "startTime": 46486,
+          "endTime": 46495,
+          "content": " à"
+        },
+        {
+          "startTime": 46506,
+          "endTime": 47445,
+          "content": " Besançon"
+        },
+        {
+          "startTime": 47456,
+          "endTime": 47756,
+          "content": " et"
+        },
+        {
+          "startTime": 47765,
+          "endTime": 47776,
+          "content": " à"
+        },
+        {
+          "startTime": 47785,
+          "endTime": 48555,
+          "content": " Alençon,"
+        },
+        {
+          "startTime": 48566,
+          "endTime": 48726,
+          "content": " vous"
+        },
+        {
+          "startTime": 48736,
+          "endTime": 48916,
+          "content": " aurez"
+        },
+        {
+          "startTime": 48925,
+          "endTime": 49465,
+          "content": " onze"
+        },
+        {
+          "startTime": 49476,
+          "endTime": 49486,
+          "content": " au"
+        },
+        {
+          "startTime": 49495,
+          "endTime": 49835,
+          "content": " Mans"
+        },
+        {
+          "startTime": 49846,
+          "endTime": 49956,
+          "content": " et"
+        },
+        {
+          "startTime": 49965,
+          "endTime": 50055,
+          "content": " à"
+        },
+        {
+          "startTime": 50066,
+          "endTime": 50316,
+          "content": " Tours,"
+        },
+        {
+          "startTime": 50326,
+          "endTime": 50585,
+          "content": " douze"
+        },
+        {
+          "startTime": 50596,
+          "endTime": 50886,
+          "content": " degrés"
+        },
+        {
+          "startTime": 50895,
+          "endTime": 51035,
+          "content": " à"
+        },
+        {
+          "startTime": 51046,
+          "endTime": 51655,
+          "content": " Marseille,"
+        },
+        {
+          "startTime": 51805,
+          "endTime": 52316,
+          "content": " treize"
+        },
+        {
+          "startTime": 52326,
+          "endTime": 52436,
+          "content": " à"
+        },
+        {
+          "startTime": 52445,
+          "endTime": 52726,
+          "content": " Nantes"
+        },
+        {
+          "startTime": 52736,
+          "endTime": 52875,
+          "content": " et"
+        },
+        {
+          "startTime": 52886,
+          "endTime": 52945,
+          "content": " à"
+        },
+        {
+          "startTime": 52956,
+          "endTime": 53256,
+          "content": " Bordeaux"
+        },
+        {
+          "startTime": 53265,
+          "endTime": 53555,
+          "content": " ainsi"
+        },
+        {
+          "startTime": 53566,
+          "endTime": 53726,
+          "content": " qu'à"
+        },
+        {
+          "startTime": 53736,
+          "endTime": 54116,
+          "content": " Toulouse"
+        },
+        {
+          "startTime": 54125,
+          "endTime": 54276,
+          "content": " et"
+        },
+        {
+          "startTime": 54285,
+          "endTime": 54605,
+          "content": " quinze"
+        },
+        {
+          "startTime": 54616,
+          "endTime": 54855,
+          "content": " à"
+        },
+        {
+          "startTime": 55091,
+          "endTime": 55291,
+          "content": " et"
+        },
+        {
+          "startTime": 55301,
+          "endTime": 55381,
+          "content": " à"
+        },
+        {
+          "startTime": 55391,
+          "endTime": 55942,
+          "content": " Perpignan."
+        },
+        {
+          "startTime": 55951,
+          "endTime": 56192,
+          "content": " Et"
+        },
+        {
+          "startTime": 56201,
+          "endTime": 56312,
+          "content": " dans"
+        },
+        {
+          "startTime": 56321,
+          "endTime": 56402,
+          "content": " le"
+        },
+        {
+          "startTime": 56411,
+          "endTime": 57012,
+          "content": " ciel."
+        },
+        {
+          "startTime": 57021,
+          "endTime": 57242,
+          "content": " Dans"
+        },
+        {
+          "startTime": 57251,
+          "endTime": 57321,
+          "content": " le"
+        },
+        {
+          "startTime": 57332,
+          "endTime": 57562,
+          "content": " ciel"
+        },
+        {
+          "startTime": 57571,
+          "endTime": 57762,
+          "content": " donc,"
+        },
+        {
+          "startTime": 57771,
+          "endTime": 57861,
+          "content": " une"
+        },
+        {
+          "startTime": 57872,
+          "endTime": 58521,
+          "content": " perturbation"
+        },
+        {
+          "startTime": 58532,
+          "endTime": 59122,
+          "content": " pluvieuse"
+        },
+        {
+          "startTime": 59131,
+          "endTime": 59262,
+          "content": " qui"
+        },
+        {
+          "startTime": 59271,
+          "endTime": 59352,
+          "content": " est"
+        },
+        {
+          "startTime": 59361,
+          "endTime": 59492,
+          "content": " en"
+        },
+        {
+          "startTime": 59501,
+          "endTime": 59672,
+          "content": " train"
+        },
+        {
+          "startTime": 59681,
+          "endTime": 59701,
+          "content": " de"
+        },
+        {
+          "startTime": 59712,
+          "endTime": 60172,
+          "content": " traverser"
+        },
+        {
+          "startTime": 60181,
+          "endTime": 60341,
+          "content": " le"
+        },
+        {
+          "startTime": 60352,
+          "endTime": 60652,
+          "content": " pays,"
+        },
+        {
+          "startTime": 60661,
+          "endTime": 60841,
+          "content": " là"
+        },
+        {
+          "startTime": 60852,
+          "endTime": 60861,
+          "content": " où"
+        },
+        {
+          "startTime": 60872,
+          "endTime": 61001,
+          "content": " elle"
+        },
+        {
+          "startTime": 61012,
+          "endTime": 61062,
+          "content": " se"
+        },
+        {
+          "startTime": 61071,
+          "endTime": 61402,
+          "content": " situe"
+        },
+        {
+          "startTime": 61411,
+          "endTime": 61701,
+          "content": " vraiment,"
+        },
+        {
+          "startTime": 61712,
+          "endTime": 62161,
+          "content": " sur"
+        },
+        {
+          "startTime": 62462,
+          "endTime": 63442,
+          "content": " la"
+        },
+        {
+          "startTime": 63451,
+          "endTime": 63762,
+          "content": " moitié"
+        },
+        {
+          "startTime": 63771,
+          "endTime": 64241,
+          "content": " ouest,"
+        },
+        {
+          "startTime": 64251,
+          "endTime": 64412,
+          "content": " de"
+        },
+        {
+          "startTime": 64421,
+          "endTime": 64531,
+          "content": " la"
+        },
+        {
+          "startTime": 64541,
+          "endTime": 65001,
+          "content": " Bretagne"
+        },
+        {
+          "startTime": 65012,
+          "endTime": 65052,
+          "content": " à"
+        },
+        {
+          "startTime": 65061,
+          "endTime": 65202,
+          "content": " la"
+        },
+        {
+          "startTime": 65211,
+          "endTime": 65751,
+          "content": " Normandie,"
+        },
+        {
+          "startTime": 65762,
+          "endTime": 65832,
+          "content": " elle"
+        },
+        {
+          "startTime": 65842,
+          "endTime": 66082,
+          "content": " commence"
+        },
+        {
+          "startTime": 66092,
+          "endTime": 66141,
+          "content": " à"
+        },
+        {
+          "startTime": 66152,
+          "endTime": 66372,
+          "content": " toucher"
+        },
+        {
+          "startTime": 66382,
+          "endTime": 66652,
+          "content": " l'Ile"
+        },
+        {
+          "startTime": 66662,
+          "endTime": 66671,
+          "content": " de"
+        },
+        {
+          "startTime": 66681,
+          "endTime": 67332,
+          "content": " France,"
+        },
+        {
+          "startTime": 67412,
+          "endTime": 67641,
+          "content": " les"
+        },
+        {
+          "startTime": 67652,
+          "endTime": 67872,
+          "content": " Pays"
+        },
+        {
+          "startTime": 67882,
+          "endTime": 67891,
+          "content": " de"
+        },
+        {
+          "startTime": 67902,
+          "endTime": 68041,
+          "content": " la"
+        },
+        {
+          "startTime": 68052,
+          "endTime": 68342,
+          "content": " Loire,"
+        },
+        {
+          "startTime": 68351,
+          "endTime": 68402,
+          "content": " le"
+        },
+        {
+          "startTime": 68412,
+          "endTime": 68732,
+          "content": " Centre"
+        },
+        {
+          "startTime": 68741,
+          "endTime": 68921,
+          "content": " Val"
+        },
+        {
+          "startTime": 68931,
+          "endTime": 68982,
+          "content": " de"
+        },
+        {
+          "startTime": 68991,
+          "endTime": 69241,
+          "content": " Loire,"
+        },
+        {
+          "startTime": 69251,
+          "endTime": 69321,
+          "content": " la"
+        },
+        {
+          "startTime": 69332,
+          "endTime": 69601,
+          "content": " Nouvelle"
+        },
+        {
+          "startTime": 69611,
+          "endTime": 70162,
+          "content": " Aquitaine"
+        },
+        {
+          "startTime": 70171,
+          "endTime": 70671,
+          "content": " et"
+        },
+        {
+          "startTime": 70681,
+          "endTime": 70722,
+          "content": " elle"
+        },
+        {
+          "startTime": 70732,
+          "endTime": 70832,
+          "content": " va"
+        },
+        {
+          "startTime": 70842,
+          "endTime": 70991,
+          "content": " très"
+        },
+        {
+          "startTime": 71001,
+          "endTime": 71122,
+          "content": " vite"
+        },
+        {
+          "startTime": 71132,
+          "endTime": 71571,
+          "content": " traverser"
+        },
+        {
+          "startTime": 71601,
+          "endTime": 72272,
+          "content": " l'est"
+        },
+        {
+          "startTime": 72281,
+          "endTime": 72421,
+          "content": " du"
+        },
+        {
+          "startTime": 72431,
+          "endTime": 72821,
+          "content": " pays."
+        },
+        {
+          "startTime": 72832,
+          "endTime": 73162,
+          "content": " Vous"
+        },
+        {
+          "startTime": 73171,
+          "endTime": 73332,
+          "content": " serez"
+        },
+        {
+          "startTime": 73342,
+          "endTime": 73601,
+          "content": " très"
+        },
+        {
+          "startTime": 73611,
+          "endTime": 73891,
+          "content": " peu"
+        },
+        {
+          "startTime": 73902,
+          "endTime": 74552,
+          "content": " épargné"
+        },
+        {
+          "startTime": 74931,
+          "endTime": 75302,
+          "content": " par"
+        },
+        {
+          "startTime": 75311,
+          "endTime": 75482,
+          "content": " cette"
+        },
+        {
+          "startTime": 75491,
+          "endTime": 76162,
+          "content": " perturbation"
+        },
+        {
+          "startTime": 76171,
+          "endTime": 76601,
+          "content": " pluvieuse"
+        },
+        {
+          "startTime": 76611,
+          "endTime": 76662,
+          "content": " à"
+        },
+        {
+          "startTime": 76671,
+          "endTime": 76702,
+          "content": " un"
+        },
+        {
+          "startTime": 76711,
+          "endTime": 77001,
+          "content": " moment"
+        },
+        {
+          "startTime": 77012,
+          "endTime": 77141,
+          "content": " où"
+        },
+        {
+          "startTime": 77152,
+          "endTime": 77202,
+          "content": " l'eau"
+        },
+        {
+          "startTime": 77211,
+          "endTime": 77291,
+          "content": " de"
+        },
+        {
+          "startTime": 77302,
+          "endTime": 77452,
+          "content": " la"
+        },
+        {
+          "startTime": 77461,
+          "endTime": 77692,
+          "content": " journée"
+        },
+        {
+          "startTime": 77702,
+          "endTime": 77842,
+          "content": " vous"
+        },
+        {
+          "startTime": 77851,
+          "endTime": 78031,
+          "content": " aurez"
+        },
+        {
+          "startTime": 78041,
+          "endTime": 78122,
+          "content": " de"
+        },
+        {
+          "startTime": 78132,
+          "endTime": 78251,
+          "content": " la"
+        },
+        {
+          "startTime": 78262,
+          "endTime": 78821,
+          "content": " pluie,"
+        },
+        {
+          "startTime": 78942,
+          "endTime": 79402,
+          "content": " voire"
+        },
+        {
+          "startTime": 79412,
+          "endTime": 79552,
+          "content": " des"
+        },
+        {
+          "startTime": 79561,
+          "endTime": 79762,
+          "content": " pluies"
+        },
+        {
+          "startTime": 79772,
+          "endTime": 80442,
+          "content": " verglaçantes"
+        },
+        {
+          "startTime": 80452,
+          "endTime": 80662,
+          "content": " vous"
+        },
+        {
+          "startTime": 80758,
+          "endTime": 81057,
+          "content": " ou"
+        },
+        {
+          "startTime": 81138,
+          "endTime": 81517,
+          "content": " quelques"
+        },
+        {
+          "startTime": 81527,
+          "endTime": 81968,
+          "content": " flocons,"
+        },
+        {
+          "startTime": 81977,
+          "endTime": 82367,
+          "content": " notamment"
+        },
+        {
+          "startTime": 82377,
+          "endTime": 82557,
+          "content": " des"
+        },
+        {
+          "startTime": 82568,
+          "endTime": 82578,
+          "content": " Hauts"
+        },
+        {
+          "startTime": 82587,
+          "endTime": 82727,
+          "content": " de"
+        },
+        {
+          "startTime": 82737,
+          "endTime": 83538,
+          "content": " France,"
+        },
+        {
+          "startTime": 83547,
+          "endTime": 83788,
+          "content": " en"
+        },
+        {
+          "startTime": 83797,
+          "endTime": 84087,
+          "content": " allant"
+        },
+        {
+          "startTime": 84097,
+          "endTime": 84447,
+          "content": " vers"
+        },
+        {
+          "startTime": 84458,
+          "endTime": 84627,
+          "content": " le"
+        },
+        {
+          "startTime": 84638,
+          "endTime": 85057,
+          "content": " Grand"
+        },
+        {
+          "startTime": 85078,
+          "endTime": 85678,
+          "content": " Est."
+        },
+        {
+          "startTime": 85938,
+          "endTime": 86208,
+          "content": " Vu"
+        },
+        {
+          "startTime": 86218,
+          "endTime": 86328,
+          "content": " les"
+        },
+        {
+          "startTime": 86337,
+          "endTime": 87047,
+          "content": " températures,"
+        },
+        {
+          "startTime": 87057,
+          "endTime": 87157,
+          "content": " il"
+        },
+        {
+          "startTime": 87167,
+          "endTime": 87197,
+          "content": " est"
+        },
+        {
+          "startTime": 87208,
+          "endTime": 87557,
+          "content": " possible"
+        },
+        {
+          "startTime": 87568,
+          "endTime": 87837,
+          "content": " que"
+        },
+        {
+          "startTime": 87847,
+          "endTime": 88178,
+          "content": " soit"
+        },
+        {
+          "startTime": 88188,
+          "endTime": 88328,
+          "content": " ça"
+        },
+        {
+          "startTime": 88337,
+          "endTime": 88367,
+          "content": " se"
+        },
+        {
+          "startTime": 88377,
+          "endTime": 88727,
+          "content": " transforme"
+        },
+        {
+          "startTime": 88737,
+          "endTime": 88847,
+          "content": " en"
+        },
+        {
+          "startTime": 88858,
+          "endTime": 89218,
+          "content": " verglas"
+        },
+        {
+          "startTime": 89227,
+          "endTime": 89288,
+          "content": " en"
+        },
+        {
+          "startTime": 89297,
+          "endTime": 89527,
+          "content": " touchant"
+        },
+        {
+          "startTime": 89538,
+          "endTime": 89608,
+          "content": " le"
+        },
+        {
+          "startTime": 89617,
+          "endTime": 90047,
+          "content": " sol,"
+        },
+        {
+          "startTime": 90057,
+          "endTime": 90367,
+          "content": " soit"
+        },
+        {
+          "startTime": 90377,
+          "endTime": 90487,
+          "content": " on"
+        },
+        {
+          "startTime": 90498,
+          "endTime": 90627,
+          "content": " ait"
+        },
+        {
+          "startTime": 90638,
+          "endTime": 91087,
+          "content": " carrément"
+        },
+        {
+          "startTime": 91097,
+          "endTime": 91167,
+          "content": " de"
+        },
+        {
+          "startTime": 91178,
+          "endTime": 91307,
+          "content": " la"
+        },
+        {
+          "startTime": 91318,
+          "endTime": 91527,
+          "content": " neige."
+        },
+        {
+          "startTime": 91538,
+          "endTime": 91578,
+          "content": " Ce"
+        },
+        {
+          "startTime": 91587,
+          "endTime": 91758,
+          "content": " sera"
+        },
+        {
+          "startTime": 91767,
+          "endTime": 91818,
+          "content": " un"
+        },
+        {
+          "startTime": 91828,
+          "endTime": 91958,
+          "content": " petit"
+        },
+        {
+          "startTime": 91968,
+          "endTime": 92078,
+          "content": " peu"
+        },
+        {
+          "startTime": 92087,
+          "endTime": 92248,
+          "content": " plus"
+        },
+        {
+          "startTime": 92258,
+          "endTime": 92347,
+          "content": " le"
+        },
+        {
+          "startTime": 92358,
+          "endTime": 92568,
+          "content": " cas"
+        },
+        {
+          "startTime": 92578,
+          "endTime": 92718,
+          "content": " sur"
+        },
+        {
+          "startTime": 92727,
+          "endTime": 92767,
+          "content": " le"
+        },
+        {
+          "startTime": 92777,
+          "endTime": 92998,
+          "content": " Grand"
+        },
+        {
+          "startTime": 93008,
+          "endTime": 93038,
+          "content": " Est."
+        },
+        {
+          "startTime": 93047,
+          "endTime": 93688,
+          "content": " Et"
+        },
+        {
+          "startTime": 93697,
+          "endTime": 94087,
+          "content": " d'ailleurs"
+        },
+        {
+          "startTime": 94097,
+          "endTime": 94267,
+          "content": " en"
+        },
+        {
+          "startTime": 94277,
+          "endTime": 94688,
+          "content": " montagne,"
+        },
+        {
+          "startTime": 94697,
+          "endTime": 95008,
+          "content": " on"
+        },
+        {
+          "startTime": 95017,
+          "endTime": 95358,
+          "content": " attend"
+        },
+        {
+          "startTime": 95367,
+          "endTime": 95568,
+          "content": " encore"
+        },
+        {
+          "startTime": 95578,
+          "endTime": 95847,
+          "content": " beaucoup"
+        },
+        {
+          "startTime": 95858,
+          "endTime": 95888,
+          "content": " de"
+        },
+        {
+          "startTime": 95898,
+          "endTime": 96157,
+          "content": " neige"
+        },
+        {
+          "startTime": 96167,
+          "endTime": 96407,
+          "content": " sur"
+        },
+        {
+          "startTime": 96417,
+          "endTime": 96487,
+          "content": " les"
+        },
+        {
+          "startTime": 96498,
+          "endTime": 97008,
+          "content": " reliefs"
+        },
+        {
+          "startTime": 97017,
+          "endTime": 97328,
+          "content": " des"
+        },
+        {
+          "startTime": 97337,
+          "endTime": 97767,
+          "content": " Vosges,"
+        },
+        {
+          "startTime": 97858,
+          "endTime": 98087,
+          "content": " du"
+        },
+        {
+          "startTime": 98097,
+          "endTime": 98568,
+          "content": " Jura,"
+        },
+        {
+          "startTime": 98578,
+          "endTime": 98788,
+          "content": " des"
+        },
+        {
+          "startTime": 98797,
+          "endTime": 99398,
+          "content": " Alpes"
+        },
+        {
+          "startTime": 99688,
+          "endTime": 99697,
+          "content": " aux"
+        },
+        {
+          "startTime": 99718,
+          "endTime": 100428,
+          "content": " alentours"
+        },
+        {
+          "startTime": 100438,
+          "endTime": 100648,
+          "content": " ce"
+        },
+        {
+          "startTime": 100657,
+          "endTime": 101068,
+          "content": " matin"
+        },
+        {
+          "startTime": 101078,
+          "endTime": 101188,
+          "content": " de"
+        },
+        {
+          "startTime": 101197,
+          "endTime": 101487,
+          "content": " sept"
+        },
+        {
+          "startTime": 101498,
+          "endTime": 101828,
+          "content": " cents,"
+        },
+        {
+          "startTime": 101837,
+          "endTime": 102087,
+          "content": " neuf"
+        },
+        {
+          "startTime": 102097,
+          "endTime": 102288,
+          "content": " cents"
+        },
+        {
+          "startTime": 102297,
+          "endTime": 102527,
+          "content": " mètres."
+        },
+        {
+          "startTime": 102538,
+          "endTime": 102617,
+          "content": " Et"
+        },
+        {
+          "startTime": 102627,
+          "endTime": 102727,
+          "content": " puis"
+        },
+        {
+          "startTime": 102737,
+          "endTime": 102907,
+          "content": " cet"
+        },
+        {
+          "startTime": 102917,
+          "endTime": 103138,
+          "content": " après"
+        },
+        {
+          "startTime": 103148,
+          "endTime": 103608,
+          "content": " midi"
+        },
+        {
+          "startTime": 103617,
+          "endTime": 103807,
+          "content": " mille"
+        },
+        {
+          "startTime": 103818,
+          "endTime": 103947,
+          "content": " deux"
+        },
+        {
+          "startTime": 103958,
+          "endTime": 104167,
+          "content": " cents"
+        },
+        {
+          "startTime": 104178,
+          "endTime": 104498,
+          "content": " mètres,"
+        },
+        {
+          "startTime": 104527,
+          "endTime": 104898,
+          "content": " la"
+        },
+        {
+          "startTime": 104907,
+          "endTime": 105208,
+          "content": " p"
+        },
+        {
+          "startTime": 105218,
+          "endTime": 105248,
+          "content": " neige"
+        },
+        {
+          "startTime": 105258,
+          "endTime": 105328,
+          "content": " va"
+        },
+        {
+          "startTime": 105337,
+          "endTime": 105617,
+          "content": " remonter"
+        },
+        {
+          "startTime": 105627,
+          "endTime": 105727,
+          "content": " avec"
+        },
+        {
+          "startTime": 105737,
+          "endTime": 105847,
+          "content": " la"
+        },
+        {
+          "startTime": 105858,
+          "endTime": 105877,
+          "content": " hausse"
+        },
+        {
+          "startTime": 105888,
+          "endTime": 106038,
+          "content": " des"
+        },
+        {
+          "startTime": 106047,
+          "endTime": 106468,
+          "content": " températures"
+        },
+        {
+          "startTime": 106833,
+          "endTime": 107583,
+          "content": " perturbation"
+        },
+        {
+          "startTime": 107594,
+          "endTime": 107783,
+          "content": " qui"
+        },
+        {
+          "startTime": 107793,
+          "endTime": 107823,
+          "content": " est"
+        },
+        {
+          "startTime": 107833,
+          "endTime": 107973,
+          "content": " en"
+        },
+        {
+          "startTime": 107984,
+          "endTime": 108353,
+          "content": " plus"
+        },
+        {
+          "startTime": 108363,
+          "endTime": 109064,
+          "content": " accompagnée"
+        },
+        {
+          "startTime": 109073,
+          "endTime": 109234,
+          "content": " de"
+        },
+        {
+          "startTime": 109244,
+          "endTime": 109664,
+          "content": " vent."
+        },
+        {
+          "startTime": 109674,
+          "endTime": 109833,
+          "content": " Alors"
+        },
+        {
+          "startTime": 109844,
+          "endTime": 110013,
+          "content": " une"
+        },
+        {
+          "startTime": 110024,
+          "endTime": 110174,
+          "content": " fois"
+        },
+        {
+          "startTime": 110183,
+          "endTime": 110344,
+          "content": " qu'elle"
+        },
+        {
+          "startTime": 110353,
+          "endTime": 110564,
+          "content": " sera"
+        },
+        {
+          "startTime": 110573,
+          "endTime": 110944,
+          "content": " passée,"
+        },
+        {
+          "startTime": 111064,
+          "endTime": 111433,
+          "content": " on"
+        },
+        {
+          "startTime": 111444,
+          "endTime": 111634,
+          "content": " aura"
+        },
+        {
+          "startTime": 111643,
+          "endTime": 111874,
+          "content": " plus"
+        },
+        {
+          "startTime": 111884,
+          "endTime": 111914,
+          "content": " un"
+        },
+        {
+          "startTime": 111924,
+          "endTime": 112304,
+          "content": " régime"
+        },
+        {
+          "startTime": 112314,
+          "endTime": 112734,
+          "content": " d'averses"
+        },
+        {
+          "startTime": 112744,
+          "endTime": 112814,
+          "content": " sur"
+        },
+        {
+          "startTime": 112823,
+          "endTime": 112893,
+          "content": " les"
+        },
+        {
+          "startTime": 112903,
+          "endTime": 113234,
+          "content": " régions"
+        },
+        {
+          "startTime": 113244,
+          "endTime": 113734,
+          "content": " atlantiques."
+        },
+        {
+          "startTime": 113744,
+          "endTime": 113814,
+          "content": " Mais"
+        },
+        {
+          "startTime": 113823,
+          "endTime": 114013,
+          "content": " enfin"
+        },
+        {
+          "startTime": 114024,
+          "endTime": 114174,
+          "content": " voilà,"
+        },
+        {
+          "startTime": 114183,
+          "endTime": 114213,
+          "content": " ce"
+        },
+        {
+          "startTime": 114223,
+          "endTime": 114333,
+          "content": " n'est"
+        },
+        {
+          "startTime": 114344,
+          "endTime": 114454,
+          "content": " pas"
+        },
+        {
+          "startTime": 114463,
+          "endTime": 114513,
+          "content": " le"
+        },
+        {
+          "startTime": 114524,
+          "endTime": 114804,
+          "content": " retour"
+        },
+        {
+          "startTime": 114814,
+          "endTime": 114954,
+          "content": " du"
+        },
+        {
+          "startTime": 114963,
+          "endTime": 115253,
+          "content": " soleil,"
+        },
+        {
+          "startTime": 115263,
+          "endTime": 115384,
+          "content": " ni"
+        },
+        {
+          "startTime": 115393,
+          "endTime": 115524,
+          "content": " d'un"
+        },
+        {
+          "startTime": 115533,
+          "endTime": 115683,
+          "content": " temps"
+        },
+        {
+          "startTime": 115694,
+          "endTime": 116013,
+          "content": " sec."
+        },
+        {
+          "startTime": 116194,
+          "endTime": 116433,
+          "content": " Ça"
+        },
+        {
+          "startTime": 116444,
+          "endTime": 116893,
+          "content": " restera"
+        },
+        {
+          "startTime": 116903,
+          "endTime": 117013,
+          "content": " quand"
+        },
+        {
+          "startTime": 117024,
+          "endTime": 117234,
+          "content": " même"
+        },
+        {
+          "startTime": 117244,
+          "endTime": 117424,
+          "content": " avec"
+        },
+        {
+          "startTime": 117433,
+          "endTime": 117554,
+          "content": " des"
+        },
+        {
+          "startTime": 117564,
+          "endTime": 118003,
+          "content": " averses"
+        },
+        {
+          "startTime": 118013,
+          "endTime": 118204,
+          "content": " et"
+        },
+        {
+          "startTime": 118213,
+          "endTime": 118374,
+          "content": " puis"
+        },
+        {
+          "startTime": 118384,
+          "endTime": 118554,
+          "content": " du"
+        },
+        {
+          "startTime": 118564,
+          "endTime": 118674,
+          "content": " vent"
+        },
+        {
+          "startTime": 118683,
+          "endTime": 118893,
+          "content": " aussi"
+        },
+        {
+          "startTime": 118903,
+          "endTime": 119213,
+          "content": " sur"
+        },
+        {
+          "startTime": 119223,
+          "endTime": 119314,
+          "content": " les"
+        },
+        {
+          "startTime": 119323,
+          "endTime": 119554,
+          "content": " côtes"
+        },
+        {
+          "startTime": 119564,
+          "endTime": 119573,
+          "content": " à"
+        },
+        {
+          "startTime": 119583,
+          "endTime": 119713,
+          "content": " la"
+        },
+        {
+          "startTime": 119723,
+          "endTime": 120054,
+          "content": " Rafale,"
+        },
+        {
+          "startTime": 120064,
+          "endTime": 120293,
+          "content": " jusqu'à"
+        },
+        {
+          "startTime": 120304,
+          "endTime": 120533,
+          "content": " quatre"
+        },
+        {
+          "startTime": 120543,
+          "endTime": 120954,
+          "content": " vingts"
+        },
+        {
+          "startTime": 120973,
+          "endTime": 121213,
+          "content": " sur"
+        },
+        {
+          "startTime": 121223,
+          "endTime": 121314,
+          "content": " les"
+        },
+        {
+          "startTime": 121323,
+          "endTime": 121513,
+          "content": " côtes"
+        },
+        {
+          "startTime": 121524,
+          "endTime": 122103,
+          "content": " atlantiques."
+        },
+        {
+          "startTime": 122113,
+          "endTime": 122183,
+          "content": " Et"
+        },
+        {
+          "startTime": 122194,
+          "endTime": 122554,
+          "content": " puis"
+        },
+        {
+          "startTime": 122564,
+          "endTime": 122704,
+          "content": " on"
+        },
+        {
+          "startTime": 122713,
+          "endTime": 122783,
+          "content": " va"
+        },
+        {
+          "startTime": 122793,
+          "endTime": 122973,
+          "content": " dire"
+        },
+        {
+          "startTime": 122984,
+          "endTime": 123323,
+          "content": " que"
+        },
+        {
+          "startTime": 123583,
+          "endTime": 124013,
+          "content": " vraiment"
+        },
+        {
+          "startTime": 124024,
+          "endTime": 124143,
+          "content": " la"
+        },
+        {
+          "startTime": 124153,
+          "endTime": 124393,
+          "content": " petite"
+        },
+        {
+          "startTime": 124403,
+          "endTime": 124583,
+          "content": " zone"
+        },
+        {
+          "startTime": 124594,
+          "endTime": 125024,
+          "content": " épargnée,"
+        },
+        {
+          "startTime": 125033,
+          "endTime": 125213,
+          "content": " c'est"
+        },
+        {
+          "startTime": 125223,
+          "endTime": 125234,
+          "content": " au"
+        },
+        {
+          "startTime": 125244,
+          "endTime": 125484,
+          "content": " tour"
+        },
+        {
+          "startTime": 125494,
+          "endTime": 125634,
+          "content": " du"
+        },
+        {
+          "startTime": 125643,
+          "endTime": 126013,
+          "content": " golfe"
+        },
+        {
+          "startTime": 126024,
+          "endTime": 126134,
+          "content": " du"
+        },
+        {
+          "startTime": 126143,
+          "endTime": 126594,
+          "content": " Lion."
+        },
+        {
+          "startTime": 126603,
+          "endTime": 126734,
+          "content": " Alors"
+        },
+        {
+          "startTime": 126744,
+          "endTime": 126853,
+          "content": " ce"
+        },
+        {
+          "startTime": 126863,
+          "endTime": 127054,
+          "content": " sera"
+        },
+        {
+          "startTime": 127064,
+          "endTime": 127433,
+          "content": " nuageux"
+        },
+        {
+          "startTime": 127444,
+          "endTime": 127503,
+          "content": " ce"
+        },
+        {
+          "startTime": 127513,
+          "endTime": 127744,
+          "content": " matin,"
+        },
+        {
+          "startTime": 127753,
+          "endTime": 127893,
+          "content": " mais"
+        },
+        {
+          "startTime": 127903,
+          "endTime": 128033,
+          "content": " vous"
+        },
+        {
+          "startTime": 128044,
+          "endTime": 128164,
+          "content": " aurez"
+        },
+        {
+          "startTime": 128173,
+          "endTime": 128393,
+          "content": " quelques"
+        },
+        {
+          "startTime": 128404,
+          "endTime": 128944,
+          "content": " éclaircies"
+        },
+        {
+          "startTime": 128953,
+          "endTime": 129134,
+          "content": " cet"
+        },
+        {
+          "startTime": 129143,
+          "endTime": 129354,
+          "content": " après"
+        }
+      ]
+    },
+    {
+      "startTime": 129363,
+      "endTime": 132294,
+      "speaker": "Voix 2",
+      "items": [
+        {
+          "startTime": 129363,
+          "endTime": 129774,
+          "content": "midi."
+        },
+        {
+          "startTime": 129824,
+          "endTime": 130373,
+          "content": " Merci"
+        },
+        {
+          "startTime": 130384,
+          "endTime": 130613,
+          "content": " beaucoup"
+        },
+        {
+          "startTime": 130623,
+          "endTime": 131134,
+          "content": " Marina,"
+        },
+        {
+          "startTime": 131143,
+          "endTime": 131473,
+          "content": " c'est"
+        },
+        {
+          "startTime": 131483,
+          "endTime": 131533,
+          "content": " un"
+        },
+        {
+          "startTime": 131544,
+          "endTime": 131833,
+          "content": " des"
+        },
+        {
+          "startTime": 131843,
+          "endTime": 132294,
+          "content": " paradoxes."
+        }
+      ]
+    }
+  ]
+}

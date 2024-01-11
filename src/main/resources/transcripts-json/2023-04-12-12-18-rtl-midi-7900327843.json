@@ -1,0 +1,1455 @@
+{
+  "media": {
+    "id": 7900327843,
+    "programId": 18130,
+    "program": "RTL Midi",
+    "date": "2023-04-12",
+    "time": "",
+    "title": "SANTÉ - Grippe : la campagne de vaccination ne décolle pas",
+    "summary": "Pour l'année 2023, les chiffres de la vaccination contre la grippe ne sont pas bons. Dans les pharmacies, les doses ont du mal à trouver preneurs, à la grande surprise des pharmaciens qui ne comprennent pas pourquoi le vaccin contre la grippe peine à convaincre. À moins de trois semaines des fêtes de Noël, le ministre de la Santé appelle à un sursaut. \n<div><br></div>",
+    "speakers": [
+      "Agnès Bonfillon",
+      "Eric Brunet"
+    ]
+  },
+  "source": "amazon",
+  "segments": [
+    {
+      "startTime": 9,
+      "endTime": 4039,
+      "speaker": "Voix 1",
+      "items": [
+        {
+          "startTime": 9,
+          "endTime": 250,
+          "content": "cette"
+        },
+        {
+          "startTime": 259,
+          "endTime": 550,
+          "content": " année."
+        },
+        {
+          "startTime": 560,
+          "endTime": 850,
+          "content": " Les"
+        },
+        {
+          "startTime": 860,
+          "endTime": 1320,
+          "content": " chiffres"
+        },
+        {
+          "startTime": 1330,
+          "endTime": 1399,
+          "content": " de"
+        },
+        {
+          "startTime": 1409,
+          "endTime": 1559,
+          "content": " la"
+        },
+        {
+          "startTime": 1570,
+          "endTime": 2230,
+          "content": " vaccination"
+        },
+        {
+          "startTime": 2240,
+          "endTime": 2539,
+          "content": " contre"
+        },
+        {
+          "startTime": 2549,
+          "endTime": 2660,
+          "content": " la"
+        },
+        {
+          "startTime": 2670,
+          "endTime": 3009,
+          "content": " grippe"
+        },
+        {
+          "startTime": 3019,
+          "endTime": 3160,
+          "content": " ne"
+        },
+        {
+          "startTime": 3170,
+          "endTime": 3440,
+          "content": " sont"
+        },
+        {
+          "startTime": 3450,
+          "endTime": 3680,
+          "content": " pas"
+        },
+        {
+          "startTime": 3690,
+          "endTime": 3849,
+          "content": " bons"
+        },
+        {
+          "startTime": 3859,
+          "endTime": 4039,
+          "content": " du"
+        }
+      ]
+    },
+    {
+      "startTime": 4050,
+      "endTime": 16979,
+      "speaker": "Voix 2",
+      "items": [
+        {
+          "startTime": 4050,
+          "endTime": 4380,
+          "content": "tout"
+        },
+        {
+          "startTime": 4510,
+          "endTime": 5230,
+          "content": " médiocre,"
+        },
+        {
+          "startTime": 5239,
+          "endTime": 5440,
+          "content": " dit"
+        },
+        {
+          "startTime": 5449,
+          "endTime": 5659,
+          "content": " même"
+        },
+        {
+          "startTime": 5670,
+          "endTime": 5800,
+          "content": " le"
+        },
+        {
+          "startTime": 5809,
+          "endTime": 6400,
+          "content": " ministre"
+        },
+        {
+          "startTime": 6409,
+          "endTime": 6480,
+          "content": " de"
+        },
+        {
+          "startTime": 6489,
+          "endTime": 6679,
+          "content": " la"
+        },
+        {
+          "startTime": 6690,
+          "endTime": 7110,
+          "content": " Santé."
+        },
+        {
+          "startTime": 7130,
+          "endTime": 7360,
+          "content": " A"
+        },
+        {
+          "startTime": 7369,
+          "endTime": 7599,
+          "content": " moins"
+        },
+        {
+          "startTime": 7610,
+          "endTime": 7679,
+          "content": " de"
+        },
+        {
+          "startTime": 7690,
+          "endTime": 8000,
+          "content": " trois"
+        },
+        {
+          "startTime": 8010,
+          "endTime": 8380,
+          "content": " semaines"
+        },
+        {
+          "startTime": 8390,
+          "endTime": 8600,
+          "content": " des"
+        },
+        {
+          "startTime": 8609,
+          "endTime": 8899,
+          "content": " fêtes"
+        },
+        {
+          "startTime": 8909,
+          "endTime": 9029,
+          "content": " de"
+        },
+        {
+          "startTime": 9039,
+          "endTime": 9500,
+          "content": " Noël,"
+        },
+        {
+          "startTime": 9510,
+          "endTime": 9920,
+          "content": " Aurélien"
+        },
+        {
+          "startTime": 9930,
+          "endTime": 10250,
+          "content": " Rousseau"
+        },
+        {
+          "startTime": 10260,
+          "endTime": 10659,
+          "content": " appelle"
+        },
+        {
+          "startTime": 10670,
+          "endTime": 10840,
+          "content": " à"
+        },
+        {
+          "startTime": 10850,
+          "endTime": 10979,
+          "content": " un"
+        },
+        {
+          "startTime": 11189,
+          "endTime": 11930,
+          "content": " sursaut"
+        },
+        {
+          "startTime": 11939,
+          "endTime": 12619,
+          "content": " alandais."
+        },
+        {
+          "startTime": 12630,
+          "endTime": 12729,
+          "content": " Il"
+        },
+        {
+          "startTime": 12739,
+          "endTime": 12829,
+          "content": " faut"
+        },
+        {
+          "startTime": 12840,
+          "endTime": 13000,
+          "content": " dire"
+        },
+        {
+          "startTime": 13010,
+          "endTime": 13680,
+          "content": " qu'actuellement,"
+        },
+        {
+          "startTime": 13939,
+          "endTime": 14159,
+          "content": " dans"
+        },
+        {
+          "startTime": 14170,
+          "endTime": 14319,
+          "content": " les"
+        },
+        {
+          "startTime": 14329,
+          "endTime": 14970,
+          "content": " pharmacies,"
+        },
+        {
+          "startTime": 14979,
+          "endTime": 15260,
+          "content": " les"
+        },
+        {
+          "startTime": 15270,
+          "endTime": 15560,
+          "content": " doses"
+        },
+        {
+          "startTime": 15569,
+          "endTime": 15640,
+          "content": " ont"
+        },
+        {
+          "startTime": 15649,
+          "endTime": 15800,
+          "content": " du"
+        },
+        {
+          "startTime": 15810,
+          "endTime": 15979,
+          "content": " mal"
+        },
+        {
+          "startTime": 15989,
+          "endTime": 16059,
+          "content": " à"
+        },
+        {
+          "startTime": 16069,
+          "endTime": 16360,
+          "content": " trouver"
+        },
+        {
+          "startTime": 16370,
+          "endTime": 16979,
+          "content": " preneur."
+        }
+      ]
+    },
+    {
+      "startTime": 17079,
+      "endTime": 40615,
+      "speaker": "Voix 3",
+      "items": [
+        {
+          "startTime": 17079,
+          "endTime": 17340,
+          "content": "D'ailleurs,"
+        },
+        {
+          "startTime": 17350,
+          "endTime": 17479,
+          "content": " les"
+        },
+        {
+          "startTime": 17489,
+          "endTime": 17899,
+          "content": " pharmaciens"
+        },
+        {
+          "startTime": 17909,
+          "endTime": 17979,
+          "content": " ont"
+        },
+        {
+          "startTime": 17989,
+          "endTime": 18129,
+          "content": " du"
+        },
+        {
+          "startTime": 18139,
+          "endTime": 18299,
+          "content": " mal"
+        },
+        {
+          "startTime": 18309,
+          "endTime": 18340,
+          "content": " à"
+        },
+        {
+          "startTime": 18350,
+          "endTime": 18819,
+          "content": " comprendre"
+        },
+        {
+          "startTime": 18829,
+          "endTime": 19299,
+          "content": " pourquoi"
+        },
+        {
+          "startTime": 19309,
+          "endTime": 19440,
+          "content": " le"
+        },
+        {
+          "startTime": 19450,
+          "endTime": 19860,
+          "content": " vaccin"
+        },
+        {
+          "startTime": 19870,
+          "endTime": 20049,
+          "content": " peine"
+        },
+        {
+          "startTime": 20059,
+          "endTime": 20280,
+          "content": " à"
+        },
+        {
+          "startTime": 20344,
+          "endTime": 20715,
+          "content": " convaincre"
+        },
+        {
+          "startTime": 20725,
+          "endTime": 20895,
+          "content": " cette"
+        },
+        {
+          "startTime": 20905,
+          "endTime": 21424,
+          "content": " saison."
+        },
+        {
+          "startTime": 21485,
+          "endTime": 21895,
+          "content": " Certains"
+        },
+        {
+          "startTime": 21905,
+          "endTime": 22155,
+          "content": " pensent"
+        },
+        {
+          "startTime": 22165,
+          "endTime": 22315,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 22325,
+          "endTime": 22385,
+          "content": " y"
+        },
+        {
+          "startTime": 22395,
+          "endTime": 22434,
+          "content": " a"
+        },
+        {
+          "startTime": 22444,
+          "endTime": 22555,
+          "content": " une"
+        },
+        {
+          "startTime": 22565,
+          "endTime": 23075,
+          "content": " lassitude"
+        },
+        {
+          "startTime": 23084,
+          "endTime": 23295,
+          "content": " des"
+        },
+        {
+          "startTime": 23305,
+          "endTime": 23754,
+          "content": " Français"
+        },
+        {
+          "startTime": 23764,
+          "endTime": 23954,
+          "content": " face"
+        },
+        {
+          "startTime": 23965,
+          "endTime": 24014,
+          "content": " à"
+        },
+        {
+          "startTime": 24024,
+          "endTime": 24094,
+          "content": " la"
+        },
+        {
+          "startTime": 24104,
+          "endTime": 24844,
+          "content": " vaccination."
+        },
+        {
+          "startTime": 24854,
+          "endTime": 25295,
+          "content": " D'autres"
+        },
+        {
+          "startTime": 25305,
+          "endTime": 25715,
+          "content": " évoquent"
+        },
+        {
+          "startTime": 25725,
+          "endTime": 25934,
+          "content": " des"
+        },
+        {
+          "startTime": 25944,
+          "endTime": 26635,
+          "content": " températures"
+        },
+        {
+          "startTime": 26645,
+          "endTime": 27034,
+          "content": " clémentes"
+        },
+        {
+          "startTime": 27045,
+          "endTime": 27174,
+          "content": " que"
+        },
+        {
+          "startTime": 27184,
+          "endTime": 27325,
+          "content": " l'on"
+        },
+        {
+          "startTime": 27334,
+          "endTime": 27415,
+          "content": " a"
+        },
+        {
+          "startTime": 27424,
+          "endTime": 27774,
+          "content": " connues"
+        },
+        {
+          "startTime": 27784,
+          "endTime": 28094,
+          "content": " jusqu'à"
+        },
+        {
+          "startTime": 28104,
+          "endTime": 28825,
+          "content": " récemment"
+        },
+        {
+          "startTime": 28834,
+          "endTime": 29034,
+          "content": " et"
+        },
+        {
+          "startTime": 29045,
+          "endTime": 29174,
+          "content": " qui"
+        },
+        {
+          "startTime": 29184,
+          "endTime": 29334,
+          "content": " n'ont"
+        },
+        {
+          "startTime": 29344,
+          "endTime": 29454,
+          "content": " pas"
+        },
+        {
+          "startTime": 29465,
+          "endTime": 29735,
+          "content": " poussé"
+        },
+        {
+          "startTime": 29745,
+          "endTime": 29875,
+          "content": " les"
+        },
+        {
+          "startTime": 29885,
+          "endTime": 30104,
+          "content": " plus"
+        },
+        {
+          "startTime": 30114,
+          "endTime": 30174,
+          "content": " à"
+        },
+        {
+          "startTime": 30184,
+          "endTime": 30514,
+          "content": " risque"
+        },
+        {
+          "startTime": 30524,
+          "endTime": 30635,
+          "content": " à"
+        },
+        {
+          "startTime": 30645,
+          "endTime": 30704,
+          "content": " se"
+        },
+        {
+          "startTime": 30715,
+          "endTime": 30934,
+          "content": " faire"
+        },
+        {
+          "startTime": 30944,
+          "endTime": 31364,
+          "content": " vacciner"
+        },
+        {
+          "startTime": 31375,
+          "endTime": 32095,
+          "content": " rapidement."
+        },
+        {
+          "startTime": 32104,
+          "endTime": 32794,
+          "content": " Néanmoins,"
+        },
+        {
+          "startTime": 32895,
+          "endTime": 33275,
+          "content": " tous"
+        },
+        {
+          "startTime": 33284,
+          "endTime": 33654,
+          "content": " sont"
+        },
+        {
+          "startTime": 33665,
+          "endTime": 34104,
+          "content": " d'accord"
+        },
+        {
+          "startTime": 34115,
+          "endTime": 34275,
+          "content": " sur"
+        },
+        {
+          "startTime": 34284,
+          "endTime": 34314,
+          "content": " le"
+        },
+        {
+          "startTime": 34325,
+          "endTime": 34915,
+          "content": " constat."
+        },
+        {
+          "startTime": 34924,
+          "endTime": 35174,
+          "content": " La"
+        },
+        {
+          "startTime": 35185,
+          "endTime": 35794,
+          "content": " vaccination"
+        },
+        {
+          "startTime": 35805,
+          "endTime": 36384,
+          "content": " patine."
+        },
+        {
+          "startTime": 36494,
+          "endTime": 36875,
+          "content": " Philippe"
+        },
+        {
+          "startTime": 36884,
+          "endTime": 37395,
+          "content": " Besset"
+        },
+        {
+          "startTime": 37404,
+          "endTime": 37435,
+          "content": " est"
+        },
+        {
+          "startTime": 37444,
+          "endTime": 37955,
+          "content": " président"
+        },
+        {
+          "startTime": 37965,
+          "endTime": 37994,
+          "content": " de"
+        },
+        {
+          "startTime": 38005,
+          "endTime": 38215,
+          "content": " la"
+        },
+        {
+          "startTime": 38224,
+          "endTime": 38814,
+          "content": " Fédération"
+        },
+        {
+          "startTime": 38825,
+          "endTime": 38924,
+          "content": " des"
+        },
+        {
+          "startTime": 38935,
+          "endTime": 39365,
+          "content": " syndicats"
+        },
+        {
+          "startTime": 39375,
+          "endTime": 40005,
+          "content": " pharmaceutiques"
+        },
+        {
+          "startTime": 40014,
+          "endTime": 40064,
+          "content": " de"
+        },
+        {
+          "startTime": 40075,
+          "endTime": 40615,
+          "content": " France."
+        }
+      ]
+    },
+    {
+      "startTime": 41139,
+      "endTime": 61139,
+      "speaker": "Voix 4",
+      "items": [
+        {
+          "startTime": 41139,
+          "endTime": 41470,
+          "content": "On"
+        },
+        {
+          "startTime": 41479,
+          "endTime": 41630,
+          "content": " est"
+        },
+        {
+          "startTime": 41639,
+          "endTime": 41830,
+          "content": " à"
+        },
+        {
+          "startTime": 41840,
+          "endTime": 42130,
+          "content": " six"
+        },
+        {
+          "startTime": 42139,
+          "endTime": 42349,
+          "content": " cent"
+        },
+        {
+          "startTime": 42360,
+          "endTime": 42599,
+          "content": " mille"
+        },
+        {
+          "startTime": 42610,
+          "endTime": 42950,
+          "content": " doses"
+        },
+        {
+          "startTime": 42959,
+          "endTime": 43400,
+          "content": " délivrées"
+        },
+        {
+          "startTime": 43409,
+          "endTime": 43500,
+          "content": " de"
+        },
+        {
+          "startTime": 43509,
+          "endTime": 44029,
+          "content": " moins"
+        },
+        {
+          "startTime": 44040,
+          "endTime": 44200,
+          "content": " que"
+        },
+        {
+          "startTime": 44209,
+          "endTime": 44400,
+          "content": " l'année"
+        },
+        {
+          "startTime": 44409,
+          "endTime": 44830,
+          "content": " dernière,"
+        },
+        {
+          "startTime": 44840,
+          "endTime": 44930,
+          "content": " qui"
+        },
+        {
+          "startTime": 44939,
+          "endTime": 45099,
+          "content": " était"
+        },
+        {
+          "startTime": 45110,
+          "endTime": 45349,
+          "content": " déjà"
+        },
+        {
+          "startTime": 45360,
+          "endTime": 45490,
+          "content": " une"
+        },
+        {
+          "startTime": 45500,
+          "endTime": 45650,
+          "content": " année"
+        },
+        {
+          "startTime": 45659,
+          "endTime": 45880,
+          "content": " assez"
+        },
+        {
+          "startTime": 45889,
+          "endTime": 46470,
+          "content": " faible."
+        },
+        {
+          "startTime": 46790,
+          "endTime": 46970,
+          "content": " Ça"
+        },
+        {
+          "startTime": 46979,
+          "endTime": 47430,
+          "content": " correspond"
+        },
+        {
+          "startTime": 47439,
+          "endTime": 47549,
+          "content": " à"
+        },
+        {
+          "startTime": 47560,
+          "endTime": 47759,
+          "content": " huit"
+        },
+        {
+          "startTime": 47770,
+          "endTime": 47950,
+          "content": " pour"
+        },
+        {
+          "startTime": 47959,
+          "endTime": 48279,
+          "content": " cent"
+        },
+        {
+          "startTime": 48290,
+          "endTime": 48459,
+          "content": " de"
+        },
+        {
+          "startTime": 48470,
+          "endTime": 48849,
+          "content": " moins"
+        },
+        {
+          "startTime": 48860,
+          "endTime": 48950,
+          "content": " que"
+        },
+        {
+          "startTime": 48959,
+          "endTime": 49159,
+          "content": " l'année"
+        },
+        {
+          "startTime": 49169,
+          "endTime": 49810,
+          "content": " dernière."
+        },
+        {
+          "startTime": 50020,
+          "endTime": 50240,
+          "content": " Ça"
+        },
+        {
+          "startTime": 50250,
+          "endTime": 50340,
+          "content": " veut"
+        },
+        {
+          "startTime": 50349,
+          "endTime": 50610,
+          "content": " dire"
+        },
+        {
+          "startTime": 50619,
+          "endTime": 50669,
+          "content": " que"
+        },
+        {
+          "startTime": 50680,
+          "endTime": 50990,
+          "content": " parmi"
+        },
+        {
+          "startTime": 51000,
+          "endTime": 51130,
+          "content": " ces"
+        },
+        {
+          "startTime": 51139,
+          "endTime": 51279,
+          "content": " six"
+        },
+        {
+          "startTime": 51290,
+          "endTime": 51439,
+          "content": " cent"
+        },
+        {
+          "startTime": 51450,
+          "endTime": 51810,
+          "content": " mille"
+        },
+        {
+          "startTime": 52040,
+          "endTime": 52450,
+          "content": " mille"
+        },
+        {
+          "startTime": 52459,
+          "endTime": 52709,
+          "content": " seront"
+        },
+        {
+          "startTime": 52720,
+          "endTime": 53369,
+          "content": " hospitalisés"
+        },
+        {
+          "startTime": 53380,
+          "endTime": 53750,
+          "content": " et"
+        },
+        {
+          "startTime": 53759,
+          "endTime": 53880,
+          "content": " il"
+        },
+        {
+          "startTime": 53889,
+          "endTime": 53990,
+          "content": " y"
+        },
+        {
+          "startTime": 54000,
+          "endTime": 54189,
+          "content": " aura"
+        },
+        {
+          "startTime": 54200,
+          "endTime": 54490,
+          "content": " trois"
+        },
+        {
+          "startTime": 54500,
+          "endTime": 54700,
+          "content": " quatre"
+        },
+        {
+          "startTime": 54709,
+          "endTime": 54830,
+          "content": " cents"
+        },
+        {
+          "startTime": 54840,
+          "endTime": 55310,
+          "content": " décès."
+        },
+        {
+          "startTime": 55500,
+          "endTime": 55869,
+          "content": " Donc"
+        },
+        {
+          "startTime": 55880,
+          "endTime": 56029,
+          "content": " c'est"
+        },
+        {
+          "startTime": 56040,
+          "endTime": 56310,
+          "content": " vraiment"
+        },
+        {
+          "startTime": 56319,
+          "endTime": 56470,
+          "content": " une"
+        },
+        {
+          "startTime": 56479,
+          "endTime": 56720,
+          "content": " perte"
+        },
+        {
+          "startTime": 56729,
+          "endTime": 56810,
+          "content": " de"
+        },
+        {
+          "startTime": 56819,
+          "endTime": 57389,
+          "content": " chance"
+        },
+        {
+          "startTime": 57400,
+          "endTime": 57930,
+          "content": " pour"
+        },
+        {
+          "startTime": 57939,
+          "endTime": 58099,
+          "content": " ces"
+        },
+        {
+          "startTime": 58110,
+          "endTime": 58430,
+          "content": " personnes"
+        },
+        {
+          "startTime": 58439,
+          "endTime": 58549,
+          "content": " qui"
+        },
+        {
+          "startTime": 58560,
+          "endTime": 58599,
+          "content": " ne"
+        },
+        {
+          "startTime": 58610,
+          "endTime": 58689,
+          "content": " sont"
+        },
+        {
+          "startTime": 58700,
+          "endTime": 58790,
+          "content": " pas"
+        },
+        {
+          "startTime": 58799,
+          "endTime": 59229,
+          "content": " vaccinées."
+        },
+        {
+          "startTime": 59240,
+          "endTime": 59349,
+          "content": " Il"
+        },
+        {
+          "startTime": 59360,
+          "endTime": 59439,
+          "content": " faut"
+        },
+        {
+          "startTime": 59450,
+          "endTime": 59990,
+          "content": " vraiment"
+        },
+        {
+          "startTime": 60000,
+          "endTime": 60189,
+          "content": " qu'elles"
+        },
+        {
+          "startTime": 60200,
+          "endTime": 60430,
+          "content": " prennent"
+        },
+        {
+          "startTime": 60439,
+          "endTime": 60830,
+          "content": " conscience"
+        },
+        {
+          "startTime": 60840,
+          "endTime": 60950,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 60959,
+          "endTime": 61040,
+          "content": " faut"
+        },
+        {
+          "startTime": 61049,
+          "endTime": 61139,
+          "content": " le"
+        }
+      ]
+    },
+    {
+      "startTime": 61150,
+      "endTime": 81940,
+      "speaker": "Voix 3",
+      "items": [
+        {
+          "startTime": 61150,
+          "endTime": 61459,
+          "content": "faire."
+        },
+        {
+          "startTime": 61669,
+          "endTime": 61889,
+          "content": " Les"
+        },
+        {
+          "startTime": 61900,
+          "endTime": 62250,
+          "content": " autorités"
+        },
+        {
+          "startTime": 62259,
+          "endTime": 62340,
+          "content": " de"
+        },
+        {
+          "startTime": 62349,
+          "endTime": 62810,
+          "content": " santé"
+        },
+        {
+          "startTime": 62889,
+          "endTime": 63220,
+          "content": " rappelle"
+        },
+        {
+          "startTime": 63229,
+          "endTime": 63330,
+          "content": " que"
+        },
+        {
+          "startTime": 63340,
+          "endTime": 63509,
+          "content": " ce"
+        },
+        {
+          "startTime": 63520,
+          "endTime": 63930,
+          "content": " vaccin"
+        },
+        {
+          "startTime": 63939,
+          "endTime": 64059,
+          "content": " est"
+        },
+        {
+          "startTime": 64069,
+          "endTime": 64339,
+          "content": " ouvert"
+        },
+        {
+          "startTime": 64349,
+          "endTime": 64419,
+          "content": " à"
+        },
+        {
+          "startTime": 64430,
+          "endTime": 64739,
+          "content": " tous,"
+        },
+        {
+          "startTime": 64750,
+          "endTime": 64900,
+          "content": " mais"
+        },
+        {
+          "startTime": 64910,
+          "endTime": 65099,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 65110,
+          "endTime": 65139,
+          "content": " est"
+        },
+        {
+          "startTime": 65150,
+          "endTime": 65699,
+          "content": " surtout"
+        },
+        {
+          "startTime": 65709,
+          "endTime": 66699,
+          "content": " particulièrement"
+        },
+        {
+          "startTime": 66709,
+          "endTime": 67230,
+          "content": " recommandé"
+        },
+        {
+          "startTime": 67239,
+          "endTime": 67419,
+          "content": " pour"
+        },
+        {
+          "startTime": 67430,
+          "endTime": 67519,
+          "content": " les"
+        },
+        {
+          "startTime": 67529,
+          "endTime": 67680,
+          "content": " plus"
+        },
+        {
+          "startTime": 67690,
+          "endTime": 67720,
+          "content": " de"
+        },
+        {
+          "startTime": 67730,
+          "endTime": 68269,
+          "content": " soixante-cinq"
+        },
+        {
+          "startTime": 68279,
+          "endTime": 68500,
+          "content": " ans"
+        },
+        {
+          "startTime": 68510,
+          "endTime": 68639,
+          "content": " les"
+        },
+        {
+          "startTime": 68650,
+          "endTime": 68970,
+          "content": " malades"
+        },
+        {
+          "startTime": 68980,
+          "endTime": 69639,
+          "content": " chroniques"
+        },
+        {
+          "startTime": 69650,
+          "endTime": 69800,
+          "content": " pour"
+        },
+        {
+          "startTime": 69809,
+          "endTime": 69919,
+          "content": " les"
+        },
+        {
+          "startTime": 69930,
+          "endTime": 70279,
+          "content": " personnes"
+        },
+        {
+          "startTime": 70290,
+          "endTime": 70860,
+          "content": " obèses,"
+        },
+        {
+          "startTime": 70870,
+          "endTime": 71589,
+          "content": " immunodéprimées"
+        },
+        {
+          "startTime": 71599,
+          "endTime": 71779,
+          "content": " ou"
+        },
+        {
+          "startTime": 71790,
+          "endTime": 72419,
+          "content": " enceintes."
+        },
+        {
+          "startTime": 72500,
+          "endTime": 72730,
+          "content": " Une"
+        },
+        {
+          "startTime": 72739,
+          "endTime": 72900,
+          "content": " fois"
+        },
+        {
+          "startTime": 72910,
+          "endTime": 73000,
+          "content": " la"
+        },
+        {
+          "startTime": 73010,
+          "endTime": 73279,
+          "content": " piqûre"
+        },
+        {
+          "startTime": 73290,
+          "endTime": 73620,
+          "content": " reçue,"
+        },
+        {
+          "startTime": 73629,
+          "endTime": 74190,
+          "content": " l'organisme"
+        },
+        {
+          "startTime": 74199,
+          "endTime": 74349,
+          "content": " met"
+        },
+        {
+          "startTime": 74360,
+          "endTime": 74819,
+          "content": " environ"
+        },
+        {
+          "startTime": 74830,
+          "endTime": 75199,
+          "content": " deux"
+        },
+        {
+          "startTime": 75209,
+          "endTime": 75339,
+          "content": " à"
+        },
+        {
+          "startTime": 75349,
+          "endTime": 75660,
+          "content": " trois"
+        },
+        {
+          "startTime": 75669,
+          "endTime": 75980,
+          "content": " semaines"
+        },
+        {
+          "startTime": 75989,
+          "endTime": 76220,
+          "content": " avant"
+        },
+        {
+          "startTime": 76230,
+          "endTime": 76559,
+          "content": " d'être"
+        },
+        {
+          "startTime": 76569,
+          "endTime": 77190,
+          "content": " immunisé."
+        },
+        {
+          "startTime": 77199,
+          "endTime": 77510,
+          "content": " Si"
+        },
+        {
+          "startTime": 77519,
+          "endTime": 77589,
+          "content": " vous"
+        },
+        {
+          "startTime": 77599,
+          "endTime": 77779,
+          "content": " vous"
+        },
+        {
+          "startTime": 77790,
+          "endTime": 77940,
+          "content": " faites"
+        },
+        {
+          "startTime": 77949,
+          "endTime": 78389,
+          "content": " vacciner"
+        },
+        {
+          "startTime": 78400,
+          "endTime": 78970,
+          "content": " maintenant,"
+        },
+        {
+          "startTime": 79050,
+          "endTime": 79230,
+          "content": " vous"
+        },
+        {
+          "startTime": 79239,
+          "endTime": 79419,
+          "content": " serez"
+        },
+        {
+          "startTime": 79430,
+          "endTime": 79949,
+          "content": " protégé"
+        },
+        {
+          "startTime": 79959,
+          "endTime": 80080,
+          "content": " à"
+        },
+        {
+          "startTime": 80089,
+          "endTime": 80300,
+          "content": " temps"
+        },
+        {
+          "startTime": 80309,
+          "endTime": 80400,
+          "content": " pour"
+        },
+        {
+          "startTime": 80410,
+          "endTime": 80480,
+          "content": " les"
+        },
+        {
+          "startTime": 80489,
+          "endTime": 80660,
+          "content": " fêtes"
+        },
+        {
+          "startTime": 80669,
+          "endTime": 80720,
+          "content": " de"
+        },
+        {
+          "startTime": 80730,
+          "endTime": 81139,
+          "content": " Noël"
+        },
+        {
+          "startTime": 81150,
+          "endTime": 81599,
+          "content": " Agathe"
+        },
+        {
+          "startTime": 81610,
+          "endTime": 81940,
+          "content": " Landais,"
+        }
+      ]
+    },
+    {
+      "startTime": 81949,
+      "endTime": 84559,
+      "speaker": "Voix 2",
+      "items": [
+        {
+          "startTime": 81949,
+          "endTime": 82190,
+          "content": "notre"
+        },
+        {
+          "startTime": 82199,
+          "endTime": 83050,
+          "content": " spécialiste"
+        },
+        {
+          "startTime": 83059,
+          "endTime": 83589,
+          "content": " santé"
+        },
+        {
+          "startTime": 83599,
+          "endTime": 84010,
+          "content": " sur"
+        },
+        {
+          "startTime": 84019,
+          "endTime": 84559,
+          "content": " RTL"
+        }
+      ]
+    }
+  ]
+}
