@@ -76,13 +76,13 @@ class ChatTest {
 
         println agent.chat('Bonjour, quelles sont les actualités insolites du jour ?') + '\n\n'
 
-        retriever.findRelevant('Bonjour, quelles émissions parlent de musique ?').each {
+        store.retriever.findRelevant('Bonjour, quelles émissions parlent de musique ?').each {
             println it.metadata().get('source') + ' at index ' + it.metadata().get('index')
             println it.text()
             println ''
         }
 
-        // println agent.chat('Hi, I forgot when my booking is.')
+//        println agent.chat('Hi, I forgot when my booking is.')
     }
 
 
