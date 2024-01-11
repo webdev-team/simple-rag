@@ -1,0 +1,1707 @@
+{
+  "media": {
+    "id": 7900327724,
+    "programId": 7798176208,
+    "program": "RTL vous régale",
+    "date": "2023-04-12",
+    "time": "08:46",
+    "title": "La salade de betteraves et chèvre frais de Cyril Lignac",
+    "summary": "Cyril Lignac propose une recette de salade de betteraves de différentes sortes agrémentées de chèvre frais et d'un mélange noisettes, amandes et pignons.",
+    "speakers": [
+      "Cyril Lignac"
+    ]
+  },
+  "source": "whisper",
+  "segments": [
+    {
+      "startTime": 384,
+      "endTime": 15572,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 384,
+          "endTime": 704,
+          "content": "Vous"
+        },
+        {
+          "startTime": 1004,
+          "endTime": 1104,
+          "content": " êtes"
+        },
+        {
+          "startTime": 1184,
+          "endTime": 1325,
+          "content": " sur"
+        },
+        {
+          "startTime": 1425,
+          "endTime": 1545,
+          "content": " RTL."
+        },
+        {
+          "startTime": 1605,
+          "endTime": 5747,
+          "content": " RTL"
+        },
+        {
+          "startTime": 5767,
+          "endTime": 7208,
+          "content": " Matin."
+        },
+        {
+          "startTime": 7228,
+          "endTime": 7568,
+          "content": " Bonjour"
+        },
+        {
+          "startTime": 7588,
+          "endTime": 7828,
+          "content": " Cyril"
+        },
+        {
+          "startTime": 7848,
+          "endTime": 8629,
+          "content": " Lignac."
+        },
+        {
+          "startTime": 8669,
+          "endTime": 9449,
+          "content": " Alors"
+        },
+        {
+          "startTime": 9469,
+          "endTime": 9529,
+          "content": " ce"
+        },
+        {
+          "startTime": 9569,
+          "endTime": 9769,
+          "content": " matin"
+        },
+        {
+          "startTime": 9789,
+          "endTime": 9869,
+          "content": " vous"
+        },
+        {
+          "startTime": 9909,
+          "endTime": 10009,
+          "content": " nous"
+        },
+        {
+          "startTime": 10029,
+          "endTime": 10229,
+          "content": " donnez"
+        },
+        {
+          "startTime": 10270,
+          "endTime": 10530,
+          "content": " quelques"
+        },
+        {
+          "startTime": 10590,
+          "endTime": 12271,
+          "content": " astuces"
+        },
+        {
+          "startTime": 12291,
+          "endTime": 12431,
+          "content": " pour"
+        },
+        {
+          "startTime": 12471,
+          "endTime": 12551,
+          "content": " une"
+        },
+        {
+          "startTime": 12591,
+          "endTime": 12871,
+          "content": " salade"
+        },
+        {
+          "startTime": 12911,
+          "endTime": 12971,
+          "content": " de"
+        },
+        {
+          "startTime": 13011,
+          "endTime": 13611,
+          "content": " bétarave"
+        },
+        {
+          "startTime": 13651,
+          "endTime": 13751,
+          "content": " et"
+        },
+        {
+          "startTime": 13771,
+          "endTime": 13852,
+          "content": " de"
+        },
+        {
+          "startTime": 13892,
+          "endTime": 14212,
+          "content": " chèvre"
+        },
+        {
+          "startTime": 14272,
+          "endTime": 14832,
+          "content": " frais"
+        },
+        {
+          "startTime": 14852,
+          "endTime": 15172,
+          "content": " bien"
+        },
+        {
+          "startTime": 15192,
+          "endTime": 15572,
+          "content": " gonflée."
+        }
+      ]
+    },
+    {
+      "startTime": 16093,
+      "endTime": 107488,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 16093,
+          "endTime": 16493,
+          "content": "Oui"
+        },
+        {
+          "startTime": 16513,
+          "endTime": 16593,
+          "content": " j'ai"
+        },
+        {
+          "startTime": 16633,
+          "endTime": 16693,
+          "content": " vu"
+        },
+        {
+          "startTime": 16713,
+          "endTime": 16773,
+          "content": " que"
+        },
+        {
+          "startTime": 16793,
+          "endTime": 16853,
+          "content": " ça"
+        },
+        {
+          "startTime": 16873,
+          "endTime": 17033,
+          "content": " vous"
+        },
+        {
+          "startTime": 17053,
+          "endTime": 17273,
+          "content": " faisait"
+        },
+        {
+          "startTime": 17293,
+          "endTime": 17514,
+          "content": " pas"
+        },
+        {
+          "startTime": 17554,
+          "endTime": 18014,
+          "content": " spécialement"
+        },
+        {
+          "startTime": 18074,
+          "endTime": 18434,
+          "content": " plaisir"
+        },
+        {
+          "startTime": 18494,
+          "endTime": 18534,
+          "content": " la"
+        },
+        {
+          "startTime": 18574,
+          "endTime": 18934,
+          "content": " bétarave."
+        },
+        {
+          "startTime": 18954,
+          "endTime": 19615,
+          "content": " Moi"
+        },
+        {
+          "startTime": 19635,
+          "endTime": 19915,
+          "content": " j'adore"
+        },
+        {
+          "startTime": 19935,
+          "endTime": 20015,
+          "content": " ça."
+        },
+        {
+          "startTime": 24117,
+          "endTime": 24898,
+          "content": " Et"
+        },
+        {
+          "startTime": 24918,
+          "endTime": 25078,
+          "content": " c'est"
+        },
+        {
+          "startTime": 25118,
+          "endTime": 25318,
+          "content": " hyper"
+        },
+        {
+          "startTime": 25338,
+          "endTime": 25438,
+          "content": " bon"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " !"
+        },
+        {
+          "startTime": 25478,
+          "endTime": 25598,
+          "content": " Alors"
+        },
+        {
+          "startTime": 25638,
+          "endTime": 25698,
+          "content": " la"
+        },
+        {
+          "startTime": 25718,
+          "endTime": 25978,
+          "content": " betterave,"
+        },
+        {
+          "startTime": 25998,
+          "endTime": 26098,
+          "content": " ça"
+        },
+        {
+          "startTime": 26138,
+          "endTime": 26218,
+          "content": " nous"
+        },
+        {
+          "startTime": 26238,
+          "endTime": 26458,
+          "content": " rappelle"
+        },
+        {
+          "startTime": 26498,
+          "endTime": 26658,
+          "content": " toujours"
+        },
+        {
+          "startTime": 26698,
+          "endTime": 26758,
+          "content": " un"
+        },
+        {
+          "startTime": 26778,
+          "endTime": 26878,
+          "content": " peu"
+        },
+        {
+          "startTime": 26918,
+          "endTime": 26978,
+          "content": " la"
+        },
+        {
+          "startTime": 26998,
+          "endTime": 27419,
+          "content": " cantine"
+        },
+        {
+          "startTime": 27439,
+          "endTime": 27579,
+          "content": " parce"
+        },
+        {
+          "startTime": 27599,
+          "endTime": 28139,
+          "content": " que"
+        },
+        {
+          "startTime": 28159,
+          "endTime": 28339,
+          "content": " c'était"
+        },
+        {
+          "startTime": 28379,
+          "endTime": 28739,
+          "content": " forcément"
+        },
+        {
+          "startTime": 28779,
+          "endTime": 28879,
+          "content": " pas"
+        },
+        {
+          "startTime": 28899,
+          "endTime": 29039,
+          "content": " bien"
+        },
+        {
+          "startTime": 29099,
+          "endTime": 29579,
+          "content": " assaisonné,"
+        },
+        {
+          "startTime": 29599,
+          "endTime": 29659,
+          "content": " pas"
+        },
+        {
+          "startTime": 29680,
+          "endTime": 29800,
+          "content": " très"
+        },
+        {
+          "startTime": 29820,
+          "endTime": 31700,
+          "content": " bon."
+        },
+        {
+          "startTime": 31740,
+          "endTime": 31900,
+          "content": " Mais"
+        },
+        {
+          "startTime": 31940,
+          "endTime": 32040,
+          "content": " les"
+        },
+        {
+          "startTime": 32081,
+          "endTime": 32301,
+          "content": " bonnes"
+        },
+        {
+          "startTime": 32341,
+          "endTime": 32961,
+          "content": " betteraves,"
+        },
+        {
+          "startTime": 33021,
+          "endTime": 33121,
+          "content": " on"
+        },
+        {
+          "startTime": 33161,
+          "endTime": 33301,
+          "content": " les"
+        },
+        {
+          "startTime": 33341,
+          "endTime": 33921,
+          "content": " cuit..."
+        },
+        {
+          "startTime": 33961,
+          "endTime": 34421,
+          "content": " Alors"
+        },
+        {
+          "startTime": 34461,
+          "endTime": 34642,
+          "content": " d'abord,"
+        },
+        {
+          "startTime": 34682,
+          "endTime": 34742,
+          "content": " on"
+        },
+        {
+          "startTime": 34802,
+          "endTime": 35022,
+          "content": " achète"
+        },
+        {
+          "startTime": 35042,
+          "endTime": 35142,
+          "content": " des"
+        },
+        {
+          "startTime": 35162,
+          "endTime": 35342,
+          "content": " toutes"
+        },
+        {
+          "startTime": 35362,
+          "endTime": 35622,
+          "content": " petites"
+        },
+        {
+          "startTime": 35642,
+          "endTime": 35922,
+          "content": " betteraves."
+        },
+        {
+          "startTime": 35942,
+          "endTime": 36002,
+          "content": " Il"
+        },
+        {
+          "startTime": 36022,
+          "endTime": 36042,
+          "content": " y"
+        },
+        {
+          "startTime": 36082,
+          "endTime": 36162,
+          "content": " a"
+        },
+        {
+          "startTime": 36182,
+          "endTime": 36502,
+          "content": " plusieurs"
+        },
+        {
+          "startTime": 36542,
+          "endTime": 37483,
+          "content": " variétés."
+        },
+        {
+          "startTime": 37523,
+          "endTime": 37623,
+          "content": " La"
+        },
+        {
+          "startTime": 37683,
+          "endTime": 38803,
+          "content": " gyoza..."
+        },
+        {
+          "startTime": 39003,
+          "endTime": 39063,
+          "content": " Il"
+        },
+        {
+          "startTime": 39083,
+          "endTime": 39103,
+          "content": " y"
+        },
+        {
+          "startTime": 39143,
+          "endTime": 39243,
+          "content": " a"
+        },
+        {
+          "startTime": 39264,
+          "endTime": 39924,
+          "content": " plein"
+        },
+        {
+          "startTime": 39964,
+          "endTime": 40684,
+          "content": " de"
+        },
+        {
+          "startTime": 40704,
+          "endTime": 40964,
+          "content": " betteraves."
+        },
+        {
+          "startTime": 40984,
+          "endTime": 41024,
+          "content": " Il"
+        },
+        {
+          "startTime": 41044,
+          "endTime": 41064,
+          "content": " y"
+        },
+        {
+          "startTime": 41084,
+          "endTime": 41144,
+          "content": " a"
+        },
+        {
+          "startTime": 41164,
+          "endTime": 41224,
+          "content": " la"
+        },
+        {
+          "startTime": 41264,
+          "endTime": 42325,
+          "content": " crapaudine,"
+        },
+        {
+          "startTime": 42385,
+          "endTime": 42425,
+          "content": " il"
+        },
+        {
+          "startTime": 42445,
+          "endTime": 42465,
+          "content": " y"
+        },
+        {
+          "startTime": 42485,
+          "endTime": 42545,
+          "content": " a"
+        },
+        {
+          "startTime": 42585,
+          "endTime": 42665,
+          "content": " la"
+        },
+        {
+          "startTime": 42705,
+          "endTime": 43445,
+          "content": " cylindra,"
+        },
+        {
+          "startTime": 43485,
+          "endTime": 43605,
+          "content": " la"
+        },
+        {
+          "startTime": 43625,
+          "endTime": 44025,
+          "content": " shioga"
+        },
+        {
+          "startTime": 44045,
+          "endTime": 44166,
+          "content": " qui"
+        },
+        {
+          "startTime": 44206,
+          "endTime": 44346,
+          "content": " est"
+        },
+        {
+          "startTime": 44386,
+          "endTime": 44466,
+          "content": " un"
+        },
+        {
+          "startTime": 44486,
+          "endTime": 45646,
+          "content": " peu"
+        },
+        {
+          "startTime": 45686,
+          "endTime": 45886,
+          "content": " rouge"
+        },
+        {
+          "startTime": 45906,
+          "endTime": 46006,
+          "content": " et"
+        },
+        {
+          "startTime": 46046,
+          "endTime": 46687,
+          "content": " blanche."
+        },
+        {
+          "startTime": 46727,
+          "endTime": 46847,
+          "content": " Et"
+        },
+        {
+          "startTime": 46867,
+          "endTime": 46967,
+          "content": " donc"
+        },
+        {
+          "startTime": 47027,
+          "endTime": 47187,
+          "content": " elles"
+        },
+        {
+          "startTime": 47227,
+          "endTime": 47347,
+          "content": " sont"
+        },
+        {
+          "startTime": 47387,
+          "endTime": 47567,
+          "content": " toutes"
+        },
+        {
+          "startTime": 47607,
+          "endTime": 48327,
+          "content": " petites"
+        },
+        {
+          "startTime": 48367,
+          "endTime": 48427,
+          "content": " et"
+        },
+        {
+          "startTime": 48467,
+          "endTime": 48547,
+          "content": " il"
+        },
+        {
+          "startTime": 48567,
+          "endTime": 48667,
+          "content": " faut"
+        },
+        {
+          "startTime": 48727,
+          "endTime": 48807,
+          "content": " les"
+        },
+        {
+          "startTime": 48827,
+          "endTime": 49008,
+          "content": " cuire"
+        },
+        {
+          "startTime": 49048,
+          "endTime": 49108,
+          "content": " en"
+        },
+        {
+          "startTime": 49148,
+          "endTime": 50068,
+          "content": " papillote."
+        },
+        {
+          "startTime": 50088,
+          "endTime": 50208,
+          "content": " C'est"
+        },
+        {
+          "startTime": 50248,
+          "endTime": 50388,
+          "content": " comme"
+        },
+        {
+          "startTime": 50408,
+          "endTime": 50508,
+          "content": " ça"
+        },
+        {
+          "startTime": 50528,
+          "endTime": 50748,
+          "content": " qu'on"
+        },
+        {
+          "startTime": 50768,
+          "endTime": 51369,
+          "content": " conserve"
+        },
+        {
+          "startTime": 51409,
+          "endTime": 51489,
+          "content": " les"
+        },
+        {
+          "startTime": 51529,
+          "endTime": 51809,
+          "content": " saveurs."
+        },
+        {
+          "startTime": 52789,
+          "endTime": 52889,
+          "content": " je"
+        },
+        {
+          "startTime": 52929,
+          "endTime": 53029,
+          "content": " les"
+        },
+        {
+          "startTime": 53089,
+          "endTime": 53669,
+          "content": " mets"
+        },
+        {
+          "startTime": 53710,
+          "endTime": 53870,
+          "content": " dans"
+        },
+        {
+          "startTime": 53910,
+          "endTime": 53990,
+          "content": " une"
+        },
+        {
+          "startTime": 54030,
+          "endTime": 54470,
+          "content": " papillote"
+        },
+        {
+          "startTime": 54510,
+          "endTime": 54690,
+          "content": " avec"
+        },
+        {
+          "startTime": 54710,
+          "endTime": 54790,
+          "content": " du"
+        },
+        {
+          "startTime": 54830,
+          "endTime": 55070,
+          "content": " papier"
+        },
+        {
+          "startTime": 55110,
+          "endTime": 56251,
+          "content": " sulfurisé,"
+        },
+        {
+          "startTime": 56291,
+          "endTime": 56411,
+          "content": " je"
+        },
+        {
+          "startTime": 56471,
+          "endTime": 56731,
+          "content": " mets"
+        },
+        {
+          "startTime": 56771,
+          "endTime": 56811,
+          "content": " un"
+        },
+        {
+          "startTime": 56851,
+          "endTime": 57051,
+          "content": " petit"
+        },
+        {
+          "startTime": 57071,
+          "endTime": 57211,
+          "content": " peu"
+        },
+        {
+          "startTime": 57231,
+          "endTime": 57911,
+          "content": " d'eau,"
+        },
+        {
+          "startTime": 57951,
+          "endTime": 58451,
+          "content": " j'ajoute"
+        },
+        {
+          "startTime": 58471,
+          "endTime": 58591,
+          "content": " du"
+        },
+        {
+          "startTime": 58611,
+          "endTime": 58792,
+          "content": " beurre"
+        },
+        {
+          "startTime": 58812,
+          "endTime": 59852,
+          "content": " demi-sel,"
+        },
+        {
+          "startTime": 59912,
+          "endTime": 60052,
+          "content": " et"
+        },
+        {
+          "startTime": 60092,
+          "endTime": 60152,
+          "content": " je"
+        },
+        {
+          "startTime": 60192,
+          "endTime": 60332,
+          "content": " vais"
+        },
+        {
+          "startTime": 60372,
+          "endTime": 60472,
+          "content": " les"
+        },
+        {
+          "startTime": 60492,
+          "endTime": 60952,
+          "content": " cuire"
+        },
+        {
+          "startTime": 60992,
+          "endTime": 61112,
+          "content": " au"
+        },
+        {
+          "startTime": 61132,
+          "endTime": 61413,
+          "content": " four"
+        },
+        {
+          "startTime": 61433,
+          "endTime": 61453,
+          "content": " à"
+        },
+        {
+          "startTime": 61473,
+          "endTime": 61613,
+          "content": " 190°C"
+        },
+        {
+          "startTime": 62873,
+          "endTime": 63133,
+          "content": " pendant"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 40"
+        },
+        {
+          "startTime": 63493,
+          "endTime": 64314,
+          "content": " minutes."
+        },
+        {
+          "startTime": 64354,
+          "endTime": 64734,
+          "content": " L'astuce"
+        },
+        {
+          "startTime": 64774,
+          "endTime": 64874,
+          "content": " c'est"
+        },
+        {
+          "startTime": 64914,
+          "endTime": 65114,
+          "content": " qu'on"
+        },
+        {
+          "startTime": 65154,
+          "endTime": 65774,
+          "content": " voit"
+        },
+        {
+          "startTime": 65814,
+          "endTime": 65974,
+          "content": " que"
+        },
+        {
+          "startTime": 66014,
+          "endTime": 66074,
+          "content": " la"
+        },
+        {
+          "startTime": 66114,
+          "endTime": 66695,
+          "content": " papillote"
+        },
+        {
+          "startTime": 66735,
+          "endTime": 67515,
+          "content": " gonfle,"
+        },
+        {
+          "startTime": 67535,
+          "endTime": 67675,
+          "content": " quand"
+        },
+        {
+          "startTime": 67695,
+          "endTime": 67815,
+          "content": " elle"
+        },
+        {
+          "startTime": 67855,
+          "endTime": 67935,
+          "content": " est"
+        },
+        {
+          "startTime": 67975,
+          "endTime": 68115,
+          "content": " bien"
+        },
+        {
+          "startTime": 68175,
+          "endTime": 69416,
+          "content": " gonflée,"
+        },
+        {
+          "startTime": 69456,
+          "endTime": 69536,
+          "content": " les"
+        },
+        {
+          "startTime": 69576,
+          "endTime": 69956,
+          "content": " betteraves"
+        },
+        {
+          "startTime": 69996,
+          "endTime": 70136,
+          "content": " sont"
+        },
+        {
+          "startTime": 70176,
+          "endTime": 70416,
+          "content": " cuites"
+        },
+        {
+          "startTime": 70436,
+          "endTime": 70456,
+          "content": " à"
+        },
+        {
+          "startTime": 70496,
+          "endTime": 71357,
+          "content": " l'intérieur,"
+        },
+        {
+          "startTime": 71417,
+          "endTime": 71537,
+          "content": " on"
+        },
+        {
+          "startTime": 71577,
+          "endTime": 71717,
+          "content": " les"
+        },
+        {
+          "startTime": 71777,
+          "endTime": 72457,
+          "content": " sort,"
+        },
+        {
+          "startTime": 72497,
+          "endTime": 72877,
+          "content": " l'hiver"
+        },
+        {
+          "startTime": 72917,
+          "endTime": 72977,
+          "content": " on"
+        },
+        {
+          "startTime": 73017,
+          "endTime": 73117,
+          "content": " les"
+        },
+        {
+          "startTime": 73137,
+          "endTime": 73497,
+          "content": " mange"
+        },
+        {
+          "startTime": 73537,
+          "endTime": 74218,
+          "content": " tiède,"
+        },
+        {
+          "startTime": 74238,
+          "endTime": 74638,
+          "content": " c'est-à-dire"
+        },
+        {
+          "startTime": 74678,
+          "endTime": 74778,
+          "content": " que"
+        },
+        {
+          "startTime": 74798,
+          "endTime": 74858,
+          "content": " je"
+        },
+        {
+          "startTime": 74918,
+          "endTime": 75558,
+          "content": " vais"
+        },
+        {
+          "startTime": 75598,
+          "endTime": 75738,
+          "content": " les"
+        },
+        {
+          "startTime": 75778,
+          "endTime": 76719,
+          "content": " éplucher"
+        },
+        {
+          "startTime": 76779,
+          "endTime": 76819,
+          "content": " un"
+        },
+        {
+          "startTime": 76859,
+          "endTime": 76939,
+          "content": " tout"
+        },
+        {
+          "startTime": 76959,
+          "endTime": 77099,
+          "content": " petit"
+        },
+        {
+          "startTime": 77139,
+          "endTime": 77239,
+          "content": " peu"
+        },
+        {
+          "startTime": 77259,
+          "endTime": 77339,
+          "content": " pour"
+        },
+        {
+          "startTime": 77359,
+          "endTime": 77619,
+          "content": " enlever"
+        },
+        {
+          "startTime": 77659,
+          "endTime": 77719,
+          "content": " la"
+        },
+        {
+          "startTime": 77759,
+          "endTime": 77959,
+          "content": " peau"
+        },
+        {
+          "startTime": 77999,
+          "endTime": 78099,
+          "content": " et"
+        },
+        {
+          "startTime": 78159,
+          "endTime": 78219,
+          "content": " la"
+        },
+        {
+          "startTime": 78259,
+          "endTime": 79060,
+          "content": " racine,"
+        },
+        {
+          "startTime": 79100,
+          "endTime": 79360,
+          "content": " ensuite"
+        },
+        {
+          "startTime": 79380,
+          "endTime": 79500,
+          "content": " je"
+        },
+        {
+          "startTime": 79520,
+          "endTime": 79620,
+          "content": " les"
+        },
+        {
+          "startTime": 79640,
+          "endTime": 80260,
+          "content": " coupe,"
+        },
+        {
+          "startTime": 80300,
+          "endTime": 80380,
+          "content": " je"
+        },
+        {
+          "startTime": 80420,
+          "endTime": 80540,
+          "content": " les"
+        },
+        {
+          "startTime": 80580,
+          "endTime": 80820,
+          "content": " roule"
+        },
+        {
+          "startTime": 80860,
+          "endTime": 81000,
+          "content": " dans"
+        },
+        {
+          "startTime": 81020,
+          "endTime": 81100,
+          "content": " de"
+        },
+        {
+          "startTime": 81120,
+          "endTime": 81341,
+          "content": " l'huile"
+        },
+        {
+          "startTime": 81361,
+          "endTime": 81461,
+          "content": " de"
+        },
+        {
+          "startTime": 81481,
+          "endTime": 81881,
+          "content": " noisette,"
+        },
+        {
+          "startTime": 82641,
+          "endTime": 82781,
+          "content": " je"
+        },
+        {
+          "startTime": 82841,
+          "endTime": 84182,
+          "content": " fais"
+        },
+        {
+          "startTime": 84242,
+          "endTime": 84382,
+          "content": " une"
+        },
+        {
+          "startTime": 84422,
+          "endTime": 84802,
+          "content": " crème"
+        },
+        {
+          "startTime": 84842,
+          "endTime": 84882,
+          "content": " à"
+        },
+        {
+          "startTime": 84942,
+          "endTime": 85142,
+          "content": " base"
+        },
+        {
+          "startTime": 85182,
+          "endTime": 85762,
+          "content": " de"
+        },
+        {
+          "startTime": 85802,
+          "endTime": 86142,
+          "content": " chèvre"
+        },
+        {
+          "startTime": 86202,
+          "endTime": 87202,
+          "content": " frais,"
+        },
+        {
+          "startTime": 87322,
+          "endTime": 87642,
+          "content": " yaourt"
+        },
+        {
+          "startTime": 87683,
+          "endTime": 88163,
+          "content": " grec,"
+        },
+        {
+          "startTime": 88183,
+          "endTime": 88503,
+          "content": " zeste"
+        },
+        {
+          "startTime": 88543,
+          "endTime": 88643,
+          "content": " de"
+        },
+        {
+          "startTime": 88683,
+          "endTime": 89103,
+          "content": " citron"
+        },
+        {
+          "startTime": 89143,
+          "endTime": 89643,
+          "content": " vert,"
+        },
+        {
+          "startTime": 89703,
+          "endTime": 89783,
+          "content": " et"
+        },
+        {
+          "startTime": 89843,
+          "endTime": 89883,
+          "content": " un"
+        },
+        {
+          "startTime": 89923,
+          "endTime": 90083,
+          "content": " petit"
+        },
+        {
+          "startTime": 90123,
+          "endTime": 90203,
+          "content": " peu"
+        },
+        {
+          "startTime": 90223,
+          "endTime": 90303,
+          "content": " de"
+        },
+        {
+          "startTime": 90323,
+          "endTime": 90703,
+          "content": " citron"
+        },
+        {
+          "startTime": 90743,
+          "endTime": 91003,
+          "content": " vert"
+        },
+        {
+          "startTime": 91043,
+          "endTime": 91143,
+          "content": " et"
+        },
+        {
+          "startTime": 91184,
+          "endTime": 91244,
+          "content": " du"
+        },
+        {
+          "startTime": 91264,
+          "endTime": 91524,
+          "content": " piment"
+        },
+        {
+          "startTime": 91584,
+          "endTime": 93244,
+          "content": " d'Espelette,"
+        },
+        {
+          "startTime": 93304,
+          "endTime": 93404,
+          "content": " et"
+        },
+        {
+          "startTime": 93444,
+          "endTime": 93544,
+          "content": " je"
+        },
+        {
+          "startTime": 93604,
+          "endTime": 94024,
+          "content": " dépose"
+        },
+        {
+          "startTime": 94064,
+          "endTime": 94144,
+          "content": " au"
+        },
+        {
+          "startTime": 94184,
+          "endTime": 94344,
+          "content": " fond"
+        },
+        {
+          "startTime": 94364,
+          "endTime": 94424,
+          "content": " de"
+        },
+        {
+          "startTime": 94464,
+          "endTime": 94584,
+          "content": " mon"
+        },
+        {
+          "startTime": 94624,
+          "endTime": 95285,
+          "content": " assiette"
+        },
+        {
+          "startTime": 95325,
+          "endTime": 95445,
+          "content": " mes"
+        },
+        {
+          "startTime": 95505,
+          "endTime": 95985,
+          "content": " betteraves"
+        },
+        {
+          "startTime": 96025,
+          "endTime": 96725,
+          "content": " tièdes,"
+        },
+        {
+          "startTime": 96765,
+          "endTime": 96865,
+          "content": " des"
+        },
+        {
+          "startTime": 96905,
+          "endTime": 97465,
+          "content": " noisettes"
+        },
+        {
+          "startTime": 97485,
+          "endTime": 97605,
+          "content": " que"
+        },
+        {
+          "startTime": 97645,
+          "endTime": 97805,
+          "content": " j'ai"
+        },
+        {
+          "startTime": 97865,
+          "endTime": 98966,
+          "content": " écrasées,"
+        },
+        {
+          "startTime": 99006,
+          "endTime": 100026,
+          "content": " j'ajoute"
+        },
+        {
+          "startTime": 100066,
+          "endTime": 100126,
+          "content": " le"
+        },
+        {
+          "startTime": 100146,
+          "endTime": 100306,
+          "content": " petit"
+        },
+        {
+          "startTime": 100326,
+          "endTime": 100766,
+          "content": " fromage"
+        },
+        {
+          "startTime": 100806,
+          "endTime": 101006,
+          "content": " frais"
+        },
+        {
+          "startTime": 101046,
+          "endTime": 101887,
+          "content": " par-dessus,"
+        },
+        {
+          "startTime": 101947,
+          "endTime": 102067,
+          "content": " et"
+        },
+        {
+          "startTime": 102107,
+          "endTime": 102207,
+          "content": " je"
+        },
+        {
+          "startTime": 102247,
+          "endTime": 102567,
+          "content": " toaste"
+        },
+        {
+          "startTime": 102607,
+          "endTime": 102727,
+          "content": " du"
+        },
+        {
+          "startTime": 102747,
+          "endTime": 102927,
+          "content": " pain"
+        },
+        {
+          "startTime": 102987,
+          "endTime": 103047,
+          "content": " à"
+        },
+        {
+          "startTime": 103087,
+          "endTime": 103287,
+          "content": " côté"
+        },
+        {
+          "startTime": 103307,
+          "endTime": 103407,
+          "content": " que"
+        },
+        {
+          "startTime": 103427,
+          "endTime": 103527,
+          "content": " je"
+        },
+        {
+          "startTime": 103567,
+          "endTime": 104207,
+          "content": " frotte"
+        },
+        {
+          "startTime": 104247,
+          "endTime": 104447,
+          "content": " avec"
+        },
+        {
+          "startTime": 104487,
+          "endTime": 104527,
+          "content": " un"
+        },
+        {
+          "startTime": 104567,
+          "endTime": 104727,
+          "content": " petit"
+        },
+        {
+          "startTime": 104747,
+          "endTime": 104867,
+          "content": " peu"
+        },
+        {
+          "startTime": 104907,
+          "endTime": 105428,
+          "content": " d'ail,"
+        },
+        {
+          "startTime": 105488,
+          "endTime": 105568,
+          "content": " et"
+        },
+        {
+          "startTime": 105608,
+          "endTime": 105688,
+          "content": " je"
+        },
+        {
+          "startTime": 105708,
+          "endTime": 105788,
+          "content": " les"
+        },
+        {
+          "startTime": 105808,
+          "endTime": 105968,
+          "content": " mange"
+        },
+        {
+          "startTime": 105988,
+          "endTime": 106148,
+          "content": " comme"
+        },
+        {
+          "startTime": 106168,
+          "endTime": 106288,
+          "content": " ça"
+        },
+        {
+          "startTime": 106328,
+          "endTime": 106408,
+          "content": " en"
+        },
+        {
+          "startTime": 106448,
+          "endTime": 107488,
+          "content": " entrée."
+        }
+      ]
+    },
+    {
+      "startTime": 107508,
+      "endTime": 108448,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 107508,
+          "endTime": 107748,
+          "content": "C'est"
+        },
+        {
+          "startTime": 107788,
+          "endTime": 108188,
+          "content": " formidable"
+        },
+        {
+          "startTime": 108248,
+          "endTime": 108348,
+          "content": " tout"
+        },
+        {
+          "startTime": 108388,
+          "endTime": 108448,
+          "content": " ça"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " !"
+        }
+      ]
+    },
+    {
+      "startTime": 108508,
+      "endTime": 110249,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 108508,
+          "endTime": 108608,
+          "content": "Moi"
+        },
+        {
+          "startTime": 108628,
+          "endTime": 108889,
+          "content": " comme"
+        },
+        {
+          "startTime": 108909,
+          "endTime": 109189,
+          "content": " tapillote,"
+        },
+        {
+          "startTime": 109229,
+          "endTime": 109469,
+          "content": " j'aime"
+        },
+        {
+          "startTime": 109489,
+          "endTime": 109689,
+          "content": " mieux"
+        },
+        {
+          "startTime": 109729,
+          "endTime": 109989,
+          "content": " celle"
+        },
+        {
+          "startTime": 110009,
+          "endTime": 110109,
+          "content": " de"
+        },
+        {
+          "startTime": 110149,
+          "endTime": 110249,
+          "content": " Noël."
+        }
+      ]
+    },
+    {
+      "startTime": 112749,
+      "endTime": 117595,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 112749,
+          "endTime": 112810,
+          "content": "On"
+        },
+        {
+          "startTime": 112850,
+          "endTime": 112950,
+          "content": " va"
+        },
+        {
+          "startTime": 112990,
+          "endTime": 113210,
+          "content": " jouer"
+        },
+        {
+          "startTime": 113230,
+          "endTime": 113670,
+          "content": " donc"
+        },
+        {
+          "startTime": 113690,
+          "endTime": 113811,
+          "content": " c'est"
+        },
+        {
+          "startTime": 113851,
+          "endTime": 114091,
+          "content": " parfait"
+        },
+        {
+          "startTime": 114111,
+          "endTime": 114191,
+          "content": " tout"
+        },
+        {
+          "startTime": 114211,
+          "endTime": 114311,
+          "content": " ça,"
+        },
+        {
+          "startTime": 114331,
+          "endTime": 114491,
+          "content": " puis"
+        },
+        {
+          "startTime": 114511,
+          "endTime": 114652,
+          "content": " votre"
+        },
+        {
+          "startTime": 114672,
+          "endTime": 114892,
+          "content": " recette"
+        },
+        {
+          "startTime": 114912,
+          "endTime": 115052,
+          "content": " quand"
+        },
+        {
+          "startTime": 115072,
+          "endTime": 115172,
+          "content": " même"
+        },
+        {
+          "startTime": 115192,
+          "endTime": 115292,
+          "content": " elle"
+        },
+        {
+          "startTime": 115312,
+          "endTime": 115372,
+          "content": " est"
+        },
+        {
+          "startTime": 115392,
+          "endTime": 115412,
+          "content": " à"
+        },
+        {
+          "startTime": 115432,
+          "endTime": 116173,
+          "content": " retrouver"
+        },
+        {
+          "startTime": 116233,
+          "endTime": 116333,
+          "content": " en"
+        },
+        {
+          "startTime": 116373,
+          "endTime": 116794,
+          "content": " détail"
+        },
+        {
+          "startTime": 116834,
+          "endTime": 116954,
+          "content": " sur"
+        },
+        {
+          "startTime": 116974,
+          "endTime": 117034,
+          "content": " le"
+        },
+        {
+          "startTime": 117074,
+          "endTime": 117214,
+          "content": " site"
+        },
+        {
+          "startTime": 117274,
+          "endTime": 117595,
+          "content": " rtl.fr"
+        }
+      ]
+    }
+  ]
+}

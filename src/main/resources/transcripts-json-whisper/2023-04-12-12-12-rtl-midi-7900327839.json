@@ -1,0 +1,1533 @@
+{
+  "media": {
+    "id": 7900327839,
+    "programId": 18130,
+    "program": "RTL Midi",
+    "date": "2023-04-12",
+    "time": "",
+    "title": "ISRAËL/HAMAS - Des dizaines de chars israéliens sont entrés dans la bande de Gaza",
+    "summary": "L'armée israélienne étend ses opérations dans la bande de Gaza, où des dizaines de chars israéliens sont entrés ce lundi 4 décembre, selon des témoins à l'Agence France-Presse.",
+    "speakers": [
+      "Agnès Bonfillon",
+      "Eric Brunet"
+    ]
+  },
+  "source": "whisper",
+  "segments": [
+    {
+      "startTime": 69,
+      "endTime": 4294,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 69,
+          "endTime": 309,
+          "content": "Des"
+        },
+        {
+          "startTime": 329,
+          "endTime": 690,
+          "content": " dizaines"
+        },
+        {
+          "startTime": 730,
+          "endTime": 890,
+          "content": " de"
+        },
+        {
+          "startTime": 930,
+          "endTime": 1230,
+          "content": " chars"
+        },
+        {
+          "startTime": 1271,
+          "endTime": 1811,
+          "content": " israéliens"
+        },
+        {
+          "startTime": 1831,
+          "endTime": 1971,
+          "content": " sont"
+        },
+        {
+          "startTime": 2011,
+          "endTime": 2272,
+          "content": " entrés"
+        },
+        {
+          "startTime": 2292,
+          "endTime": 2432,
+          "content": " dans"
+        },
+        {
+          "startTime": 2472,
+          "endTime": 2572,
+          "content": " le"
+        },
+        {
+          "startTime": 2612,
+          "endTime": 3133,
+          "content": " sud"
+        },
+        {
+          "startTime": 3153,
+          "endTime": 3233,
+          "content": " de"
+        },
+        {
+          "startTime": 3273,
+          "endTime": 3333,
+          "content": " la"
+        },
+        {
+          "startTime": 3373,
+          "endTime": 3553,
+          "content": " bande"
+        },
+        {
+          "startTime": 3593,
+          "endTime": 3673,
+          "content": " de"
+        },
+        {
+          "startTime": 3693,
+          "endTime": 4294,
+          "content": " Gaza."
+        }
+      ]
+    },
+    {
+      "startTime": 4334,
+      "endTime": 17170,
+      "speaker": "SPEAKER_00",
+      "items": [
+        {
+          "startTime": 4334,
+          "endTime": 4555,
+          "content": "Depuis"
+        },
+        {
+          "startTime": 4575,
+          "endTime": 4635,
+          "content": " le"
+        },
+        {
+          "startTime": 4675,
+          "endTime": 5155,
+          "content": " massacre"
+        },
+        {
+          "startTime": 5195,
+          "endTime": 5716,
+          "content": " perpétré"
+        },
+        {
+          "startTime": 5756,
+          "endTime": 5856,
+          "content": " par"
+        },
+        {
+          "startTime": 5896,
+          "endTime": 5956,
+          "content": " le"
+        },
+        {
+          "startTime": 5996,
+          "endTime": 6357,
+          "content": " Hamas"
+        },
+        {
+          "startTime": 6377,
+          "endTime": 6477,
+          "content": " le"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 7"
+        },
+        {
+          "startTime": 6757,
+          "endTime": 7198,
+          "content": " octobre"
+        },
+        {
+          "startTime": 7238,
+          "endTime": 7538,
+          "content": " dernier,"
+        },
+        {
+          "startTime": 7578,
+          "endTime": 7678,
+          "content": " les"
+        },
+        {
+          "startTime": 7698,
+          "endTime": 8119,
+          "content": " représailles"
+        },
+        {
+          "startTime": 8139,
+          "endTime": 8199,
+          "content": " de"
+        },
+        {
+          "startTime": 8239,
+          "endTime": 8640,
+          "content": " Tsaïs"
+        },
+        {
+          "startTime": 8660,
+          "endTime": 8800,
+          "content": " se"
+        },
+        {
+          "startTime": 8840,
+          "endTime": 9300,
+          "content": " concentraient"
+        },
+        {
+          "startTime": 9320,
+          "endTime": 9441,
+          "content": " sur"
+        },
+        {
+          "startTime": 9481,
+          "endTime": 9581,
+          "content": " le"
+        },
+        {
+          "startTime": 9621,
+          "endTime": 9901,
+          "content": " nord"
+        },
+        {
+          "startTime": 9941,
+          "endTime": 10021,
+          "content": " de"
+        },
+        {
+          "startTime": 10041,
+          "endTime": 10462,
+          "content": " l'enclave,"
+        },
+        {
+          "startTime": 10502,
+          "endTime": 10822,
+          "content": " notamment"
+        },
+        {
+          "startTime": 10842,
+          "endTime": 11042,
+          "content": " la"
+        },
+        {
+          "startTime": 11083,
+          "endTime": 11363,
+          "content": " ville"
+        },
+        {
+          "startTime": 11383,
+          "endTime": 11483,
+          "content": " de"
+        },
+        {
+          "startTime": 11523,
+          "endTime": 12244,
+          "content": " Gaza."
+        },
+        {
+          "startTime": 12284,
+          "endTime": 12384,
+          "content": " Et"
+        },
+        {
+          "startTime": 12444,
+          "endTime": 12524,
+          "content": " on"
+        },
+        {
+          "startTime": 12564,
+          "endTime": 12624,
+          "content": " le"
+        },
+        {
+          "startTime": 12664,
+          "endTime": 13285,
+          "content": " voit,"
+        },
+        {
+          "startTime": 13325,
+          "endTime": 13546,
+          "content": " Brice"
+        },
+        {
+          "startTime": 13566,
+          "endTime": 13946,
+          "content": " Dujenis,"
+        },
+        {
+          "startTime": 13966,
+          "endTime": 14086,
+          "content": " c'est"
+        },
+        {
+          "startTime": 14106,
+          "endTime": 14487,
+          "content": " désormais"
+        },
+        {
+          "startTime": 14527,
+          "endTime": 14667,
+          "content": " tout"
+        },
+        {
+          "startTime": 14687,
+          "endTime": 14767,
+          "content": " le"
+        },
+        {
+          "startTime": 14787,
+          "endTime": 15348,
+          "content": " territoire"
+        },
+        {
+          "startTime": 15388,
+          "endTime": 15528,
+          "content": " qui"
+        },
+        {
+          "startTime": 15588,
+          "endTime": 15708,
+          "content": " est"
+        },
+        {
+          "startTime": 15748,
+          "endTime": 16049,
+          "content": " soumis"
+        },
+        {
+          "startTime": 16089,
+          "endTime": 16169,
+          "content": " à"
+        },
+        {
+          "startTime": 16229,
+          "endTime": 16649,
+          "content": " d'intenses"
+        },
+        {
+          "startTime": 16689,
+          "endTime": 17170,
+          "content": " bombardements."
+        }
+      ]
+    },
+    {
+      "startTime": 17310,
+      "endTime": 48495,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 17310,
+          "endTime": 17510,
+          "content": "Oui,"
+        },
+        {
+          "startTime": 17530,
+          "endTime": 17650,
+          "content": " dès"
+        },
+        {
+          "startTime": 17670,
+          "endTime": 17731,
+          "content": " la"
+        },
+        {
+          "startTime": 17751,
+          "endTime": 17891,
+          "content": " fin"
+        },
+        {
+          "startTime": 17911,
+          "endTime": 17991,
+          "content": " de"
+        },
+        {
+          "startTime": 18011,
+          "endTime": 18071,
+          "content": " la"
+        },
+        {
+          "startTime": 18111,
+          "endTime": 18351,
+          "content": " trêve,"
+        },
+        {
+          "startTime": 18371,
+          "endTime": 18451,
+          "content": " les"
+        },
+        {
+          "startTime": 18491,
+          "endTime": 18932,
+          "content": " bombardements"
+        },
+        {
+          "startTime": 18992,
+          "endTime": 19092,
+          "content": " ont"
+        },
+        {
+          "startTime": 19132,
+          "endTime": 19512,
+          "content": " repris."
+        },
+        {
+          "startTime": 19552,
+          "endTime": 19673,
+          "content": " Les"
+        },
+        {
+          "startTime": 19733,
+          "endTime": 20313,
+          "content": " Israéliens"
+        },
+        {
+          "startTime": 20353,
+          "endTime": 20573,
+          "content": " visent"
+        },
+        {
+          "startTime": 20593,
+          "endTime": 21014,
+          "content": " désormais"
+        },
+        {
+          "startTime": 21034,
+          "endTime": 21234,
+          "content": " le"
+        },
+        {
+          "startTime": 21294,
+          "endTime": 21695,
+          "content": " sud"
+        },
+        {
+          "startTime": 21735,
+          "endTime": 21815,
+          "content": " de"
+        },
+        {
+          "startTime": 21855,
+          "endTime": 21915,
+          "content": " la"
+        },
+        {
+          "startTime": 21955,
+          "endTime": 22155,
+          "content": " bande"
+        },
+        {
+          "startTime": 22175,
+          "endTime": 22255,
+          "content": " de"
+        },
+        {
+          "startTime": 22295,
+          "endTime": 22535,
+          "content": " Gaza"
+        },
+        {
+          "startTime": 22595,
+          "endTime": 22736,
+          "content": " car"
+        },
+        {
+          "startTime": 22776,
+          "endTime": 23096,
+          "content": " l'armée"
+        },
+        {
+          "startTime": 23136,
+          "endTime": 23596,
+          "content": " israélienne"
+        },
+        {
+          "startTime": 23637,
+          "endTime": 23797,
+          "content": " veut"
+        },
+        {
+          "startTime": 23817,
+          "endTime": 24177,
+          "content": " traquer"
+        },
+        {
+          "startTime": 24217,
+          "endTime": 24297,
+          "content": " les"
+        },
+        {
+          "startTime": 24317,
+          "endTime": 24497,
+          "content": " membres"
+        },
+        {
+          "startTime": 24537,
+          "endTime": 24577,
+          "content": " du"
+        },
+        {
+          "startTime": 24618,
+          "endTime": 25178,
+          "content": " Hamas"
+        },
+        {
+          "startTime": 25218,
+          "endTime": 25318,
+          "content": " qui"
+        },
+        {
+          "startTime": 25358,
+          "endTime": 25579,
+          "content": " auraient"
+        },
+        {
+          "startTime": 25619,
+          "endTime": 26139,
+          "content": " profité"
+        },
+        {
+          "startTime": 26179,
+          "endTime": 26279,
+          "content": " de"
+        },
+        {
+          "startTime": 26319,
+          "endTime": 26479,
+          "content": " ce"
+        },
+        {
+          "startTime": 26499,
+          "endTime": 27040,
+          "content": " cessez-le-feu"
+        },
+        {
+          "startTime": 27080,
+          "endTime": 27240,
+          "content": " pour"
+        },
+        {
+          "startTime": 27260,
+          "endTime": 27460,
+          "content": " se"
+        },
+        {
+          "startTime": 27500,
+          "endTime": 27981,
+          "content": " déplacer"
+        },
+        {
+          "startTime": 28021,
+          "endTime": 28161,
+          "content": " dans"
+        },
+        {
+          "startTime": 28181,
+          "endTime": 28261,
+          "content": " la"
+        },
+        {
+          "startTime": 28301,
+          "endTime": 28542,
+          "content": " zone."
+        },
+        {
+          "startTime": 28582,
+          "endTime": 28682,
+          "content": " Ce"
+        },
+        {
+          "startTime": 28722,
+          "endTime": 29362,
+          "content": " matin,"
+        },
+        {
+          "startTime": 29402,
+          "endTime": 29482,
+          "content": " des"
+        },
+        {
+          "startTime": 29523,
+          "endTime": 29863,
+          "content": " dizaines"
+        },
+        {
+          "startTime": 29903,
+          "endTime": 30003,
+          "content": " de"
+        },
+        {
+          "startTime": 30043,
+          "endTime": 30343,
+          "content": " chars"
+        },
+        {
+          "startTime": 30383,
+          "endTime": 30484,
+          "content": " de"
+        },
+        {
+          "startTime": 30524,
+          "endTime": 31184,
+          "content": " bulldozers"
+        },
+        {
+          "startTime": 31244,
+          "endTime": 31404,
+          "content": " sont"
+        },
+        {
+          "startTime": 31444,
+          "endTime": 31685,
+          "content": " entrés"
+        },
+        {
+          "startTime": 31725,
+          "endTime": 31865,
+          "content": " pour"
+        },
+        {
+          "startTime": 31905,
+          "endTime": 32065,
+          "content": " la"
+        },
+        {
+          "startTime": 32105,
+          "endTime": 32466,
+          "content": " première"
+        },
+        {
+          "startTime": 32506,
+          "endTime": 32686,
+          "content": " fois"
+        },
+        {
+          "startTime": 32726,
+          "endTime": 32846,
+          "content": " dans"
+        },
+        {
+          "startTime": 32866,
+          "endTime": 32926,
+          "content": " la"
+        },
+        {
+          "startTime": 32946,
+          "endTime": 33086,
+          "content": " ville"
+        },
+        {
+          "startTime": 33306,
+          "endTime": 33907,
+          "content": " Ranyounès,"
+        },
+        {
+          "startTime": 33967,
+          "endTime": 34548,
+          "content": " principale"
+        },
+        {
+          "startTime": 34588,
+          "endTime": 34808,
+          "content": " ville"
+        },
+        {
+          "startTime": 34848,
+          "endTime": 34968,
+          "content": " du"
+        },
+        {
+          "startTime": 35008,
+          "endTime": 35629,
+          "content": " sud,"
+        },
+        {
+          "startTime": 35669,
+          "endTime": 36390,
+          "content": " démonstration"
+        },
+        {
+          "startTime": 36430,
+          "endTime": 36530,
+          "content": " de"
+        },
+        {
+          "startTime": 36570,
+          "endTime": 36790,
+          "content": " cette"
+        },
+        {
+          "startTime": 36810,
+          "endTime": 37270,
+          "content": " volonté"
+        },
+        {
+          "startTime": 37310,
+          "endTime": 37611,
+          "content": " d'aller,"
+        },
+        {
+          "startTime": 37651,
+          "endTime": 37831,
+          "content": " même"
+        },
+        {
+          "startTime": 37871,
+          "endTime": 37971,
+          "content": " au"
+        },
+        {
+          "startTime": 38011,
+          "endTime": 38311,
+          "content": " sol,"
+        },
+        {
+          "startTime": 38352,
+          "endTime": 38852,
+          "content": " combattre"
+        },
+        {
+          "startTime": 38892,
+          "endTime": 38932,
+          "content": " le"
+        },
+        {
+          "startTime": 38952,
+          "endTime": 39272,
+          "content": " Hamas"
+        },
+        {
+          "startTime": 39312,
+          "endTime": 39653,
+          "content": " jusque"
+        },
+        {
+          "startTime": 39673,
+          "endTime": 39793,
+          "content": " dans"
+        },
+        {
+          "startTime": 39813,
+          "endTime": 39893,
+          "content": " les"
+        },
+        {
+          "startTime": 39933,
+          "endTime": 40253,
+          "content": " tunnels"
+        },
+        {
+          "startTime": 40293,
+          "endTime": 40414,
+          "content": " du"
+        },
+        {
+          "startTime": 40454,
+          "endTime": 40574,
+          "content": " sud."
+        },
+        {
+          "startTime": 41075,
+          "endTime": 41195,
+          "content": " Un"
+        },
+        {
+          "startTime": 41235,
+          "endTime": 41576,
+          "content": " chaos"
+        },
+        {
+          "startTime": 41616,
+          "endTime": 41757,
+          "content": " que"
+        },
+        {
+          "startTime": 41797,
+          "endTime": 42138,
+          "content": " décrit"
+        },
+        {
+          "startTime": 42198,
+          "endTime": 42539,
+          "content": " James"
+        },
+        {
+          "startTime": 42579,
+          "endTime": 43000,
+          "content": " Elder."
+        },
+        {
+          "startTime": 43060,
+          "endTime": 43180,
+          "content": " Il"
+        },
+        {
+          "startTime": 43221,
+          "endTime": 43341,
+          "content": " se"
+        },
+        {
+          "startTime": 43381,
+          "endTime": 43662,
+          "content": " trouve"
+        },
+        {
+          "startTime": 43702,
+          "endTime": 43882,
+          "content": " pour"
+        },
+        {
+          "startTime": 43922,
+          "endTime": 44404,
+          "content": " l'UNICEF"
+        },
+        {
+          "startTime": 44444,
+          "endTime": 44564,
+          "content": " dans"
+        },
+        {
+          "startTime": 44604,
+          "endTime": 44725,
+          "content": " le"
+        },
+        {
+          "startTime": 44785,
+          "endTime": 45005,
+          "content": " sud"
+        },
+        {
+          "startTime": 45045,
+          "endTime": 45126,
+          "content": " de"
+        },
+        {
+          "startTime": 45166,
+          "endTime": 45226,
+          "content": " la"
+        },
+        {
+          "startTime": 45266,
+          "endTime": 45487,
+          "content": " bande"
+        },
+        {
+          "startTime": 45507,
+          "endTime": 45587,
+          "content": " de"
+        },
+        {
+          "startTime": 45627,
+          "endTime": 46169,
+          "content": " Gaza"
+        },
+        {
+          "startTime": 46209,
+          "endTime": 46349,
+          "content": " où"
+        },
+        {
+          "startTime": 46389,
+          "endTime": 46489,
+          "content": " se"
+        },
+        {
+          "startTime": 46529,
+          "endTime": 46670,
+          "content": " sont"
+        },
+        {
+          "startTime": 46730,
+          "endTime": 47091,
+          "content": " réfugiés"
+        },
+        {
+          "startTime": 47131,
+          "endTime": 47251,
+          "content": " des"
+        },
+        {
+          "startTime": 47292,
+          "endTime": 47673,
+          "content": " centaines"
+        },
+        {
+          "startTime": 47713,
+          "endTime": 47773,
+          "content": " de"
+        },
+        {
+          "startTime": 47813,
+          "endTime": 48034,
+          "content": " milliers"
+        },
+        {
+          "startTime": 48074,
+          "endTime": 48114,
+          "content": " de"
+        },
+        {
+          "startTime": 48134,
+          "endTime": 48495,
+          "content": " Gazaouis."
+        }
+      ]
+    },
+    {
+      "startTime": 52382,
+      "endTime": 72500,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 52382,
+          "endTime": 52562,
+          "content": "C'était"
+        },
+        {
+          "startTime": 52602,
+          "endTime": 52682,
+          "content": " une"
+        },
+        {
+          "startTime": 52702,
+          "endTime": 52822,
+          "content": " nuit"
+        },
+        {
+          "startTime": 52862,
+          "endTime": 53042,
+          "content": " de"
+        },
+        {
+          "startTime": 53062,
+          "endTime": 53583,
+          "content": " bombardements"
+        },
+        {
+          "startTime": 53643,
+          "endTime": 54163,
+          "content": " incessants."
+        },
+        {
+          "startTime": 54183,
+          "endTime": 54223,
+          "content": " Je"
+        },
+        {
+          "startTime": 54243,
+          "endTime": 54283,
+          "content": " ne"
+        },
+        {
+          "startTime": 54303,
+          "endTime": 54383,
+          "content": " peux"
+        },
+        {
+          "startTime": 54403,
+          "endTime": 54484,
+          "content": " pas"
+        },
+        {
+          "startTime": 54524,
+          "endTime": 54844,
+          "content": " m'empêcher"
+        },
+        {
+          "startTime": 54884,
+          "endTime": 54944,
+          "content": " de"
+        },
+        {
+          "startTime": 54964,
+          "endTime": 55164,
+          "content": " penser"
+        },
+        {
+          "startTime": 55184,
+          "endTime": 55204,
+          "content": " à"
+        },
+        {
+          "startTime": 55324,
+          "endTime": 55404,
+          "content": " ces"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 1,8"
+        },
+        {
+          "startTime": 55565,
+          "endTime": 55785,
+          "content": " millions"
+        },
+        {
+          "startTime": 55805,
+          "endTime": 56265,
+          "content": " de"
+        },
+        {
+          "startTime": 56305,
+          "endTime": 56605,
+          "content": " personnes"
+        },
+        {
+          "startTime": 56625,
+          "endTime": 56726,
+          "content": " qui"
+        },
+        {
+          "startTime": 56766,
+          "endTime": 56906,
+          "content": " sont"
+        },
+        {
+          "startTime": 56946,
+          "endTime": 57146,
+          "content": " ici"
+        },
+        {
+          "startTime": 57166,
+          "endTime": 57246,
+          "content": " dans"
+        },
+        {
+          "startTime": 57286,
+          "endTime": 57346,
+          "content": " le"
+        },
+        {
+          "startTime": 57386,
+          "endTime": 58567,
+          "content": " sud."
+        },
+        {
+          "startTime": 58607,
+          "endTime": 58647,
+          "content": " Je"
+        },
+        {
+          "startTime": 58667,
+          "endTime": 58767,
+          "content": " pense"
+        },
+        {
+          "startTime": 58787,
+          "endTime": 58888,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 58908,
+          "endTime": 58948,
+          "content": " n'y"
+        },
+        {
+          "startTime": 58968,
+          "endTime": 58988,
+          "content": " a"
+        },
+        {
+          "startTime": 59008,
+          "endTime": 59088,
+          "content": " pas"
+        },
+        {
+          "startTime": 59108,
+          "endTime": 59428,
+          "content": " eu"
+        },
+        {
+          "startTime": 59448,
+          "endTime": 59548,
+          "content": " plus"
+        },
+        {
+          "startTime": 59608,
+          "endTime": 59668,
+          "content": " de"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 5"
+        },
+        {
+          "startTime": 59929,
+          "endTime": 60309,
+          "content": " ou"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 10"
+        },
+        {
+          "startTime": 60449,
+          "endTime": 60769,
+          "content": " minutes"
+        },
+        {
+          "startTime": 60789,
+          "endTime": 60949,
+          "content": " cette"
+        },
+        {
+          "startTime": 60969,
+          "endTime": 61090,
+          "content": " nuit"
+        },
+        {
+          "startTime": 61110,
+          "endTime": 61210,
+          "content": " sans"
+        },
+        {
+          "startTime": 61250,
+          "endTime": 61910,
+          "content": " bombardement."
+        },
+        {
+          "startTime": 61950,
+          "endTime": 62070,
+          "content": " C'était"
+        },
+        {
+          "startTime": 62111,
+          "endTime": 62471,
+          "content": " impossible"
+        },
+        {
+          "startTime": 62511,
+          "endTime": 62571,
+          "content": " de"
+        },
+        {
+          "startTime": 62591,
+          "endTime": 64353,
+          "content": " dormir."
+        },
+        {
+          "startTime": 64393,
+          "endTime": 64533,
+          "content": " J'ai"
+        },
+        {
+          "startTime": 64553,
+          "endTime": 64773,
+          "content": " passé"
+        },
+        {
+          "startTime": 64793,
+          "endTime": 64873,
+          "content": " des"
+        },
+        {
+          "startTime": 64893,
+          "endTime": 65033,
+          "content": " jours"
+        },
+        {
+          "startTime": 65053,
+          "endTime": 65073,
+          "content": " à"
+        },
+        {
+          "startTime": 65093,
+          "endTime": 65854,
+          "content": " Hanyunes,"
+        },
+        {
+          "startTime": 65894,
+          "endTime": 65994,
+          "content": " il"
+        },
+        {
+          "startTime": 66014,
+          "endTime": 66034,
+          "content": " y"
+        },
+        {
+          "startTime": 66074,
+          "endTime": 66254,
+          "content": " a"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 10"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 000"
+        },
+        {
+          "startTime": 66575,
+          "endTime": 66835,
+          "content": " personnes"
+        },
+        {
+          "startTime": 66875,
+          "endTime": 66975,
+          "content": " dans"
+        },
+        {
+          "startTime": 66995,
+          "endTime": 67055,
+          "content": " un"
+        },
+        {
+          "startTime": 67095,
+          "endTime": 67435,
+          "content": " abri,"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 20"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 000"
+        },
+        {
+          "startTime": 67856,
+          "endTime": 67976,
+          "content": " dans"
+        },
+        {
+          "startTime": 68016,
+          "endTime": 68096,
+          "content": " un"
+        },
+        {
+          "startTime": 68136,
+          "endTime": 68576,
+          "content": " autre,"
+        },
+        {
+          "startTime": 68616,
+          "endTime": 68897,
+          "content": " matelas"
+        },
+        {
+          "startTime": 68937,
+          "endTime": 69157,
+          "content": " contre"
+        },
+        {
+          "startTime": 69197,
+          "endTime": 69517,
+          "content": " matelas,"
+        },
+        {
+          "startTime": 69537,
+          "endTime": 69657,
+          "content": " des"
+        },
+        {
+          "startTime": 69697,
+          "endTime": 69998,
+          "content": " centaines"
+        },
+        {
+          "startTime": 70038,
+          "endTime": 70118,
+          "content": " de"
+        },
+        {
+          "startTime": 70138,
+          "endTime": 70418,
+          "content": " personnes"
+        },
+        {
+          "startTime": 70458,
+          "endTime": 70839,
+          "content": " dehors."
+        },
+        {
+          "startTime": 70859,
+          "endTime": 70939,
+          "content": " Tout"
+        },
+        {
+          "startTime": 70959,
+          "endTime": 70999,
+          "content": " le"
+        },
+        {
+          "startTime": 71039,
+          "endTime": 71159,
+          "content": " monde"
+        },
+        {
+          "startTime": 71199,
+          "endTime": 71379,
+          "content": " veut"
+        },
+        {
+          "startTime": 71399,
+          "endTime": 71579,
+          "content": " fuir"
+        },
+        {
+          "startTime": 71599,
+          "endTime": 71699,
+          "content": " ce"
+        },
+        {
+          "startTime": 71719,
+          "endTime": 71899,
+          "content": " bruit"
+        },
+        {
+          "startTime": 71920,
+          "endTime": 71960,
+          "content": " et"
+        },
+        {
+          "startTime": 71980,
+          "endTime": 72100,
+          "content": " ses"
+        },
+        {
+          "startTime": 72120,
+          "endTime": 72500,
+          "content": " conséquences."
+        }
+      ]
+    },
+    {
+      "startTime": 75066,
+      "endTime": 85682,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 75066,
+          "endTime": 75206,
+          "content": "Sous"
+        },
+        {
+          "startTime": 75226,
+          "endTime": 75307,
+          "content": " ce"
+        },
+        {
+          "startTime": 75327,
+          "endTime": 75667,
+          "content": " déluge"
+        },
+        {
+          "startTime": 75687,
+          "endTime": 75727,
+          "content": " de"
+        },
+        {
+          "startTime": 75767,
+          "endTime": 75887,
+          "content": " feu"
+        },
+        {
+          "startTime": 75928,
+          "endTime": 76008,
+          "content": " et"
+        },
+        {
+          "startTime": 76028,
+          "endTime": 76088,
+          "content": " de"
+        },
+        {
+          "startTime": 76128,
+          "endTime": 76468,
+          "content": " métal,"
+        },
+        {
+          "startTime": 76488,
+          "endTime": 76669,
+          "content": " les"
+        },
+        {
+          "startTime": 76709,
+          "endTime": 77229,
+          "content": " déplacés"
+        },
+        {
+          "startTime": 77290,
+          "endTime": 77670,
+          "content": " gazaouis"
+        },
+        {
+          "startTime": 77690,
+          "endTime": 77810,
+          "content": " qui"
+        },
+        {
+          "startTime": 77850,
+          "endTime": 77910,
+          "content": " se"
+        },
+        {
+          "startTime": 77951,
+          "endTime": 78071,
+          "content": " sont"
+        },
+        {
+          "startTime": 78111,
+          "endTime": 78311,
+          "content": " rendus"
+        },
+        {
+          "startTime": 78331,
+          "endTime": 78431,
+          "content": " dans"
+        },
+        {
+          "startTime": 78451,
+          "endTime": 78511,
+          "content": " le"
+        },
+        {
+          "startTime": 78551,
+          "endTime": 78752,
+          "content": " sud"
+        },
+        {
+          "startTime": 78772,
+          "endTime": 78812,
+          "content": " à"
+        },
+        {
+          "startTime": 78872,
+          "endTime": 78972,
+          "content": " la"
+        },
+        {
+          "startTime": 79012,
+          "endTime": 79393,
+          "content": " demande"
+        },
+        {
+          "startTime": 79433,
+          "endTime": 79513,
+          "content": " de"
+        },
+        {
+          "startTime": 79533,
+          "endTime": 79853,
+          "content": " l'armée"
+        },
+        {
+          "startTime": 79933,
+          "endTime": 80514,
+          "content": " israélienne"
+        },
+        {
+          "startTime": 80554,
+          "endTime": 80715,
+          "content": " ne"
+        },
+        {
+          "startTime": 80735,
+          "endTime": 81195,
+          "content": " comprennent"
+        },
+        {
+          "startTime": 81215,
+          "endTime": 81315,
+          "content": " pas"
+        },
+        {
+          "startTime": 81356,
+          "endTime": 81696,
+          "content": " pourquoi"
+        },
+        {
+          "startTime": 81736,
+          "endTime": 81856,
+          "content": " dans"
+        },
+        {
+          "startTime": 81896,
+          "endTime": 82077,
+          "content": " cette"
+        },
+        {
+          "startTime": 82097,
+          "endTime": 82357,
+          "content": " zone"
+        },
+        {
+          "startTime": 82397,
+          "endTime": 82758,
+          "content": " censée"
+        },
+        {
+          "startTime": 82818,
+          "endTime": 83058,
+          "content": " être"
+        },
+        {
+          "startTime": 83098,
+          "endTime": 83859,
+          "content": " protégée,"
+        },
+        {
+          "startTime": 83899,
+          "endTime": 84019,
+          "content": " les"
+        },
+        {
+          "startTime": 84060,
+          "endTime": 84400,
+          "content": " morts"
+        },
+        {
+          "startTime": 84440,
+          "endTime": 84560,
+          "content": " se"
+        },
+        {
+          "startTime": 84600,
+          "endTime": 84901,
+          "content": " comptent"
+        },
+        {
+          "startTime": 84941,
+          "endTime": 84981,
+          "content": " à"
+        },
+        {
+          "startTime": 85021,
+          "endTime": 85241,
+          "content": " nouveau"
+        },
+        {
+          "startTime": 85281,
+          "endTime": 85382,
+          "content": " par"
+        },
+        {
+          "startTime": 85402,
+          "endTime": 85682,
+          "content": " centaines."
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,3144 @@
+{
+  "media": {
+    "id": 7900327650,
+    "programId": 7784590125,
+    "program": "Ça va Beaucoup Mieux",
+    "date": "2023-04-12",
+    "time": "05:49",
+    "title": "LAIT - Le sans lactose est-il bon pour la santé ?",
+    "summary": "Les ventes de lait sans lactose augmentent. De plus en plus de Français en consomment. Est-il bon pour la santé ? Quels sont ses bénéfices ? Que vaut-il vraiment ?\nEcoutez Ça va Beaucoup Mieux du 04 décembre 2023 avec Aline Perraudin.",
+    "speakers": [
+      "Aline Perraudin"
+    ]
+  },
+  "source": "whisper",
+  "segments": [
+    {
+      "startTime": 401,
+      "endTime": 13733,
+      "speaker": "SPEAKER_03",
+      "items": [
+        {
+          "startTime": 401,
+          "endTime": 901,
+          "content": "Vous"
+        },
+        {
+          "startTime": 961,
+          "endTime": 1122,
+          "content": " êtes"
+        },
+        {
+          "startTime": 1202,
+          "endTime": 1462,
+          "content": " sur"
+        },
+        {
+          "startTime": 1482,
+          "endTime": 4805,
+          "content": " RTL."
+        },
+        {
+          "startTime": 5045,
+          "endTime": 5285,
+          "content": " RTL"
+        },
+        {
+          "startTime": 5305,
+          "endTime": 5986,
+          "content": " Matin"
+        },
+        {
+          "startTime": 6026,
+          "endTime": 6226,
+          "content": " avec"
+        },
+        {
+          "startTime": 6286,
+          "endTime": 6606,
+          "content": " Jérôme"
+        },
+        {
+          "startTime": 6646,
+          "endTime": 7127,
+          "content": " Flora."
+        },
+        {
+          "startTime": 7207,
+          "endTime": 7427,
+          "content": " Il"
+        },
+        {
+          "startTime": 7467,
+          "endTime": 7567,
+          "content": " vous"
+        },
+        {
+          "startTime": 7607,
+          "endTime": 8268,
+          "content": " éclaire."
+        },
+        {
+          "startTime": 8288,
+          "endTime": 8448,
+          "content": " Du"
+        },
+        {
+          "startTime": 8488,
+          "endTime": 8868,
+          "content": " lundi"
+        },
+        {
+          "startTime": 8928,
+          "endTime": 9029,
+          "content": " au"
+        },
+        {
+          "startTime": 9049,
+          "endTime": 9369,
+          "content": " jeudi,"
+        },
+        {
+          "startTime": 9429,
+          "endTime": 9489,
+          "content": " la"
+        },
+        {
+          "startTime": 9529,
+          "endTime": 9869,
+          "content": " console"
+        },
+        {
+          "startTime": 9889,
+          "endTime": 9969,
+          "content": " à"
+        },
+        {
+          "startTime": 10009,
+          "endTime": 10210,
+          "content": " santé"
+        },
+        {
+          "startTime": 10230,
+          "endTime": 10550,
+          "content": " Olivier"
+        },
+        {
+          "startTime": 10610,
+          "endTime": 10990,
+          "content": " Dauvert."
+        },
+        {
+          "startTime": 11030,
+          "endTime": 11351,
+          "content": " Question"
+        },
+        {
+          "startTime": 11371,
+          "endTime": 11451,
+          "content": " ce"
+        },
+        {
+          "startTime": 11471,
+          "endTime": 11671,
+          "content": " matin"
+        },
+        {
+          "startTime": 11691,
+          "endTime": 11891,
+          "content": " autour"
+        },
+        {
+          "startTime": 11911,
+          "endTime": 12011,
+          "content": " d'une"
+        },
+        {
+          "startTime": 12031,
+          "endTime": 12151,
+          "content": " eau"
+        },
+        {
+          "startTime": 12171,
+          "endTime": 12532,
+          "content": " minérale"
+        },
+        {
+          "startTime": 12572,
+          "endTime": 12672,
+          "content": " de"
+        },
+        {
+          "startTime": 12692,
+          "endTime": 12812,
+          "content": " plus"
+        },
+        {
+          "startTime": 12852,
+          "endTime": 12952,
+          "content": " en"
+        },
+        {
+          "startTime": 12972,
+          "endTime": 13112,
+          "content": " plus"
+        },
+        {
+          "startTime": 13152,
+          "endTime": 13733,
+          "content": " rare."
+        }
+      ]
+    },
+    {
+      "startTime": 13793,
+      "endTime": 19578,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 13793,
+          "endTime": 14053,
+          "content": "Oui,"
+        },
+        {
+          "startTime": 14093,
+          "endTime": 14293,
+          "content": " c'est"
+        },
+        {
+          "startTime": 14333,
+          "endTime": 14473,
+          "content": " l'eau"
+        },
+        {
+          "startTime": 14493,
+          "endTime": 14613,
+          "content": " des"
+        },
+        {
+          "startTime": 14653,
+          "endTime": 14834,
+          "content": " parcs"
+        },
+        {
+          "startTime": 14854,
+          "endTime": 14954,
+          "content": " qui"
+        },
+        {
+          "startTime": 14994,
+          "endTime": 15094,
+          "content": " a"
+        },
+        {
+          "startTime": 15114,
+          "endTime": 15554,
+          "content": " quasiment"
+        },
+        {
+          "startTime": 15634,
+          "endTime": 16075,
+          "content": " disparu"
+        },
+        {
+          "startTime": 16095,
+          "endTime": 16195,
+          "content": " des"
+        },
+        {
+          "startTime": 16215,
+          "endTime": 16555,
+          "content": " rayons."
+        },
+        {
+          "startTime": 16615,
+          "endTime": 16675,
+          "content": " Il"
+        },
+        {
+          "startTime": 16695,
+          "endTime": 16715,
+          "content": " y"
+        },
+        {
+          "startTime": 16755,
+          "endTime": 16855,
+          "content": " a"
+        },
+        {
+          "startTime": 16915,
+          "endTime": 17116,
+          "content": " une"
+        },
+        {
+          "startTime": 17156,
+          "endTime": 17336,
+          "content": " bonne"
+        },
+        {
+          "startTime": 17356,
+          "endTime": 17896,
+          "content": " explication,"
+        },
+        {
+          "startTime": 17916,
+          "endTime": 17956,
+          "content": " je"
+        },
+        {
+          "startTime": 18076,
+          "endTime": 18177,
+          "content": " dis"
+        },
+        {
+          "startTime": 18197,
+          "endTime": 18717,
+          "content": " ça"
+        },
+        {
+          "startTime": 18737,
+          "endTime": 19157,
+          "content": " malheureusement"
+        },
+        {
+          "startTime": 19197,
+          "endTime": 19318,
+          "content": " pour"
+        },
+        {
+          "startTime": 19338,
+          "endTime": 19418,
+          "content": " les"
+        },
+        {
+          "startTime": 19438,
+          "endTime": 19578,
+          "content": " fans."
+        }
+      ]
+    },
+    {
+      "startTime": 20518,
+      "endTime": 31324,
+      "speaker": "SPEAKER_03",
+      "items": [
+        {
+          "startTime": 20518,
+          "endTime": 20658,
+          "content": "Mais"
+        },
+        {
+          "startTime": 20698,
+          "endTime": 20859,
+          "content": " avant"
+        },
+        {
+          "startTime": 20879,
+          "endTime": 21039,
+          "content": " cela,"
+        },
+        {
+          "startTime": 21059,
+          "endTime": 21259,
+          "content": " Aline"
+        },
+        {
+          "startTime": 21299,
+          "endTime": 21639,
+          "content": " Perrodin,"
+        },
+        {
+          "startTime": 21659,
+          "endTime": 21779,
+          "content": " vous"
+        },
+        {
+          "startTime": 21799,
+          "endTime": 21919,
+          "content": " nous"
+        },
+        {
+          "startTime": 21939,
+          "endTime": 22419,
+          "content": " parlez"
+        },
+        {
+          "startTime": 22439,
+          "endTime": 22559,
+          "content": " ce"
+        },
+        {
+          "startTime": 22579,
+          "endTime": 22820,
+          "content": " matin"
+        },
+        {
+          "startTime": 22860,
+          "endTime": 23000,
+          "content": " du"
+        },
+        {
+          "startTime": 23040,
+          "endTime": 23260,
+          "content": " lait"
+        },
+        {
+          "startTime": 23280,
+          "endTime": 23460,
+          "content": " sans"
+        },
+        {
+          "startTime": 23500,
+          "endTime": 23980,
+          "content": " lactose,"
+        },
+        {
+          "startTime": 24000,
+          "endTime": 24120,
+          "content": " parce"
+        },
+        {
+          "startTime": 24160,
+          "endTime": 24260,
+          "content": " que"
+        },
+        {
+          "startTime": 24280,
+          "endTime": 24380,
+          "content": " de"
+        },
+        {
+          "startTime": 24400,
+          "endTime": 24541,
+          "content": " plus"
+        },
+        {
+          "startTime": 24581,
+          "endTime": 24661,
+          "content": " en"
+        },
+        {
+          "startTime": 24701,
+          "endTime": 24881,
+          "content": " plus"
+        },
+        {
+          "startTime": 24921,
+          "endTime": 25021,
+          "content": " de"
+        },
+        {
+          "startTime": 25061,
+          "endTime": 26141,
+          "content": " Français"
+        },
+        {
+          "startTime": 26201,
+          "endTime": 26342,
+          "content": " en"
+        },
+        {
+          "startTime": 26382,
+          "endTime": 26722,
+          "content": " consomment,"
+        },
+        {
+          "startTime": 26742,
+          "endTime": 26822,
+          "content": " c'est"
+        },
+        {
+          "startTime": 26862,
+          "endTime": 26922,
+          "content": " un"
+        },
+        {
+          "startTime": 26942,
+          "endTime": 27142,
+          "content": " marché"
+        },
+        {
+          "startTime": 27162,
+          "endTime": 27282,
+          "content": " en"
+        },
+        {
+          "startTime": 27302,
+          "endTime": 27542,
+          "content": " pleine"
+        },
+        {
+          "startTime": 27602,
+          "endTime": 28223,
+          "content": " croissance."
+        },
+        {
+          "startTime": 28243,
+          "endTime": 28403,
+          "content": " Déjà"
+        },
+        {
+          "startTime": 28463,
+          "endTime": 28503,
+          "content": " on"
+        },
+        {
+          "startTime": 28543,
+          "endTime": 28643,
+          "content": " va"
+        },
+        {
+          "startTime": 28683,
+          "endTime": 29203,
+          "content": " rappeler,"
+        },
+        {
+          "startTime": 29223,
+          "endTime": 29423,
+          "content": " comment"
+        },
+        {
+          "startTime": 29483,
+          "endTime": 29543,
+          "content": " il"
+        },
+        {
+          "startTime": 29563,
+          "endTime": 29623,
+          "content": " est"
+        },
+        {
+          "startTime": 29663,
+          "endTime": 30084,
+          "content": " fabriqué"
+        },
+        {
+          "startTime": 30124,
+          "endTime": 30324,
+          "content": " ce"
+        },
+        {
+          "startTime": 30344,
+          "endTime": 30604,
+          "content": " lait"
+        },
+        {
+          "startTime": 30624,
+          "endTime": 30804,
+          "content": " sans"
+        },
+        {
+          "startTime": 30844,
+          "endTime": 31324,
+          "content": " lactose"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        }
+      ]
+    },
+    {
+      "startTime": 31884,
+      "endTime": 164782,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 31884,
+          "endTime": 32185,
+          "content": "Alors"
+        },
+        {
+          "startTime": 32205,
+          "endTime": 32305,
+          "content": " le"
+        },
+        {
+          "startTime": 32345,
+          "endTime": 32725,
+          "content": " lactose"
+        },
+        {
+          "startTime": 32745,
+          "endTime": 32965,
+          "content": " c'est"
+        },
+        {
+          "startTime": 33025,
+          "endTime": 33125,
+          "content": " un"
+        },
+        {
+          "startTime": 33165,
+          "endTime": 33645,
+          "content": " sucre"
+        },
+        {
+          "startTime": 33685,
+          "endTime": 34226,
+          "content": " complexe"
+        },
+        {
+          "startTime": 34266,
+          "endTime": 34866,
+          "content": " naturellement"
+        },
+        {
+          "startTime": 34926,
+          "endTime": 35346,
+          "content": " présent"
+        },
+        {
+          "startTime": 35386,
+          "endTime": 35546,
+          "content": " dans"
+        },
+        {
+          "startTime": 35566,
+          "endTime": 35707,
+          "content": " le"
+        },
+        {
+          "startTime": 35747,
+          "endTime": 36467,
+          "content": " lait."
+        },
+        {
+          "startTime": 36487,
+          "endTime": 36727,
+          "content": " Comme"
+        },
+        {
+          "startTime": 36767,
+          "endTime": 37227,
+          "content": " certaines"
+        },
+        {
+          "startTime": 37267,
+          "endTime": 37628,
+          "content": " personnes"
+        },
+        {
+          "startTime": 37668,
+          "endTime": 37748,
+          "content": " ne"
+        },
+        {
+          "startTime": 37788,
+          "endTime": 38368,
+          "content": " digèrent"
+        },
+        {
+          "startTime": 38388,
+          "endTime": 38448,
+          "content": " mal,"
+        },
+        {
+          "startTime": 38468,
+          "endTime": 38588,
+          "content": " les"
+        },
+        {
+          "startTime": 38648,
+          "endTime": 39188,
+          "content": " industriels"
+        },
+        {
+          "startTime": 39248,
+          "endTime": 39389,
+          "content": " ont"
+        },
+        {
+          "startTime": 39429,
+          "endTime": 39969,
+          "content": " fabriqué"
+        },
+        {
+          "startTime": 40009,
+          "endTime": 40429,
+          "content": " du"
+        },
+        {
+          "startTime": 40469,
+          "endTime": 40749,
+          "content": " lait"
+        },
+        {
+          "startTime": 40789,
+          "endTime": 41250,
+          "content": " sans"
+        },
+        {
+          "startTime": 41290,
+          "endTime": 41710,
+          "content": " lactose."
+        },
+        {
+          "startTime": 42730,
+          "endTime": 42890,
+          "content": " Pour"
+        },
+        {
+          "startTime": 42930,
+          "endTime": 43410,
+          "content": " l'obtenir,"
+        },
+        {
+          "startTime": 43470,
+          "endTime": 43610,
+          "content": " on"
+        },
+        {
+          "startTime": 43630,
+          "endTime": 43810,
+          "content": " prend"
+        },
+        {
+          "startTime": 43830,
+          "endTime": 43970,
+          "content": " du"
+        },
+        {
+          "startTime": 44010,
+          "endTime": 44150,
+          "content": " lait"
+        },
+        {
+          "startTime": 44171,
+          "endTime": 44611,
+          "content": " classique"
+        },
+        {
+          "startTime": 44671,
+          "endTime": 44731,
+          "content": " et"
+        },
+        {
+          "startTime": 44791,
+          "endTime": 44871,
+          "content": " on"
+        },
+        {
+          "startTime": 44891,
+          "endTime": 45231,
+          "content": " rajoute"
+        },
+        {
+          "startTime": 45251,
+          "endTime": 45691,
+          "content": " dedans"
+        },
+        {
+          "startTime": 45731,
+          "endTime": 45831,
+          "content": " de"
+        },
+        {
+          "startTime": 45851,
+          "endTime": 45991,
+          "content": " la"
+        },
+        {
+          "startTime": 46031,
+          "endTime": 46491,
+          "content": " lactase."
+        },
+        {
+          "startTime": 46531,
+          "endTime": 46731,
+          "content": " C'est"
+        },
+        {
+          "startTime": 46771,
+          "endTime": 46871,
+          "content": " une"
+        },
+        {
+          "startTime": 46911,
+          "endTime": 47851,
+          "content": " enzyme"
+        },
+        {
+          "startTime": 47871,
+          "endTime": 48552,
+          "content": " digestive."
+        },
+        {
+          "startTime": 48592,
+          "endTime": 48712,
+          "content": " Elle"
+        },
+        {
+          "startTime": 48732,
+          "endTime": 48832,
+          "content": " est"
+        },
+        {
+          "startTime": 48872,
+          "endTime": 49212,
+          "content": " présente"
+        },
+        {
+          "startTime": 49252,
+          "endTime": 49392,
+          "content": " dans"
+        },
+        {
+          "startTime": 49432,
+          "endTime": 49632,
+          "content": " notre"
+        },
+        {
+          "startTime": 49692,
+          "endTime": 50172,
+          "content": " intestin"
+        },
+        {
+          "startTime": 50212,
+          "endTime": 50932,
+          "content": " grêle,"
+        },
+        {
+          "startTime": 50972,
+          "endTime": 51432,
+          "content": " mais"
+        },
+        {
+          "startTime": 51472,
+          "endTime": 51972,
+          "content": " certaines"
+        },
+        {
+          "startTime": 52012,
+          "endTime": 52553,
+          "content": " personnes"
+        },
+        {
+          "startTime": 52613,
+          "endTime": 52733,
+          "content": " en"
+        },
+        {
+          "startTime": 52773,
+          "endTime": 53693,
+          "content": " manquent."
+        },
+        {
+          "startTime": 53713,
+          "endTime": 53793,
+          "content": " La"
+        },
+        {
+          "startTime": 53853,
+          "endTime": 54293,
+          "content": " lactase"
+        },
+        {
+          "startTime": 54333,
+          "endTime": 54453,
+          "content": " va"
+        },
+        {
+          "startTime": 54493,
+          "endTime": 54913,
+          "content": " découper"
+        },
+        {
+          "startTime": 54953,
+          "endTime": 55033,
+          "content": " le"
+        },
+        {
+          "startTime": 55053,
+          "endTime": 55433,
+          "content": " lactose"
+        },
+        {
+          "startTime": 55493,
+          "endTime": 55773,
+          "content": " en"
+        },
+        {
+          "startTime": 55813,
+          "endTime": 56013,
+          "content": " deux"
+        },
+        {
+          "startTime": 56053,
+          "endTime": 56453,
+          "content": " sucres"
+        },
+        {
+          "startTime": 56493,
+          "endTime": 57294,
+          "content": " simples."
+        },
+        {
+          "startTime": 57314,
+          "endTime": 57434,
+          "content": " Le"
+        },
+        {
+          "startTime": 57474,
+          "endTime": 57614,
+          "content": " lait"
+        },
+        {
+          "startTime": 57634,
+          "endTime": 57834,
+          "content": " sans"
+        },
+        {
+          "startTime": 57854,
+          "endTime": 58394,
+          "content": " lactose,"
+        },
+        {
+          "startTime": 58414,
+          "endTime": 58594,
+          "content": " c'est"
+        },
+        {
+          "startTime": 58634,
+          "endTime": 58974,
+          "content": " donc"
+        },
+        {
+          "startTime": 59034,
+          "endTime": 59114,
+          "content": " en"
+        },
+        {
+          "startTime": 59154,
+          "endTime": 59494,
+          "content": " quelque"
+        },
+        {
+          "startTime": 59534,
+          "endTime": 60114,
+          "content": " sorte"
+        },
+        {
+          "startTime": 60294,
+          "endTime": 60394,
+          "content": " du"
+        },
+        {
+          "startTime": 60414,
+          "endTime": 60674,
+          "content": " lait"
+        },
+        {
+          "startTime": 60714,
+          "endTime": 61335,
+          "content": " prédigéré."
+        },
+        {
+          "startTime": 61435,
+          "endTime": 61695,
+          "content": " Est-ce"
+        },
+        {
+          "startTime": 61715,
+          "endTime": 61855,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 61875,
+          "endTime": 61935,
+          "content": " est"
+        },
+        {
+          "startTime": 61955,
+          "endTime": 62195,
+          "content": " meilleur"
+        },
+        {
+          "startTime": 62215,
+          "endTime": 62315,
+          "content": " pour"
+        },
+        {
+          "startTime": 62355,
+          "endTime": 62455,
+          "content": " la"
+        },
+        {
+          "startTime": 62475,
+          "endTime": 62635,
+          "content": " santé"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        },
+        {
+          "startTime": 63715,
+          "endTime": 64516,
+          "content": " Alors,"
+        },
+        {
+          "startTime": 64576,
+          "endTime": 64676,
+          "content": " il"
+        },
+        {
+          "startTime": 64696,
+          "endTime": 64856,
+          "content": " n'est"
+        },
+        {
+          "startTime": 64876,
+          "endTime": 64996,
+          "content": " pas"
+        },
+        {
+          "startTime": 65016,
+          "endTime": 66057,
+          "content": " meilleur."
+        },
+        {
+          "startTime": 66097,
+          "endTime": 66177,
+          "content": " La"
+        },
+        {
+          "startTime": 66217,
+          "endTime": 66757,
+          "content": " transformation"
+        },
+        {
+          "startTime": 66797,
+          "endTime": 67018,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 67058,
+          "endTime": 67398,
+          "content": " subit"
+        },
+        {
+          "startTime": 67438,
+          "endTime": 67538,
+          "content": " ne"
+        },
+        {
+          "startTime": 67578,
+          "endTime": 68058,
+          "content": " modifie"
+        },
+        {
+          "startTime": 68098,
+          "endTime": 68239,
+          "content": " pas"
+        },
+        {
+          "startTime": 68299,
+          "endTime": 68399,
+          "content": " ses"
+        },
+        {
+          "startTime": 68439,
+          "endTime": 68659,
+          "content": " valeurs"
+        },
+        {
+          "startTime": 68719,
+          "endTime": 69720,
+          "content": " nutritionnelles."
+        },
+        {
+          "startTime": 69780,
+          "endTime": 69880,
+          "content": " Il"
+        },
+        {
+          "startTime": 69920,
+          "endTime": 70180,
+          "content": " apporte"
+        },
+        {
+          "startTime": 70220,
+          "endTime": 70380,
+          "content": " les"
+        },
+        {
+          "startTime": 70420,
+          "endTime": 70640,
+          "content": " mêmes"
+        },
+        {
+          "startTime": 70680,
+          "endTime": 71121,
+          "content": " quantités"
+        },
+        {
+          "startTime": 71181,
+          "endTime": 71301,
+          "content": " de"
+        },
+        {
+          "startTime": 71361,
+          "endTime": 72021,
+          "content": " protéines,"
+        },
+        {
+          "startTime": 72061,
+          "endTime": 72202,
+          "content": " de"
+        },
+        {
+          "startTime": 72222,
+          "endTime": 72902,
+          "content": " calcium,"
+        },
+        {
+          "startTime": 72922,
+          "endTime": 73082,
+          "content": " de"
+        },
+        {
+          "startTime": 73122,
+          "endTime": 73643,
+          "content": " vitamines"
+        },
+        {
+          "startTime": 73663,
+          "endTime": 73863,
+          "content": " D"
+        },
+        {
+          "startTime": 73903,
+          "endTime": 74023,
+          "content": " que"
+        },
+        {
+          "startTime": 74043,
+          "endTime": 74143,
+          "content": " le"
+        },
+        {
+          "startTime": 74183,
+          "endTime": 74463,
+          "content": " lait"
+        },
+        {
+          "startTime": 74503,
+          "endTime": 75524,
+          "content": " classique."
+        },
+        {
+          "startTime": 75564,
+          "endTime": 75744,
+          "content": " Son"
+        },
+        {
+          "startTime": 75824,
+          "endTime": 76225,
+          "content": " intérêt,"
+        },
+        {
+          "startTime": 76245,
+          "endTime": 76365,
+          "content": " c'est"
+        },
+        {
+          "startTime": 76385,
+          "endTime": 76485,
+          "content": " de"
+        },
+        {
+          "startTime": 76505,
+          "endTime": 76885,
+          "content": " permettre"
+        },
+        {
+          "startTime": 76925,
+          "endTime": 77025,
+          "content": " aux"
+        },
+        {
+          "startTime": 77065,
+          "endTime": 77546,
+          "content": " personnes"
+        },
+        {
+          "startTime": 77586,
+          "endTime": 78086,
+          "content": " intolérantes"
+        },
+        {
+          "startTime": 78126,
+          "endTime": 78226,
+          "content": " au"
+        },
+        {
+          "startTime": 78246,
+          "endTime": 78607,
+          "content": " lactose"
+        },
+        {
+          "startTime": 78647,
+          "endTime": 78727,
+          "content": " de"
+        },
+        {
+          "startTime": 78767,
+          "endTime": 79227,
+          "content": " consommer"
+        },
+        {
+          "startTime": 79287,
+          "endTime": 79447,
+          "content": " du"
+        },
+        {
+          "startTime": 79487,
+          "endTime": 79667,
+          "content": " lait"
+        },
+        {
+          "startTime": 79828,
+          "endTime": 80068,
+          "content": " sans"
+        },
+        {
+          "startTime": 80088,
+          "endTime": 80448,
+          "content": " problème."
+        },
+        {
+          "startTime": 80468,
+          "endTime": 80908,
+          "content": " Si"
+        },
+        {
+          "startTime": 80928,
+          "endTime": 81068,
+          "content": " ces"
+        },
+        {
+          "startTime": 81109,
+          "endTime": 81429,
+          "content": " personnes"
+        },
+        {
+          "startTime": 81469,
+          "endTime": 81569,
+          "content": " ne"
+        },
+        {
+          "startTime": 81589,
+          "endTime": 82069,
+          "content": " produisent"
+        },
+        {
+          "startTime": 82089,
+          "endTime": 82389,
+          "content": " pas"
+        },
+        {
+          "startTime": 82450,
+          "endTime": 82710,
+          "content": " ou"
+        },
+        {
+          "startTime": 82730,
+          "endTime": 82870,
+          "content": " pas"
+        },
+        {
+          "startTime": 82930,
+          "endTime": 83150,
+          "content": " assez"
+        },
+        {
+          "startTime": 83170,
+          "endTime": 83230,
+          "content": " de"
+        },
+        {
+          "startTime": 83270,
+          "endTime": 83991,
+          "content": " lactase,"
+        },
+        {
+          "startTime": 84011,
+          "endTime": 84151,
+          "content": " ça"
+        },
+        {
+          "startTime": 84171,
+          "endTime": 84491,
+          "content": " pourrait"
+        },
+        {
+          "startTime": 84531,
+          "endTime": 84971,
+          "content": " concerner"
+        },
+        {
+          "startTime": 84992,
+          "endTime": 85192,
+          "content": " quand"
+        },
+        {
+          "startTime": 85212,
+          "endTime": 85392,
+          "content": " même"
+        },
+        {
+          "startTime": 85432,
+          "endTime": 85832,
+          "content": " entre"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 4"
+        },
+        {
+          "startTime": 86293,
+          "endTime": 86513,
+          "content": " et"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 10%"
+        },
+        {
+          "startTime": 86553,
+          "endTime": 87153,
+          "content": " de"
+        },
+        {
+          "startTime": 87173,
+          "endTime": 87253,
+          "content": " la"
+        },
+        {
+          "startTime": 87293,
+          "endTime": 87854,
+          "content": " population"
+        },
+        {
+          "startTime": 87894,
+          "endTime": 88354,
+          "content": " française."
+        },
+        {
+          "startTime": 88394,
+          "endTime": 88494,
+          "content": " Et"
+        },
+        {
+          "startTime": 88534,
+          "endTime": 88674,
+          "content": " donc"
+        },
+        {
+          "startTime": 88714,
+          "endTime": 89095,
+          "content": " Aline,"
+        },
+        {
+          "startTime": 89115,
+          "endTime": 89295,
+          "content": " ça"
+        },
+        {
+          "startTime": 89335,
+          "endTime": 89455,
+          "content": " se"
+        },
+        {
+          "startTime": 89495,
+          "endTime": 90136,
+          "content": " manifeste"
+        },
+        {
+          "startTime": 90156,
+          "endTime": 90436,
+          "content": " comment"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        },
+        {
+          "startTime": 91597,
+          "endTime": 92197,
+          "content": " Ça"
+        },
+        {
+          "startTime": 92237,
+          "endTime": 92597,
+          "content": " peut"
+        },
+        {
+          "startTime": 92617,
+          "endTime": 93138,
+          "content": " provoquer"
+        },
+        {
+          "startTime": 93198,
+          "endTime": 93618,
+          "content": " différents"
+        },
+        {
+          "startTime": 93658,
+          "endTime": 94418,
+          "content": " symptômes,"
+        },
+        {
+          "startTime": 94458,
+          "endTime": 94578,
+          "content": " des"
+        },
+        {
+          "startTime": 94619,
+          "endTime": 95359,
+          "content": " ballonnements,"
+        },
+        {
+          "startTime": 95399,
+          "endTime": 95479,
+          "content": " des"
+        },
+        {
+          "startTime": 95499,
+          "endTime": 96079,
+          "content": " flatulences,"
+        },
+        {
+          "startTime": 96120,
+          "endTime": 96600,
+          "content": " éventuellement"
+        },
+        {
+          "startTime": 96640,
+          "endTime": 96720,
+          "content": " des"
+        },
+        {
+          "startTime": 96740,
+          "endTime": 96960,
+          "content": " troubles"
+        },
+        {
+          "startTime": 96980,
+          "endTime": 97080,
+          "content": " du"
+        },
+        {
+          "startTime": 97120,
+          "endTime": 98001,
+          "content": " transit."
+        },
+        {
+          "startTime": 98041,
+          "endTime": 98121,
+          "content": " Le"
+        },
+        {
+          "startTime": 98161,
+          "endTime": 98541,
+          "content": " lactose"
+        },
+        {
+          "startTime": 98581,
+          "endTime": 98961,
+          "content": " n'étant"
+        },
+        {
+          "startTime": 98981,
+          "endTime": 99101,
+          "content": " pas"
+        },
+        {
+          "startTime": 99121,
+          "endTime": 99662,
+          "content": " digéré"
+        },
+        {
+          "startTime": 99702,
+          "endTime": 99762,
+          "content": " au"
+        },
+        {
+          "startTime": 99802,
+          "endTime": 100002,
+          "content": " niveau"
+        },
+        {
+          "startTime": 100022,
+          "endTime": 100062,
+          "content": " de"
+        },
+        {
+          "startTime": 100102,
+          "endTime": 100602,
+          "content": " l'intestin"
+        },
+        {
+          "startTime": 100642,
+          "endTime": 100943,
+          "content": " grêle"
+        },
+        {
+          "startTime": 100963,
+          "endTime": 101083,
+          "content": " par"
+        },
+        {
+          "startTime": 101123,
+          "endTime": 101203,
+          "content": " la"
+        },
+        {
+          "startTime": 101243,
+          "endTime": 102003,
+          "content": " lactase,"
+        },
+        {
+          "startTime": 102063,
+          "endTime": 102203,
+          "content": " il"
+        },
+        {
+          "startTime": 102244,
+          "endTime": 102504,
+          "content": " va"
+        },
+        {
+          "startTime": 102544,
+          "endTime": 102924,
+          "content": " jusqu'au"
+        },
+        {
+          "startTime": 102964,
+          "endTime": 103544,
+          "content": " côlon"
+        },
+        {
+          "startTime": 103584,
+          "endTime": 103664,
+          "content": " et"
+        },
+        {
+          "startTime": 103724,
+          "endTime": 103905,
+          "content": " faire"
+        },
+        {
+          "startTime": 103945,
+          "endTime": 104365,
+          "content": " monter"
+        },
+        {
+          "startTime": 104385,
+          "endTime": 104625,
+          "content": " d'où"
+        },
+        {
+          "startTime": 104645,
+          "endTime": 104785,
+          "content": " ces"
+        },
+        {
+          "startTime": 104825,
+          "endTime": 105326,
+          "content": " troubles."
+        },
+        {
+          "startTime": 105366,
+          "endTime": 105506,
+          "content": " Mais"
+        },
+        {
+          "startTime": 105526,
+          "endTime": 105706,
+          "content": " comme"
+        },
+        {
+          "startTime": 105746,
+          "endTime": 105826,
+          "content": " me"
+        },
+        {
+          "startTime": 105866,
+          "endTime": 105986,
+          "content": " l'a"
+        },
+        {
+          "startTime": 106026,
+          "endTime": 106546,
+          "content": " souligné"
+        },
+        {
+          "startTime": 106586,
+          "endTime": 106666,
+          "content": " le"
+        },
+        {
+          "startTime": 106706,
+          "endTime": 107047,
+          "content": " Dr"
+        },
+        {
+          "startTime": 107087,
+          "endTime": 107547,
+          "content": " Jean-Michel"
+        },
+        {
+          "startTime": 107587,
+          "endTime": 107987,
+          "content": " Lecerc,"
+        },
+        {
+          "startTime": 108027,
+          "endTime": 108648,
+          "content": " nutritionniste"
+        },
+        {
+          "startTime": 108668,
+          "endTime": 108688,
+          "content": " à"
+        },
+        {
+          "startTime": 108828,
+          "endTime": 109248,
+          "content": " l'Institut"
+        },
+        {
+          "startTime": 109288,
+          "endTime": 109668,
+          "content": " Pasteur"
+        },
+        {
+          "startTime": 109688,
+          "endTime": 109829,
+          "content": " de"
+        },
+        {
+          "startTime": 109849,
+          "endTime": 110429,
+          "content": " Lille,"
+        },
+        {
+          "startTime": 110489,
+          "endTime": 110589,
+          "content": " il"
+        },
+        {
+          "startTime": 110629,
+          "endTime": 110809,
+          "content": " peut"
+        },
+        {
+          "startTime": 110829,
+          "endTime": 110949,
+          "content": " être"
+        },
+        {
+          "startTime": 110989,
+          "endTime": 111730,
+          "content": " d'intensités"
+        },
+        {
+          "startTime": 111790,
+          "endTime": 113631,
+          "content": " variables,"
+        },
+        {
+          "startTime": 113651,
+          "endTime": 113791,
+          "content": " du"
+        },
+        {
+          "startTime": 113831,
+          "endTime": 114091,
+          "content": " simple"
+        },
+        {
+          "startTime": 114131,
+          "endTime": 114872,
+          "content": " inconfort"
+        },
+        {
+          "startTime": 114912,
+          "endTime": 114952,
+          "content": " à"
+        },
+        {
+          "startTime": 114992,
+          "endTime": 115092,
+          "content": " une"
+        },
+        {
+          "startTime": 115132,
+          "endTime": 115532,
+          "content": " gêne"
+        },
+        {
+          "startTime": 115612,
+          "endTime": 116553,
+          "content": " importante,"
+        },
+        {
+          "startTime": 116593,
+          "endTime": 116753,
+          "content": " en"
+        },
+        {
+          "startTime": 116793,
+          "endTime": 117914,
+          "content": " fonction"
+        },
+        {
+          "startTime": 117954,
+          "endTime": 118074,
+          "content": " de"
+        },
+        {
+          "startTime": 118114,
+          "endTime": 118314,
+          "content": " son"
+        },
+        {
+          "startTime": 118354,
+          "endTime": 118754,
+          "content": " degré"
+        },
+        {
+          "startTime": 118834,
+          "endTime": 119475,
+          "content": " d'intolérance."
+        },
+        {
+          "startTime": 119915,
+          "endTime": 119995,
+          "content": " et"
+        },
+        {
+          "startTime": 120035,
+          "endTime": 120115,
+          "content": " de"
+        },
+        {
+          "startTime": 120135,
+          "endTime": 120195,
+          "content": " la"
+        },
+        {
+          "startTime": 120235,
+          "endTime": 120676,
+          "content": " quantité"
+        },
+        {
+          "startTime": 120716,
+          "endTime": 120796,
+          "content": " de"
+        },
+        {
+          "startTime": 120816,
+          "endTime": 120956,
+          "content": " lait"
+        },
+        {
+          "startTime": 120976,
+          "endTime": 121176,
+          "content": " qu'on"
+        },
+        {
+          "startTime": 121216,
+          "endTime": 121676,
+          "content": " va"
+        },
+        {
+          "startTime": 121716,
+          "endTime": 122157,
+          "content": " consommer."
+        },
+        {
+          "startTime": 122217,
+          "endTime": 122297,
+          "content": " Ce"
+        },
+        {
+          "startTime": 122337,
+          "endTime": 122517,
+          "content": " n'est"
+        },
+        {
+          "startTime": 122537,
+          "endTime": 122677,
+          "content": " pas"
+        },
+        {
+          "startTime": 122717,
+          "endTime": 122837,
+          "content": " du"
+        },
+        {
+          "startTime": 122877,
+          "endTime": 123037,
+          "content": " tout"
+        },
+        {
+          "startTime": 123077,
+          "endTime": 123237,
+          "content": " comme"
+        },
+        {
+          "startTime": 123298,
+          "endTime": 123398,
+          "content": " une"
+        },
+        {
+          "startTime": 123438,
+          "endTime": 125659,
+          "content": " allergie."
+        },
+        {
+          "startTime": 125699,
+          "endTime": 125859,
+          "content": " Quand"
+        },
+        {
+          "startTime": 125939,
+          "endTime": 126019,
+          "content": " on"
+        },
+        {
+          "startTime": 126059,
+          "endTime": 126100,
+          "content": " a"
+        },
+        {
+          "startTime": 126140,
+          "endTime": 126220,
+          "content": " une"
+        },
+        {
+          "startTime": 126260,
+          "endTime": 126520,
+          "content": " allergie,"
+        },
+        {
+          "startTime": 126580,
+          "endTime": 126660,
+          "content": " on"
+        },
+        {
+          "startTime": 126700,
+          "endTime": 126880,
+          "content": " doit"
+        },
+        {
+          "startTime": 126920,
+          "endTime": 127240,
+          "content": " vraiment"
+        },
+        {
+          "startTime": 127300,
+          "endTime": 128261,
+          "content": " exclure"
+        },
+        {
+          "startTime": 128281,
+          "endTime": 128821,
+          "content": " l'aliment"
+        },
+        {
+          "startTime": 128861,
+          "endTime": 128962,
+          "content": " de"
+        },
+        {
+          "startTime": 129002,
+          "endTime": 129182,
+          "content": " son"
+        },
+        {
+          "startTime": 129242,
+          "endTime": 130703,
+          "content": " alimentation."
+        },
+        {
+          "startTime": 130763,
+          "endTime": 131043,
+          "content": " Alors"
+        },
+        {
+          "startTime": 131083,
+          "endTime": 131944,
+          "content": " qu'on"
+        },
+        {
+          "startTime": 131984,
+          "endTime": 132164,
+          "content": " peut"
+        },
+        {
+          "startTime": 132204,
+          "endTime": 132384,
+          "content": " être"
+        },
+        {
+          "startTime": 132444,
+          "endTime": 132904,
+          "content": " intolérant"
+        },
+        {
+          "startTime": 132944,
+          "endTime": 133064,
+          "content": " au"
+        },
+        {
+          "startTime": 133105,
+          "endTime": 133645,
+          "content": " lactose"
+        },
+        {
+          "startTime": 133665,
+          "endTime": 133705,
+          "content": " et"
+        },
+        {
+          "startTime": 133725,
+          "endTime": 134145,
+          "content": " supporter"
+        },
+        {
+          "startTime": 134185,
+          "endTime": 134325,
+          "content": " très"
+        },
+        {
+          "startTime": 134345,
+          "endTime": 134505,
+          "content": " bien"
+        },
+        {
+          "startTime": 134546,
+          "endTime": 134746,
+          "content": " le"
+        },
+        {
+          "startTime": 134786,
+          "endTime": 134986,
+          "content": " lait"
+        },
+        {
+          "startTime": 135046,
+          "endTime": 135446,
+          "content": " classique"
+        },
+        {
+          "startTime": 135506,
+          "endTime": 135586,
+          "content": " en"
+        },
+        {
+          "startTime": 135626,
+          "endTime": 135866,
+          "content": " petite"
+        },
+        {
+          "startTime": 135886,
+          "endTime": 136407,
+          "content": " quantité"
+        },
+        {
+          "startTime": 136447,
+          "endTime": 136847,
+          "content": " lorsqu'il"
+        },
+        {
+          "startTime": 137007,
+          "endTime": 137187,
+          "content": " est"
+        },
+        {
+          "startTime": 137227,
+          "endTime": 137368,
+          "content": " dans"
+        },
+        {
+          "startTime": 137408,
+          "endTime": 137688,
+          "content": " des"
+        },
+        {
+          "startTime": 137728,
+          "endTime": 139649,
+          "content": " préparations."
+        },
+        {
+          "startTime": 139689,
+          "endTime": 139749,
+          "content": " En"
+        },
+        {
+          "startTime": 139769,
+          "endTime": 139889,
+          "content": " fait,"
+        },
+        {
+          "startTime": 139929,
+          "endTime": 139969,
+          "content": " il"
+        },
+        {
+          "startTime": 139989,
+          "endTime": 140009,
+          "content": " y"
+        },
+        {
+          "startTime": 140029,
+          "endTime": 140049,
+          "content": " a"
+        },
+        {
+          "startTime": 140089,
+          "endTime": 140150,
+          "content": " un"
+        },
+        {
+          "startTime": 140190,
+          "endTime": 140450,
+          "content": " effet"
+        },
+        {
+          "startTime": 140470,
+          "endTime": 141010,
+          "content": " dose."
+        },
+        {
+          "startTime": 141030,
+          "endTime": 141350,
+          "content": " Donc"
+        },
+        {
+          "startTime": 141410,
+          "endTime": 142091,
+          "content": " avant"
+        },
+        {
+          "startTime": 142111,
+          "endTime": 142231,
+          "content": " de"
+        },
+        {
+          "startTime": 142271,
+          "endTime": 142571,
+          "content": " prendre"
+        },
+        {
+          "startTime": 142611,
+          "endTime": 142791,
+          "content": " du"
+        },
+        {
+          "startTime": 142831,
+          "endTime": 143052,
+          "content": " lait"
+        },
+        {
+          "startTime": 143072,
+          "endTime": 143232,
+          "content": " sans"
+        },
+        {
+          "startTime": 143292,
+          "endTime": 144072,
+          "content": " lactose,"
+        },
+        {
+          "startTime": 144152,
+          "endTime": 144272,
+          "content": " on"
+        },
+        {
+          "startTime": 144292,
+          "endTime": 144513,
+          "content": " peut"
+        },
+        {
+          "startTime": 144553,
+          "endTime": 145033,
+          "content": " déjà"
+        },
+        {
+          "startTime": 145093,
+          "endTime": 145533,
+          "content": " tester"
+        },
+        {
+          "startTime": 145573,
+          "endTime": 145753,
+          "content": " son"
+        },
+        {
+          "startTime": 145794,
+          "endTime": 146074,
+          "content": " seuil"
+        },
+        {
+          "startTime": 146114,
+          "endTime": 146214,
+          "content": " de"
+        },
+        {
+          "startTime": 146254,
+          "endTime": 147054,
+          "content": " tolérance."
+        },
+        {
+          "startTime": 147114,
+          "endTime": 147315,
+          "content": " Et"
+        },
+        {
+          "startTime": 147355,
+          "endTime": 147515,
+          "content": " même"
+        },
+        {
+          "startTime": 147975,
+          "endTime": 148055,
+          "content": " si"
+        },
+        {
+          "startTime": 148095,
+          "endTime": 148195,
+          "content": " on"
+        },
+        {
+          "startTime": 148235,
+          "endTime": 148555,
+          "content": " digère"
+        },
+        {
+          "startTime": 148575,
+          "endTime": 148735,
+          "content": " mal"
+        },
+        {
+          "startTime": 148775,
+          "endTime": 148875,
+          "content": " le"
+        },
+        {
+          "startTime": 148915,
+          "endTime": 149196,
+          "content": " lait,"
+        },
+        {
+          "startTime": 149236,
+          "endTime": 149336,
+          "content": " la"
+        },
+        {
+          "startTime": 149396,
+          "endTime": 150096,
+          "content": " crème"
+        },
+        {
+          "startTime": 150136,
+          "endTime": 150256,
+          "content": " ou"
+        },
+        {
+          "startTime": 150276,
+          "endTime": 150356,
+          "content": " les"
+        },
+        {
+          "startTime": 150396,
+          "endTime": 150776,
+          "content": " fromages"
+        },
+        {
+          "startTime": 150796,
+          "endTime": 150956,
+          "content": " blancs,"
+        },
+        {
+          "startTime": 150976,
+          "endTime": 151016,
+          "content": " on"
+        },
+        {
+          "startTime": 151056,
+          "endTime": 151236,
+          "content": " peut"
+        },
+        {
+          "startTime": 151276,
+          "endTime": 151416,
+          "content": " très"
+        },
+        {
+          "startTime": 151436,
+          "endTime": 151596,
+          "content": " bien"
+        },
+        {
+          "startTime": 151616,
+          "endTime": 151977,
+          "content": " supporter"
+        },
+        {
+          "startTime": 152037,
+          "endTime": 152117,
+          "content": " les"
+        },
+        {
+          "startTime": 152157,
+          "endTime": 152537,
+          "content": " yaourts"
+        },
+        {
+          "startTime": 152557,
+          "endTime": 152737,
+          "content": " parce"
+        },
+        {
+          "startTime": 152757,
+          "endTime": 152877,
+          "content": " que"
+        },
+        {
+          "startTime": 152917,
+          "endTime": 152997,
+          "content": " les"
+        },
+        {
+          "startTime": 153037,
+          "endTime": 153317,
+          "content": " ferments"
+        },
+        {
+          "startTime": 153377,
+          "endTime": 154077,
+          "content": " lactiques"
+        },
+        {
+          "startTime": 154117,
+          "endTime": 154578,
+          "content": " digèrent"
+        },
+        {
+          "startTime": 154598,
+          "endTime": 154678,
+          "content": " le"
+        },
+        {
+          "startTime": 154698,
+          "endTime": 155358,
+          "content": " lactose"
+        },
+        {
+          "startTime": 155398,
+          "endTime": 155538,
+          "content": " et"
+        },
+        {
+          "startTime": 155558,
+          "endTime": 155658,
+          "content": " les"
+        },
+        {
+          "startTime": 155678,
+          "endTime": 156018,
+          "content": " fromages"
+        },
+        {
+          "startTime": 156078,
+          "endTime": 156518,
+          "content": " affinés"
+        },
+        {
+          "startTime": 156538,
+          "endTime": 156738,
+          "content": " comme"
+        },
+        {
+          "startTime": 156778,
+          "endTime": 156879,
+          "content": " le"
+        },
+        {
+          "startTime": 156899,
+          "endTime": 157259,
+          "content": " comté,"
+        },
+        {
+          "startTime": 157299,
+          "endTime": 157359,
+          "content": " le"
+        },
+        {
+          "startTime": 157399,
+          "endTime": 158199,
+          "content": " camembert,"
+        },
+        {
+          "startTime": 158239,
+          "endTime": 158399,
+          "content": " parce"
+        },
+        {
+          "startTime": 158439,
+          "endTime": 158559,
+          "content": " que"
+        },
+        {
+          "startTime": 158579,
+          "endTime": 158699,
+          "content": " ces"
+        },
+        {
+          "startTime": 158739,
+          "endTime": 159099,
+          "content": " fromages"
+        },
+        {
+          "startTime": 159359,
+          "endTime": 160240,
+          "content": " ne"
+        },
+        {
+          "startTime": 160280,
+          "endTime": 160640,
+          "content": " contiennent"
+        },
+        {
+          "startTime": 160680,
+          "endTime": 161080,
+          "content": " presque"
+        },
+        {
+          "startTime": 161120,
+          "endTime": 161220,
+          "content": " pas"
+        },
+        {
+          "startTime": 161240,
+          "endTime": 161320,
+          "content": " de"
+        },
+        {
+          "startTime": 161340,
+          "endTime": 162141,
+          "content": " lactose"
+        },
+        {
+          "startTime": 162181,
+          "endTime": 162421,
+          "content": " parce"
+        },
+        {
+          "startTime": 162461,
+          "endTime": 162901,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 162941,
+          "endTime": 163021,
+          "content": " est"
+        },
+        {
+          "startTime": 163061,
+          "endTime": 163581,
+          "content": " éliminé"
+        },
+        {
+          "startTime": 163601,
+          "endTime": 164201,
+          "content": " pendant"
+        },
+        {
+          "startTime": 164241,
+          "endTime": 164782,
+          "content": " l'égouttage."
+        }
+      ]
+    },
+    {
+      "startTime": 166022,
+      "endTime": 172728,
+      "speaker": "SPEAKER_03",
+      "items": [
+        {
+          "startTime": 166022,
+          "endTime": 167403,
+          "content": "Et"
+        },
+        {
+          "startTime": 167423,
+          "endTime": 167984,
+          "content": " si"
+        },
+        {
+          "startTime": 168004,
+          "endTime": 168084,
+          "content": " on"
+        },
+        {
+          "startTime": 168104,
+          "endTime": 168224,
+          "content": " n'est"
+        },
+        {
+          "startTime": 168244,
+          "endTime": 168304,
+          "content": " pas"
+        },
+        {
+          "startTime": 168344,
+          "endTime": 168744,
+          "content": " intolérant"
+        },
+        {
+          "startTime": 168764,
+          "endTime": 168824,
+          "content": " au"
+        },
+        {
+          "startTime": 168864,
+          "endTime": 169525,
+          "content": " lactose,"
+        },
+        {
+          "startTime": 169565,
+          "endTime": 169685,
+          "content": " le"
+        },
+        {
+          "startTime": 169725,
+          "endTime": 170065,
+          "content": " lait"
+        },
+        {
+          "startTime": 170085,
+          "endTime": 171046,
+          "content": " délactosé"
+        },
+        {
+          "startTime": 171066,
+          "endTime": 171426,
+          "content": " n'a"
+        },
+        {
+          "startTime": 171446,
+          "endTime": 171547,
+          "content": " pas"
+        },
+        {
+          "startTime": 171567,
+          "endTime": 172728,
+          "content": " d'avantage"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        }
+      ]
+    },
+    {
+      "startTime": 172768,
+      "endTime": 219767,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 172768,
+          "endTime": 172888,
+          "content": "Le"
+        },
+        {
+          "startTime": 172928,
+          "endTime": 173108,
+          "content": " lait"
+        },
+        {
+          "startTime": 173128,
+          "endTime": 173268,
+          "content": " sans"
+        },
+        {
+          "startTime": 173308,
+          "endTime": 173728,
+          "content": " lactose"
+        },
+        {
+          "startTime": 173768,
+          "endTime": 173949,
+          "content": " n'a"
+        },
+        {
+          "startTime": 174009,
+          "endTime": 174349,
+          "content": " aucun"
+        },
+        {
+          "startTime": 174409,
+          "endTime": 174769,
+          "content": " intérêt"
+        },
+        {
+          "startTime": 174969,
+          "endTime": 175109,
+          "content": " pour"
+        },
+        {
+          "startTime": 175129,
+          "endTime": 175210,
+          "content": " les"
+        },
+        {
+          "startTime": 175230,
+          "endTime": 175330,
+          "content": " gens"
+        },
+        {
+          "startTime": 175350,
+          "endTime": 175410,
+          "content": " qui"
+        },
+        {
+          "startTime": 175430,
+          "endTime": 175590,
+          "content": " n'ont"
+        },
+        {
+          "startTime": 175610,
+          "endTime": 175730,
+          "content": " pas"
+        },
+        {
+          "startTime": 175750,
+          "endTime": 175830,
+          "content": " de"
+        },
+        {
+          "startTime": 175870,
+          "endTime": 176771,
+          "content": " problème,"
+        },
+        {
+          "startTime": 176811,
+          "endTime": 177511,
+          "content": " simplement"
+        },
+        {
+          "startTime": 177551,
+          "endTime": 177631,
+          "content": " ils"
+        },
+        {
+          "startTime": 177672,
+          "endTime": 177852,
+          "content": " vont"
+        },
+        {
+          "startTime": 177892,
+          "endTime": 178392,
+          "content": " dépenser"
+        },
+        {
+          "startTime": 178432,
+          "endTime": 178812,
+          "content": " plus"
+        },
+        {
+          "startTime": 178852,
+          "endTime": 179413,
+          "content": " d'argent,"
+        },
+        {
+          "startTime": 179613,
+          "endTime": 179773,
+          "content": " parce"
+        },
+        {
+          "startTime": 179813,
+          "endTime": 179933,
+          "content": " que"
+        },
+        {
+          "startTime": 179973,
+          "endTime": 180053,
+          "content": " le"
+        },
+        {
+          "startTime": 180093,
+          "endTime": 180214,
+          "content": " lait"
+        },
+        {
+          "startTime": 180254,
+          "endTime": 180414,
+          "content": " sans"
+        },
+        {
+          "startTime": 180434,
+          "endTime": 180854,
+          "content": " lactose"
+        },
+        {
+          "startTime": 180874,
+          "endTime": 181114,
+          "content": " c'est"
+        },
+        {
+          "startTime": 181154,
+          "endTime": 181995,
+          "content": " environ"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 20%"
+        },
+        {
+          "startTime": 182976,
+          "endTime": 183136,
+          "content": " plus"
+        },
+        {
+          "startTime": 183176,
+          "endTime": 183396,
+          "content": " cher"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " !"
+        },
+        {
+          "startTime": 184497,
+          "endTime": 185137,
+          "content": " Moins"
+        },
+        {
+          "startTime": 185578,
+          "endTime": 186038,
+          "content": " de"
+        },
+        {
+          "startTime": 186058,
+          "endTime": 186939,
+          "content": " lactose"
+        },
+        {
+          "startTime": 186959,
+          "endTime": 187219,
+          "content": " mais"
+        },
+        {
+          "startTime": 187399,
+          "endTime": 187679,
+          "content": " c'est"
+        },
+        {
+          "startTime": 187699,
+          "endTime": 187799,
+          "content": " plus"
+        },
+        {
+          "startTime": 187819,
+          "endTime": 188420,
+          "content": " cher."
+        },
+        {
+          "startTime": 188460,
+          "endTime": 188700,
+          "content": " Avec"
+        },
+        {
+          "startTime": 188720,
+          "endTime": 188880,
+          "content": " le"
+        },
+        {
+          "startTime": 188920,
+          "endTime": 189120,
+          "content": " sang"
+        },
+        {
+          "startTime": 189140,
+          "endTime": 189260,
+          "content": " c'est"
+        },
+        {
+          "startTime": 189280,
+          "endTime": 189441,
+          "content": " comme"
+        },
+        {
+          "startTime": 189461,
+          "endTime": 190101,
+          "content": " ça."
+        },
+        {
+          "startTime": 190161,
+          "endTime": 190261,
+          "content": " Il"
+        },
+        {
+          "startTime": 190301,
+          "endTime": 190321,
+          "content": " y"
+        },
+        {
+          "startTime": 190381,
+          "endTime": 190481,
+          "content": " a"
+        },
+        {
+          "startTime": 190541,
+          "endTime": 190641,
+          "content": " des"
+        },
+        {
+          "startTime": 190681,
+          "endTime": 190942,
+          "content": " modes,"
+        },
+        {
+          "startTime": 191562,
+          "endTime": 191642,
+          "content": " on"
+        },
+        {
+          "startTime": 191682,
+          "endTime": 191742,
+          "content": " a"
+        },
+        {
+          "startTime": 191782,
+          "endTime": 191842,
+          "content": " eu"
+        },
+        {
+          "startTime": 191862,
+          "endTime": 191922,
+          "content": " le"
+        },
+        {
+          "startTime": 191942,
+          "endTime": 192163,
+          "content": " sang"
+        },
+        {
+          "startTime": 192183,
+          "endTime": 192603,
+          "content": " gluten,"
+        },
+        {
+          "startTime": 192663,
+          "endTime": 193143,
+          "content": " aujourd'hui"
+        },
+        {
+          "startTime": 193203,
+          "endTime": 193363,
+          "content": " on"
+        },
+        {
+          "startTime": 193403,
+          "endTime": 193824,
+          "content": " reparle"
+        },
+        {
+          "startTime": 193844,
+          "endTime": 194004,
+          "content": " du"
+        },
+        {
+          "startTime": 194044,
+          "endTime": 194224,
+          "content": " sang"
+        },
+        {
+          "startTime": 194244,
+          "endTime": 195185,
+          "content": " lactose."
+        },
+        {
+          "startTime": 195205,
+          "endTime": 195305,
+          "content": " Mais"
+        },
+        {
+          "startTime": 195345,
+          "endTime": 195385,
+          "content": " je"
+        },
+        {
+          "startTime": 195405,
+          "endTime": 195625,
+          "content": " voudrais"
+        },
+        {
+          "startTime": 195665,
+          "endTime": 195785,
+          "content": " dire"
+        },
+        {
+          "startTime": 195825,
+          "endTime": 196025,
+          "content": " aussi"
+        },
+        {
+          "startTime": 196065,
+          "endTime": 196226,
+          "content": " avant"
+        },
+        {
+          "startTime": 196266,
+          "endTime": 196346,
+          "content": " de"
+        },
+        {
+          "startTime": 196386,
+          "endTime": 196706,
+          "content": " conclure"
+        },
+        {
+          "startTime": 196746,
+          "endTime": 196906,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 196946,
+          "endTime": 197186,
+          "content": " est"
+        },
+        {
+          "startTime": 197246,
+          "endTime": 197927,
+          "content": " inutile"
+        },
+        {
+          "startTime": 197967,
+          "endTime": 198087,
+          "content": " de"
+        },
+        {
+          "startTime": 198127,
+          "endTime": 198527,
+          "content": " dépenser"
+        },
+        {
+          "startTime": 198567,
+          "endTime": 198647,
+          "content": " de"
+        },
+        {
+          "startTime": 198667,
+          "endTime": 199408,
+          "content": " l'argent"
+        },
+        {
+          "startTime": 199448,
+          "endTime": 199668,
+          "content": " avec"
+        },
+        {
+          "startTime": 199688,
+          "endTime": 199828,
+          "content": " des"
+        },
+        {
+          "startTime": 199868,
+          "endTime": 200449,
+          "content": " tests"
+        },
+        {
+          "startTime": 200489,
+          "endTime": 200609,
+          "content": " de"
+        },
+        {
+          "startTime": 200649,
+          "endTime": 201129,
+          "content": " dépistage"
+        },
+        {
+          "startTime": 201189,
+          "endTime": 201289,
+          "content": " des"
+        },
+        {
+          "startTime": 201349,
+          "endTime": 201910,
+          "content": " intolérances"
+        },
+        {
+          "startTime": 201950,
+          "endTime": 202710,
+          "content": " alimentaires"
+        },
+        {
+          "startTime": 202750,
+          "endTime": 202890,
+          "content": " qui"
+        },
+        {
+          "startTime": 202930,
+          "endTime": 203271,
+          "content": " s'appuient"
+        },
+        {
+          "startTime": 203291,
+          "endTime": 203411,
+          "content": " sur"
+        },
+        {
+          "startTime": 203451,
+          "endTime": 203531,
+          "content": " le"
+        },
+        {
+          "startTime": 203571,
+          "endTime": 203951,
+          "content": " dosage"
+        },
+        {
+          "startTime": 203991,
+          "endTime": 204411,
+          "content": " sanguin"
+        },
+        {
+          "startTime": 204451,
+          "endTime": 204612,
+          "content": " de"
+        },
+        {
+          "startTime": 204652,
+          "endTime": 204952,
+          "content": " certains"
+        },
+        {
+          "startTime": 205012,
+          "endTime": 205853,
+          "content": " anticorps."
+        },
+        {
+          "startTime": 205913,
+          "endTime": 206033,
+          "content": " Ils"
+        },
+        {
+          "startTime": 206073,
+          "endTime": 206293,
+          "content": " peuvent"
+        },
+        {
+          "startTime": 206313,
+          "endTime": 206433,
+          "content": " être"
+        },
+        {
+          "startTime": 206473,
+          "endTime": 206913,
+          "content": " effectués"
+        },
+        {
+          "startTime": 206933,
+          "endTime": 206973,
+          "content": " en"
+        },
+        {
+          "startTime": 206993,
+          "endTime": 207634,
+          "content": " laboratoire"
+        },
+        {
+          "startTime": 207674,
+          "endTime": 207834,
+          "content": " sans"
+        },
+        {
+          "startTime": 207894,
+          "endTime": 208394,
+          "content": " ordonnance,"
+        },
+        {
+          "startTime": 208454,
+          "endTime": 208574,
+          "content": " ils"
+        },
+        {
+          "startTime": 208595,
+          "endTime": 208835,
+          "content": " sont"
+        },
+        {
+          "startTime": 208855,
+          "endTime": 209075,
+          "content": " souvent"
+        },
+        {
+          "startTime": 209555,
+          "endTime": 209756,
+          "content": " Très"
+        },
+        {
+          "startTime": 209796,
+          "endTime": 210216,
+          "content": " coûteux,"
+        },
+        {
+          "startTime": 210236,
+          "endTime": 210396,
+          "content": " ça"
+        },
+        {
+          "startTime": 210436,
+          "endTime": 210556,
+          "content": " peut"
+        },
+        {
+          "startTime": 210596,
+          "endTime": 210817,
+          "content": " aller"
+        },
+        {
+          "startTime": 210857,
+          "endTime": 210997,
+          "content": " de"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 30"
+        },
+        {
+          "startTime": 211377,
+          "endTime": 211477,
+          "content": " à"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 500"
+        },
+        {
+          "startTime": 211758,
+          "endTime": 212499,
+          "content": " euros"
+        },
+        {
+          "startTime": 212539,
+          "endTime": 213139,
+          "content": " selon"
+        },
+        {
+          "startTime": 213179,
+          "endTime": 213279,
+          "content": " le"
+        },
+        {
+          "startTime": 213319,
+          "endTime": 213580,
+          "content": " nombre"
+        },
+        {
+          "startTime": 213620,
+          "endTime": 214100,
+          "content": " d'aliments"
+        },
+        {
+          "startTime": 214160,
+          "endTime": 215021,
+          "content": " testés."
+        },
+        {
+          "startTime": 215081,
+          "endTime": 215282,
+          "content": " Alors"
+        },
+        {
+          "startTime": 215342,
+          "endTime": 215402,
+          "content": " il"
+        },
+        {
+          "startTime": 215422,
+          "endTime": 215542,
+          "content": " faut"
+        },
+        {
+          "startTime": 215582,
+          "endTime": 215662,
+          "content": " le"
+        },
+        {
+          "startTime": 215702,
+          "endTime": 216043,
+          "content": " savoir,"
+        },
+        {
+          "startTime": 216083,
+          "endTime": 216283,
+          "content": " ils"
+        },
+        {
+          "startTime": 216323,
+          "endTime": 216703,
+          "content": " sont"
+        },
+        {
+          "startTime": 216723,
+          "endTime": 217204,
+          "content": " complètement"
+        },
+        {
+          "startTime": 217264,
+          "endTime": 217825,
+          "content": " bidons,"
+        },
+        {
+          "startTime": 217885,
+          "endTime": 218005,
+          "content": " ils"
+        },
+        {
+          "startTime": 218045,
+          "endTime": 218285,
+          "content": " n'ont"
+        },
+        {
+          "startTime": 218325,
+          "endTime": 218665,
+          "content": " jamais"
+        },
+        {
+          "startTime": 218705,
+          "endTime": 219106,
+          "content": " démontré"
+        },
+        {
+          "startTime": 219146,
+          "endTime": 219286,
+          "content": " leur"
+        },
+        {
+          "startTime": 219306,
+          "endTime": 219767,
+          "content": " fiabilité."
+        }
+      ]
+    }
+  ]
+}

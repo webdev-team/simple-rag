@@ -1,0 +1,1617 @@
+{
+  "media": {
+    "id": 7900327821,
+    "programId": 7784588199,
+    "program": "RTL autour du monde",
+    "date": "2023-04-12",
+    "time": "05:41",
+    "title": "NEW YORK -  La communauté juive renforce sa sécurité depuis les attaques du Hamas en Israël le 7 octobre dernier",
+    "summary": "Ecoutez RTL autour du monde du 04 décembre 2023 avec Correspondants RTL à l'étranger.",
+    "speakers": [
+      "Correspondants RTL à l'étranger"
+    ]
+  },
+  "source": "whisper",
+  "segments": [
+    {
+      "startTime": 1638,
+      "endTime": 2699,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 1638,
+          "endTime": 1718,
+          "content": "RTL"
+        },
+        {
+          "startTime": 1738,
+          "endTime": 2199,
+          "content": " autour"
+        },
+        {
+          "startTime": 2259,
+          "endTime": 2419,
+          "content": " du"
+        },
+        {
+          "startTime": 2459,
+          "endTime": 2699,
+          "content": " monde."
+        }
+      ]
+    },
+    {
+      "startTime": 2719,
+      "endTime": 10647,
+      "speaker": "SPEAKER_03",
+      "items": [
+        {
+          "startTime": 2719,
+          "endTime": 4301,
+          "content": "Et"
+        },
+        {
+          "startTime": 4341,
+          "endTime": 4681,
+          "content": " justement"
+        },
+        {
+          "startTime": 4721,
+          "endTime": 5062,
+          "content": " direction"
+        },
+        {
+          "startTime": 5082,
+          "endTime": 5182,
+          "content": " New"
+        },
+        {
+          "startTime": 5222,
+          "endTime": 5482,
+          "content": " York"
+        },
+        {
+          "startTime": 5522,
+          "endTime": 5602,
+          "content": " ce"
+        },
+        {
+          "startTime": 5642,
+          "endTime": 6103,
+          "content": " matin"
+        },
+        {
+          "startTime": 6163,
+          "endTime": 6263,
+          "content": " où"
+        },
+        {
+          "startTime": 6303,
+          "endTime": 6383,
+          "content": " la"
+        },
+        {
+          "startTime": 6403,
+          "endTime": 6944,
+          "content": " communauté"
+        },
+        {
+          "startTime": 7004,
+          "endTime": 7284,
+          "content": " juive"
+        },
+        {
+          "startTime": 7324,
+          "endTime": 7684,
+          "content": " renforce"
+        },
+        {
+          "startTime": 7744,
+          "endTime": 7925,
+          "content": " ici"
+        },
+        {
+          "startTime": 7985,
+          "endTime": 8625,
+          "content": " aussi"
+        },
+        {
+          "startTime": 8645,
+          "endTime": 8765,
+          "content": " sa"
+        },
+        {
+          "startTime": 8805,
+          "endTime": 9246,
+          "content": " sécurité"
+        },
+        {
+          "startTime": 9286,
+          "endTime": 9466,
+          "content": " depuis"
+        },
+        {
+          "startTime": 9526,
+          "endTime": 9826,
+          "content": " l'attaque"
+        },
+        {
+          "startTime": 9846,
+          "endTime": 9987,
+          "content": " du"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 7"
+        },
+        {
+          "startTime": 10247,
+          "endTime": 10647,
+          "content": " octobre."
+        }
+      ]
+    },
+    {
+      "startTime": 10687,
+      "endTime": 21819,
+      "speaker": "SPEAKER_00",
+      "items": [
+        {
+          "startTime": 10687,
+          "endTime": 10787,
+          "content": "Le"
+        },
+        {
+          "startTime": 10827,
+          "endTime": 11168,
+          "content": " résultat"
+        },
+        {
+          "startTime": 11208,
+          "endTime": 11308,
+          "content": " des"
+        },
+        {
+          "startTime": 11328,
+          "endTime": 11688,
+          "content": " brigades"
+        },
+        {
+          "startTime": 11748,
+          "endTime": 11869,
+          "content": " de"
+        },
+        {
+          "startTime": 11929,
+          "endTime": 12509,
+          "content": " sécurité"
+        },
+        {
+          "startTime": 12569,
+          "endTime": 12749,
+          "content": " sont"
+        },
+        {
+          "startTime": 12790,
+          "endTime": 13650,
+          "content": " embauchées"
+        },
+        {
+          "startTime": 13690,
+          "endTime": 13891,
+          "content": " pour"
+        },
+        {
+          "startTime": 13931,
+          "endTime": 14591,
+          "content": " patrouiller"
+        },
+        {
+          "startTime": 14651,
+          "endTime": 14772,
+          "content": " aux"
+        },
+        {
+          "startTime": 14812,
+          "endTime": 15072,
+          "content": " abords"
+        },
+        {
+          "startTime": 15112,
+          "endTime": 15212,
+          "content": " des"
+        },
+        {
+          "startTime": 15252,
+          "endTime": 15913,
+          "content": " synagogues."
+        },
+        {
+          "startTime": 15953,
+          "endTime": 16213,
+          "content": " Arnaud"
+        },
+        {
+          "startTime": 16253,
+          "endTime": 16493,
+          "content": " Touch,"
+        },
+        {
+          "startTime": 16513,
+          "endTime": 16613,
+          "content": " vous"
+        },
+        {
+          "startTime": 16633,
+          "endTime": 16814,
+          "content": " êtes"
+        },
+        {
+          "startTime": 16834,
+          "endTime": 16914,
+          "content": " le"
+        },
+        {
+          "startTime": 16934,
+          "endTime": 17494,
+          "content": " correspondant"
+        },
+        {
+          "startTime": 17534,
+          "endTime": 17634,
+          "content": " de"
+        },
+        {
+          "startTime": 17735,
+          "endTime": 18035,
+          "content": " RTL"
+        },
+        {
+          "startTime": 18075,
+          "endTime": 18175,
+          "content": " aux"
+        },
+        {
+          "startTime": 18215,
+          "endTime": 19036,
+          "content": " Etats-Unis."
+        },
+        {
+          "startTime": 19076,
+          "endTime": 19216,
+          "content": " Vous"
+        },
+        {
+          "startTime": 19256,
+          "endTime": 19496,
+          "content": " avez"
+        },
+        {
+          "startTime": 19536,
+          "endTime": 19817,
+          "content": " pu"
+        },
+        {
+          "startTime": 19857,
+          "endTime": 20297,
+          "content": " rencontrer"
+        },
+        {
+          "startTime": 20337,
+          "endTime": 20437,
+          "content": " le"
+        },
+        {
+          "startTime": 20477,
+          "endTime": 20758,
+          "content": " chef"
+        },
+        {
+          "startTime": 20778,
+          "endTime": 20898,
+          "content": " de"
+        },
+        {
+          "startTime": 20938,
+          "endTime": 21158,
+          "content": " l'une"
+        },
+        {
+          "startTime": 21178,
+          "endTime": 21278,
+          "content": " de"
+        },
+        {
+          "startTime": 21298,
+          "endTime": 21418,
+          "content": " ces"
+        },
+        {
+          "startTime": 21438,
+          "endTime": 21819,
+          "content": " brigades."
+        }
+      ]
+    },
+    {
+      "startTime": 22318,
+      "endTime": 32140,
+      "speaker": "SPEAKER_03",
+      "items": [
+        {
+          "startTime": 22318,
+          "endTime": 22678,
+          "content": "Devant"
+        },
+        {
+          "startTime": 22698,
+          "endTime": 22758,
+          "content": " les"
+        },
+        {
+          "startTime": 22778,
+          "endTime": 23158,
+          "content": " synagogues"
+        },
+        {
+          "startTime": 23178,
+          "endTime": 23238,
+          "content": " et"
+        },
+        {
+          "startTime": 23258,
+          "endTime": 23318,
+          "content": " les"
+        },
+        {
+          "startTime": 23338,
+          "endTime": 23478,
+          "content": " lieux"
+        },
+        {
+          "startTime": 23518,
+          "endTime": 23978,
+          "content": " fréquentés"
+        },
+        {
+          "startTime": 23998,
+          "endTime": 24158,
+          "content": " par"
+        },
+        {
+          "startTime": 24198,
+          "endTime": 24258,
+          "content": " la"
+        },
+        {
+          "startTime": 24298,
+          "endTime": 24739,
+          "content": " communauté"
+        },
+        {
+          "startTime": 24799,
+          "endTime": 24979,
+          "content": " juive"
+        },
+        {
+          "startTime": 25019,
+          "endTime": 25059,
+          "content": " à"
+        },
+        {
+          "startTime": 25099,
+          "endTime": 25199,
+          "content": " New"
+        },
+        {
+          "startTime": 25259,
+          "endTime": 25559,
+          "content": " York,"
+        },
+        {
+          "startTime": 25579,
+          "endTime": 25659,
+          "content": " les"
+        },
+        {
+          "startTime": 25699,
+          "endTime": 25859,
+          "content": " rondes"
+        },
+        {
+          "startTime": 25899,
+          "endTime": 25959,
+          "content": " de"
+        },
+        {
+          "startTime": 25999,
+          "endTime": 26259,
+          "content": " police"
+        },
+        {
+          "startTime": 26319,
+          "endTime": 26419,
+          "content": " ont"
+        },
+        {
+          "startTime": 26479,
+          "endTime": 26659,
+          "content": " été"
+        },
+        {
+          "startTime": 26719,
+          "endTime": 27419,
+          "content": " multipliées."
+        },
+        {
+          "startTime": 27459,
+          "endTime": 27799,
+          "content": " Jean-Marc"
+        },
+        {
+          "startTime": 27839,
+          "endTime": 28139,
+          "content": " fréquente"
+        },
+        {
+          "startTime": 28179,
+          "endTime": 28279,
+          "content": " une"
+        },
+        {
+          "startTime": 28299,
+          "endTime": 28720,
+          "content": " synagogue"
+        },
+        {
+          "startTime": 28740,
+          "endTime": 29220,
+          "content": " francophone"
+        },
+        {
+          "startTime": 29240,
+          "endTime": 29280,
+          "content": " à"
+        },
+        {
+          "startTime": 29320,
+          "endTime": 30120,
+          "content": " Manhattan"
+        },
+        {
+          "startTime": 30180,
+          "endTime": 30260,
+          "content": " et"
+        },
+        {
+          "startTime": 30280,
+          "endTime": 30480,
+          "content": " depuis"
+        },
+        {
+          "startTime": 30520,
+          "endTime": 30580,
+          "content": " le"
+        },
+        {
+          "startTime": 30620,
+          "endTime": 30780,
+          "content": " début"
+        },
+        {
+          "startTime": 30800,
+          "endTime": 30860,
+          "content": " de"
+        },
+        {
+          "startTime": 30900,
+          "endTime": 30960,
+          "content": " la"
+        },
+        {
+          "startTime": 30980,
+          "endTime": 31500,
+          "content": " guerre,"
+        },
+        {
+          "startTime": 31540,
+          "endTime": 31680,
+          "content": " tout"
+        },
+        {
+          "startTime": 31740,
+          "endTime": 31780,
+          "content": " a"
+        },
+        {
+          "startTime": 31820,
+          "endTime": 32140,
+          "content": " changé."
+        }
+      ]
+    },
+    {
+      "startTime": 32280,
+      "endTime": 40202,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 32280,
+          "endTime": 32340,
+          "content": "On"
+        },
+        {
+          "startTime": 32380,
+          "endTime": 32480,
+          "content": " a"
+        },
+        {
+          "startTime": 32520,
+          "endTime": 32620,
+          "content": " une"
+        },
+        {
+          "startTime": 32661,
+          "endTime": 32921,
+          "content": " cible"
+        },
+        {
+          "startTime": 32961,
+          "endTime": 33101,
+          "content": " sur"
+        },
+        {
+          "startTime": 33141,
+          "endTime": 33321,
+          "content": " notre"
+        },
+        {
+          "startTime": 33361,
+          "endTime": 33641,
+          "content": " dos"
+        },
+        {
+          "startTime": 33701,
+          "endTime": 34061,
+          "content": " et"
+        },
+        {
+          "startTime": 34101,
+          "endTime": 34181,
+          "content": " il"
+        },
+        {
+          "startTime": 34201,
+          "endTime": 34321,
+          "content": " faut"
+        },
+        {
+          "startTime": 34361,
+          "endTime": 34561,
+          "content": " vivre"
+        },
+        {
+          "startTime": 34621,
+          "endTime": 34981,
+          "content": " avec"
+        },
+        {
+          "startTime": 35021,
+          "endTime": 35421,
+          "content": " et"
+        },
+        {
+          "startTime": 35481,
+          "endTime": 35561,
+          "content": " on"
+        },
+        {
+          "startTime": 35601,
+          "endTime": 35761,
+          "content": " vit"
+        },
+        {
+          "startTime": 35801,
+          "endTime": 36481,
+          "content": " avec."
+        },
+        {
+          "startTime": 36521,
+          "endTime": 36581,
+          "content": " Il"
+        },
+        {
+          "startTime": 36601,
+          "endTime": 36882,
+          "content": " faudra"
+        },
+        {
+          "startTime": 36922,
+          "endTime": 37182,
+          "content": " toujours"
+        },
+        {
+          "startTime": 37222,
+          "endTime": 37442,
+          "content": " qu'on"
+        },
+        {
+          "startTime": 37482,
+          "endTime": 37782,
+          "content": " avance"
+        },
+        {
+          "startTime": 37842,
+          "endTime": 38042,
+          "content": " avec"
+        },
+        {
+          "startTime": 38082,
+          "endTime": 38722,
+          "content": " précaution."
+        },
+        {
+          "startTime": 38782,
+          "endTime": 38842,
+          "content": " On"
+        },
+        {
+          "startTime": 38862,
+          "endTime": 38982,
+          "content": " n'a"
+        },
+        {
+          "startTime": 39002,
+          "endTime": 39062,
+          "content": " pas"
+        },
+        {
+          "startTime": 39082,
+          "endTime": 39122,
+          "content": " le"
+        },
+        {
+          "startTime": 39142,
+          "endTime": 39342,
+          "content": " choix"
+        },
+        {
+          "startTime": 39362,
+          "endTime": 39442,
+          "content": " que"
+        },
+        {
+          "startTime": 39462,
+          "endTime": 39522,
+          "content": " de"
+        },
+        {
+          "startTime": 39562,
+          "endTime": 39662,
+          "content": " se"
+        },
+        {
+          "startTime": 39702,
+          "endTime": 40202,
+          "content": " protéger."
+        }
+      ]
+    },
+    {
+      "startTime": 40242,
+      "endTime": 43643,
+      "speaker": "SPEAKER_03",
+      "items": [
+        {
+          "startTime": 40242,
+          "endTime": 40302,
+          "content": "Et"
+        },
+        {
+          "startTime": 40342,
+          "endTime": 40482,
+          "content": " pour"
+        },
+        {
+          "startTime": 40502,
+          "endTime": 40622,
+          "content": " se"
+        },
+        {
+          "startTime": 40662,
+          "endTime": 41103,
+          "content": " protéger,"
+        },
+        {
+          "startTime": 41123,
+          "endTime": 41223,
+          "content": " les"
+        },
+        {
+          "startTime": 41243,
+          "endTime": 41503,
+          "content": " membres"
+        },
+        {
+          "startTime": 41543,
+          "endTime": 41603,
+          "content": " de"
+        },
+        {
+          "startTime": 41643,
+          "endTime": 41703,
+          "content": " la"
+        },
+        {
+          "startTime": 41743,
+          "endTime": 42143,
+          "content": " communauté"
+        },
+        {
+          "startTime": 42183,
+          "endTime": 42263,
+          "content": " ont"
+        },
+        {
+          "startTime": 42303,
+          "endTime": 42383,
+          "content": " dû"
+        },
+        {
+          "startTime": 42423,
+          "endTime": 42583,
+          "content": " faire"
+        },
+        {
+          "startTime": 42623,
+          "endTime": 42663,
+          "content": " un"
+        },
+        {
+          "startTime": 42703,
+          "endTime": 42943,
+          "content": " choix"
+        },
+        {
+          "startTime": 42983,
+          "endTime": 43643,
+          "content": " difficile."
+        }
+      ]
+    },
+    {
+      "startTime": 43683,
+      "endTime": 57569,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 43683,
+          "endTime": 43823,
+          "content": "Nous,"
+        },
+        {
+          "startTime": 43863,
+          "endTime": 43963,
+          "content": " nous"
+        },
+        {
+          "startTime": 44003,
+          "endTime": 44183,
+          "content": " avons"
+        },
+        {
+          "startTime": 44243,
+          "endTime": 44343,
+          "content": " fait"
+        },
+        {
+          "startTime": 44383,
+          "endTime": 44943,
+          "content": " appel"
+        },
+        {
+          "startTime": 44963,
+          "endTime": 44983,
+          "content": " à"
+        },
+        {
+          "startTime": 45043,
+          "endTime": 45104,
+          "content": " un"
+        },
+        {
+          "startTime": 45124,
+          "endTime": 45304,
+          "content": " homme"
+        },
+        {
+          "startTime": 45344,
+          "endTime": 45664,
+          "content": " armé"
+        },
+        {
+          "startTime": 45704,
+          "endTime": 46324,
+          "content": " pour"
+        },
+        {
+          "startTime": 46364,
+          "endTime": 46504,
+          "content": " faire"
+        },
+        {
+          "startTime": 46544,
+          "endTime": 46604,
+          "content": " la"
+        },
+        {
+          "startTime": 46644,
+          "endTime": 46964,
+          "content": " sécurité"
+        },
+        {
+          "startTime": 47004,
+          "endTime": 47064,
+          "content": " à"
+        },
+        {
+          "startTime": 47084,
+          "endTime": 47144,
+          "content": " la"
+        },
+        {
+          "startTime": 47204,
+          "endTime": 47424,
+          "content": " porte"
+        },
+        {
+          "startTime": 47464,
+          "endTime": 47884,
+          "content": " et"
+        },
+        {
+          "startTime": 47924,
+          "endTime": 48424,
+          "content": " éventuellement"
+        },
+        {
+          "startTime": 48464,
+          "endTime": 48544,
+          "content": " se"
+        },
+        {
+          "startTime": 48584,
+          "endTime": 48864,
+          "content": " servir"
+        },
+        {
+          "startTime": 48904,
+          "endTime": 48964,
+          "content": " en"
+        },
+        {
+          "startTime": 49044,
+          "endTime": 49245,
+          "content": " âme"
+        },
+        {
+          "startTime": 49285,
+          "endTime": 49445,
+          "content": " s'il"
+        },
+        {
+          "startTime": 49465,
+          "endTime": 49545,
+          "content": " le"
+        },
+        {
+          "startTime": 49565,
+          "endTime": 49885,
+          "content": " fallait."
+        },
+        {
+          "startTime": 49905,
+          "endTime": 50005,
+          "content": " C'est"
+        },
+        {
+          "startTime": 50045,
+          "endTime": 50145,
+          "content": " une"
+        },
+        {
+          "startTime": 50165,
+          "endTime": 50385,
+          "content": " demande"
+        },
+        {
+          "startTime": 50425,
+          "endTime": 50485,
+          "content": " de"
+        },
+        {
+          "startTime": 50525,
+          "endTime": 50605,
+          "content": " vos"
+        },
+        {
+          "startTime": 50645,
+          "endTime": 50925,
+          "content": " fidèles"
+        },
+        {
+          "startTime": 50945,
+          "endTime": 51005,
+          "content": " ça"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        },
+        {
+          "startTime": 51345,
+          "endTime": 51845,
+          "content": " Oui,"
+        },
+        {
+          "startTime": 51925,
+          "endTime": 52065,
+          "content": " on"
+        },
+        {
+          "startTime": 52126,
+          "endTime": 52206,
+          "content": " en"
+        },
+        {
+          "startTime": 52266,
+          "endTime": 52286,
+          "content": " a"
+        },
+        {
+          "startTime": 52306,
+          "endTime": 52426,
+          "content": " parlé,"
+        },
+        {
+          "startTime": 52486,
+          "endTime": 52646,
+          "content": " on"
+        },
+        {
+          "startTime": 52666,
+          "endTime": 52846,
+          "content": " voulait"
+        },
+        {
+          "startTime": 52866,
+          "endTime": 53246,
+          "content": " absolument"
+        },
+        {
+          "startTime": 53346,
+          "endTime": 54027,
+          "content": " avoir"
+        },
+        {
+          "startTime": 54067,
+          "endTime": 54127,
+          "content": " au"
+        },
+        {
+          "startTime": 54147,
+          "endTime": 54267,
+          "content": " moins"
+        },
+        {
+          "startTime": 54307,
+          "endTime": 54367,
+          "content": " un"
+        },
+        {
+          "startTime": 54387,
+          "endTime": 54747,
+          "content": " minimum"
+        },
+        {
+          "startTime": 54767,
+          "endTime": 54847,
+          "content": " de"
+        },
+        {
+          "startTime": 54907,
+          "endTime": 55448,
+          "content": " sécurité."
+        },
+        {
+          "startTime": 55508,
+          "endTime": 55608,
+          "content": " On"
+        },
+        {
+          "startTime": 55648,
+          "endTime": 55708,
+          "content": " a"
+        },
+        {
+          "startTime": 55748,
+          "endTime": 55968,
+          "content": " trouvé"
+        },
+        {
+          "startTime": 55988,
+          "endTime": 56128,
+          "content": " cette"
+        },
+        {
+          "startTime": 56148,
+          "endTime": 56848,
+          "content": " solution"
+        },
+        {
+          "startTime": 56868,
+          "endTime": 56989,
+          "content": " pour"
+        },
+        {
+          "startTime": 57029,
+          "endTime": 57109,
+          "content": " le"
+        },
+        {
+          "startTime": 57149,
+          "endTime": 57569,
+          "content": " moment."
+        }
+      ]
+    },
+    {
+      "startTime": 57589,
+      "endTime": 67115,
+      "speaker": "SPEAKER_03",
+      "items": [
+        {
+          "startTime": 57589,
+          "endTime": 57809,
+          "content": "D'autres"
+        },
+        {
+          "startTime": 57849,
+          "endTime": 58309,
+          "content": " synagogues,"
+        },
+        {
+          "startTime": 58349,
+          "endTime": 58610,
+          "content": " écoles"
+        },
+        {
+          "startTime": 58630,
+          "endTime": 58690,
+          "content": " ou"
+        },
+        {
+          "startTime": 58710,
+          "endTime": 58870,
+          "content": " lieux"
+        },
+        {
+          "startTime": 58910,
+          "endTime": 59290,
+          "content": " culturels"
+        },
+        {
+          "startTime": 59330,
+          "endTime": 59470,
+          "content": " font"
+        },
+        {
+          "startTime": 59510,
+          "endTime": 59710,
+          "content": " appel"
+        },
+        {
+          "startTime": 59750,
+          "endTime": 59810,
+          "content": " au"
+        },
+        {
+          "startTime": 59850,
+          "endTime": 60090,
+          "content": " service"
+        },
+        {
+          "startTime": 60130,
+          "endTime": 60210,
+          "content": " de"
+        },
+        {
+          "startTime": 60251,
+          "endTime": 60551,
+          "content": " Richard"
+        },
+        {
+          "startTime": 60571,
+          "endTime": 61231,
+          "content": " Priem."
+        },
+        {
+          "startTime": 61271,
+          "endTime": 61351,
+          "content": " Il"
+        },
+        {
+          "startTime": 61391,
+          "endTime": 61471,
+          "content": " est"
+        },
+        {
+          "startTime": 61511,
+          "endTime": 61571,
+          "content": " le"
+        },
+        {
+          "startTime": 61611,
+          "endTime": 61952,
+          "content": " directeur"
+        },
+        {
+          "startTime": 61992,
+          "endTime": 62272,
+          "content": " adjoint"
+        },
+        {
+          "startTime": 62312,
+          "endTime": 62392,
+          "content": " du"
+        },
+        {
+          "startTime": 62432,
+          "endTime": 62992,
+          "content": " CSS,"
+        },
+        {
+          "startTime": 63032,
+          "endTime": 63132,
+          "content": " une"
+        },
+        {
+          "startTime": 63172,
+          "endTime": 63673,
+          "content": " organisation"
+        },
+        {
+          "startTime": 63713,
+          "endTime": 63773,
+          "content": " de"
+        },
+        {
+          "startTime": 63813,
+          "endTime": 64473,
+          "content": " bénévoles"
+        },
+        {
+          "startTime": 64493,
+          "endTime": 64613,
+          "content": " qui"
+        },
+        {
+          "startTime": 64653,
+          "endTime": 65114,
+          "content": " sécurise"
+        },
+        {
+          "startTime": 65154,
+          "endTime": 65234,
+          "content": " les"
+        },
+        {
+          "startTime": 65254,
+          "endTime": 65414,
+          "content": " lieux"
+        },
+        {
+          "startTime": 65454,
+          "endTime": 65754,
+          "content": " sensibles"
+        },
+        {
+          "startTime": 65794,
+          "endTime": 65834,
+          "content": " en"
+        },
+        {
+          "startTime": 65874,
+          "endTime": 65934,
+          "content": " ce"
+        },
+        {
+          "startTime": 65974,
+          "endTime": 67115,
+          "content": " moment."
+        }
+      ]
+    },
+    {
+      "startTime": 67135,
+      "endTime": 80003,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 67135,
+          "endTime": 67495,
+          "content": "Depuis"
+        },
+        {
+          "startTime": 67515,
+          "endTime": 67635,
+          "content": " le"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 7"
+        },
+        {
+          "startTime": 67675,
+          "endTime": 68115,
+          "content": " octobre,"
+        },
+        {
+          "startTime": 68155,
+          "endTime": 68295,
+          "content": " nous"
+        },
+        {
+          "startTime": 68335,
+          "endTime": 68636,
+          "content": " avons"
+        },
+        {
+          "startTime": 68676,
+          "endTime": 69216,
+          "content": " recensé"
+        },
+        {
+          "startTime": 69256,
+          "endTime": 69536,
+          "content": " autant"
+        },
+        {
+          "startTime": 69576,
+          "endTime": 69997,
+          "content": " d'incidents"
+        },
+        {
+          "startTime": 70017,
+          "endTime": 70117,
+          "content": " que"
+        },
+        {
+          "startTime": 70157,
+          "endTime": 70277,
+          "content": " pour"
+        },
+        {
+          "startTime": 70317,
+          "endTime": 70377,
+          "content": " la"
+        },
+        {
+          "startTime": 70417,
+          "endTime": 70657,
+          "content": " première"
+        },
+        {
+          "startTime": 70697,
+          "endTime": 70937,
+          "content": " moitié"
+        },
+        {
+          "startTime": 70957,
+          "endTime": 71017,
+          "content": " de"
+        },
+        {
+          "startTime": 71057,
+          "endTime": 71357,
+          "content": " l'année."
+        },
+        {
+          "startTime": 71397,
+          "endTime": 71537,
+          "content": " C'est"
+        },
+        {
+          "startTime": 71577,
+          "endTime": 71658,
+          "content": " une"
+        },
+        {
+          "startTime": 71678,
+          "endTime": 71938,
+          "content": " optique"
+        },
+        {
+          "startTime": 71978,
+          "endTime": 72498,
+          "content": " dramatique,"
+        },
+        {
+          "startTime": 72518,
+          "endTime": 72678,
+          "content": " c'est"
+        },
+        {
+          "startTime": 72698,
+          "endTime": 72858,
+          "content": " très"
+        },
+        {
+          "startTime": 72898,
+          "endTime": 73699,
+          "content": " préoccupant."
+        },
+        {
+          "startTime": 73719,
+          "endTime": 73859,
+          "content": " C'est"
+        },
+        {
+          "startTime": 73899,
+          "endTime": 74179,
+          "content": " pourquoi"
+        },
+        {
+          "startTime": 74199,
+          "endTime": 74299,
+          "content": " nous"
+        },
+        {
+          "startTime": 74339,
+          "endTime": 74619,
+          "content": " prenons"
+        },
+        {
+          "startTime": 74659,
+          "endTime": 74779,
+          "content": " des"
+        },
+        {
+          "startTime": 74799,
+          "endTime": 75060,
+          "content": " mesures"
+        },
+        {
+          "startTime": 75100,
+          "endTime": 75240,
+          "content": " pour"
+        },
+        {
+          "startTime": 75300,
+          "endTime": 75480,
+          "content": " être"
+        },
+        {
+          "startTime": 75520,
+          "endTime": 75720,
+          "content": " sûrs"
+        },
+        {
+          "startTime": 75740,
+          "endTime": 75880,
+          "content": " que"
+        },
+        {
+          "startTime": 75900,
+          "endTime": 76220,
+          "content": " notre"
+        },
+        {
+          "startTime": 76260,
+          "endTime": 77181,
+          "content": " communauté"
+        },
+        {
+          "startTime": 77221,
+          "endTime": 77661,
+          "content": " continue"
+        },
+        {
+          "startTime": 77681,
+          "endTime": 77701,
+          "content": " à"
+        },
+        {
+          "startTime": 77761,
+          "endTime": 77921,
+          "content": " être"
+        },
+        {
+          "startTime": 77961,
+          "endTime": 78021,
+          "content": " en"
+        },
+        {
+          "startTime": 78061,
+          "endTime": 78462,
+          "content": " sécurité,"
+        },
+        {
+          "startTime": 78482,
+          "endTime": 78662,
+          "content": " qu'elle"
+        },
+        {
+          "startTime": 78702,
+          "endTime": 78902,
+          "content": " puisse"
+        },
+        {
+          "startTime": 78922,
+          "endTime": 79102,
+          "content": " faire"
+        },
+        {
+          "startTime": 79122,
+          "endTime": 79182,
+          "content": " ce"
+        },
+        {
+          "startTime": 79202,
+          "endTime": 79362,
+          "content": " qu'elle"
+        },
+        {
+          "startTime": 79402,
+          "endTime": 79422,
+          "content": " a"
+        },
+        {
+          "startTime": 79462,
+          "endTime": 79522,
+          "content": " à"
+        },
+        {
+          "startTime": 79542,
+          "endTime": 80003,
+          "content": " faire."
+        }
+      ]
+    },
+    {
+      "startTime": 80663,
+      "endTime": 87309,
+      "speaker": "SPEAKER_03",
+      "items": [
+        {
+          "startTime": 80663,
+          "endTime": 80743,
+          "content": "Et"
+        },
+        {
+          "startTime": 80763,
+          "endTime": 80803,
+          "content": " le"
+        },
+        {
+          "startTime": 80843,
+          "endTime": 81043,
+          "content": " risque"
+        },
+        {
+          "startTime": 81063,
+          "endTime": 81384,
+          "content": " d'attaque"
+        },
+        {
+          "startTime": 81424,
+          "endTime": 81724,
+          "content": " ciblant"
+        },
+        {
+          "startTime": 81764,
+          "endTime": 81844,
+          "content": " la"
+        },
+        {
+          "startTime": 81864,
+          "endTime": 82345,
+          "content": " communauté"
+        },
+        {
+          "startTime": 82365,
+          "endTime": 82545,
+          "content": " juive"
+        },
+        {
+          "startTime": 82585,
+          "endTime": 82665,
+          "content": " a"
+        },
+        {
+          "startTime": 82705,
+          "endTime": 82885,
+          "content": " atteint"
+        },
+        {
+          "startTime": 82925,
+          "endTime": 82985,
+          "content": " un"
+        },
+        {
+          "startTime": 83005,
+          "endTime": 83265,
+          "content": " niveau"
+        },
+        {
+          "startTime": 83305,
+          "endTime": 84046,
+          "content": " historique,"
+        },
+        {
+          "startTime": 84106,
+          "endTime": 84166,
+          "content": " a"
+        },
+        {
+          "startTime": 84186,
+          "endTime": 84266,
+          "content": " par"
+        },
+        {
+          "startTime": 84286,
+          "endTime": 84526,
+          "content": " ailleurs"
+        },
+        {
+          "startTime": 84546,
+          "endTime": 84927,
+          "content": " déclaré"
+        },
+        {
+          "startTime": 84947,
+          "endTime": 85047,
+          "content": " le"
+        },
+        {
+          "startTime": 85087,
+          "endTime": 85527,
+          "content": " directeur"
+        },
+        {
+          "startTime": 85547,
+          "endTime": 85607,
+          "content": " du"
+        },
+        {
+          "startTime": 85707,
+          "endTime": 86348,
+          "content": " FBI"
+        },
+        {
+          "startTime": 86368,
+          "endTime": 86568,
+          "content": " devant"
+        },
+        {
+          "startTime": 86588,
+          "endTime": 86648,
+          "content": " le"
+        },
+        {
+          "startTime": 86688,
+          "endTime": 86908,
+          "content": " Sénat"
+        },
+        {
+          "startTime": 86948,
+          "endTime": 87309,
+          "content": " américain."
+        }
+      ]
+    }
+  ]
+}

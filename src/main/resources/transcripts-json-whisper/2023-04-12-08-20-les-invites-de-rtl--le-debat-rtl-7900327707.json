@@ -1,0 +1,8242 @@
+{
+  "media": {
+    "id": 7900327707,
+    "programId": 5141178,
+    "program": "Les invités de RTL",
+    "date": "2023-04-12",
+    "time": "08:20",
+    "title": "ASSURANCE CHOMÂGE - Marylise Léon est l'invitée de Yves Calvi",
+    "summary": "Ecoutez l'interview de la secrétaire générale de la CFDT.\nEcoutez Le débat du 04 décembre 2023 avec Yves Calvi.",
+    "speakers": [
+      "Yves Calvi"
+    ]
+  },
+  "source": "whisper",
+  "segments": [
+    {
+      "startTime": 671,
+      "endTime": 9646,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 671,
+          "endTime": 891,
+          "content": "Vous"
+        },
+        {
+          "startTime": 952,
+          "endTime": 1192,
+          "content": " êtes"
+        },
+        {
+          "startTime": 1232,
+          "endTime": 1353,
+          "content": " sur"
+        },
+        {
+          "startTime": 1453,
+          "endTime": 1934,
+          "content": " RTL."
+        },
+        {
+          "startTime": 7183,
+          "endTime": 7424,
+          "content": " RTL"
+        },
+        {
+          "startTime": 7444,
+          "endTime": 7804,
+          "content": " matin."
+        },
+        {
+          "startTime": 7884,
+          "endTime": 8124,
+          "content": " RTL"
+        },
+        {
+          "startTime": 8164,
+          "endTime": 8244,
+          "content": " il"
+        },
+        {
+          "startTime": 8264,
+          "endTime": 8445,
+          "content": " est"
+        },
+        {
+          "startTime": 8465,
+          "endTime": 8745,
+          "content": " 8h20,"
+        },
+        {
+          "startTime": 8765,
+          "endTime": 9045,
+          "content": " bonjour"
+        },
+        {
+          "startTime": 9065,
+          "endTime": 9325,
+          "content": " Marie-Lise"
+        },
+        {
+          "startTime": 9345,
+          "endTime": 9646,
+          "content": " Léon."
+        }
+      ]
+    },
+    {
+      "startTime": 9686,
+      "endTime": 10286,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 9686,
+          "endTime": 10286,
+          "content": "Bonjour."
+        }
+      ]
+    },
+    {
+      "startTime": 10306,
+      "endTime": 31247,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 10306,
+          "endTime": 10407,
+          "content": "Vous"
+        },
+        {
+          "startTime": 10427,
+          "endTime": 10647,
+          "content": " êtes"
+        },
+        {
+          "startTime": 10687,
+          "endTime": 11027,
+          "content": " secrétaire"
+        },
+        {
+          "startTime": 11047,
+          "endTime": 11287,
+          "content": " générale"
+        },
+        {
+          "startTime": 11307,
+          "endTime": 11367,
+          "content": " de"
+        },
+        {
+          "startTime": 11387,
+          "endTime": 11448,
+          "content": " la"
+        },
+        {
+          "startTime": 11488,
+          "endTime": 11868,
+          "content": " CFDT,"
+        },
+        {
+          "startTime": 11908,
+          "endTime": 12088,
+          "content": " merci"
+        },
+        {
+          "startTime": 12128,
+          "endTime": 12308,
+          "content": " beaucoup"
+        },
+        {
+          "startTime": 12328,
+          "endTime": 12368,
+          "content": " de"
+        },
+        {
+          "startTime": 12388,
+          "endTime": 12549,
+          "content": " prendre"
+        },
+        {
+          "startTime": 12569,
+          "endTime": 12609,
+          "content": " la"
+        },
+        {
+          "startTime": 12629,
+          "endTime": 12829,
+          "content": " parole"
+        },
+        {
+          "startTime": 12869,
+          "endTime": 12969,
+          "content": " ce"
+        },
+        {
+          "startTime": 12989,
+          "endTime": 13209,
+          "content": " matin"
+        },
+        {
+          "startTime": 13249,
+          "endTime": 13349,
+          "content": " sur"
+        },
+        {
+          "startTime": 13409,
+          "endTime": 14150,
+          "content": " RTL."
+        },
+        {
+          "startTime": 14190,
+          "endTime": 14571,
+          "content": " Elisabeth"
+        },
+        {
+          "startTime": 14591,
+          "endTime": 14771,
+          "content": " Borne"
+        },
+        {
+          "startTime": 14811,
+          "endTime": 15171,
+          "content": " réunit"
+        },
+        {
+          "startTime": 15211,
+          "endTime": 15291,
+          "content": " ses"
+        },
+        {
+          "startTime": 15331,
+          "endTime": 15692,
+          "content": " principaux"
+        },
+        {
+          "startTime": 15732,
+          "endTime": 16072,
+          "content": " ministres"
+        },
+        {
+          "startTime": 16132,
+          "endTime": 16232,
+          "content": " ce"
+        },
+        {
+          "startTime": 16272,
+          "endTime": 16512,
+          "content": " matin"
+        },
+        {
+          "startTime": 16532,
+          "endTime": 16552,
+          "content": " à"
+        },
+        {
+          "startTime": 16572,
+          "endTime": 16933,
+          "content": " Matignon,"
+        },
+        {
+          "startTime": 16993,
+          "endTime": 17353,
+          "content": " objectif"
+        },
+        {
+          "startTime": 17413,
+          "endTime": 18074,
+          "content": " dégager"
+        },
+        {
+          "startTime": 18114,
+          "endTime": 18214,
+          "content": " une"
+        },
+        {
+          "startTime": 18254,
+          "endTime": 18474,
+          "content": " feuille"
+        },
+        {
+          "startTime": 18494,
+          "endTime": 18574,
+          "content": " de"
+        },
+        {
+          "startTime": 18594,
+          "endTime": 18775,
+          "content": " route"
+        },
+        {
+          "startTime": 18815,
+          "endTime": 18955,
+          "content": " pour"
+        },
+        {
+          "startTime": 18995,
+          "endTime": 19215,
+          "content": " arriver"
+        },
+        {
+          "startTime": 19255,
+          "endTime": 19315,
+          "content": " au"
+        },
+        {
+          "startTime": 19335,
+          "endTime": 19495,
+          "content": " plein"
+        },
+        {
+          "startTime": 19515,
+          "endTime": 19836,
+          "content": " emploi,"
+        },
+        {
+          "startTime": 19876,
+          "endTime": 19976,
+          "content": " une"
+        },
+        {
+          "startTime": 20016,
+          "endTime": 20276,
+          "content": " promesse"
+        },
+        {
+          "startTime": 20316,
+          "endTime": 20356,
+          "content": " de"
+        },
+        {
+          "startTime": 20396,
+          "endTime": 20717,
+          "content": " campagne"
+        },
+        {
+          "startTime": 20737,
+          "endTime": 21217,
+          "content": " d'Emmanuel"
+        },
+        {
+          "startTime": 21257,
+          "endTime": 21818,
+          "content": " Macron."
+        },
+        {
+          "startTime": 21838,
+          "endTime": 21938,
+          "content": " Nous"
+        },
+        {
+          "startTime": 21978,
+          "endTime": 22158,
+          "content": " sommes"
+        },
+        {
+          "startTime": 22178,
+          "endTime": 22198,
+          "content": " à"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 7,4%"
+        },
+        {
+          "startTime": 23559,
+          "endTime": 23659,
+          "content": " de"
+        },
+        {
+          "startTime": 23699,
+          "endTime": 24000,
+          "content": " chômage"
+        },
+        {
+          "startTime": 24060,
+          "endTime": 24100,
+          "content": " en"
+        },
+        {
+          "startTime": 24140,
+          "endTime": 24320,
+          "content": " hausse"
+        },
+        {
+          "startTime": 24340,
+          "endTime": 24420,
+          "content": " de"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 64"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 000"
+        },
+        {
+          "startTime": 25241,
+          "endTime": 25942,
+          "content": " personnes"
+        },
+        {
+          "startTime": 25982,
+          "endTime": 26062,
+          "content": " au"
+        },
+        {
+          "startTime": 26082,
+          "endTime": 26342,
+          "content": " troisième"
+        },
+        {
+          "startTime": 26382,
+          "endTime": 26742,
+          "content": " trimestre,"
+        },
+        {
+          "startTime": 26762,
+          "endTime": 26822,
+          "content": " le"
+        },
+        {
+          "startTime": 26842,
+          "endTime": 27003,
+          "content": " plein"
+        },
+        {
+          "startTime": 27043,
+          "endTime": 27263,
+          "content": " emploi"
+        },
+        {
+          "startTime": 27283,
+          "endTime": 27323,
+          "content": " en"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 2027,"
+        },
+        {
+          "startTime": 27563,
+          "endTime": 28004,
+          "content": " est-ce"
+        },
+        {
+          "startTime": 28024,
+          "endTime": 28124,
+          "content": " que"
+        },
+        {
+          "startTime": 28144,
+          "endTime": 28284,
+          "content": " c'est"
+        },
+        {
+          "startTime": 28304,
+          "endTime": 28604,
+          "content": " possible"
+        },
+        {
+          "startTime": 28624,
+          "endTime": 28904,
+          "content": " Marie-Lise"
+        },
+        {
+          "startTime": 28924,
+          "endTime": 29065,
+          "content": " Léon"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        },
+        {
+          "startTime": 29105,
+          "endTime": 29165,
+          "content": " Et"
+        },
+        {
+          "startTime": 29205,
+          "endTime": 29285,
+          "content": " puis"
+        },
+        {
+          "startTime": 29305,
+          "endTime": 29445,
+          "content": " est-ce"
+        },
+        {
+          "startTime": 29465,
+          "endTime": 29525,
+          "content": " que"
+        },
+        {
+          "startTime": 29545,
+          "endTime": 29705,
+          "content": " c'est"
+        },
+        {
+          "startTime": 29745,
+          "endTime": 29805,
+          "content": " un"
+        },
+        {
+          "startTime": 29865,
+          "endTime": 30786,
+          "content": " objectif"
+        },
+        {
+          "startTime": 30826,
+          "endTime": 31247,
+          "content": " légitime"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        }
+      ]
+    },
+    {
+      "startTime": 31747,
+      "endTime": 89365,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 31747,
+          "endTime": 31927,
+          "content": "C'est"
+        },
+        {
+          "startTime": 31967,
+          "endTime": 32027,
+          "content": " un"
+        },
+        {
+          "startTime": 32067,
+          "endTime": 32447,
+          "content": " objectif"
+        },
+        {
+          "startTime": 32487,
+          "endTime": 32827,
+          "content": " légitime,"
+        },
+        {
+          "startTime": 32867,
+          "endTime": 33068,
+          "content": " c'est"
+        },
+        {
+          "startTime": 33108,
+          "endTime": 33208,
+          "content": " un"
+        },
+        {
+          "startTime": 33248,
+          "endTime": 33608,
+          "content": " objectif"
+        },
+        {
+          "startTime": 33648,
+          "endTime": 33748,
+          "content": " que"
+        },
+        {
+          "startTime": 33788,
+          "endTime": 33868,
+          "content": " la"
+        },
+        {
+          "startTime": 33908,
+          "endTime": 34448,
+          "content": " CFDT"
+        },
+        {
+          "startTime": 34488,
+          "endTime": 34928,
+          "content": " partage,"
+        },
+        {
+          "startTime": 34988,
+          "endTime": 35088,
+          "content": " il"
+        },
+        {
+          "startTime": 35128,
+          "endTime": 36089,
+          "content": " faut"
+        },
+        {
+          "startTime": 36129,
+          "endTime": 36289,
+          "content": " avoir"
+        },
+        {
+          "startTime": 36329,
+          "endTime": 36389,
+          "content": " un"
+        },
+        {
+          "startTime": 36429,
+          "endTime": 36869,
+          "content": " maximum"
+        },
+        {
+          "startTime": 36909,
+          "endTime": 37009,
+          "content": " de"
+        },
+        {
+          "startTime": 37049,
+          "endTime": 37409,
+          "content": " personnes"
+        },
+        {
+          "startTime": 37429,
+          "endTime": 37549,
+          "content": " qui"
+        },
+        {
+          "startTime": 37569,
+          "endTime": 37869,
+          "content": " puissent"
+        },
+        {
+          "startTime": 37929,
+          "endTime": 38289,
+          "content": " accéder"
+        },
+        {
+          "startTime": 38329,
+          "endTime": 38369,
+          "content": " à"
+        },
+        {
+          "startTime": 38429,
+          "endTime": 39870,
+          "content": " l'emploi"
+        },
+        {
+          "startTime": 39930,
+          "endTime": 40050,
+          "content": " et"
+        },
+        {
+          "startTime": 40070,
+          "endTime": 40670,
+          "content": " donc"
+        },
+        {
+          "startTime": 40710,
+          "endTime": 40890,
+          "content": " l'une"
+        },
+        {
+          "startTime": 40910,
+          "endTime": 41010,
+          "content": " des"
+        },
+        {
+          "startTime": 41030,
+          "endTime": 41350,
+          "content": " meilleures"
+        },
+        {
+          "startTime": 41390,
+          "endTime": 41711,
+          "content": " façons"
+        },
+        {
+          "startTime": 41731,
+          "endTime": 41811,
+          "content": " je"
+        },
+        {
+          "startTime": 41831,
+          "endTime": 42011,
+          "content": " pense"
+        },
+        {
+          "startTime": 42031,
+          "endTime": 42131,
+          "content": " c'est"
+        },
+        {
+          "startTime": 42151,
+          "endTime": 42211,
+          "content": " de"
+        },
+        {
+          "startTime": 42231,
+          "endTime": 42471,
+          "content": " mettre"
+        },
+        {
+          "startTime": 42511,
+          "endTime": 42591,
+          "content": " tout"
+        },
+        {
+          "startTime": 42611,
+          "endTime": 42651,
+          "content": " le"
+        },
+        {
+          "startTime": 42671,
+          "endTime": 42791,
+          "content": " monde"
+        },
+        {
+          "startTime": 42831,
+          "endTime": 43011,
+          "content": " autour"
+        },
+        {
+          "startTime": 43051,
+          "endTime": 43131,
+          "content": " de"
+        },
+        {
+          "startTime": 43171,
+          "endTime": 43231,
+          "content": " la"
+        },
+        {
+          "startTime": 43271,
+          "endTime": 43471,
+          "content": " table"
+        },
+        {
+          "startTime": 43511,
+          "endTime": 43611,
+          "content": " et"
+        },
+        {
+          "startTime": 43711,
+          "endTime": 43891,
+          "content": " puis"
+        },
+        {
+          "startTime": 43911,
+          "endTime": 44011,
+          "content": " de"
+        },
+        {
+          "startTime": 44051,
+          "endTime": 44912,
+          "content": " voir"
+        },
+        {
+          "startTime": 44932,
+          "endTime": 45172,
+          "content": " comment"
+        },
+        {
+          "startTime": 45212,
+          "endTime": 45292,
+          "content": " on"
+        },
+        {
+          "startTime": 45332,
+          "endTime": 45812,
+          "content": " peut"
+        },
+        {
+          "startTime": 45832,
+          "endTime": 46012,
+          "content": " mieux"
+        },
+        {
+          "startTime": 46052,
+          "endTime": 46532,
+          "content": " accompagner,"
+        },
+        {
+          "startTime": 46572,
+          "endTime": 46632,
+          "content": " je"
+        },
+        {
+          "startTime": 46652,
+          "endTime": 46772,
+          "content": " pense"
+        },
+        {
+          "startTime": 46792,
+          "endTime": 46892,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 46912,
+          "endTime": 46932,
+          "content": " y"
+        },
+        {
+          "startTime": 46992,
+          "endTime": 47012,
+          "content": " a"
+        },
+        {
+          "startTime": 47072,
+          "endTime": 47132,
+          "content": " un"
+        },
+        {
+          "startTime": 47173,
+          "endTime": 47393,
+          "content": " enjeu"
+        },
+        {
+          "startTime": 47453,
+          "endTime": 47693,
+          "content": " autour"
+        },
+        {
+          "startTime": 47713,
+          "endTime": 48433,
+          "content": " de"
+        },
+        {
+          "startTime": 48473,
+          "endTime": 48553,
+          "content": " la"
+        },
+        {
+          "startTime": 48593,
+          "endTime": 48793,
+          "content": " façon"
+        },
+        {
+          "startTime": 48833,
+          "endTime": 48953,
+          "content": " dont"
+        },
+        {
+          "startTime": 48993,
+          "endTime": 49073,
+          "content": " on"
+        },
+        {
+          "startTime": 49093,
+          "endTime": 49473,
+          "content": " peut"
+        },
+        {
+          "startTime": 49493,
+          "endTime": 49653,
+          "content": " mieux"
+        },
+        {
+          "startTime": 49693,
+          "endTime": 50174,
+          "content": " accompagner"
+        },
+        {
+          "startTime": 50194,
+          "endTime": 50294,
+          "content": " les"
+        },
+        {
+          "startTime": 50334,
+          "endTime": 50654,
+          "content": " personnes"
+        },
+        {
+          "startTime": 50694,
+          "endTime": 50794,
+          "content": " qui"
+        },
+        {
+          "startTime": 50834,
+          "endTime": 50954,
+          "content": " sont"
+        },
+        {
+          "startTime": 50994,
+          "endTime": 51254,
+          "content": " aujourd'hui"
+        },
+        {
+          "startTime": 51294,
+          "endTime": 51374,
+          "content": " en"
+        },
+        {
+          "startTime": 51394,
+          "endTime": 51674,
+          "content": " recherche"
+        },
+        {
+          "startTime": 51694,
+          "endTime": 52134,
+          "content": " d'emploi"
+        },
+        {
+          "startTime": 52194,
+          "endTime": 52274,
+          "content": " et"
+        },
+        {
+          "startTime": 52314,
+          "endTime": 52754,
+          "content": " notamment"
+        },
+        {
+          "startTime": 52774,
+          "endTime": 52875,
+          "content": " les"
+        },
+        {
+          "startTime": 52895,
+          "endTime": 53275,
+          "content": " seniors"
+        },
+        {
+          "startTime": 53315,
+          "endTime": 53635,
+          "content": " puisqu'on"
+        },
+        {
+          "startTime": 53655,
+          "endTime": 53815,
+          "content": " sait"
+        },
+        {
+          "startTime": 53835,
+          "endTime": 53915,
+          "content": " que"
+        },
+        {
+          "startTime": 54635,
+          "endTime": 54996,
+          "content": " quasiment"
+        },
+        {
+          "startTime": 55056,
+          "endTime": 55096,
+          "content": " un"
+        },
+        {
+          "startTime": 55136,
+          "endTime": 55516,
+          "content": " seigneur"
+        },
+        {
+          "startTime": 55536,
+          "endTime": 55756,
+          "content": " sur"
+        },
+        {
+          "startTime": 55776,
+          "endTime": 56137,
+          "content": " deux,"
+        },
+        {
+          "startTime": 56177,
+          "endTime": 56277,
+          "content": " une"
+        },
+        {
+          "startTime": 56297,
+          "endTime": 56617,
+          "content": " personne"
+        },
+        {
+          "startTime": 56637,
+          "endTime": 56777,
+          "content": " sur"
+        },
+        {
+          "startTime": 56797,
+          "endTime": 56917,
+          "content": " deux"
+        },
+        {
+          "startTime": 56937,
+          "endTime": 57017,
+          "content": " qui"
+        },
+        {
+          "startTime": 57058,
+          "endTime": 57498,
+          "content": " arrive"
+        },
+        {
+          "startTime": 57538,
+          "endTime": 57618,
+          "content": " en"
+        },
+        {
+          "startTime": 57658,
+          "endTime": 57958,
+          "content": " retraite"
+        },
+        {
+          "startTime": 57998,
+          "endTime": 58159,
+          "content": " n'est"
+        },
+        {
+          "startTime": 58179,
+          "endTime": 58299,
+          "content": " pas"
+        },
+        {
+          "startTime": 58339,
+          "endTime": 58439,
+          "content": " en"
+        },
+        {
+          "startTime": 58499,
+          "endTime": 58779,
+          "content": " emploi,"
+        },
+        {
+          "startTime": 58819,
+          "endTime": 58919,
+          "content": " donc"
+        },
+        {
+          "startTime": 58979,
+          "endTime": 59039,
+          "content": " il"
+        },
+        {
+          "startTime": 59059,
+          "endTime": 59079,
+          "content": " y"
+        },
+        {
+          "startTime": 59139,
+          "endTime": 59199,
+          "content": " a"
+        },
+        {
+          "startTime": 59240,
+          "endTime": 59320,
+          "content": " un"
+        },
+        {
+          "startTime": 59360,
+          "endTime": 60180,
+          "content": " véritable"
+        },
+        {
+          "startTime": 60240,
+          "endTime": 60601,
+          "content": " enjeu"
+        },
+        {
+          "startTime": 60641,
+          "endTime": 61982,
+          "content": " autour"
+        },
+        {
+          "startTime": 62022,
+          "endTime": 62102,
+          "content": " de"
+        },
+        {
+          "startTime": 62142,
+          "endTime": 62282,
+          "content": " ces"
+        },
+        {
+          "startTime": 62302,
+          "endTime": 62683,
+          "content": " salariés."
+        },
+        {
+          "startTime": 66178,
+          "endTime": 66298,
+          "content": " Je"
+        },
+        {
+          "startTime": 66338,
+          "endTime": 66538,
+          "content": " fais"
+        },
+        {
+          "startTime": 66578,
+          "endTime": 66898,
+          "content": " confiance"
+        },
+        {
+          "startTime": 66958,
+          "endTime": 67018,
+          "content": " à"
+        },
+        {
+          "startTime": 67078,
+          "endTime": 67598,
+          "content": " l'intelligence"
+        },
+        {
+          "startTime": 67638,
+          "endTime": 68279,
+          "content": " collective,"
+        },
+        {
+          "startTime": 68319,
+          "endTime": 69619,
+          "content": " donc"
+        },
+        {
+          "startTime": 69679,
+          "endTime": 69819,
+          "content": " le"
+        },
+        {
+          "startTime": 69859,
+          "endTime": 70519,
+          "content": " gouvernement"
+        },
+        {
+          "startTime": 70539,
+          "endTime": 70679,
+          "content": " peut"
+        },
+        {
+          "startTime": 70719,
+          "endTime": 70839,
+          "content": " très"
+        },
+        {
+          "startTime": 70859,
+          "endTime": 71019,
+          "content": " bien"
+        },
+        {
+          "startTime": 71080,
+          "endTime": 71500,
+          "content": " réfléchir"
+        },
+        {
+          "startTime": 71540,
+          "endTime": 71620,
+          "content": " de"
+        },
+        {
+          "startTime": 71660,
+          "endTime": 71800,
+          "content": " son"
+        },
+        {
+          "startTime": 71840,
+          "endTime": 73500,
+          "content": " côté."
+        },
+        {
+          "startTime": 73520,
+          "endTime": 73680,
+          "content": " Là"
+        },
+        {
+          "startTime": 73740,
+          "endTime": 73920,
+          "content": " où"
+        },
+        {
+          "startTime": 73960,
+          "endTime": 74080,
+          "content": " je"
+        },
+        {
+          "startTime": 74140,
+          "endTime": 74521,
+          "content": " suis"
+        },
+        {
+          "startTime": 74541,
+          "endTime": 74701,
+          "content": " plus"
+        },
+        {
+          "startTime": 74761,
+          "endTime": 75161,
+          "content": " inquiète,"
+        },
+        {
+          "startTime": 75221,
+          "endTime": 77141,
+          "content": " oui"
+        },
+        {
+          "startTime": 77181,
+          "endTime": 77601,
+          "content": " inquiète,"
+        },
+        {
+          "startTime": 77621,
+          "endTime": 77802,
+          "content": " c'est"
+        },
+        {
+          "startTime": 77822,
+          "endTime": 78382,
+          "content": " qu'on"
+        },
+        {
+          "startTime": 78422,
+          "endTime": 78762,
+          "content": " entend"
+        },
+        {
+          "startTime": 78782,
+          "endTime": 79022,
+          "content": " parler"
+        },
+        {
+          "startTime": 79062,
+          "endTime": 80342,
+          "content": " de"
+        },
+        {
+          "startTime": 80382,
+          "endTime": 80742,
+          "content": " certaines"
+        },
+        {
+          "startTime": 80782,
+          "endTime": 81663,
+          "content": " initiatives"
+        },
+        {
+          "startTime": 81703,
+          "endTime": 81843,
+          "content": " qui"
+        },
+        {
+          "startTime": 81883,
+          "endTime": 82563,
+          "content": " faudraient"
+        },
+        {
+          "startTime": 82603,
+          "endTime": 83163,
+          "content": " continuer"
+        },
+        {
+          "startTime": 83203,
+          "endTime": 83303,
+          "content": " de"
+        },
+        {
+          "startTime": 83343,
+          "endTime": 83683,
+          "content": " diminuer"
+        },
+        {
+          "startTime": 83703,
+          "endTime": 83783,
+          "content": " les"
+        },
+        {
+          "startTime": 83823,
+          "endTime": 84023,
+          "content": " droits"
+        },
+        {
+          "startTime": 84083,
+          "endTime": 84343,
+          "content": " des"
+        },
+        {
+          "startTime": 84383,
+          "endTime": 85324,
+          "content": " salariés"
+        },
+        {
+          "startTime": 85384,
+          "endTime": 85504,
+          "content": " et"
+        },
+        {
+          "startTime": 85544,
+          "endTime": 85744,
+          "content": " que"
+        },
+        {
+          "startTime": 85784,
+          "endTime": 85864,
+          "content": " je"
+        },
+        {
+          "startTime": 85904,
+          "endTime": 86104,
+          "content": " pense"
+        },
+        {
+          "startTime": 86144,
+          "endTime": 86304,
+          "content": " que"
+        },
+        {
+          "startTime": 86344,
+          "endTime": 87885,
+          "content": " c'est"
+        },
+        {
+          "startTime": 87925,
+          "endTime": 88345,
+          "content": " absolument"
+        },
+        {
+          "startTime": 88385,
+          "endTime": 88465,
+          "content": " pas"
+        },
+        {
+          "startTime": 88525,
+          "endTime": 88585,
+          "content": " la"
+        },
+        {
+          "startTime": 88605,
+          "endTime": 88765,
+          "content": " voie"
+        },
+        {
+          "startTime": 88785,
+          "endTime": 88925,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 88945,
+          "endTime": 89085,
+          "content": " faut"
+        },
+        {
+          "startTime": 89145,
+          "endTime": 89365,
+          "content": " suivre."
+        }
+      ]
+    },
+    {
+      "startTime": 89585,
+      "endTime": 106888,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 89585,
+          "endTime": 89765,
+          "content": "Alors"
+        },
+        {
+          "startTime": 89785,
+          "endTime": 90006,
+          "content": " parmi"
+        },
+        {
+          "startTime": 90046,
+          "endTime": 90106,
+          "content": " les"
+        },
+        {
+          "startTime": 90126,
+          "endTime": 90346,
+          "content": " pistes"
+        },
+        {
+          "startTime": 90386,
+          "endTime": 90907,
+          "content": " étudiées,"
+        },
+        {
+          "startTime": 90967,
+          "endTime": 91027,
+          "content": " il"
+        },
+        {
+          "startTime": 91047,
+          "endTime": 91067,
+          "content": " y"
+        },
+        {
+          "startTime": 91087,
+          "endTime": 91167,
+          "content": " a"
+        },
+        {
+          "startTime": 91207,
+          "endTime": 91628,
+          "content": " raccourcir"
+        },
+        {
+          "startTime": 91668,
+          "endTime": 91728,
+          "content": " la"
+        },
+        {
+          "startTime": 91768,
+          "endTime": 91928,
+          "content": " durée"
+        },
+        {
+          "startTime": 91988,
+          "endTime": 92589,
+          "content": " d'indemnisation"
+        },
+        {
+          "startTime": 92629,
+          "endTime": 92950,
+          "content": " chômage"
+        },
+        {
+          "startTime": 92970,
+          "endTime": 93070,
+          "content": " des"
+        },
+        {
+          "startTime": 93090,
+          "endTime": 93210,
+          "content": " plus"
+        },
+        {
+          "startTime": 93230,
+          "endTime": 93290,
+          "content": " de"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 55"
+        },
+        {
+          "startTime": 93470,
+          "endTime": 94371,
+          "content": " ans"
+        },
+        {
+          "startTime": 94411,
+          "endTime": 94512,
+          "content": " de"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 27"
+        },
+        {
+          "startTime": 95032,
+          "endTime": 95132,
+          "content": " à"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 18"
+        },
+        {
+          "startTime": 95553,
+          "endTime": 95953,
+          "content": " mois,"
+        },
+        {
+          "startTime": 95994,
+          "endTime": 96134,
+          "content": " comme"
+        },
+        {
+          "startTime": 96174,
+          "endTime": 96274,
+          "content": " c'est"
+        },
+        {
+          "startTime": 96294,
+          "endTime": 96354,
+          "content": " le"
+        },
+        {
+          "startTime": 96374,
+          "endTime": 96454,
+          "content": " cas"
+        },
+        {
+          "startTime": 96494,
+          "endTime": 96734,
+          "content": " pour"
+        },
+        {
+          "startTime": 96775,
+          "endTime": 96895,
+          "content": " tous"
+        },
+        {
+          "startTime": 96915,
+          "endTime": 96975,
+          "content": " les"
+        },
+        {
+          "startTime": 96995,
+          "endTime": 97135,
+          "content": " autres"
+        },
+        {
+          "startTime": 97155,
+          "endTime": 97776,
+          "content": " salariés."
+        },
+        {
+          "startTime": 97816,
+          "endTime": 97876,
+          "content": " Le"
+        },
+        {
+          "startTime": 97916,
+          "endTime": 98116,
+          "content": " ministre"
+        },
+        {
+          "startTime": 98136,
+          "endTime": 98196,
+          "content": " de"
+        },
+        {
+          "startTime": 98216,
+          "endTime": 98577,
+          "content": " l'économie"
+        },
+        {
+          "startTime": 98597,
+          "endTime": 98837,
+          "content": " Bruno"
+        },
+        {
+          "startTime": 98877,
+          "endTime": 98917,
+          "content": " Le"
+        },
+        {
+          "startTime": 98937,
+          "endTime": 99098,
+          "content": " Maire"
+        },
+        {
+          "startTime": 99118,
+          "endTime": 99178,
+          "content": " l'a"
+        },
+        {
+          "startTime": 99218,
+          "endTime": 99578,
+          "content": " confirmé"
+        },
+        {
+          "startTime": 99598,
+          "endTime": 100039,
+          "content": " hier"
+        },
+        {
+          "startTime": 100079,
+          "endTime": 100179,
+          "content": " dans"
+        },
+        {
+          "startTime": 100199,
+          "endTime": 100279,
+          "content": " une"
+        },
+        {
+          "startTime": 100339,
+          "endTime": 100860,
+          "content": " interview"
+        },
+        {
+          "startTime": 100920,
+          "endTime": 101020,
+          "content": " au"
+        },
+        {
+          "startTime": 101060,
+          "endTime": 101361,
+          "content": " Parisien"
+        },
+        {
+          "startTime": 101401,
+          "endTime": 101661,
+          "content": " Aujourd'hui"
+        },
+        {
+          "startTime": 101701,
+          "endTime": 101761,
+          "content": " en"
+        },
+        {
+          "startTime": 101801,
+          "endTime": 102342,
+          "content": " France."
+        },
+        {
+          "startTime": 102382,
+          "endTime": 102542,
+          "content": " Nous"
+        },
+        {
+          "startTime": 102582,
+          "endTime": 103023,
+          "content": " comptons"
+        },
+        {
+          "startTime": 103043,
+          "endTime": 103163,
+          "content": " sur"
+        },
+        {
+          "startTime": 103203,
+          "endTime": 103283,
+          "content": " les"
+        },
+        {
+          "startTime": 103323,
+          "endTime": 103704,
+          "content": " partenaires"
+        },
+        {
+          "startTime": 103764,
+          "endTime": 104044,
+          "content": " sociaux,"
+        },
+        {
+          "startTime": 104084,
+          "endTime": 104585,
+          "content": " affirme-t-il."
+        },
+        {
+          "startTime": 104625,
+          "endTime": 104725,
+          "content": " Que"
+        },
+        {
+          "startTime": 104765,
+          "endTime": 104905,
+          "content": " lui"
+        },
+        {
+          "startTime": 104965,
+          "endTime": 105346,
+          "content": " répondez-vous"
+        },
+        {
+          "startTime": 105386,
+          "endTime": 105466,
+          "content": " ce"
+        },
+        {
+          "startTime": 105486,
+          "endTime": 105906,
+          "content": " matin"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        },
+        {
+          "startTime": 105946,
+          "endTime": 106087,
+          "content": " Est-ce"
+        },
+        {
+          "startTime": 106107,
+          "endTime": 106167,
+          "content": " que"
+        },
+        {
+          "startTime": 106187,
+          "endTime": 106287,
+          "content": " vous"
+        },
+        {
+          "startTime": 106327,
+          "endTime": 106467,
+          "content": " serez"
+        },
+        {
+          "startTime": 106487,
+          "endTime": 106527,
+          "content": " de"
+        },
+        {
+          "startTime": 106567,
+          "endTime": 106627,
+          "content": " la"
+        },
+        {
+          "startTime": 106667,
+          "endTime": 106888,
+          "content": " partie"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        }
+      ]
+    },
+    {
+      "startTime": 107586,
+      "endTime": 129929,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 107586,
+          "endTime": 107686,
+          "content": "Je"
+        },
+        {
+          "startTime": 107726,
+          "endTime": 107866,
+          "content": " lui"
+        },
+        {
+          "startTime": 107906,
+          "endTime": 108247,
+          "content": " réponds"
+        },
+        {
+          "startTime": 108287,
+          "endTime": 109048,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 109088,
+          "endTime": 109108,
+          "content": " y"
+        },
+        {
+          "startTime": 109128,
+          "endTime": 109188,
+          "content": " a"
+        },
+        {
+          "startTime": 109228,
+          "endTime": 109648,
+          "content": " effectivement"
+        },
+        {
+          "startTime": 109668,
+          "endTime": 109748,
+          "content": " un"
+        },
+        {
+          "startTime": 109788,
+          "endTime": 110149,
+          "content": " problème"
+        },
+        {
+          "startTime": 110189,
+          "endTime": 110409,
+          "content": " d'emploi"
+        },
+        {
+          "startTime": 110429,
+          "endTime": 110489,
+          "content": " des"
+        },
+        {
+          "startTime": 110629,
+          "endTime": 111330,
+          "content": " seniors"
+        },
+        {
+          "startTime": 111390,
+          "endTime": 111490,
+          "content": " et"
+        },
+        {
+          "startTime": 111530,
+          "endTime": 112051,
+          "content": " que"
+        },
+        {
+          "startTime": 112091,
+          "endTime": 112231,
+          "content": " pour"
+        },
+        {
+          "startTime": 112271,
+          "endTime": 112371,
+          "content": " une"
+        },
+        {
+          "startTime": 112391,
+          "endTime": 112651,
+          "content": " raison"
+        },
+        {
+          "startTime": 112691,
+          "endTime": 112892,
+          "content": " simple"
+        },
+        {
+          "startTime": 112932,
+          "endTime": 113052,
+          "content": " c'est"
+        },
+        {
+          "startTime": 113092,
+          "endTime": 113192,
+          "content": " que"
+        },
+        {
+          "startTime": 113212,
+          "endTime": 113352,
+          "content": " c'est"
+        },
+        {
+          "startTime": 113392,
+          "endTime": 113632,
+          "content": " beaucoup"
+        },
+        {
+          "startTime": 113652,
+          "endTime": 113772,
+          "content": " plus"
+        },
+        {
+          "startTime": 113832,
+          "endTime": 114373,
+          "content": " compliqué"
+        },
+        {
+          "startTime": 114413,
+          "endTime": 114553,
+          "content": " de"
+        },
+        {
+          "startTime": 114593,
+          "endTime": 114813,
+          "content": " rester"
+        },
+        {
+          "startTime": 114854,
+          "endTime": 114914,
+          "content": " en"
+        },
+        {
+          "startTime": 114954,
+          "endTime": 115254,
+          "content": " emploi"
+        },
+        {
+          "startTime": 115314,
+          "endTime": 115434,
+          "content": " ou"
+        },
+        {
+          "startTime": 115454,
+          "endTime": 115554,
+          "content": " de"
+        },
+        {
+          "startTime": 115594,
+          "endTime": 115915,
+          "content": " trouver"
+        },
+        {
+          "startTime": 115955,
+          "endTime": 116035,
+          "content": " un"
+        },
+        {
+          "startTime": 116075,
+          "endTime": 116315,
+          "content": " emploi"
+        },
+        {
+          "startTime": 116355,
+          "endTime": 116515,
+          "content": " quand"
+        },
+        {
+          "startTime": 116575,
+          "endTime": 116655,
+          "content": " on"
+        },
+        {
+          "startTime": 116715,
+          "endTime": 116775,
+          "content": " a"
+        },
+        {
+          "startTime": 116816,
+          "endTime": 116896,
+          "content": " plus"
+        },
+        {
+          "startTime": 116936,
+          "endTime": 116976,
+          "content": " de"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 55"
+        },
+        {
+          "startTime": 117156,
+          "endTime": 117316,
+          "content": " ans."
+        },
+        {
+          "startTime": 118257,
+          "endTime": 118577,
+          "content": " Et"
+        },
+        {
+          "startTime": 118617,
+          "endTime": 118778,
+          "content": " c'est"
+        },
+        {
+          "startTime": 118818,
+          "endTime": 119238,
+          "content": " certainement"
+        },
+        {
+          "startTime": 119258,
+          "endTime": 119338,
+          "content": " pas"
+        },
+        {
+          "startTime": 119398,
+          "endTime": 119538,
+          "content": " en"
+        },
+        {
+          "startTime": 119598,
+          "endTime": 119959,
+          "content": " diminuant"
+        },
+        {
+          "startTime": 120019,
+          "endTime": 120099,
+          "content": " les"
+        },
+        {
+          "startTime": 120139,
+          "endTime": 120539,
+          "content": " allocations"
+        },
+        {
+          "startTime": 120559,
+          "endTime": 121040,
+          "content": " chômage"
+        },
+        {
+          "startTime": 121080,
+          "endTime": 122041,
+          "content": " que"
+        },
+        {
+          "startTime": 122061,
+          "endTime": 122201,
+          "content": " ces"
+        },
+        {
+          "startTime": 122241,
+          "endTime": 122541,
+          "content": " personnes"
+        },
+        {
+          "startTime": 122601,
+          "endTime": 122902,
+          "content": " vont"
+        },
+        {
+          "startTime": 122942,
+          "endTime": 123142,
+          "content": " plus"
+        },
+        {
+          "startTime": 123182,
+          "endTime": 123643,
+          "content": " facilement"
+        },
+        {
+          "startTime": 123683,
+          "endTime": 123963,
+          "content": " retrouver"
+        },
+        {
+          "startTime": 123983,
+          "endTime": 124043,
+          "content": " un"
+        },
+        {
+          "startTime": 124063,
+          "endTime": 124223,
+          "content": " emploi."
+        },
+        {
+          "startTime": 124243,
+          "endTime": 124303,
+          "content": " Je"
+        },
+        {
+          "startTime": 124343,
+          "endTime": 124523,
+          "content": " pense"
+        },
+        {
+          "startTime": 124543,
+          "endTime": 124664,
+          "content": " que"
+        },
+        {
+          "startTime": 124684,
+          "endTime": 124924,
+          "content": " c'est"
+        },
+        {
+          "startTime": 124964,
+          "endTime": 125204,
+          "content": " plutôt"
+        },
+        {
+          "startTime": 125244,
+          "endTime": 125324,
+          "content": " les"
+        },
+        {
+          "startTime": 125364,
+          "endTime": 126405,
+          "content": " stigmatiser"
+        },
+        {
+          "startTime": 126445,
+          "endTime": 126726,
+          "content": " et"
+        },
+        {
+          "startTime": 126766,
+          "endTime": 127386,
+          "content": " précariser"
+        },
+        {
+          "startTime": 127426,
+          "endTime": 127546,
+          "content": " ces"
+        },
+        {
+          "startTime": 127587,
+          "endTime": 128147,
+          "content": " personnes"
+        },
+        {
+          "startTime": 128187,
+          "endTime": 128267,
+          "content": " qui"
+        },
+        {
+          "startTime": 128327,
+          "endTime": 128407,
+          "content": " ont"
+        },
+        {
+          "startTime": 128447,
+          "endTime": 128868,
+          "content": " besoin"
+        },
+        {
+          "startTime": 128908,
+          "endTime": 129188,
+          "content": " plutôt"
+        },
+        {
+          "startTime": 129228,
+          "endTime": 129328,
+          "content": " d'un"
+        },
+        {
+          "startTime": 129388,
+          "endTime": 129929,
+          "content": " accompagnement."
+        }
+      ]
+    },
+    {
+      "startTime": 130149,
+      "endTime": 131490,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 130149,
+          "endTime": 130509,
+          "content": "Pourquoi"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        },
+        {
+          "startTime": 130549,
+          "endTime": 130629,
+          "content": " Les"
+        },
+        {
+          "startTime": 130649,
+          "endTime": 130789,
+          "content": " patrons"
+        },
+        {
+          "startTime": 130809,
+          "endTime": 130849,
+          "content": " ne"
+        },
+        {
+          "startTime": 130870,
+          "endTime": 130990,
+          "content": " jouent"
+        },
+        {
+          "startTime": 131010,
+          "endTime": 131070,
+          "content": " pas"
+        },
+        {
+          "startTime": 131090,
+          "endTime": 131150,
+          "content": " le"
+        },
+        {
+          "startTime": 131170,
+          "endTime": 131490,
+          "content": " jeu"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        }
+      ]
+    },
+    {
+      "startTime": 131530,
+      "endTime": 161467,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 131530,
+          "endTime": 131610,
+          "content": "Les"
+        },
+        {
+          "startTime": 131650,
+          "endTime": 131870,
+          "content": " patrons"
+        },
+        {
+          "startTime": 131910,
+          "endTime": 131950,
+          "content": " ne"
+        },
+        {
+          "startTime": 131970,
+          "endTime": 132090,
+          "content": " jouent"
+        },
+        {
+          "startTime": 132110,
+          "endTime": 132190,
+          "content": " pas"
+        },
+        {
+          "startTime": 132210,
+          "endTime": 132270,
+          "content": " le"
+        },
+        {
+          "startTime": 132290,
+          "endTime": 132490,
+          "content": " jeu."
+        },
+        {
+          "startTime": 132530,
+          "endTime": 132611,
+          "content": " Les"
+        },
+        {
+          "startTime": 132651,
+          "endTime": 133771,
+          "content": " employeurs"
+        },
+        {
+          "startTime": 133811,
+          "endTime": 134352,
+          "content": " considèrent"
+        },
+        {
+          "startTime": 134392,
+          "endTime": 135732,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 135752,
+          "endTime": 135772,
+          "content": " y"
+        },
+        {
+          "startTime": 135792,
+          "endTime": 135973,
+          "content": " a"
+        },
+        {
+          "startTime": 135993,
+          "endTime": 136193,
+          "content": " beaucoup"
+        },
+        {
+          "startTime": 136213,
+          "endTime": 136253,
+          "content": " de"
+        },
+        {
+          "startTime": 136293,
+          "endTime": 137173,
+          "content": " stéréotypes"
+        },
+        {
+          "startTime": 137213,
+          "endTime": 137834,
+          "content": " autour"
+        },
+        {
+          "startTime": 137854,
+          "endTime": 137954,
+          "content": " de"
+        },
+        {
+          "startTime": 137994,
+          "endTime": 138134,
+          "content": " ces"
+        },
+        {
+          "startTime": 138174,
+          "endTime": 139194,
+          "content": " salariés"
+        },
+        {
+          "startTime": 139214,
+          "endTime": 139375,
+          "content": " qui"
+        },
+        {
+          "startTime": 139435,
+          "endTime": 139855,
+          "content": " seraient"
+        },
+        {
+          "startTime": 139875,
+          "endTime": 140055,
+          "content": " moins"
+        },
+        {
+          "startTime": 140115,
+          "endTime": 141856,
+          "content": " adaptables,"
+        },
+        {
+          "startTime": 141896,
+          "endTime": 142076,
+          "content": " moins"
+        },
+        {
+          "startTime": 142116,
+          "endTime": 142216,
+          "content": " en"
+        },
+        {
+          "startTime": 142256,
+          "endTime": 142456,
+          "content": " phase"
+        },
+        {
+          "startTime": 142496,
+          "endTime": 142696,
+          "content": " avec"
+        },
+        {
+          "startTime": 142716,
+          "endTime": 142797,
+          "content": " les"
+        },
+        {
+          "startTime": 142837,
+          "endTime": 143117,
+          "content": " nouvelles"
+        },
+        {
+          "startTime": 143597,
+          "endTime": 145698,
+          "content": " technologies,"
+        },
+        {
+          "startTime": 145738,
+          "endTime": 145858,
+          "content": " qui"
+        },
+        {
+          "startTime": 145898,
+          "endTime": 146118,
+          "content": " coûtent"
+        },
+        {
+          "startTime": 146158,
+          "endTime": 146559,
+          "content": " cher"
+        },
+        {
+          "startTime": 146599,
+          "endTime": 147399,
+          "content": " également."
+        },
+        {
+          "startTime": 147479,
+          "endTime": 148320,
+          "content": " On"
+        },
+        {
+          "startTime": 148360,
+          "endTime": 148580,
+          "content": " parle"
+        },
+        {
+          "startTime": 148600,
+          "endTime": 149460,
+          "content": " souvent"
+        },
+        {
+          "startTime": 149500,
+          "endTime": 149641,
+          "content": " du"
+        },
+        {
+          "startTime": 149681,
+          "endTime": 149881,
+          "content": " coût"
+        },
+        {
+          "startTime": 149921,
+          "endTime": 150401,
+          "content": " salarial"
+        },
+        {
+          "startTime": 150461,
+          "endTime": 150561,
+          "content": " des"
+        },
+        {
+          "startTime": 150601,
+          "endTime": 150981,
+          "content": " personnes"
+        },
+        {
+          "startTime": 151021,
+          "endTime": 151261,
+          "content": " qui"
+        },
+        {
+          "startTime": 151322,
+          "endTime": 151402,
+          "content": " ont"
+        },
+        {
+          "startTime": 152342,
+          "endTime": 152782,
+          "content": " qui"
+        },
+        {
+          "startTime": 152862,
+          "endTime": 153002,
+          "content": " ont"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 55"
+        },
+        {
+          "startTime": 153183,
+          "endTime": 153283,
+          "content": " ans,"
+        },
+        {
+          "startTime": 153303,
+          "endTime": 153583,
+          "content": " mais"
+        },
+        {
+          "startTime": 153603,
+          "endTime": 153903,
+          "content": " au-delà"
+        },
+        {
+          "startTime": 153943,
+          "endTime": 154183,
+          "content": " d'avoir"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 55"
+        },
+        {
+          "startTime": 154623,
+          "endTime": 154683,
+          "content": " ans,"
+        },
+        {
+          "startTime": 154723,
+          "endTime": 154803,
+          "content": " ils"
+        },
+        {
+          "startTime": 154843,
+          "endTime": 154943,
+          "content": " ont"
+        },
+        {
+          "startTime": 154963,
+          "endTime": 155304,
+          "content": " surtout"
+        },
+        {
+          "startTime": 155344,
+          "endTime": 155464,
+          "content": " une"
+        },
+        {
+          "startTime": 155504,
+          "endTime": 156004,
+          "content": " expérience"
+        },
+        {
+          "startTime": 156084,
+          "endTime": 156184,
+          "content": " et"
+        },
+        {
+          "startTime": 156224,
+          "endTime": 156364,
+          "content": " des"
+        },
+        {
+          "startTime": 156404,
+          "endTime": 156824,
+          "content": " compétences"
+        },
+        {
+          "startTime": 156844,
+          "endTime": 156945,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 156965,
+          "endTime": 157085,
+          "content": " faut"
+        },
+        {
+          "startTime": 157105,
+          "endTime": 157545,
+          "content": " pouvoir"
+        },
+        {
+          "startTime": 157565,
+          "endTime": 158205,
+          "content": " reconnaître,"
+        },
+        {
+          "startTime": 158265,
+          "endTime": 158345,
+          "content": " un"
+        },
+        {
+          "startTime": 158385,
+          "endTime": 159326,
+          "content": " savoir-faire"
+        },
+        {
+          "startTime": 159366,
+          "endTime": 159526,
+          "content": " qui"
+        },
+        {
+          "startTime": 159566,
+          "endTime": 159806,
+          "content": " est"
+        },
+        {
+          "startTime": 159846,
+          "endTime": 160346,
+          "content": " extrêmement"
+        },
+        {
+          "startTime": 160406,
+          "endTime": 160807,
+          "content": " précieux"
+        },
+        {
+          "startTime": 160847,
+          "endTime": 160967,
+          "content": " pour"
+        },
+        {
+          "startTime": 160987,
+          "endTime": 161087,
+          "content": " les"
+        },
+        {
+          "startTime": 161107,
+          "endTime": 161467,
+          "content": " entreprises."
+        }
+      ]
+    },
+    {
+      "startTime": 161487,
+      "endTime": 164849,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 161487,
+          "endTime": 161627,
+          "content": "Donc"
+        },
+        {
+          "startTime": 161647,
+          "endTime": 161767,
+          "content": " vous"
+        },
+        {
+          "startTime": 161787,
+          "endTime": 161887,
+          "content": " nous"
+        },
+        {
+          "startTime": 161907,
+          "endTime": 162027,
+          "content": " dites"
+        },
+        {
+          "startTime": 162047,
+          "endTime": 162127,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 162147,
+          "endTime": 162327,
+          "content": " faut"
+        },
+        {
+          "startTime": 162347,
+          "endTime": 162527,
+          "content": " tout"
+        },
+        {
+          "startTime": 162567,
+          "endTime": 162728,
+          "content": " faire"
+        },
+        {
+          "startTime": 162768,
+          "endTime": 162908,
+          "content": " pour"
+        },
+        {
+          "startTime": 162948,
+          "endTime": 163168,
+          "content": " garder"
+        },
+        {
+          "startTime": 163208,
+          "endTime": 163308,
+          "content": " nos"
+        },
+        {
+          "startTime": 163348,
+          "endTime": 163628,
+          "content": " seniors"
+        },
+        {
+          "startTime": 163648,
+          "endTime": 163748,
+          "content": " dans"
+        },
+        {
+          "startTime": 163768,
+          "endTime": 163988,
+          "content": " l'emploi"
+        },
+        {
+          "startTime": 164028,
+          "endTime": 164228,
+          "content": " jusqu'à"
+        },
+        {
+          "startTime": 164248,
+          "endTime": 164288,
+          "content": " la"
+        },
+        {
+          "startTime": 164308,
+          "endTime": 164849,
+          "content": " retraite."
+        }
+      ]
+    },
+    {
+      "startTime": 164869,
+      "endTime": 178756,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 164869,
+          "endTime": 165129,
+          "content": "L'enjeu"
+        },
+        {
+          "startTime": 165149,
+          "endTime": 165229,
+          "content": " de"
+        },
+        {
+          "startTime": 165249,
+          "endTime": 165489,
+          "content": " l'emploi"
+        },
+        {
+          "startTime": 165529,
+          "endTime": 165609,
+          "content": " des"
+        },
+        {
+          "startTime": 165649,
+          "endTime": 165969,
+          "content": " seniors,"
+        },
+        {
+          "startTime": 165989,
+          "endTime": 166129,
+          "content": " c'est"
+        },
+        {
+          "startTime": 166169,
+          "endTime": 166930,
+          "content": " effectivement"
+        },
+        {
+          "startTime": 166970,
+          "endTime": 167090,
+          "content": " les"
+        },
+        {
+          "startTime": 167110,
+          "endTime": 167630,
+          "content": " garder"
+        },
+        {
+          "startTime": 167670,
+          "endTime": 167790,
+          "content": " en"
+        },
+        {
+          "startTime": 167850,
+          "endTime": 168290,
+          "content": " emploi"
+        },
+        {
+          "startTime": 168330,
+          "endTime": 168751,
+          "content": " et"
+        },
+        {
+          "startTime": 168791,
+          "endTime": 169851,
+          "content": " arrêter"
+        },
+        {
+          "startTime": 169891,
+          "endTime": 170071,
+          "content": " que"
+        },
+        {
+          "startTime": 170091,
+          "endTime": 170191,
+          "content": " les"
+        },
+        {
+          "startTime": 170231,
+          "endTime": 171472,
+          "content": " entreprises"
+        },
+        {
+          "startTime": 171492,
+          "endTime": 171612,
+          "content": " n'aient"
+        },
+        {
+          "startTime": 171632,
+          "endTime": 171852,
+          "content": " qu'un"
+        },
+        {
+          "startTime": 171892,
+          "endTime": 172433,
+          "content": " objectif"
+        },
+        {
+          "startTime": 172473,
+          "endTime": 172793,
+          "content": " lorsqu'un"
+        },
+        {
+          "startTime": 172833,
+          "endTime": 173473,
+          "content": " salarié"
+        },
+        {
+          "startTime": 173513,
+          "endTime": 173793,
+          "content": " arrive"
+        },
+        {
+          "startTime": 173813,
+          "endTime": 173833,
+          "content": " à"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 50"
+        },
+        {
+          "startTime": 174194,
+          "endTime": 174854,
+          "content": " ans,"
+        },
+        {
+          "startTime": 174894,
+          "endTime": 175054,
+          "content": " c'est"
+        },
+        {
+          "startTime": 175074,
+          "endTime": 175134,
+          "content": " de"
+        },
+        {
+          "startTime": 175174,
+          "endTime": 175354,
+          "content": " voir"
+        },
+        {
+          "startTime": 175914,
+          "endTime": 176095,
+          "content": " selon"
+        },
+        {
+          "startTime": 176135,
+          "endTime": 176315,
+          "content": " quelle"
+        },
+        {
+          "startTime": 176355,
+          "endTime": 176795,
+          "content": " modalité"
+        },
+        {
+          "startTime": 176835,
+          "endTime": 176935,
+          "content": " il"
+        },
+        {
+          "startTime": 176955,
+          "endTime": 177155,
+          "content": " va"
+        },
+        {
+          "startTime": 177175,
+          "endTime": 177415,
+          "content": " pouvoir"
+        },
+        {
+          "startTime": 177455,
+          "endTime": 177515,
+          "content": " le"
+        },
+        {
+          "startTime": 177535,
+          "endTime": 177715,
+          "content": " faire"
+        },
+        {
+          "startTime": 177755,
+          "endTime": 178076,
+          "content": " partir"
+        },
+        {
+          "startTime": 178116,
+          "endTime": 178176,
+          "content": " le"
+        },
+        {
+          "startTime": 178196,
+          "endTime": 178296,
+          "content": " plus"
+        },
+        {
+          "startTime": 178316,
+          "endTime": 178456,
+          "content": " vite"
+        },
+        {
+          "startTime": 178496,
+          "endTime": 178756,
+          "content": " possible."
+        }
+      ]
+    },
+    {
+      "startTime": 179056,
+      "endTime": 190441,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 179056,
+          "endTime": 179136,
+          "content": "On"
+        },
+        {
+          "startTime": 179176,
+          "endTime": 179416,
+          "content": " évoque"
+        },
+        {
+          "startTime": 179456,
+          "endTime": 179756,
+          "content": " également"
+        },
+        {
+          "startTime": 179816,
+          "endTime": 179876,
+          "content": " un"
+        },
+        {
+          "startTime": 179896,
+          "endTime": 180096,
+          "content": " temps"
+        },
+        {
+          "startTime": 180137,
+          "endTime": 180577,
+          "content": " partiel"
+        },
+        {
+          "startTime": 180637,
+          "endTime": 180997,
+          "content": " spécial"
+        },
+        {
+          "startTime": 181057,
+          "endTime": 181357,
+          "content": " senior,"
+        },
+        {
+          "startTime": 181377,
+          "endTime": 181477,
+          "content": " vous"
+        },
+        {
+          "startTime": 181517,
+          "endTime": 181677,
+          "content": " savez"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 4"
+        },
+        {
+          "startTime": 181877,
+          "endTime": 181997,
+          "content": " jours"
+        },
+        {
+          "startTime": 182017,
+          "endTime": 182077,
+          "content": " de"
+        },
+        {
+          "startTime": 182117,
+          "endTime": 182357,
+          "content": " travail"
+        },
+        {
+          "startTime": 182397,
+          "endTime": 182578,
+          "content": " par"
+        },
+        {
+          "startTime": 182598,
+          "endTime": 182898,
+          "content": " semaine,"
+        },
+        {
+          "startTime": 182938,
+          "endTime": 183318,
+          "content": " payer"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 90%"
+        },
+        {
+          "startTime": 183498,
+          "endTime": 183938,
+          "content": " du"
+        },
+        {
+          "startTime": 183978,
+          "endTime": 184438,
+          "content": " salaire"
+        },
+        {
+          "startTime": 184498,
+          "endTime": 184558,
+          "content": " et"
+        },
+        {
+          "startTime": 184598,
+          "endTime": 184678,
+          "content": " en"
+        },
+        {
+          "startTime": 184698,
+          "endTime": 185599,
+          "content": " cotisant"
+        },
+        {
+          "startTime": 185639,
+          "endTime": 185699,
+          "content": " à"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 100%"
+        },
+        {
+          "startTime": 185779,
+          "endTime": 186139,
+          "content": " en"
+        },
+        {
+          "startTime": 186159,
+          "endTime": 186599,
+          "content": " revanche"
+        },
+        {
+          "startTime": 186639,
+          "endTime": 186759,
+          "content": " pour"
+        },
+        {
+          "startTime": 186779,
+          "endTime": 186839,
+          "content": " la"
+        },
+        {
+          "startTime": 186879,
+          "endTime": 188280,
+          "content": " retraite."
+        },
+        {
+          "startTime": 188300,
+          "endTime": 188380,
+          "content": " Vous"
+        },
+        {
+          "startTime": 188400,
+          "endTime": 188560,
+          "content": " dites"
+        },
+        {
+          "startTime": 188600,
+          "endTime": 189000,
+          "content": " bravo,"
+        },
+        {
+          "startTime": 189020,
+          "endTime": 189781,
+          "content": " banco,"
+        },
+        {
+          "startTime": 189801,
+          "endTime": 190041,
+          "content": " pourquoi"
+        },
+        {
+          "startTime": 190061,
+          "endTime": 190441,
+          "content": " pas"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        }
+      ]
+    },
+    {
+      "startTime": 190481,
+      "endTime": 250529,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 190481,
+          "endTime": 190621,
+          "content": "Je"
+        },
+        {
+          "startTime": 190641,
+          "endTime": 190701,
+          "content": " dis"
+        },
+        {
+          "startTime": 190721,
+          "endTime": 191081,
+          "content": " que"
+        },
+        {
+          "startTime": 191101,
+          "endTime": 191241,
+          "content": " c'est"
+        },
+        {
+          "startTime": 191281,
+          "endTime": 191401,
+          "content": " très"
+        },
+        {
+          "startTime": 191421,
+          "endTime": 191521,
+          "content": " bien"
+        },
+        {
+          "startTime": 191541,
+          "endTime": 191641,
+          "content": " que"
+        },
+        {
+          "startTime": 191681,
+          "endTime": 191801,
+          "content": " le"
+        },
+        {
+          "startTime": 191841,
+          "endTime": 192182,
+          "content": " ministre"
+        },
+        {
+          "startTime": 192202,
+          "endTime": 192262,
+          "content": " de"
+        },
+        {
+          "startTime": 192302,
+          "endTime": 192762,
+          "content": " l'économie"
+        },
+        {
+          "startTime": 192802,
+          "endTime": 192882,
+          "content": " se"
+        },
+        {
+          "startTime": 192922,
+          "endTime": 193282,
+          "content": " souvienne"
+        },
+        {
+          "startTime": 193302,
+          "endTime": 193542,
+          "content": " d'une"
+        },
+        {
+          "startTime": 193582,
+          "endTime": 193982,
+          "content": " proposition"
+        },
+        {
+          "startTime": 194022,
+          "endTime": 194142,
+          "content": " qu'a"
+        },
+        {
+          "startTime": 194162,
+          "endTime": 194282,
+          "content": " fait"
+        },
+        {
+          "startTime": 194323,
+          "endTime": 194383,
+          "content": " la"
+        },
+        {
+          "startTime": 194423,
+          "endTime": 194783,
+          "content": " CFDT"
+        },
+        {
+          "startTime": 194803,
+          "endTime": 194863,
+          "content": " il"
+        },
+        {
+          "startTime": 194883,
+          "endTime": 194903,
+          "content": " y"
+        },
+        {
+          "startTime": 194923,
+          "endTime": 194983,
+          "content": " a"
+        },
+        {
+          "startTime": 195043,
+          "endTime": 195123,
+          "content": " un"
+        },
+        {
+          "startTime": 195163,
+          "endTime": 195203,
+          "content": " an."
+        },
+        {
+          "startTime": 195783,
+          "endTime": 195904,
+          "content": " Dans"
+        },
+        {
+          "startTime": 195924,
+          "endTime": 195964,
+          "content": " le"
+        },
+        {
+          "startTime": 195984,
+          "endTime": 196124,
+          "content": " cas"
+        },
+        {
+          "startTime": 196164,
+          "endTime": 196204,
+          "content": " de"
+        },
+        {
+          "startTime": 196244,
+          "endTime": 196304,
+          "content": " la"
+        },
+        {
+          "startTime": 196344,
+          "endTime": 196805,
+          "content": " concertation"
+        },
+        {
+          "startTime": 196845,
+          "endTime": 196965,
+          "content": " sur"
+        },
+        {
+          "startTime": 196985,
+          "endTime": 197105,
+          "content": " les"
+        },
+        {
+          "startTime": 197125,
+          "endTime": 197446,
+          "content": " retraites,"
+        },
+        {
+          "startTime": 197486,
+          "endTime": 197666,
+          "content": " c'est"
+        },
+        {
+          "startTime": 197706,
+          "endTime": 198488,
+          "content": " exactement"
+        },
+        {
+          "startTime": 198528,
+          "endTime": 198668,
+          "content": " une"
+        },
+        {
+          "startTime": 198708,
+          "endTime": 198788,
+          "content": " de"
+        },
+        {
+          "startTime": 198808,
+          "endTime": 198948,
+          "content": " nos"
+        },
+        {
+          "startTime": 198968,
+          "endTime": 199469,
+          "content": " propositions"
+        },
+        {
+          "startTime": 199509,
+          "endTime": 199589,
+          "content": " qui"
+        },
+        {
+          "startTime": 199609,
+          "endTime": 199669,
+          "content": " a"
+        },
+        {
+          "startTime": 199709,
+          "endTime": 199870,
+          "content": " été"
+        },
+        {
+          "startTime": 199890,
+          "endTime": 200270,
+          "content": " balayée"
+        },
+        {
+          "startTime": 200290,
+          "endTime": 201172,
+          "content": " puisque,"
+        },
+        {
+          "startTime": 201212,
+          "endTime": 201292,
+          "content": " à"
+        },
+        {
+          "startTime": 201332,
+          "endTime": 202834,
+          "content": " l'époque,"
+        },
+        {
+          "startTime": 202874,
+          "endTime": 203175,
+          "content": " l'idée"
+        },
+        {
+          "startTime": 203215,
+          "endTime": 203515,
+          "content": " était"
+        },
+        {
+          "startTime": 203555,
+          "endTime": 204056,
+          "content": " uniquement"
+        },
+        {
+          "startTime": 204076,
+          "endTime": 204216,
+          "content": " de"
+        },
+        {
+          "startTime": 204256,
+          "endTime": 204597,
+          "content": " répondre"
+        },
+        {
+          "startTime": 204617,
+          "endTime": 204637,
+          "content": " à"
+        },
+        {
+          "startTime": 204697,
+          "endTime": 204757,
+          "content": " la"
+        },
+        {
+          "startTime": 204777,
+          "endTime": 205038,
+          "content": " question"
+        },
+        {
+          "startTime": 205078,
+          "endTime": 205198,
+          "content": " des"
+        },
+        {
+          "startTime": 205218,
+          "endTime": 205598,
+          "content": " retraites"
+        },
+        {
+          "startTime": 205658,
+          "endTime": 205839,
+          "content": " par"
+        },
+        {
+          "startTime": 205859,
+          "endTime": 205939,
+          "content": " le"
+        },
+        {
+          "startTime": 205959,
+          "endTime": 206340,
+          "content": " décalage"
+        },
+        {
+          "startTime": 206400,
+          "endTime": 206440,
+          "content": " de"
+        },
+        {
+          "startTime": 206480,
+          "endTime": 206660,
+          "content": " l'âge"
+        },
+        {
+          "startTime": 206740,
+          "endTime": 207041,
+          "content": " légal"
+        },
+        {
+          "startTime": 207061,
+          "endTime": 207161,
+          "content": " qui"
+        },
+        {
+          "startTime": 207221,
+          "endTime": 207601,
+          "content": " était"
+        },
+        {
+          "startTime": 207662,
+          "endTime": 208162,
+          "content": " profondément"
+        },
+        {
+          "startTime": 208222,
+          "endTime": 208523,
+          "content": " injuste,"
+        },
+        {
+          "startTime": 208543,
+          "endTime": 208703,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 208723,
+          "endTime": 208823,
+          "content": " est"
+        },
+        {
+          "startTime": 208863,
+          "endTime": 209144,
+          "content": " toujours."
+        },
+        {
+          "startTime": 211046,
+          "endTime": 211186,
+          "content": " c'est"
+        },
+        {
+          "startTime": 211226,
+          "endTime": 211266,
+          "content": " un"
+        },
+        {
+          "startTime": 211306,
+          "endTime": 211447,
+          "content": " peu"
+        },
+        {
+          "startTime": 211487,
+          "endTime": 211707,
+          "content": " tard"
+        },
+        {
+          "startTime": 211767,
+          "endTime": 212167,
+          "content": " aujourd'hui"
+        },
+        {
+          "startTime": 212207,
+          "endTime": 212287,
+          "content": " de"
+        },
+        {
+          "startTime": 212307,
+          "endTime": 212427,
+          "content": " se"
+        },
+        {
+          "startTime": 212447,
+          "endTime": 212567,
+          "content": " dire"
+        },
+        {
+          "startTime": 212607,
+          "endTime": 212687,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 212707,
+          "endTime": 212727,
+          "content": " y"
+        },
+        {
+          "startTime": 212747,
+          "endTime": 212767,
+          "content": " a"
+        },
+        {
+          "startTime": 212787,
+          "endTime": 212827,
+          "content": " un"
+        },
+        {
+          "startTime": 212947,
+          "endTime": 213188,
+          "content": " sujet"
+        },
+        {
+          "startTime": 213268,
+          "endTime": 214348,
+          "content": " senior."
+        },
+        {
+          "startTime": 214388,
+          "endTime": 214448,
+          "content": " La"
+        },
+        {
+          "startTime": 214488,
+          "endTime": 214729,
+          "content": " réforme"
+        },
+        {
+          "startTime": 214749,
+          "endTime": 214809,
+          "content": " des"
+        },
+        {
+          "startTime": 214829,
+          "endTime": 215089,
+          "content": " retraites"
+        },
+        {
+          "startTime": 215129,
+          "endTime": 215149,
+          "content": " a"
+        },
+        {
+          "startTime": 215209,
+          "endTime": 215389,
+          "content": " été"
+        },
+        {
+          "startTime": 215429,
+          "endTime": 215969,
+          "content": " complètement"
+        },
+        {
+          "startTime": 216009,
+          "endTime": 216250,
+          "content": " prise"
+        },
+        {
+          "startTime": 216310,
+          "endTime": 216350,
+          "content": " à"
+        },
+        {
+          "startTime": 216410,
+          "endTime": 217550,
+          "content": " l'envers."
+        },
+        {
+          "startTime": 217570,
+          "endTime": 217791,
+          "content": " Donc"
+        },
+        {
+          "startTime": 217831,
+          "endTime": 217931,
+          "content": " que"
+        },
+        {
+          "startTime": 217951,
+          "endTime": 218011,
+          "content": " le"
+        },
+        {
+          "startTime": 218051,
+          "endTime": 218271,
+          "content": " sujet"
+        },
+        {
+          "startTime": 218471,
+          "endTime": 218571,
+          "content": " soit"
+        },
+        {
+          "startTime": 218591,
+          "endTime": 218691,
+          "content": " sur"
+        },
+        {
+          "startTime": 218711,
+          "endTime": 218811,
+          "content": " la"
+        },
+        {
+          "startTime": 218891,
+          "endTime": 219532,
+          "content": " terre."
+        },
+        {
+          "startTime": 219552,
+          "endTime": 219932,
+          "content": " Complètement"
+        },
+        {
+          "startTime": 219972,
+          "endTime": 220132,
+          "content": " prise"
+        },
+        {
+          "startTime": 220152,
+          "endTime": 220212,
+          "content": " à"
+        },
+        {
+          "startTime": 220252,
+          "endTime": 220712,
+          "content": " l'envers."
+        },
+        {
+          "startTime": 220752,
+          "endTime": 221133,
+          "content": " Aujourd'hui"
+        },
+        {
+          "startTime": 221173,
+          "endTime": 221253,
+          "content": " on"
+        },
+        {
+          "startTime": 221273,
+          "endTime": 221393,
+          "content": " nous"
+        },
+        {
+          "startTime": 221413,
+          "endTime": 222013,
+          "content": " dit"
+        },
+        {
+          "startTime": 222033,
+          "endTime": 222173,
+          "content": " c'est"
+        },
+        {
+          "startTime": 222193,
+          "endTime": 222714,
+          "content": " terrible"
+        },
+        {
+          "startTime": 222734,
+          "endTime": 222834,
+          "content": " les"
+        },
+        {
+          "startTime": 222854,
+          "endTime": 223734,
+          "content": " seniors"
+        },
+        {
+          "startTime": 223754,
+          "endTime": 223934,
+          "content": " sont"
+        },
+        {
+          "startTime": 223974,
+          "endTime": 224075,
+          "content": " au"
+        },
+        {
+          "startTime": 224115,
+          "endTime": 225155,
+          "content": " chômage"
+        },
+        {
+          "startTime": 225195,
+          "endTime": 225455,
+          "content": " alors"
+        },
+        {
+          "startTime": 225515,
+          "endTime": 226616,
+          "content": " que"
+        },
+        {
+          "startTime": 226676,
+          "endTime": 226796,
+          "content": " la"
+        },
+        {
+          "startTime": 226836,
+          "endTime": 227096,
+          "content": " seule"
+        },
+        {
+          "startTime": 227136,
+          "endTime": 228197,
+          "content": " préoccupation"
+        },
+        {
+          "startTime": 228257,
+          "endTime": 228457,
+          "content": " et"
+        },
+        {
+          "startTime": 228477,
+          "endTime": 228577,
+          "content": " le"
+        },
+        {
+          "startTime": 228617,
+          "endTime": 228778,
+          "content": " seul"
+        },
+        {
+          "startTime": 228818,
+          "endTime": 229298,
+          "content": " objectif"
+        },
+        {
+          "startTime": 229338,
+          "endTime": 229418,
+          "content": " du"
+        },
+        {
+          "startTime": 229458,
+          "endTime": 229898,
+          "content": " gouvernement"
+        },
+        {
+          "startTime": 229938,
+          "endTime": 230078,
+          "content": " ça"
+        },
+        {
+          "startTime": 230098,
+          "endTime": 230118,
+          "content": " a"
+        },
+        {
+          "startTime": 230158,
+          "endTime": 230278,
+          "content": " été"
+        },
+        {
+          "startTime": 230298,
+          "endTime": 230339,
+          "content": " il"
+        },
+        {
+          "startTime": 230359,
+          "endTime": 230459,
+          "content": " y"
+        },
+        {
+          "startTime": 230479,
+          "endTime": 230499,
+          "content": " a"
+        },
+        {
+          "startTime": 230559,
+          "endTime": 230639,
+          "content": " un"
+        },
+        {
+          "startTime": 230679,
+          "endTime": 230799,
+          "content": " an"
+        },
+        {
+          "startTime": 230819,
+          "endTime": 230919,
+          "content": " de"
+        },
+        {
+          "startTime": 230959,
+          "endTime": 231059,
+          "content": " nous"
+        },
+        {
+          "startTime": 231099,
+          "endTime": 231579,
+          "content": " dire"
+        },
+        {
+          "startTime": 231659,
+          "endTime": 231739,
+          "content": " il"
+        },
+        {
+          "startTime": 231759,
+          "endTime": 231920,
+          "content": " faut"
+        },
+        {
+          "startTime": 231960,
+          "endTime": 232300,
+          "content": " décaler"
+        },
+        {
+          "startTime": 232340,
+          "endTime": 232540,
+          "content": " l'âge"
+        },
+        {
+          "startTime": 232580,
+          "endTime": 233360,
+          "content": " légal"
+        },
+        {
+          "startTime": 233400,
+          "endTime": 233481,
+          "content": " de"
+        },
+        {
+          "startTime": 233521,
+          "endTime": 233581,
+          "content": " la"
+        },
+        {
+          "startTime": 233601,
+          "endTime": 233941,
+          "content": " retraite."
+        },
+        {
+          "startTime": 234801,
+          "endTime": 234941,
+          "content": " Donc"
+        },
+        {
+          "startTime": 235021,
+          "endTime": 235121,
+          "content": " on"
+        },
+        {
+          "startTime": 235141,
+          "endTime": 235241,
+          "content": " le"
+        },
+        {
+          "startTime": 235262,
+          "endTime": 235342,
+          "content": " dit"
+        },
+        {
+          "startTime": 235402,
+          "endTime": 235482,
+          "content": " et"
+        },
+        {
+          "startTime": 235502,
+          "endTime": 235602,
+          "content": " on"
+        },
+        {
+          "startTime": 235642,
+          "endTime": 235722,
+          "content": " le"
+        },
+        {
+          "startTime": 235762,
+          "endTime": 236022,
+          "content": " redit,"
+        },
+        {
+          "startTime": 236042,
+          "endTime": 237102,
+          "content": " nous"
+        },
+        {
+          "startTime": 237162,
+          "endTime": 237242,
+          "content": " on"
+        },
+        {
+          "startTime": 237282,
+          "endTime": 237363,
+          "content": " a"
+        },
+        {
+          "startTime": 237403,
+          "endTime": 237503,
+          "content": " une"
+        },
+        {
+          "startTime": 237543,
+          "endTime": 238043,
+          "content": " négociation"
+        },
+        {
+          "startTime": 238083,
+          "endTime": 238143,
+          "content": " et"
+        },
+        {
+          "startTime": 238183,
+          "endTime": 238243,
+          "content": " on"
+        },
+        {
+          "startTime": 238283,
+          "endTime": 238443,
+          "content": " sera"
+        },
+        {
+          "startTime": 238483,
+          "endTime": 238643,
+          "content": " force"
+        },
+        {
+          "startTime": 238683,
+          "endTime": 238763,
+          "content": " de"
+        },
+        {
+          "startTime": 238803,
+          "endTime": 239283,
+          "content": " proposition"
+        },
+        {
+          "startTime": 239324,
+          "endTime": 239424,
+          "content": " dans"
+        },
+        {
+          "startTime": 239444,
+          "endTime": 239484,
+          "content": " le"
+        },
+        {
+          "startTime": 239524,
+          "endTime": 239664,
+          "content": " cadre"
+        },
+        {
+          "startTime": 239704,
+          "endTime": 239764,
+          "content": " de"
+        },
+        {
+          "startTime": 239804,
+          "endTime": 239884,
+          "content": " la"
+        },
+        {
+          "startTime": 239924,
+          "endTime": 240404,
+          "content": " négociation"
+        },
+        {
+          "startTime": 240464,
+          "endTime": 240584,
+          "content": " sur"
+        },
+        {
+          "startTime": 240624,
+          "endTime": 240844,
+          "content": " l'emploi"
+        },
+        {
+          "startTime": 240904,
+          "endTime": 241004,
+          "content": " des"
+        },
+        {
+          "startTime": 241024,
+          "endTime": 241865,
+          "content": " seigneurs"
+        },
+        {
+          "startTime": 242565,
+          "endTime": 242665,
+          "content": " et"
+        },
+        {
+          "startTime": 243205,
+          "endTime": 243285,
+          "content": " il"
+        },
+        {
+          "startTime": 243305,
+          "endTime": 243325,
+          "content": " y"
+        },
+        {
+          "startTime": 243365,
+          "endTime": 243566,
+          "content": " aura"
+        },
+        {
+          "startTime": 243586,
+          "endTime": 243686,
+          "content": " des"
+        },
+        {
+          "startTime": 243726,
+          "endTime": 244206,
+          "content": " propositions"
+        },
+        {
+          "startTime": 244226,
+          "endTime": 244286,
+          "content": " de"
+        },
+        {
+          "startTime": 244306,
+          "endTime": 244506,
+          "content": " cette"
+        },
+        {
+          "startTime": 244526,
+          "endTime": 245266,
+          "content": " nature"
+        },
+        {
+          "startTime": 245306,
+          "endTime": 246167,
+          "content": " comme"
+        },
+        {
+          "startTime": 246207,
+          "endTime": 246307,
+          "content": " ce"
+        },
+        {
+          "startTime": 246327,
+          "endTime": 246507,
+          "content": " temps"
+        },
+        {
+          "startTime": 246547,
+          "endTime": 247007,
+          "content": " partiel"
+        },
+        {
+          "startTime": 247027,
+          "endTime": 247387,
+          "content": " seigneur"
+        },
+        {
+          "startTime": 247407,
+          "endTime": 247508,
+          "content": " qui"
+        },
+        {
+          "startTime": 247528,
+          "endTime": 247668,
+          "content": " peut"
+        },
+        {
+          "startTime": 247688,
+          "endTime": 247828,
+          "content": " être"
+        },
+        {
+          "startTime": 247868,
+          "endTime": 248008,
+          "content": " une"
+        },
+        {
+          "startTime": 248048,
+          "endTime": 248328,
+          "content": " bonne"
+        },
+        {
+          "startTime": 248368,
+          "endTime": 248768,
+          "content": " façon"
+        },
+        {
+          "startTime": 248808,
+          "endTime": 249168,
+          "content": " de"
+        },
+        {
+          "startTime": 249188,
+          "endTime": 249549,
+          "content": " maintenir"
+        },
+        {
+          "startTime": 249589,
+          "endTime": 249649,
+          "content": " les"
+        },
+        {
+          "startTime": 249689,
+          "endTime": 249989,
+          "content": " seigneurs"
+        },
+        {
+          "startTime": 250009,
+          "endTime": 250089,
+          "content": " en"
+        },
+        {
+          "startTime": 250129,
+          "endTime": 250529,
+          "content": " emploi."
+        }
+      ]
+    },
+    {
+      "startTime": 250589,
+      "endTime": 254311,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 250589,
+          "endTime": 250749,
+          "content": "Est-ce"
+        },
+        {
+          "startTime": 250789,
+          "endTime": 250949,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 250989,
+          "endTime": 251089,
+          "content": " est"
+        },
+        {
+          "startTime": 251129,
+          "endTime": 251449,
+          "content": " logique"
+        },
+        {
+          "startTime": 251469,
+          "endTime": 251550,
+          "content": " de"
+        },
+        {
+          "startTime": 251590,
+          "endTime": 251890,
+          "content": " modifier"
+        },
+        {
+          "startTime": 251930,
+          "endTime": 251990,
+          "content": " les"
+        },
+        {
+          "startTime": 252010,
+          "endTime": 252150,
+          "content": " règles"
+        },
+        {
+          "startTime": 252170,
+          "endTime": 252230,
+          "content": " de"
+        },
+        {
+          "startTime": 252250,
+          "endTime": 252610,
+          "content": " l'assurance"
+        },
+        {
+          "startTime": 252630,
+          "endTime": 252890,
+          "content": " chômage"
+        },
+        {
+          "startTime": 252930,
+          "endTime": 253010,
+          "content": " en"
+        },
+        {
+          "startTime": 253050,
+          "endTime": 253290,
+          "content": " fonction"
+        },
+        {
+          "startTime": 253310,
+          "endTime": 253350,
+          "content": " de"
+        },
+        {
+          "startTime": 253390,
+          "endTime": 253430,
+          "content": " la"
+        },
+        {
+          "startTime": 253470,
+          "endTime": 253871,
+          "content": " conjoncture"
+        },
+        {
+          "startTime": 253911,
+          "endTime": 254311,
+          "content": " économique"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        }
+      ]
+    },
+    {
+      "startTime": 255845,
+      "endTime": 267177,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 255845,
+          "endTime": 256826,
+          "content": "Non."
+        },
+        {
+          "startTime": 256866,
+          "endTime": 256926,
+          "content": " Je"
+        },
+        {
+          "startTime": 256966,
+          "endTime": 257186,
+          "content": " pense"
+        },
+        {
+          "startTime": 257226,
+          "endTime": 257867,
+          "content": " que"
+        },
+        {
+          "startTime": 257887,
+          "endTime": 257967,
+          "content": " le"
+        },
+        {
+          "startTime": 258007,
+          "endTime": 258308,
+          "content": " propre"
+        },
+        {
+          "startTime": 258348,
+          "endTime": 258488,
+          "content": " d'une"
+        },
+        {
+          "startTime": 258528,
+          "endTime": 258988,
+          "content": " assurance"
+        },
+        {
+          "startTime": 259028,
+          "endTime": 259128,
+          "content": " qui"
+        },
+        {
+          "startTime": 259189,
+          "endTime": 259449,
+          "content": " est"
+        },
+        {
+          "startTime": 259489,
+          "endTime": 259929,
+          "content": " l'assurance"
+        },
+        {
+          "startTime": 259969,
+          "endTime": 260430,
+          "content": " chômage,"
+        },
+        {
+          "startTime": 260450,
+          "endTime": 261631,
+          "content": " c'est"
+        },
+        {
+          "startTime": 261651,
+          "endTime": 261811,
+          "content": " de"
+        },
+        {
+          "startTime": 261851,
+          "endTime": 262472,
+          "content": " garantir"
+        },
+        {
+          "startTime": 262512,
+          "endTime": 262632,
+          "content": " un"
+        },
+        {
+          "startTime": 262672,
+          "endTime": 263593,
+          "content": " revenu"
+        },
+        {
+          "startTime": 263613,
+          "endTime": 263633,
+          "content": " à"
+        },
+        {
+          "startTime": 263693,
+          "endTime": 263793,
+          "content": " des"
+        },
+        {
+          "startTime": 263813,
+          "endTime": 264174,
+          "content": " personnes"
+        },
+        {
+          "startTime": 264214,
+          "endTime": 264414,
+          "content": " qui"
+        },
+        {
+          "startTime": 264474,
+          "endTime": 265155,
+          "content": " ont"
+        },
+        {
+          "startTime": 265215,
+          "endTime": 266376,
+          "content": " involontairement"
+        },
+        {
+          "startTime": 266416,
+          "endTime": 266717,
+          "content": " perdu"
+        },
+        {
+          "startTime": 266757,
+          "endTime": 266877,
+          "content": " leur"
+        },
+        {
+          "startTime": 266917,
+          "endTime": 267177,
+          "content": " emploi."
+        }
+      ]
+    },
+    {
+      "startTime": 267217,
+      "endTime": 267898,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 267217,
+          "endTime": 267297,
+          "content": "Et"
+        },
+        {
+          "startTime": 267317,
+          "endTime": 267397,
+          "content": " donc"
+        },
+        {
+          "startTime": 267417,
+          "endTime": 267557,
+          "content": " qu'elle"
+        },
+        {
+          "startTime": 267597,
+          "endTime": 267698,
+          "content": " soit"
+        },
+        {
+          "startTime": 267738,
+          "endTime": 267898,
+          "content": " stable."
+        }
+      ]
+    },
+    {
+      "startTime": 267938,
+      "endTime": 299442,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 267938,
+          "endTime": 268018,
+          "content": "Et"
+        },
+        {
+          "startTime": 268038,
+          "endTime": 268218,
+          "content": " donc"
+        },
+        {
+          "startTime": 268238,
+          "endTime": 268478,
+          "content": " qu'elle"
+        },
+        {
+          "startTime": 268518,
+          "endTime": 268699,
+          "content": " soit"
+        },
+        {
+          "startTime": 268759,
+          "endTime": 269019,
+          "content": " stable"
+        },
+        {
+          "startTime": 269039,
+          "endTime": 269119,
+          "content": " et"
+        },
+        {
+          "startTime": 269139,
+          "endTime": 269519,
+          "content": " qu'elle"
+        },
+        {
+          "startTime": 269539,
+          "endTime": 270140,
+          "content": " permette"
+        },
+        {
+          "startTime": 270180,
+          "endTime": 271001,
+          "content": " d'avoir"
+        },
+        {
+          "startTime": 271121,
+          "endTime": 271341,
+          "content": " une"
+        },
+        {
+          "startTime": 271381,
+          "endTime": 272222,
+          "content": " bonne"
+        },
+        {
+          "startTime": 272262,
+          "endTime": 272943,
+          "content": " allocation"
+        },
+        {
+          "startTime": 272983,
+          "endTime": 273143,
+          "content": " qui"
+        },
+        {
+          "startTime": 273183,
+          "endTime": 274064,
+          "content": " permette"
+        },
+        {
+          "startTime": 274084,
+          "endTime": 274285,
+          "content": " de"
+        },
+        {
+          "startTime": 274305,
+          "endTime": 274685,
+          "content": " retrouver"
+        },
+        {
+          "startTime": 274725,
+          "endTime": 274785,
+          "content": " un"
+        },
+        {
+          "startTime": 274825,
+          "endTime": 275065,
+          "content": " emploi,"
+        },
+        {
+          "startTime": 275085,
+          "endTime": 275286,
+          "content": " d'être"
+        },
+        {
+          "startTime": 275306,
+          "endTime": 275426,
+          "content": " dans"
+        },
+        {
+          "startTime": 275446,
+          "endTime": 275586,
+          "content": " de"
+        },
+        {
+          "startTime": 275626,
+          "endTime": 275866,
+          "content": " bonnes"
+        },
+        {
+          "startTime": 275906,
+          "endTime": 276367,
+          "content": " conditions,"
+        },
+        {
+          "startTime": 276407,
+          "endTime": 276747,
+          "content": " c'est-à-dire"
+        },
+        {
+          "startTime": 276767,
+          "endTime": 276847,
+          "content": " que"
+        },
+        {
+          "startTime": 277788,
+          "endTime": 278068,
+          "content": " être"
+        },
+        {
+          "startTime": 278088,
+          "endTime": 278949,
+          "content": " sur"
+        },
+        {
+          "startTime": 278989,
+          "endTime": 279129,
+          "content": " ces"
+        },
+        {
+          "startTime": 279169,
+          "endTime": 279609,
+          "content": " mécanismes"
+        },
+        {
+          "startTime": 279629,
+          "endTime": 279669,
+          "content": " un"
+        },
+        {
+          "startTime": 279809,
+          "endTime": 280030,
+          "content": " peu"
+        },
+        {
+          "startTime": 280070,
+          "endTime": 281290,
+          "content": " automatiques"
+        },
+        {
+          "startTime": 281310,
+          "endTime": 281430,
+          "content": " de"
+        },
+        {
+          "startTime": 281470,
+          "endTime": 281991,
+          "content": " variation"
+        },
+        {
+          "startTime": 282051,
+          "endTime": 282111,
+          "content": " de"
+        },
+        {
+          "startTime": 282151,
+          "endTime": 282531,
+          "content": " l'assurance"
+        },
+        {
+          "startTime": 282571,
+          "endTime": 283532,
+          "content": " chômage,"
+        },
+        {
+          "startTime": 283552,
+          "endTime": 283792,
+          "content": " c'est"
+        },
+        {
+          "startTime": 283832,
+          "endTime": 283952,
+          "content": " une"
+        },
+        {
+          "startTime": 283972,
+          "endTime": 284392,
+          "content": " vision"
+        },
+        {
+          "startTime": 284412,
+          "endTime": 284733,
+          "content": " purement"
+        },
+        {
+          "startTime": 284773,
+          "endTime": 285313,
+          "content": " comptable,"
+        },
+        {
+          "startTime": 285333,
+          "endTime": 285853,
+          "content": " purement"
+        },
+        {
+          "startTime": 285893,
+          "endTime": 286894,
+          "content": " statistique,"
+        },
+        {
+          "startTime": 286914,
+          "endTime": 287034,
+          "content": " qui"
+        },
+        {
+          "startTime": 287074,
+          "endTime": 287134,
+          "content": " ne"
+        },
+        {
+          "startTime": 287174,
+          "endTime": 287454,
+          "content": " prend"
+        },
+        {
+          "startTime": 287514,
+          "endTime": 288015,
+          "content": " absolument"
+        },
+        {
+          "startTime": 288055,
+          "endTime": 288135,
+          "content": " pas"
+        },
+        {
+          "startTime": 288195,
+          "endTime": 288275,
+          "content": " en"
+        },
+        {
+          "startTime": 288315,
+          "endTime": 288895,
+          "content": " compte"
+        },
+        {
+          "startTime": 288955,
+          "endTime": 289055,
+          "content": " les"
+        },
+        {
+          "startTime": 289095,
+          "endTime": 289596,
+          "content": " réalités"
+        },
+        {
+          "startTime": 289656,
+          "endTime": 289736,
+          "content": " des"
+        },
+        {
+          "startTime": 289776,
+          "endTime": 290096,
+          "content": " personnes"
+        },
+        {
+          "startTime": 290116,
+          "endTime": 290236,
+          "content": " qui"
+        },
+        {
+          "startTime": 290296,
+          "endTime": 290416,
+          "content": " sont"
+        },
+        {
+          "startTime": 290456,
+          "endTime": 290516,
+          "content": " au"
+        },
+        {
+          "startTime": 290556,
+          "endTime": 292518,
+          "content": " chômage."
+        },
+        {
+          "startTime": 292578,
+          "endTime": 292738,
+          "content": " Et"
+        },
+        {
+          "startTime": 294259,
+          "endTime": 294399,
+          "content": " c'est"
+        },
+        {
+          "startTime": 294459,
+          "endTime": 294559,
+          "content": " une"
+        },
+        {
+          "startTime": 294619,
+          "endTime": 295059,
+          "content": " absence"
+        },
+        {
+          "startTime": 295099,
+          "endTime": 295820,
+          "content": " totale"
+        },
+        {
+          "startTime": 295860,
+          "endTime": 295980,
+          "content": " de"
+        },
+        {
+          "startTime": 296000,
+          "endTime": 296240,
+          "content": " prendre"
+        },
+        {
+          "startTime": 296280,
+          "endTime": 296580,
+          "content": " en"
+        },
+        {
+          "startTime": 296620,
+          "endTime": 297801,
+          "content": " considération"
+        },
+        {
+          "startTime": 297821,
+          "endTime": 297961,
+          "content": " ce"
+        },
+        {
+          "startTime": 297981,
+          "endTime": 298181,
+          "content": " que"
+        },
+        {
+          "startTime": 298221,
+          "endTime": 298461,
+          "content": " vivent"
+        },
+        {
+          "startTime": 298521,
+          "endTime": 298922,
+          "content": " réellement"
+        },
+        {
+          "startTime": 298982,
+          "endTime": 299102,
+          "content": " ces"
+        },
+        {
+          "startTime": 299142,
+          "endTime": 299442,
+          "content": " personnes."
+        }
+      ]
+    },
+    {
+      "startTime": 299502,
+      "endTime": 309711,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 299502,
+          "endTime": 299702,
+          "content": "Alors,"
+        },
+        {
+          "startTime": 299722,
+          "endTime": 299802,
+          "content": " il"
+        },
+        {
+          "startTime": 299822,
+          "endTime": 300083,
+          "content": " n'empêche"
+        },
+        {
+          "startTime": 300103,
+          "endTime": 300263,
+          "content": " qu'en"
+        },
+        {
+          "startTime": 300323,
+          "endTime": 300543,
+          "content": " Europe,"
+        },
+        {
+          "startTime": 300583,
+          "endTime": 300643,
+          "content": " la"
+        },
+        {
+          "startTime": 300683,
+          "endTime": 300883,
+          "content": " France"
+        },
+        {
+          "startTime": 300903,
+          "endTime": 300943,
+          "content": " a"
+        },
+        {
+          "startTime": 301003,
+          "endTime": 301043,
+          "content": " un"
+        },
+        {
+          "startTime": 301083,
+          "endTime": 301504,
+          "content": " chômage"
+        },
+        {
+          "startTime": 301524,
+          "endTime": 301684,
+          "content": " plus"
+        },
+        {
+          "startTime": 301744,
+          "endTime": 302024,
+          "content": " important"
+        },
+        {
+          "startTime": 302064,
+          "endTime": 302144,
+          "content": " que"
+        },
+        {
+          "startTime": 302164,
+          "endTime": 302265,
+          "content": " ses"
+        },
+        {
+          "startTime": 302285,
+          "endTime": 303005,
+          "content": " voisins,"
+        },
+        {
+          "startTime": 303045,
+          "endTime": 303265,
+          "content": " même"
+        },
+        {
+          "startTime": 303285,
+          "endTime": 303526,
+          "content": " chose"
+        },
+        {
+          "startTime": 303546,
+          "endTime": 303666,
+          "content": " pour"
+        },
+        {
+          "startTime": 303686,
+          "endTime": 303786,
+          "content": " les"
+        },
+        {
+          "startTime": 303806,
+          "endTime": 304126,
+          "content": " dépenses"
+        },
+        {
+          "startTime": 304166,
+          "endTime": 304947,
+          "content": " publiques,"
+        },
+        {
+          "startTime": 304967,
+          "endTime": 305087,
+          "content": " mais"
+        },
+        {
+          "startTime": 305127,
+          "endTime": 305487,
+          "content": " également"
+        },
+        {
+          "startTime": 305528,
+          "endTime": 305708,
+          "content": " plus"
+        },
+        {
+          "startTime": 305748,
+          "endTime": 305828,
+          "content": " de"
+        },
+        {
+          "startTime": 305848,
+          "endTime": 306188,
+          "content": " prélèvents"
+        },
+        {
+          "startTime": 306228,
+          "endTime": 307029,
+          "content": " obligatoires."
+        },
+        {
+          "startTime": 307049,
+          "endTime": 307129,
+          "content": " Faut"
+        },
+        {
+          "startTime": 307149,
+          "endTime": 307349,
+          "content": " peut-être"
+        },
+        {
+          "startTime": 307389,
+          "endTime": 307770,
+          "content": " s'interroger"
+        },
+        {
+          "startTime": 307790,
+          "endTime": 307870,
+          "content": " sur"
+        },
+        {
+          "startTime": 308130,
+          "endTime": 308270,
+          "content": " notre"
+        },
+        {
+          "startTime": 308290,
+          "endTime": 308550,
+          "content": " modèle"
+        },
+        {
+          "startTime": 308570,
+          "endTime": 308871,
+          "content": " social,"
+        },
+        {
+          "startTime": 308911,
+          "endTime": 309711,
+          "content": " non"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        }
+      ]
+    },
+    {
+      "startTime": 309751,
+      "endTime": 351055,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 309751,
+          "endTime": 310052,
+          "content": "C'est"
+        },
+        {
+          "startTime": 310092,
+          "endTime": 311173,
+          "content": " absolument"
+        },
+        {
+          "startTime": 311273,
+          "endTime": 311413,
+          "content": " une"
+        },
+        {
+          "startTime": 311433,
+          "endTime": 311733,
+          "content": " question"
+        },
+        {
+          "startTime": 311773,
+          "endTime": 312013,
+          "content": " beaucoup"
+        },
+        {
+          "startTime": 312033,
+          "endTime": 312174,
+          "content": " plus"
+        },
+        {
+          "startTime": 312214,
+          "endTime": 312594,
+          "content": " globale."
+        },
+        {
+          "startTime": 312654,
+          "endTime": 313114,
+          "content": " Effectivement,"
+        },
+        {
+          "startTime": 313154,
+          "endTime": 313215,
+          "content": " il"
+        },
+        {
+          "startTime": 313235,
+          "endTime": 313335,
+          "content": " faut"
+        },
+        {
+          "startTime": 313375,
+          "endTime": 313795,
+          "content": " regarder"
+        },
+        {
+          "startTime": 313835,
+          "endTime": 314376,
+          "content": " l'ensemble"
+        },
+        {
+          "startTime": 314396,
+          "endTime": 314536,
+          "content": " des"
+        },
+        {
+          "startTime": 314576,
+          "endTime": 314876,
+          "content": " éléments"
+        },
+        {
+          "startTime": 314916,
+          "endTime": 315096,
+          "content": " qui"
+        },
+        {
+          "startTime": 315136,
+          "endTime": 315537,
+          "content": " composent"
+        },
+        {
+          "startTime": 315577,
+          "endTime": 315677,
+          "content": " ce"
+        },
+        {
+          "startTime": 315697,
+          "endTime": 316017,
+          "content": " modèle"
+        },
+        {
+          "startTime": 316037,
+          "endTime": 316778,
+          "content": " social."
+        },
+        {
+          "startTime": 316838,
+          "endTime": 317158,
+          "content": " Et"
+        },
+        {
+          "startTime": 317178,
+          "endTime": 317398,
+          "content": " qu'est-ce"
+        },
+        {
+          "startTime": 317438,
+          "endTime": 317558,
+          "content": " que"
+        },
+        {
+          "startTime": 317578,
+          "endTime": 317719,
+          "content": " nous"
+        },
+        {
+          "startTime": 317739,
+          "endTime": 318059,
+          "content": " disaient"
+        },
+        {
+          "startTime": 318079,
+          "endTime": 318179,
+          "content": " les"
+        },
+        {
+          "startTime": 318199,
+          "endTime": 318479,
+          "content": " personnes"
+        },
+        {
+          "startTime": 318499,
+          "endTime": 318559,
+          "content": " qui"
+        },
+        {
+          "startTime": 318599,
+          "endTime": 318780,
+          "content": " étaient"
+        },
+        {
+          "startTime": 318800,
+          "endTime": 318920,
+          "content": " dans"
+        },
+        {
+          "startTime": 318960,
+          "endTime": 319040,
+          "content": " la"
+        },
+        {
+          "startTime": 319060,
+          "endTime": 319220,
+          "content": " rue"
+        },
+        {
+          "startTime": 319280,
+          "endTime": 319360,
+          "content": " au"
+        },
+        {
+          "startTime": 319400,
+          "endTime": 319600,
+          "content": " début"
+        },
+        {
+          "startTime": 319640,
+          "endTime": 319700,
+          "content": " de"
+        },
+        {
+          "startTime": 319740,
+          "endTime": 320221,
+          "content": " l'année"
+        },
+        {
+          "startTime": 320261,
+          "endTime": 320541,
+          "content": " contre"
+        },
+        {
+          "startTime": 320581,
+          "endTime": 320721,
+          "content": " la"
+        },
+        {
+          "startTime": 320741,
+          "endTime": 320982,
+          "content": " réforme"
+        },
+        {
+          "startTime": 321022,
+          "endTime": 321082,
+          "content": " des"
+        },
+        {
+          "startTime": 321122,
+          "endTime": 321422,
+          "content": " retraites"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        },
+        {
+          "startTime": 321442,
+          "endTime": 321542,
+          "content": " parce"
+        },
+        {
+          "startTime": 321562,
+          "endTime": 321702,
+          "content": " qu'ils"
+        },
+        {
+          "startTime": 321722,
+          "endTime": 321922,
+          "content": " voulaient"
+        },
+        {
+          "startTime": 321942,
+          "endTime": 322082,
+          "content": " qu'on"
+        },
+        {
+          "startTime": 322102,
+          "endTime": 322282,
+          "content": " parle"
+        },
+        {
+          "startTime": 322302,
+          "endTime": 322362,
+          "content": " de"
+        },
+        {
+          "startTime": 322402,
+          "endTime": 322623,
+          "content": " leur"
+        },
+        {
+          "startTime": 322663,
+          "endTime": 323443,
+          "content": " travail,"
+        },
+        {
+          "startTime": 323463,
+          "endTime": 323543,
+          "content": " de"
+        },
+        {
+          "startTime": 323563,
+          "endTime": 323743,
+          "content": " leurs"
+        },
+        {
+          "startTime": 323763,
+          "endTime": 324123,
+          "content": " conditions"
+        },
+        {
+          "startTime": 324143,
+          "endTime": 324243,
+          "content": " de"
+        },
+        {
+          "startTime": 324283,
+          "endTime": 324663,
+          "content": " travail,"
+        },
+        {
+          "startTime": 324683,
+          "endTime": 324743,
+          "content": " de"
+        },
+        {
+          "startTime": 324783,
+          "endTime": 324904,
+          "content": " leurs"
+        },
+        {
+          "startTime": 324944,
+          "endTime": 326004,
+          "content": " conditions"
+        },
+        {
+          "startTime": 326044,
+          "endTime": 326524,
+          "content": " d'emploi,"
+        },
+        {
+          "startTime": 326564,
+          "endTime": 326644,
+          "content": " de"
+        },
+        {
+          "startTime": 326664,
+          "endTime": 326884,
+          "content": " leurs"
+        },
+        {
+          "startTime": 326924,
+          "endTime": 327645,
+          "content": " salaires."
+        },
+        {
+          "startTime": 327685,
+          "endTime": 327765,
+          "content": " Et"
+        },
+        {
+          "startTime": 327805,
+          "endTime": 327945,
+          "content": " c'est"
+        },
+        {
+          "startTime": 327965,
+          "endTime": 328065,
+          "content": " tout"
+        },
+        {
+          "startTime": 328085,
+          "endTime": 328205,
+          "content": " ça"
+        },
+        {
+          "startTime": 328245,
+          "endTime": 328365,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 328385,
+          "endTime": 328505,
+          "content": " faut"
+        },
+        {
+          "startTime": 328525,
+          "endTime": 328705,
+          "content": " pouvoir"
+        },
+        {
+          "startTime": 328745,
+          "endTime": 328905,
+          "content": " mettre"
+        },
+        {
+          "startTime": 328925,
+          "endTime": 329045,
+          "content": " sur"
+        },
+        {
+          "startTime": 329085,
+          "endTime": 329145,
+          "content": " la"
+        },
+        {
+          "startTime": 329185,
+          "endTime": 329405,
+          "content": " table."
+        },
+        {
+          "startTime": 329446,
+          "endTime": 329526,
+          "content": " Et"
+        },
+        {
+          "startTime": 329546,
+          "endTime": 329606,
+          "content": " je"
+        },
+        {
+          "startTime": 329646,
+          "endTime": 330106,
+          "content": " vois"
+        },
+        {
+          "startTime": 330146,
+          "endTime": 330246,
+          "content": " que"
+        },
+        {
+          "startTime": 330266,
+          "endTime": 330426,
+          "content": " pour"
+        },
+        {
+          "startTime": 330466,
+          "endTime": 330546,
+          "content": " le"
+        },
+        {
+          "startTime": 330586,
+          "endTime": 330806,
+          "content": " moment,"
+        },
+        {
+          "startTime": 330866,
+          "endTime": 330906,
+          "content": " le"
+        },
+        {
+          "startTime": 330946,
+          "endTime": 331306,
+          "content": " gouvernement"
+        },
+        {
+          "startTime": 331346,
+          "endTime": 331426,
+          "content": " est"
+        },
+        {
+          "startTime": 331466,
+          "endTime": 331566,
+          "content": " plus"
+        },
+        {
+          "startTime": 331586,
+          "endTime": 331787,
+          "content": " prompt"
+        },
+        {
+          "startTime": 331827,
+          "endTime": 331867,
+          "content": " à"
+        },
+        {
+          "startTime": 331927,
+          "endTime": 332147,
+          "content": " taper"
+        },
+        {
+          "startTime": 332187,
+          "endTime": 332347,
+          "content": " sur"
+        },
+        {
+          "startTime": 332367,
+          "endTime": 332507,
+          "content": " les"
+        },
+        {
+          "startTime": 332547,
+          "endTime": 333127,
+          "content": " salariés"
+        },
+        {
+          "startTime": 333147,
+          "endTime": 333587,
+          "content": " que"
+        },
+        {
+          "startTime": 333627,
+          "endTime": 334008,
+          "content": " de"
+        },
+        {
+          "startTime": 334048,
+          "endTime": 334428,
+          "content": " demander"
+        },
+        {
+          "startTime": 334488,
+          "endTime": 334548,
+          "content": " un"
+        },
+        {
+          "startTime": 334568,
+          "endTime": 334728,
+          "content": " peu"
+        },
+        {
+          "startTime": 334768,
+          "endTime": 334968,
+          "content": " plus"
+        },
+        {
+          "startTime": 335008,
+          "endTime": 335108,
+          "content": " de"
+        },
+        {
+          "startTime": 335148,
+          "endTime": 335888,
+          "content": " comptes"
+        },
+        {
+          "startTime": 335928,
+          "endTime": 336048,
+          "content": " aux"
+        },
+        {
+          "startTime": 336088,
+          "endTime": 336549,
+          "content": " entreprises,"
+        },
+        {
+          "startTime": 336629,
+          "endTime": 337029,
+          "content": " notamment"
+        },
+        {
+          "startTime": 337069,
+          "endTime": 337909,
+          "content": " via"
+        },
+        {
+          "startTime": 337949,
+          "endTime": 338309,
+          "content": " l'ensemble"
+        },
+        {
+          "startTime": 338349,
+          "endTime": 338489,
+          "content": " des"
+        },
+        {
+          "startTime": 338529,
+          "endTime": 338810,
+          "content": " aides"
+        },
+        {
+          "startTime": 338850,
+          "endTime": 339070,
+          "content": " qu'ils"
+        },
+        {
+          "startTime": 339110,
+          "endTime": 339950,
+          "content": " perçoivent."
+        },
+        {
+          "startTime": 340010,
+          "endTime": 340070,
+          "content": " Et"
+        },
+        {
+          "startTime": 340110,
+          "endTime": 340310,
+          "content": " donc"
+        },
+        {
+          "startTime": 340330,
+          "endTime": 340470,
+          "content": " nous,"
+        },
+        {
+          "startTime": 340510,
+          "endTime": 340911,
+          "content": " CFDT,"
+        },
+        {
+          "startTime": 340951,
+          "endTime": 341051,
+          "content": " on"
+        },
+        {
+          "startTime": 341091,
+          "endTime": 341391,
+          "content": " propose"
+        },
+        {
+          "startTime": 341431,
+          "endTime": 341571,
+          "content": " une"
+        },
+        {
+          "startTime": 341611,
+          "endTime": 342351,
+          "content": " conditionnalité"
+        },
+        {
+          "startTime": 342411,
+          "endTime": 342531,
+          "content": " des"
+        },
+        {
+          "startTime": 342571,
+          "endTime": 342771,
+          "content": " aides."
+        },
+        {
+          "startTime": 342811,
+          "endTime": 342851,
+          "content": " Je"
+        },
+        {
+          "startTime": 342891,
+          "endTime": 343051,
+          "content": " pense"
+        },
+        {
+          "startTime": 343091,
+          "endTime": 343552,
+          "content": " que"
+        },
+        {
+          "startTime": 343572,
+          "endTime": 343732,
+          "content": " ça"
+        },
+        {
+          "startTime": 343772,
+          "endTime": 344252,
+          "content": " permettra"
+        },
+        {
+          "startTime": 344332,
+          "endTime": 344392,
+          "content": " d'y"
+        },
+        {
+          "startTime": 344432,
+          "endTime": 344672,
+          "content": " voir"
+        },
+        {
+          "startTime": 344732,
+          "endTime": 344792,
+          "content": " un"
+        },
+        {
+          "startTime": 344832,
+          "endTime": 344952,
+          "content": " peu"
+        },
+        {
+          "startTime": 344972,
+          "endTime": 345112,
+          "content": " plus"
+        },
+        {
+          "startTime": 345152,
+          "endTime": 345853,
+          "content": " clair"
+        },
+        {
+          "startTime": 345893,
+          "endTime": 346713,
+          "content": " sur"
+        },
+        {
+          "startTime": 346753,
+          "endTime": 347093,
+          "content": " l'ensemble"
+        },
+        {
+          "startTime": 347133,
+          "endTime": 347193,
+          "content": " de"
+        },
+        {
+          "startTime": 347233,
+          "endTime": 347353,
+          "content": " ces"
+        },
+        {
+          "startTime": 347393,
+          "endTime": 347673,
+          "content": " dépenses"
+        },
+        {
+          "startTime": 347734,
+          "endTime": 348294,
+          "content": " publiques."
+        },
+        {
+          "startTime": 348354,
+          "endTime": 348734,
+          "content": " Et"
+        },
+        {
+          "startTime": 348794,
+          "endTime": 348954,
+          "content": " est-ce"
+        },
+        {
+          "startTime": 348974,
+          "endTime": 349094,
+          "content": " que"
+        },
+        {
+          "startTime": 349134,
+          "endTime": 349234,
+          "content": " les"
+        },
+        {
+          "startTime": 349254,
+          "endTime": 349694,
+          "content": " entreprises"
+        },
+        {
+          "startTime": 349734,
+          "endTime": 350035,
+          "content": " jouent"
+        },
+        {
+          "startTime": 350075,
+          "endTime": 350475,
+          "content": " réellement"
+        },
+        {
+          "startTime": 350515,
+          "endTime": 350595,
+          "content": " le"
+        },
+        {
+          "startTime": 350615,
+          "endTime": 350775,
+          "content": " jeu"
+        },
+        {
+          "startTime": 350815,
+          "endTime": 350955,
+          "content": " ou"
+        },
+        {
+          "startTime": 350975,
+          "endTime": 351055,
+          "content": " pas"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        }
+      ]
+    },
+    {
+      "startTime": 351335,
+      "endTime": 361630,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 351335,
+          "endTime": 351435,
+          "content": "Une"
+        },
+        {
+          "startTime": 351475,
+          "endTime": 351696,
+          "content": " autre"
+        },
+        {
+          "startTime": 351736,
+          "endTime": 351996,
+          "content": " mesure"
+        },
+        {
+          "startTime": 352016,
+          "endTime": 352096,
+          "content": " dans"
+        },
+        {
+          "startTime": 352116,
+          "endTime": 352196,
+          "content": " les"
+        },
+        {
+          "startTime": 352237,
+          "endTime": 352697,
+          "content": " tuyaux"
+        },
+        {
+          "startTime": 352717,
+          "endTime": 352797,
+          "content": " du"
+        },
+        {
+          "startTime": 352837,
+          "endTime": 353158,
+          "content": " gouvernement,"
+        },
+        {
+          "startTime": 353178,
+          "endTime": 353218,
+          "content": " la"
+        },
+        {
+          "startTime": 353358,
+          "endTime": 353999,
+          "content": " revalorisation"
+        },
+        {
+          "startTime": 354059,
+          "endTime": 354139,
+          "content": " du"
+        },
+        {
+          "startTime": 354159,
+          "endTime": 354400,
+          "content": " compte"
+        },
+        {
+          "startTime": 354440,
+          "endTime": 354900,
+          "content": " personnel"
+        },
+        {
+          "startTime": 354940,
+          "endTime": 355060,
+          "content": " de"
+        },
+        {
+          "startTime": 355121,
+          "endTime": 356222,
+          "content": " formation"
+        },
+        {
+          "startTime": 356262,
+          "endTime": 356362,
+          "content": " pour"
+        },
+        {
+          "startTime": 356402,
+          "endTime": 356523,
+          "content": " ceux"
+        },
+        {
+          "startTime": 356563,
+          "endTime": 357444,
+          "content": " qui"
+        },
+        {
+          "startTime": 357484,
+          "endTime": 358045,
+          "content": " s'engagent"
+        },
+        {
+          "startTime": 358085,
+          "endTime": 358185,
+          "content": " dans"
+        },
+        {
+          "startTime": 358205,
+          "endTime": 358265,
+          "content": " les"
+        },
+        {
+          "startTime": 358285,
+          "endTime": 358545,
+          "content": " filières"
+        },
+        {
+          "startTime": 358585,
+          "endTime": 358625,
+          "content": " en"
+        },
+        {
+          "startTime": 358666,
+          "endTime": 359246,
+          "content": " tension."
+        },
+        {
+          "startTime": 359286,
+          "endTime": 359427,
+          "content": " Est-ce"
+        },
+        {
+          "startTime": 359447,
+          "endTime": 359527,
+          "content": " que"
+        },
+        {
+          "startTime": 359547,
+          "endTime": 359667,
+          "content": " c'est"
+        },
+        {
+          "startTime": 359707,
+          "endTime": 359767,
+          "content": " une"
+        },
+        {
+          "startTime": 359787,
+          "endTime": 359947,
+          "content": " bonne"
+        },
+        {
+          "startTime": 359967,
+          "endTime": 360148,
+          "content": " piste"
+        },
+        {
+          "startTime": 360188,
+          "endTime": 360328,
+          "content": " pour"
+        },
+        {
+          "startTime": 360348,
+          "endTime": 360608,
+          "content": " remonter"
+        },
+        {
+          "startTime": 360648,
+          "endTime": 360849,
+          "content": " notamment"
+        },
+        {
+          "startTime": 360869,
+          "endTime": 360909,
+          "content": " le"
+        },
+        {
+          "startTime": 360929,
+          "endTime": 361029,
+          "content": " taux"
+        },
+        {
+          "startTime": 361069,
+          "endTime": 361289,
+          "content": " d'emploi"
+        },
+        {
+          "startTime": 361309,
+          "endTime": 361389,
+          "content": " des"
+        },
+        {
+          "startTime": 361429,
+          "endTime": 361630,
+          "content": " jeunes"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        }
+      ]
+    },
+    {
+      "startTime": 362190,
+      "endTime": 395601,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 362190,
+          "endTime": 362431,
+          "content": "Alors"
+        },
+        {
+          "startTime": 362451,
+          "endTime": 362651,
+          "content": " c'est"
+        },
+        {
+          "startTime": 362691,
+          "endTime": 362771,
+          "content": " une"
+        },
+        {
+          "startTime": 362791,
+          "endTime": 362952,
+          "content": " bonne"
+        },
+        {
+          "startTime": 362972,
+          "endTime": 363192,
+          "content": " piste"
+        },
+        {
+          "startTime": 363212,
+          "endTime": 363392,
+          "content": " pour"
+        },
+        {
+          "startTime": 363432,
+          "endTime": 363673,
+          "content": " l'emploi"
+        },
+        {
+          "startTime": 363713,
+          "endTime": 363833,
+          "content": " des"
+        },
+        {
+          "startTime": 363873,
+          "endTime": 364333,
+          "content": " jeunes"
+        },
+        {
+          "startTime": 364373,
+          "endTime": 365014,
+          "content": " aussi,"
+        },
+        {
+          "startTime": 365034,
+          "endTime": 365876,
+          "content": " mais"
+        },
+        {
+          "startTime": 365896,
+          "endTime": 366897,
+          "content": " pour"
+        },
+        {
+          "startTime": 366917,
+          "endTime": 367077,
+          "content": " tous"
+        },
+        {
+          "startTime": 367097,
+          "endTime": 367197,
+          "content": " les"
+        },
+        {
+          "startTime": 367237,
+          "endTime": 367618,
+          "content": " salariés."
+        },
+        {
+          "startTime": 368499,
+          "endTime": 368939,
+          "content": " favoriser"
+        },
+        {
+          "startTime": 368980,
+          "endTime": 369200,
+          "content": " l'accès"
+        },
+        {
+          "startTime": 369220,
+          "endTime": 369260,
+          "content": " à"
+        },
+        {
+          "startTime": 369320,
+          "endTime": 369380,
+          "content": " la"
+        },
+        {
+          "startTime": 369420,
+          "endTime": 369820,
+          "content": " formation"
+        },
+        {
+          "startTime": 369900,
+          "endTime": 370060,
+          "content": " pour"
+        },
+        {
+          "startTime": 370100,
+          "endTime": 370241,
+          "content": " ceux"
+        },
+        {
+          "startTime": 370281,
+          "endTime": 370461,
+          "content": " qui"
+        },
+        {
+          "startTime": 370501,
+          "endTime": 370621,
+          "content": " n'y"
+        },
+        {
+          "startTime": 370661,
+          "endTime": 370921,
+          "content": " ont"
+        },
+        {
+          "startTime": 370961,
+          "endTime": 371201,
+          "content": " pas"
+        },
+        {
+          "startTime": 371261,
+          "endTime": 372622,
+          "content": " accès"
+        },
+        {
+          "startTime": 372682,
+          "endTime": 372823,
+          "content": " ou"
+        },
+        {
+          "startTime": 372843,
+          "endTime": 373043,
+          "content": " qui"
+        },
+        {
+          "startTime": 373103,
+          "endTime": 373263,
+          "content": " ont"
+        },
+        {
+          "startTime": 373303,
+          "endTime": 373503,
+          "content": " moins"
+        },
+        {
+          "startTime": 373563,
+          "endTime": 373984,
+          "content": " accès,"
+        },
+        {
+          "startTime": 374024,
+          "endTime": 375144,
+          "content": " c'est"
+        },
+        {
+          "startTime": 375184,
+          "endTime": 375265,
+          "content": " une"
+        },
+        {
+          "startTime": 375285,
+          "endTime": 375465,
+          "content": " bonne"
+        },
+        {
+          "startTime": 375485,
+          "endTime": 376025,
+          "content": " chose."
+        },
+        {
+          "startTime": 376085,
+          "endTime": 376245,
+          "content": " Et"
+        },
+        {
+          "startTime": 376265,
+          "endTime": 376445,
+          "content": " l'un"
+        },
+        {
+          "startTime": 376465,
+          "endTime": 376626,
+          "content": " des"
+        },
+        {
+          "startTime": 376666,
+          "endTime": 377126,
+          "content": " enjeux"
+        },
+        {
+          "startTime": 377186,
+          "endTime": 378867,
+          "content": " aujourd'hui"
+        },
+        {
+          "startTime": 378887,
+          "endTime": 379008,
+          "content": " du"
+        },
+        {
+          "startTime": 379028,
+          "endTime": 379928,
+          "content": " travail,"
+        },
+        {
+          "startTime": 379968,
+          "endTime": 380108,
+          "content": " ce"
+        },
+        {
+          "startTime": 380128,
+          "endTime": 380729,
+          "content": " sont"
+        },
+        {
+          "startTime": 380769,
+          "endTime": 381049,
+          "content": " l'ensemble"
+        },
+        {
+          "startTime": 381069,
+          "endTime": 381189,
+          "content": " des"
+        },
+        {
+          "startTime": 381229,
+          "endTime": 381810,
+          "content": " transformations"
+        },
+        {
+          "startTime": 381830,
+          "endTime": 381930,
+          "content": " liées"
+        },
+        {
+          "startTime": 382050,
+          "endTime": 382150,
+          "content": " au"
+        },
+        {
+          "startTime": 382190,
+          "endTime": 382851,
+          "content": " numérique,"
+        },
+        {
+          "startTime": 382891,
+          "endTime": 383131,
+          "content": " liées"
+        },
+        {
+          "startTime": 383151,
+          "endTime": 383191,
+          "content": " à"
+        },
+        {
+          "startTime": 383251,
+          "endTime": 383371,
+          "content": " la"
+        },
+        {
+          "startTime": 383411,
+          "endTime": 384052,
+          "content": " transformation"
+        },
+        {
+          "startTime": 384112,
+          "endTime": 384952,
+          "content": " écologique."
+        },
+        {
+          "startTime": 384992,
+          "endTime": 385052,
+          "content": " Et"
+        },
+        {
+          "startTime": 385072,
+          "endTime": 385152,
+          "content": " donc,"
+        },
+        {
+          "startTime": 385232,
+          "endTime": 385292,
+          "content": " il"
+        },
+        {
+          "startTime": 385313,
+          "endTime": 385453,
+          "content": " va"
+        },
+        {
+          "startTime": 385473,
+          "endTime": 385493,
+          "content": " y"
+        },
+        {
+          "startTime": 385533,
+          "endTime": 385773,
+          "content": " avoir"
+        },
+        {
+          "startTime": 385813,
+          "endTime": 386053,
+          "content": " besoin"
+        },
+        {
+          "startTime": 386093,
+          "endTime": 386153,
+          "content": " de"
+        },
+        {
+          "startTime": 386193,
+          "endTime": 386513,
+          "content": " mettre"
+        },
+        {
+          "startTime": 386554,
+          "endTime": 386634,
+          "content": " le"
+        },
+        {
+          "startTime": 386674,
+          "endTime": 387875,
+          "content": " paquet"
+        },
+        {
+          "startTime": 387915,
+          "endTime": 388415,
+          "content": " sur"
+        },
+        {
+          "startTime": 388455,
+          "endTime": 388515,
+          "content": " la"
+        },
+        {
+          "startTime": 388575,
+          "endTime": 389376,
+          "content": " formation."
+        },
+        {
+          "startTime": 389396,
+          "endTime": 389516,
+          "content": " Mais"
+        },
+        {
+          "startTime": 389536,
+          "endTime": 389676,
+          "content": " c'est"
+        },
+        {
+          "startTime": 389716,
+          "endTime": 389756,
+          "content": " la"
+        },
+        {
+          "startTime": 389816,
+          "endTime": 390276,
+          "content": " formation"
+        },
+        {
+          "startTime": 390316,
+          "endTime": 390497,
+          "content": " tout"
+        },
+        {
+          "startTime": 390537,
+          "endTime": 390597,
+          "content": " au"
+        },
+        {
+          "startTime": 390617,
+          "endTime": 390737,
+          "content": " long"
+        },
+        {
+          "startTime": 390757,
+          "endTime": 390837,
+          "content": " de"
+        },
+        {
+          "startTime": 390877,
+          "endTime": 390937,
+          "content": " la"
+        },
+        {
+          "startTime": 390977,
+          "endTime": 391417,
+          "content": " vie."
+        },
+        {
+          "startTime": 391457,
+          "endTime": 391537,
+          "content": " On"
+        },
+        {
+          "startTime": 391577,
+          "endTime": 391698,
+          "content": " sait"
+        },
+        {
+          "startTime": 391718,
+          "endTime": 392378,
+          "content": " qu'aujourd'hui,"
+        },
+        {
+          "startTime": 392398,
+          "endTime": 392518,
+          "content": " par"
+        },
+        {
+          "startTime": 392558,
+          "endTime": 392859,
+          "content": " exemple,"
+        },
+        {
+          "startTime": 392879,
+          "endTime": 392999,
+          "content": " les"
+        },
+        {
+          "startTime": 393039,
+          "endTime": 393419,
+          "content": " seniors"
+        },
+        {
+          "startTime": 393459,
+          "endTime": 393559,
+          "content": " sont"
+        },
+        {
+          "startTime": 393599,
+          "endTime": 393719,
+          "content": " ceux"
+        },
+        {
+          "startTime": 393759,
+          "endTime": 393899,
+          "content": " qui"
+        },
+        {
+          "startTime": 393959,
+          "endTime": 394420,
+          "content": " ont"
+        },
+        {
+          "startTime": 394440,
+          "endTime": 394560,
+          "content": " le"
+        },
+        {
+          "startTime": 394600,
+          "endTime": 394780,
+          "content": " moins"
+        },
+        {
+          "startTime": 394840,
+          "endTime": 395060,
+          "content": " accès"
+        },
+        {
+          "startTime": 395100,
+          "endTime": 395120,
+          "content": " à"
+        },
+        {
+          "startTime": 395180,
+          "endTime": 395240,
+          "content": " la"
+        },
+        {
+          "startTime": 395280,
+          "endTime": 395601,
+          "content": " formation."
+        }
+      ]
+    },
+    {
+      "startTime": 396312,
+      "endTime": 402215,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 396312,
+          "endTime": 396452,
+          "content": "Quand"
+        },
+        {
+          "startTime": 396472,
+          "endTime": 396572,
+          "content": " vous"
+        },
+        {
+          "startTime": 396612,
+          "endTime": 397233,
+          "content": " entendez"
+        },
+        {
+          "startTime": 397273,
+          "endTime": 397653,
+          "content": " dire"
+        },
+        {
+          "startTime": 397673,
+          "endTime": 397773,
+          "content": " qu'on"
+        },
+        {
+          "startTime": 397833,
+          "endTime": 397913,
+          "content": " a"
+        },
+        {
+          "startTime": 397933,
+          "endTime": 398093,
+          "content": " besoin"
+        },
+        {
+          "startTime": 398113,
+          "endTime": 398153,
+          "content": " de"
+        },
+        {
+          "startTime": 398173,
+          "endTime": 398293,
+          "content": " faire"
+        },
+        {
+          "startTime": 398313,
+          "endTime": 398393,
+          "content": " des"
+        },
+        {
+          "startTime": 398433,
+          "endTime": 398773,
+          "content": " économies"
+        },
+        {
+          "startTime": 398813,
+          "endTime": 398873,
+          "content": " en"
+        },
+        {
+          "startTime": 398913,
+          "endTime": 399194,
+          "content": " limitant"
+        },
+        {
+          "startTime": 399234,
+          "endTime": 399294,
+          "content": " la"
+        },
+        {
+          "startTime": 399334,
+          "endTime": 399974,
+          "content": " possibilité"
+        },
+        {
+          "startTime": 400014,
+          "endTime": 400534,
+          "content": " d'abuser"
+        },
+        {
+          "startTime": 400554,
+          "endTime": 400674,
+          "content": " du"
+        },
+        {
+          "startTime": 400714,
+          "endTime": 401074,
+          "content": " système,"
+        },
+        {
+          "startTime": 401094,
+          "endTime": 401235,
+          "content": " est-ce"
+        },
+        {
+          "startTime": 401255,
+          "endTime": 401375,
+          "content": " que"
+        },
+        {
+          "startTime": 401395,
+          "endTime": 401495,
+          "content": " ces"
+        },
+        {
+          "startTime": 401535,
+          "endTime": 401715,
+          "content": " termes"
+        },
+        {
+          "startTime": 401755,
+          "endTime": 401895,
+          "content": " vous"
+        },
+        {
+          "startTime": 401955,
+          "endTime": 402215,
+          "content": " choquent"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        }
+      ]
+    },
+    {
+      "startTime": 402375,
+      "endTime": 428050,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 402375,
+          "endTime": 402515,
+          "content": "Oui,"
+        },
+        {
+          "startTime": 402535,
+          "endTime": 402655,
+          "content": " ça"
+        },
+        {
+          "startTime": 402675,
+          "endTime": 402755,
+          "content": " me"
+        },
+        {
+          "startTime": 402795,
+          "endTime": 403256,
+          "content": " choque."
+        },
+        {
+          "startTime": 403276,
+          "endTime": 403376,
+          "content": " Ça"
+        },
+        {
+          "startTime": 403396,
+          "endTime": 403476,
+          "content": " me"
+        },
+        {
+          "startTime": 403496,
+          "endTime": 403716,
+          "content": " choque"
+        },
+        {
+          "startTime": 403736,
+          "endTime": 404216,
+          "content": " profondément"
+        },
+        {
+          "startTime": 404236,
+          "endTime": 404376,
+          "content": " parce"
+        },
+        {
+          "startTime": 404416,
+          "endTime": 404616,
+          "content": " qu'on"
+        },
+        {
+          "startTime": 404636,
+          "endTime": 404836,
+          "content": " parle"
+        },
+        {
+          "startTime": 404856,
+          "endTime": 404956,
+          "content": " de"
+        },
+        {
+          "startTime": 404996,
+          "endTime": 405437,
+          "content": " personnes"
+        },
+        {
+          "startTime": 405497,
+          "endTime": 406377,
+          "content": " qui"
+        },
+        {
+          "startTime": 406417,
+          "endTime": 406737,
+          "content": " sont"
+        },
+        {
+          "startTime": 406777,
+          "endTime": 406877,
+          "content": " en"
+        },
+        {
+          "startTime": 406897,
+          "endTime": 407237,
+          "content": " situation"
+        },
+        {
+          "startTime": 407257,
+          "endTime": 407297,
+          "content": " de"
+        },
+        {
+          "startTime": 407337,
+          "endTime": 407898,
+          "content": " précarité,"
+        },
+        {
+          "startTime": 407938,
+          "endTime": 409419,
+          "content": " sont"
+        },
+        {
+          "startTime": 409459,
+          "endTime": 409579,
+          "content": " dans"
+        },
+        {
+          "startTime": 409599,
+          "endTime": 409719,
+          "content": " des"
+        },
+        {
+          "startTime": 409739,
+          "endTime": 410399,
+          "content": " situations"
+        },
+        {
+          "startTime": 410459,
+          "endTime": 411119,
+          "content": " individuelles"
+        },
+        {
+          "startTime": 411199,
+          "endTime": 411680,
+          "content": " extrêmement"
+        },
+        {
+          "startTime": 411720,
+          "endTime": 412180,
+          "content": " difficiles."
+        },
+        {
+          "startTime": 412820,
+          "endTime": 412900,
+          "content": " Je"
+        },
+        {
+          "startTime": 412940,
+          "endTime": 413120,
+          "content": " pense"
+        },
+        {
+          "startTime": 413160,
+          "endTime": 413301,
+          "content": " que"
+        },
+        {
+          "startTime": 413341,
+          "endTime": 413761,
+          "content": " c'est"
+        },
+        {
+          "startTime": 413801,
+          "endTime": 413961,
+          "content": " faire"
+        },
+        {
+          "startTime": 414001,
+          "endTime": 414341,
+          "content": " preuve"
+        },
+        {
+          "startTime": 414381,
+          "endTime": 414541,
+          "content": " d'une"
+        },
+        {
+          "startTime": 414601,
+          "endTime": 415322,
+          "content": " incapacité"
+        },
+        {
+          "startTime": 415362,
+          "endTime": 416162,
+          "content": " totale"
+        },
+        {
+          "startTime": 416202,
+          "endTime": 416222,
+          "content": " à"
+        },
+        {
+          "startTime": 416262,
+          "endTime": 416342,
+          "content": " se"
+        },
+        {
+          "startTime": 416362,
+          "endTime": 416583,
+          "content": " mettre"
+        },
+        {
+          "startTime": 416603,
+          "endTime": 416623,
+          "content": " à"
+        },
+        {
+          "startTime": 416663,
+          "endTime": 416743,
+          "content": " la"
+        },
+        {
+          "startTime": 416783,
+          "endTime": 417483,
+          "content": " place"
+        },
+        {
+          "startTime": 417523,
+          "endTime": 417823,
+          "content": " des"
+        },
+        {
+          "startTime": 417863,
+          "endTime": 418664,
+          "content": " personnes"
+        },
+        {
+          "startTime": 418704,
+          "endTime": 418824,
+          "content": " et"
+        },
+        {
+          "startTime": 418864,
+          "endTime": 418944,
+          "content": " de"
+        },
+        {
+          "startTime": 418964,
+          "endTime": 419044,
+          "content": " ce"
+        },
+        {
+          "startTime": 419064,
+          "endTime": 419364,
+          "content": " qu'elles"
+        },
+        {
+          "startTime": 419384,
+          "endTime": 419584,
+          "content": " vivent"
+        },
+        {
+          "startTime": 419604,
+          "endTime": 419685,
+          "content": " au"
+        },
+        {
+          "startTime": 419705,
+          "endTime": 421446,
+          "content": " quotidien."
+        },
+        {
+          "startTime": 422246,
+          "endTime": 422346,
+          "content": " Ce"
+        },
+        {
+          "startTime": 422366,
+          "endTime": 422566,
+          "content": " serait"
+        },
+        {
+          "startTime": 422586,
+          "endTime": 422726,
+          "content": " bien"
+        },
+        {
+          "startTime": 422766,
+          "endTime": 423567,
+          "content": " que"
+        },
+        {
+          "startTime": 423607,
+          "endTime": 423747,
+          "content": " les"
+        },
+        {
+          "startTime": 423767,
+          "endTime": 424327,
+          "content": " responsables"
+        },
+        {
+          "startTime": 424387,
+          "endTime": 425248,
+          "content": " politiques"
+        },
+        {
+          "startTime": 425288,
+          "endTime": 425468,
+          "content": " sortent"
+        },
+        {
+          "startTime": 425508,
+          "endTime": 425568,
+          "content": " un"
+        },
+        {
+          "startTime": 425588,
+          "endTime": 425688,
+          "content": " peu"
+        },
+        {
+          "startTime": 425728,
+          "endTime": 426109,
+          "content": " de"
+        },
+        {
+          "startTime": 426149,
+          "endTime": 426289,
+          "content": " leur"
+        },
+        {
+          "startTime": 426329,
+          "endTime": 427049,
+          "content": " tête"
+        },
+        {
+          "startTime": 427069,
+          "endTime": 427169,
+          "content": " des"
+        },
+        {
+          "startTime": 427189,
+          "endTime": 427489,
+          "content": " tableaux"
+        },
+        {
+          "startTime": 427529,
+          "endTime": 428050,
+          "content": " statistiques."
+        }
+      ]
+    },
+    {
+      "startTime": 428590,
+      "endTime": 442379,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 428590,
+          "endTime": 428890,
+          "content": "Marie-Elise"
+        },
+        {
+          "startTime": 428910,
+          "endTime": 429090,
+          "content": " Léon,"
+        },
+        {
+          "startTime": 429110,
+          "endTime": 429191,
+          "content": " le"
+        },
+        {
+          "startTime": 429231,
+          "endTime": 429391,
+          "content": " nombre"
+        },
+        {
+          "startTime": 429411,
+          "endTime": 429491,
+          "content": " de"
+        },
+        {
+          "startTime": 429531,
+          "endTime": 429791,
+          "content": " chômeurs"
+        },
+        {
+          "startTime": 429811,
+          "endTime": 429871,
+          "content": " est"
+        },
+        {
+          "startTime": 429891,
+          "endTime": 430191,
+          "content": " reparti"
+        },
+        {
+          "startTime": 430211,
+          "endTime": 430231,
+          "content": " à"
+        },
+        {
+          "startTime": 430271,
+          "endTime": 430311,
+          "content": " la"
+        },
+        {
+          "startTime": 430351,
+          "endTime": 431012,
+          "content": " hausse,"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 64"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 000"
+        },
+        {
+          "startTime": 431392,
+          "endTime": 431472,
+          "content": " de"
+        },
+        {
+          "startTime": 431512,
+          "endTime": 432072,
+          "content": " plus"
+        },
+        {
+          "startTime": 432112,
+          "endTime": 432192,
+          "content": " au"
+        },
+        {
+          "startTime": 432212,
+          "endTime": 432493,
+          "content": " troisième"
+        },
+        {
+          "startTime": 432533,
+          "endTime": 433733,
+          "content": " trimestre,"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " 7,4%"
+        },
+        {
+          "startTime": 433773,
+          "endTime": 433834,
+          "content": " de"
+        },
+        {
+          "startTime": 433854,
+          "endTime": 433914,
+          "content": " la"
+        },
+        {
+          "startTime": 433954,
+          "endTime": 434314,
+          "content": " population"
+        },
+        {
+          "startTime": 434374,
+          "endTime": 434994,
+          "content": " active,"
+        },
+        {
+          "startTime": 435054,
+          "endTime": 435294,
+          "content": " alors"
+        },
+        {
+          "startTime": 435314,
+          "endTime": 435475,
+          "content": " même"
+        },
+        {
+          "startTime": 435495,
+          "endTime": 435655,
+          "content": " qu'une"
+        },
+        {
+          "startTime": 435695,
+          "endTime": 436035,
+          "content": " entreprise"
+        },
+        {
+          "startTime": 436075,
+          "endTime": 436175,
+          "content": " sur"
+        },
+        {
+          "startTime": 436195,
+          "endTime": 436315,
+          "content": " deux"
+        },
+        {
+          "startTime": 436355,
+          "endTime": 436415,
+          "content": " ne"
+        },
+        {
+          "startTime": 436455,
+          "endTime": 436675,
+          "content": " trouve"
+        },
+        {
+          "startTime": 436715,
+          "endTime": 436795,
+          "content": " pas"
+        },
+        {
+          "startTime": 436815,
+          "endTime": 436895,
+          "content": " de"
+        },
+        {
+          "startTime": 436936,
+          "endTime": 437256,
+          "content": " salariés"
+        },
+        {
+          "startTime": 437296,
+          "endTime": 437416,
+          "content": " pour"
+        },
+        {
+          "startTime": 437456,
+          "endTime": 437716,
+          "content": " répondre"
+        },
+        {
+          "startTime": 437736,
+          "endTime": 437756,
+          "content": " à"
+        },
+        {
+          "startTime": 437796,
+          "endTime": 437976,
+          "content": " ces"
+        },
+        {
+          "startTime": 438016,
+          "endTime": 438797,
+          "content": " besoins."
+        },
+        {
+          "startTime": 438837,
+          "endTime": 439257,
+          "content": " Comment"
+        },
+        {
+          "startTime": 439297,
+          "endTime": 439817,
+          "content": " expliquez-vous"
+        },
+        {
+          "startTime": 439837,
+          "endTime": 441158,
+          "content": " ça"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        },
+        {
+          "startTime": 441378,
+          "endTime": 441418,
+          "content": " Où"
+        },
+        {
+          "startTime": 441458,
+          "endTime": 441558,
+          "content": " est"
+        },
+        {
+          "startTime": 441578,
+          "endTime": 441639,
+          "content": " le"
+        },
+        {
+          "startTime": 441679,
+          "endTime": 442379,
+          "content": " problème"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        }
+      ]
+    },
+    {
+      "startTime": 442419,
+      "endTime": 518132,
+      "speaker": "SPEAKER_02",
+      "items": [
+        {
+          "startTime": 442419,
+          "endTime": 442479,
+          "content": "Le"
+        },
+        {
+          "startTime": 442519,
+          "endTime": 442779,
+          "content": " problème,"
+        },
+        {
+          "startTime": 442819,
+          "endTime": 442959,
+          "content": " c'est"
+        },
+        {
+          "startTime": 442999,
+          "endTime": 443480,
+          "content": " certainement"
+        },
+        {
+          "startTime": 443520,
+          "endTime": 443780,
+          "content": " pas"
+        },
+        {
+          "startTime": 443840,
+          "endTime": 444180,
+          "content": " forcément"
+        },
+        {
+          "startTime": 444220,
+          "endTime": 444300,
+          "content": " de"
+        },
+        {
+          "startTime": 444340,
+          "endTime": 444781,
+          "content": " regarder"
+        },
+        {
+          "startTime": 444821,
+          "endTime": 444881,
+          "content": " ce"
+        },
+        {
+          "startTime": 444901,
+          "endTime": 444981,
+          "content": " qui"
+        },
+        {
+          "startTime": 445001,
+          "endTime": 445061,
+          "content": " se"
+        },
+        {
+          "startTime": 445081,
+          "endTime": 445241,
+          "content": " passe"
+        },
+        {
+          "startTime": 445261,
+          "endTime": 445361,
+          "content": " du"
+        },
+        {
+          "startTime": 445381,
+          "endTime": 445621,
+          "content": " côté"
+        },
+        {
+          "startTime": 445661,
+          "endTime": 445761,
+          "content": " du"
+        },
+        {
+          "startTime": 445801,
+          "endTime": 446121,
+          "content": " chômage,"
+        },
+        {
+          "startTime": 446141,
+          "endTime": 446462,
+          "content": " c'est-à-dire"
+        },
+        {
+          "startTime": 446482,
+          "endTime": 446562,
+          "content": " que"
+        },
+        {
+          "startTime": 447382,
+          "endTime": 448522,
+          "content": " Encore"
+        },
+        {
+          "startTime": 448562,
+          "endTime": 448662,
+          "content": " une"
+        },
+        {
+          "startTime": 448702,
+          "endTime": 449463,
+          "content": " fois,"
+        },
+        {
+          "startTime": 449503,
+          "endTime": 449663,
+          "content": " parce"
+        },
+        {
+          "startTime": 449723,
+          "endTime": 449943,
+          "content": " qu'il"
+        },
+        {
+          "startTime": 449963,
+          "endTime": 449983,
+          "content": " y"
+        },
+        {
+          "startTime": 450043,
+          "endTime": 450403,
+          "content": " a"
+        },
+        {
+          "startTime": 450443,
+          "endTime": 450723,
+          "content": " aujourd'hui"
+        },
+        {
+          "startTime": 450743,
+          "endTime": 450803,
+          "content": " une"
+        },
+        {
+          "startTime": 450843,
+          "endTime": 451163,
+          "content": " assurance"
+        },
+        {
+          "startTime": 451203,
+          "endTime": 451483,
+          "content": " chômage"
+        },
+        {
+          "startTime": 451523,
+          "endTime": 451623,
+          "content": " et"
+        },
+        {
+          "startTime": 451663,
+          "endTime": 451743,
+          "content": " je"
+        },
+        {
+          "startTime": 451763,
+          "endTime": 451843,
+          "content": " ne"
+        },
+        {
+          "startTime": 451883,
+          "endTime": 452343,
+          "content": " connais"
+        },
+        {
+          "startTime": 452383,
+          "endTime": 453124,
+          "content": " personne"
+        },
+        {
+          "startTime": 453164,
+          "endTime": 453964,
+          "content": " qui"
+        },
+        {
+          "startTime": 453984,
+          "endTime": 454304,
+          "content": " soit"
+        },
+        {
+          "startTime": 454344,
+          "endTime": 454924,
+          "content": " satisface"
+        },
+        {
+          "startTime": 454964,
+          "endTime": 455164,
+          "content": " d'être"
+        },
+        {
+          "startTime": 455224,
+          "endTime": 455524,
+          "content": " aujourd'hui"
+        },
+        {
+          "startTime": 455564,
+          "endTime": 455644,
+          "content": " au"
+        },
+        {
+          "startTime": 455684,
+          "endTime": 456404,
+          "content": " chômage."
+        },
+        {
+          "startTime": 456425,
+          "endTime": 456525,
+          "content": " Je"
+        },
+        {
+          "startTime": 456545,
+          "endTime": 456765,
+          "content": " pense"
+        },
+        {
+          "startTime": 456805,
+          "endTime": 457225,
+          "content": " que..."
+        },
+        {
+          "startTime": 457245,
+          "endTime": 457345,
+          "content": " Vous"
+        },
+        {
+          "startTime": 457405,
+          "endTime": 457445,
+          "content": " en"
+        },
+        {
+          "startTime": 457465,
+          "endTime": 457605,
+          "content": " êtes"
+        },
+        {
+          "startTime": 457645,
+          "endTime": 458105,
+          "content": " sûre"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        },
+        {
+          "startTime": 458145,
+          "endTime": 458325,
+          "content": " L'une"
+        },
+        {
+          "startTime": 458365,
+          "endTime": 458465,
+          "content": " des"
+        },
+        {
+          "startTime": 458485,
+          "endTime": 458785,
+          "content": " raisons..."
+        },
+        {
+          "startTime": 458805,
+          "endTime": 458885,
+          "content": " Vous"
+        },
+        {
+          "startTime": 458925,
+          "endTime": 458965,
+          "content": " en"
+        },
+        {
+          "startTime": 458985,
+          "endTime": 459065,
+          "content": " êtes"
+        },
+        {
+          "startTime": 459085,
+          "endTime": 459445,
+          "content": " sûre"
+        },
+        {
+          "startTime": null,
+          "endTime": null,
+          "content": " ?"
+        },
+        {
+          "startTime": 459825,
+          "endTime": 459965,
+          "content": " Je"
+        },
+        {
+          "startTime": 459985,
+          "endTime": 460406,
+          "content": " n'ai"
+        },
+        {
+          "startTime": 460446,
+          "endTime": 460846,
+          "content": " jamais"
+        },
+        {
+          "startTime": 460886,
+          "endTime": 461306,
+          "content": " rencontré,"
+        },
+        {
+          "startTime": 461326,
+          "endTime": 461866,
+          "content": " pour"
+        },
+        {
+          "startTime": 461886,
+          "endTime": 462106,
+          "content": " avoir"
+        },
+        {
+          "startTime": 462146,
+          "endTime": 462406,
+          "content": " fait"
+        },
+        {
+          "startTime": 462426,
+          "endTime": 463786,
+          "content": " beaucoup"
+        },
+        {
+          "startTime": 463826,
+          "endTime": 464307,
+          "content": " d'agences"
+        },
+        {
+          "startTime": 464347,
+          "endTime": 464507,
+          "content": " Pôle"
+        },
+        {
+          "startTime": 464567,
+          "endTime": 465327,
+          "content": " emploi,"
+        },
+        {
+          "startTime": 465367,
+          "endTime": 465487,
+          "content": " je"
+        },
+        {
+          "startTime": 465507,
+          "endTime": 465867,
+          "content": " n'ai"
+        },
+        {
+          "startTime": 465887,
+          "endTime": 466267,
+          "content": " jamais"
+        },
+        {
+          "startTime": 466307,
+          "endTime": 466887,
+          "content": " rencontré"
+        },
+        {
+          "startTime": 466927,
+          "endTime": 467007,
+          "content": " un"
+        },
+        {
+          "startTime": 467047,
+          "endTime": 467367,
+          "content": " chômeur"
+        },
+        {
+          "startTime": 467407,
+          "endTime": 467567,
+          "content": " qui"
+        },
+        {
+          "startTime": 467587,
+          "endTime": 467728,
+          "content": " se"
+        },
+        {
+          "startTime": 467788,
+          "endTime": 468308,
+          "content": " satisfasse"
+        },
+        {
+          "startTime": 468328,
+          "endTime": 468448,
+          "content": " de"
+        },
+        {
+          "startTime": 468468,
+          "endTime": 468748,
+          "content": " sa"
+        },
+        {
+          "startTime": 468808,
+          "endTime": 469208,
+          "content": " situation."
+        },
+        {
+          "startTime": 470916,
+          "endTime": 471276,
+          "content": " Donc"
+        },
+        {
+          "startTime": 471297,
+          "endTime": 471377,
+          "content": " la"
+        },
+        {
+          "startTime": 471417,
+          "endTime": 471837,
+          "content": " question"
+        },
+        {
+          "startTime": 471897,
+          "endTime": 472257,
+          "content": " aujourd'hui,"
+        },
+        {
+          "startTime": 472297,
+          "endTime": 472578,
+          "content": " c'est"
+        },
+        {
+          "startTime": 472598,
+          "endTime": 472778,
+          "content": " s'il"
+        },
+        {
+          "startTime": 472798,
+          "endTime": 472818,
+          "content": " y"
+        },
+        {
+          "startTime": 472858,
+          "endTime": 472918,
+          "content": " a"
+        },
+        {
+          "startTime": 472958,
+          "endTime": 473258,
+          "content": " aujourd'hui"
+        },
+        {
+          "startTime": 473298,
+          "endTime": 473439,
+          "content": " des"
+        },
+        {
+          "startTime": 473479,
+          "endTime": 473979,
+          "content": " difficultés"
+        },
+        {
+          "startTime": 474019,
+          "endTime": 474099,
+          "content": " de"
+        },
+        {
+          "startTime": 474119,
+          "endTime": 474920,
+          "content": " recrutement,"
+        },
+        {
+          "startTime": 474940,
+          "endTime": 475060,
+          "content": " c'est"
+        },
+        {
+          "startTime": 475080,
+          "endTime": 475180,
+          "content": " que"
+        },
+        {
+          "startTime": 475220,
+          "endTime": 475320,
+          "content": " les"
+        },
+        {
+          "startTime": 475360,
+          "endTime": 475781,
+          "content": " entreprises"
+        },
+        {
+          "startTime": 475821,
+          "endTime": 475921,
+          "content": " se"
+        },
+        {
+          "startTime": 475961,
+          "endTime": 476181,
+          "content": " posent"
+        },
+        {
+          "startTime": 476221,
+          "endTime": 476301,
+          "content": " la"
+        },
+        {
+          "startTime": 476321,
+          "endTime": 476642,
+          "content": " question"
+        },
+        {
+          "startTime": 476682,
+          "endTime": 476862,
+          "content": " du"
+        },
+        {
+          "startTime": 476882,
+          "endTime": 477282,
+          "content": " pourquoi"
+        },
+        {
+          "startTime": 477322,
+          "endTime": 477482,
+          "content": " elles"
+        },
+        {
+          "startTime": 477502,
+          "endTime": 477763,
+          "content": " n'arrivent"
+        },
+        {
+          "startTime": 477783,
+          "endTime": 477843,
+          "content": " pas"
+        },
+        {
+          "startTime": 477863,
+          "endTime": 477883,
+          "content": " à"
+        },
+        {
+          "startTime": 477903,
+          "endTime": 478604,
+          "content": " recruter."
+        },
+        {
+          "startTime": 478644,
+          "endTime": 478704,
+          "content": " Il"
+        },
+        {
+          "startTime": 478724,
+          "endTime": 478744,
+          "content": " y"
+        },
+        {
+          "startTime": 478804,
+          "endTime": 478824,
+          "content": " a"
+        },
+        {
+          "startTime": 478884,
+          "endTime": 478964,
+          "content": " un"
+        },
+        {
+          "startTime": 479004,
+          "endTime": 479304,
+          "content": " enjeu"
+        },
+        {
+          "startTime": 479344,
+          "endTime": 479444,
+          "content": " de"
+        },
+        {
+          "startTime": 479484,
+          "endTime": 479785,
+          "content": " salaire,"
+        },
+        {
+          "startTime": 479825,
+          "endTime": 479865,
+          "content": " il"
+        },
+        {
+          "startTime": 479885,
+          "endTime": 479905,
+          "content": " y"
+        },
+        {
+          "startTime": 479925,
+          "endTime": 479945,
+          "content": " a"
+        },
+        {
+          "startTime": 479985,
+          "endTime": 480045,
+          "content": " un"
+        },
+        {
+          "startTime": 480105,
+          "endTime": 480325,
+          "content": " enjeu"
+        },
+        {
+          "startTime": 480365,
+          "endTime": 480525,
+          "content": " de"
+        },
+        {
+          "startTime": 480565,
+          "endTime": 480926,
+          "content": " conditions"
+        },
+        {
+          "startTime": 480946,
+          "endTime": 481026,
+          "content": " de"
+        },
+        {
+          "startTime": 481046,
+          "endTime": 481887,
+          "content": " travail."
+        },
+        {
+          "startTime": 481927,
+          "endTime": 483008,
+          "content": " Rappelons-nous"
+        },
+        {
+          "startTime": 483068,
+          "endTime": 483248,
+          "content": " toutes"
+        },
+        {
+          "startTime": 483268,
+          "endTime": 483388,
+          "content": " ces"
+        },
+        {
+          "startTime": 483428,
+          "endTime": 483969,
+          "content": " travailleuses"
+        },
+        {
+          "startTime": 484009,
+          "endTime": 484589,
+          "content": " essentielles,"
+        },
+        {
+          "startTime": 484629,
+          "endTime": 484729,
+          "content": " les"
+        },
+        {
+          "startTime": 484749,
+          "endTime": 485110,
+          "content": " travailleuses"
+        },
+        {
+          "startTime": 485150,
+          "endTime": 485210,
+          "content": " de"
+        },
+        {
+          "startTime": 485250,
+          "endTime": 485370,
+          "content": " la"
+        },
+        {
+          "startTime": 485410,
+          "endTime": 485750,
+          "content": " deuxième"
+        },
+        {
+          "startTime": 485790,
+          "endTime": 485991,
+          "content": " ligne"
+        },
+        {
+          "startTime": 486011,
+          "endTime": 486031,
+          "content": " à"
+        },
+        {
+          "startTime": 486071,
+          "endTime": 486231,
+          "content": " qui"
+        },
+        {
+          "startTime": 486291,
+          "endTime": 486371,
+          "content": " on"
+        },
+        {
+          "startTime": 486451,
+          "endTime": 486571,
+          "content": " a"
+        },
+        {
+          "startTime": 486631,
+          "endTime": 487272,
+          "content": " promis"
+        },
+        {
+          "startTime": 487312,
+          "endTime": 487552,
+          "content": " après"
+        },
+        {
+          "startTime": 487592,
+          "endTime": 487672,
+          "content": " le"
+        },
+        {
+          "startTime": 487712,
+          "endTime": 488413,
+          "content": " Covid"
+        },
+        {
+          "startTime": 488433,
+          "endTime": 488653,
+          "content": " qu'elles"
+        },
+        {
+          "startTime": 488673,
+          "endTime": 488893,
+          "content": " seraient"
+        },
+        {
+          "startTime": 488934,
+          "endTime": 489474,
+          "content": " reconnues"
+        },
+        {
+          "startTime": 489514,
+          "endTime": 489774,
+          "content": " enfin"
+        },
+        {
+          "startTime": 489794,
+          "endTime": 489834,
+          "content": " à"
+        },
+        {
+          "startTime": 489874,
+          "endTime": 491116,
+          "content": " leur"
+        },
+        {
+          "startTime": 491136,
+          "endTime": 491456,
+          "content": " juste"
+        },
+        {
+          "startTime": 491496,
+          "endTime": 492037,
+          "content": " compétence"
+        },
+        {
+          "startTime": 492077,
+          "endTime": 492177,
+          "content": " et"
+        },
+        {
+          "startTime": 492237,
+          "endTime": 492357,
+          "content": " leur"
+        },
+        {
+          "startTime": 492417,
+          "endTime": 492937,
+          "content": " investissement"
+        },
+        {
+          "startTime": 492977,
+          "endTime": 493058,
+          "content": " au"
+        },
+        {
+          "startTime": 493098,
+          "endTime": 493298,
+          "content": " travail."
+        },
+        {
+          "startTime": 493898,
+          "endTime": 494038,
+          "content": " Pour"
+        },
+        {
+          "startTime": 494078,
+          "endTime": 494158,
+          "content": " la"
+        },
+        {
+          "startTime": 494178,
+          "endTime": 494418,
+          "content": " plupart"
+        },
+        {
+          "startTime": 494439,
+          "endTime": 494579,
+          "content": " d'entre"
+        },
+        {
+          "startTime": 494599,
+          "endTime": 494719,
+          "content": " elles,"
+        },
+        {
+          "startTime": 494739,
+          "endTime": 494899,
+          "content": " elles"
+        },
+        {
+          "startTime": 494939,
+          "endTime": 495259,
+          "content": " attendent"
+        },
+        {
+          "startTime": 495319,
+          "endTime": 495559,
+          "content": " toujours"
+        },
+        {
+          "startTime": 495619,
+          "endTime": 495699,
+          "content": " les"
+        },
+        {
+          "startTime": 495739,
+          "endTime": 495939,
+          "content": " aides"
+        },
+        {
+          "startTime": 495959,
+          "endTime": 495979,
+          "content": " à"
+        },
+        {
+          "startTime": 495999,
+          "endTime": 496940,
+          "content": " domicile,"
+        },
+        {
+          "startTime": 496980,
+          "endTime": 497100,
+          "content": " les"
+        },
+        {
+          "startTime": 497140,
+          "endTime": 497540,
+          "content": " personnes"
+        },
+        {
+          "startTime": 497961,
+          "endTime": 498101,
+          "content": " qui"
+        },
+        {
+          "startTime": 498141,
+          "endTime": 499341,
+          "content": " travaillent"
+        },
+        {
+          "startTime": 499381,
+          "endTime": 499762,
+          "content": " dans"
+        },
+        {
+          "startTime": 499802,
+          "endTime": 499862,
+          "content": " la"
+        },
+        {
+          "startTime": 499902,
+          "endTime": 500102,
+          "content": " grande"
+        },
+        {
+          "startTime": 500122,
+          "endTime": 501222,
+          "content": " distribution,"
+        },
+        {
+          "startTime": 501242,
+          "endTime": 501383,
+          "content": " dans"
+        },
+        {
+          "startTime": 501403,
+          "endTime": 501863,
+          "content": " le"
+        },
+        {
+          "startTime": 501903,
+          "endTime": 502163,
+          "content": " secteur"
+        },
+        {
+          "startTime": 502183,
+          "endTime": 502263,
+          "content": " de"
+        },
+        {
+          "startTime": 502303,
+          "endTime": 502363,
+          "content": " la"
+        },
+        {
+          "startTime": 502423,
+          "endTime": 503304,
+          "content": " sécurité."
+        },
+        {
+          "startTime": 503324,
+          "endTime": 503944,
+          "content": " Voilà,"
+        },
+        {
+          "startTime": 503984,
+          "endTime": 504544,
+          "content": " donc"
+        },
+        {
+          "startTime": 504564,
+          "endTime": 504744,
+          "content": " toutes"
+        },
+        {
+          "startTime": 504785,
+          "endTime": 504925,
+          "content": " ces"
+        },
+        {
+          "startTime": 504985,
+          "endTime": 505385,
+          "content": " promesses"
+        },
+        {
+          "startTime": 505425,
+          "endTime": 505565,
+          "content": " qui"
+        },
+        {
+          "startTime": 505605,
+          "endTime": 505725,
+          "content": " ont"
+        },
+        {
+          "startTime": 505765,
+          "endTime": 506265,
+          "content": " été"
+        },
+        {
+          "startTime": 506325,
+          "endTime": 506966,
+          "content": " faites"
+        },
+        {
+          "startTime": 507006,
+          "endTime": 507286,
+          "content": " n'ont"
+        },
+        {
+          "startTime": 507306,
+          "endTime": 507426,
+          "content": " pas"
+        },
+        {
+          "startTime": 507466,
+          "endTime": 507666,
+          "content": " été"
+        },
+        {
+          "startTime": 507726,
+          "endTime": 508126,
+          "content": " tenues"
+        },
+        {
+          "startTime": 508186,
+          "endTime": 508547,
+          "content": " et"
+        },
+        {
+          "startTime": 508587,
+          "endTime": 508667,
+          "content": " je"
+        },
+        {
+          "startTime": 508707,
+          "endTime": 508927,
+          "content": " pense"
+        },
+        {
+          "startTime": 508967,
+          "endTime": 509147,
+          "content": " que"
+        },
+        {
+          "startTime": 509167,
+          "endTime": 510888,
+          "content": " c'est"
+        },
+        {
+          "startTime": 510948,
+          "endTime": 511428,
+          "content": " important"
+        },
+        {
+          "startTime": 511468,
+          "endTime": 511689,
+          "content": " que"
+        },
+        {
+          "startTime": 511729,
+          "endTime": 511849,
+          "content": " dans"
+        },
+        {
+          "startTime": 511869,
+          "endTime": 511929,
+          "content": " le"
+        },
+        {
+          "startTime": 511969,
+          "endTime": 512289,
+          "content": " cadre"
+        },
+        {
+          "startTime": 512329,
+          "endTime": 512689,
+          "content": " de"
+        },
+        {
+          "startTime": 512729,
+          "endTime": 513029,
+          "content": " l'ensemble"
+        },
+        {
+          "startTime": 513069,
+          "endTime": 513189,
+          "content": " des"
+        },
+        {
+          "startTime": 513229,
+          "endTime": 513510,
+          "content": " travaux"
+        },
+        {
+          "startTime": 513530,
+          "endTime": 513650,
+          "content": " qui"
+        },
+        {
+          "startTime": 513690,
+          "endTime": 513870,
+          "content": " doivent"
+        },
+        {
+          "startTime": 513910,
+          "endTime": 513990,
+          "content": " être"
+        },
+        {
+          "startTime": 514030,
+          "endTime": 514230,
+          "content": " faits,"
+        },
+        {
+          "startTime": 514290,
+          "endTime": 514350,
+          "content": " il"
+        },
+        {
+          "startTime": 514370,
+          "endTime": 514390,
+          "content": " y"
+        },
+        {
+          "startTime": 514430,
+          "endTime": 514650,
+          "content": " ait"
+        },
+        {
+          "startTime": 514690,
+          "endTime": 515131,
+          "content": " aussi"
+        },
+        {
+          "startTime": 515171,
+          "endTime": 515271,
+          "content": " un"
+        },
+        {
+          "startTime": 515311,
+          "endTime": 516251,
+          "content": " souci"
+        },
+        {
+          "startTime": 516271,
+          "endTime": 516872,
+          "content": " de"
+        },
+        {
+          "startTime": 516892,
+          "endTime": 516972,
+          "content": " la"
+        },
+        {
+          "startTime": 517012,
+          "endTime": 517532,
+          "content": " reconnaissance"
+        },
+        {
+          "startTime": 517552,
+          "endTime": 517632,
+          "content": " de"
+        },
+        {
+          "startTime": 517652,
+          "endTime": 517792,
+          "content": " ces"
+        },
+        {
+          "startTime": 517812,
+          "endTime": 518132,
+          "content": " personnes."
+        }
+      ]
+    },
+    {
+      "startTime": 518232,
+      "endTime": 522655,
+      "speaker": "SPEAKER_01",
+      "items": [
+        {
+          "startTime": 518232,
+          "endTime": 518272,
+          "content": "Il"
+        },
+        {
+          "startTime": 518292,
+          "endTime": 518312,
+          "content": " y"
+        },
+        {
+          "startTime": 518332,
+          "endTime": 518392,
+          "content": " a"
+        },
+        {
+          "startTime": 518412,
+          "endTime": 518492,
+          "content": " du"
+        },
+        {
+          "startTime": 518532,
+          "endTime": 518793,
+          "content": " travail"
+        },
+        {
+          "startTime": 518833,
+          "endTime": 518953,
+          "content": " sur"
+        },
+        {
+          "startTime": 518993,
+          "endTime": 519033,
+          "content": " la"
+        },
+        {
+          "startTime": 519073,
+          "endTime": 519213,
+          "content": " table,"
+        },
+        {
+          "startTime": 519253,
+          "endTime": 519333,
+          "content": " on"
+        },
+        {
+          "startTime": 519353,
+          "endTime": 519433,
+          "content": " l'a"
+        },
+        {
+          "startTime": 519453,
+          "endTime": 519573,
+          "content": " bien"
+        },
+        {
+          "startTime": 519613,
+          "endTime": 519853,
+          "content": " compris."
+        },
+        {
+          "startTime": 519913,
+          "endTime": 520133,
+          "content": " Merci"
+        },
+        {
+          "startTime": 520153,
+          "endTime": 520354,
+          "content": " beaucoup"
+        },
+        {
+          "startTime": 520394,
+          "endTime": 520654,
+          "content": " Marie-Lise"
+        },
+        {
+          "startTime": 520674,
+          "endTime": 521134,
+          "content": " Léon,"
+        },
+        {
+          "startTime": 521174,
+          "endTime": 521494,
+          "content": " secrétaire"
+        },
+        {
+          "startTime": 521514,
+          "endTime": 521714,
+          "content": " générale"
+        },
+        {
+          "startTime": 521754,
+          "endTime": 521834,
+          "content": " de"
+        },
+        {
+          "startTime": 521854,
+          "endTime": 521914,
+          "content": " la"
+        },
+        {
+          "startTime": 521954,
+          "endTime": 522335,
+          "content": " CFDT."
+        },
+        {
+          "startTime": 522355,
+          "endTime": 522475,
+          "content": " Bonne"
+        },
+        {
+          "startTime": 522515,
+          "endTime": 522655,
+          "content": " journée."
+        }
+      ]
+    }
+  ]
+}

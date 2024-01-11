@@ -1,0 +1,16 @@
+{
+  "media": {
+    "id": 7900328010,
+    "programId": 7795163756,
+    "program": "Bonus Track",
+    "date": "2023-04-12",
+    "time": "21:30",
+    "title": "LA STORY - \"Informer\" de Snow",
+    "summary": "Ecoutez Bonus Track du 04 décembre 2023 avec Éric Jean-Jean.",
+    "speakers": [
+      "Éric Jean-Jean"
+    ]
+  },
+  "source": "whisper",
+  "segments": []
+}
