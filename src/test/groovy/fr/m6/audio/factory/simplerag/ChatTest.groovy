@@ -110,7 +110,7 @@ class ChatTest {
 //        }
 
         content.segments?.each { segment ->
-            documents.add(toDocument(segment.items.content.join(''), metadata + [voice: segment.speaker, timecode: segment.startTime]))
+            documents.add(toDocument(segment.items.content.join(' '), metadata + [voice: segment.speaker, timecode: segment.startTime]))
         }
 
         documents
