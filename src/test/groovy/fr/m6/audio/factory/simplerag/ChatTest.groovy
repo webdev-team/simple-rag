@@ -106,7 +106,7 @@ class ChatTest {
 
         String text = content.segments?.collect {
             it.items.content.join(' ')
-        }?.join('') ?: ''
+        }?.join(' ') ?: ''
 
 //        if (FormatUtils.removeHtmlElementsFromRichText(media.text)) {
 //            documents.add(toDocument(FormatUtils.removeHtmlElementsFromRichText(media.text), metadata + [voice: media.speakers?.join(', ') ?: '', timecode: 0]))
