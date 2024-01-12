@@ -3,6 +3,7 @@
     "id": 7900327652,
     "programId": 5141170,
     "program": "L'Horoscope",
+    "scheduleId": "",
     "date": "2023-04-12",
     "time": "05:55",
     "title": "L'Horoscope du 04 décembre 2023",
@@ -16,7 +17,7 @@
     {
       "startTime": 9,
       "endTime": 3830,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 9,
@@ -43,7 +44,7 @@
     {
       "startTime": 3850,
       "endTime": 15794,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 3850,
@@ -250,7 +251,7 @@
     {
       "startTime": 15834,
       "endTime": 112493,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 15834,
@@ -1567,7 +1568,7 @@
     {
       "startTime": 112513,
       "endTime": 112914,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 112513,
@@ -1579,7 +1580,7 @@
     {
       "startTime": 113354,
       "endTime": 145399,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 113354,

@@ -3,6 +3,7 @@
     "id": 7900327702,
     "programId": 7770882811,
     "program": "Le journal RTL",
+    "scheduleId": "RTL vous explique",
     "date": "2023-04-12",
     "time": "08:10",
     "title": "RTL VOUS EXPLIQUE - Pourquoi le gouvernement veut interdire les puff",
@@ -16,7 +17,7 @@
     {
       "startTime": 9,
       "endTime": 29834,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 9,
@@ -478,7 +479,7 @@
     {
       "startTime": 30474,
       "endTime": 113831,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 30474,

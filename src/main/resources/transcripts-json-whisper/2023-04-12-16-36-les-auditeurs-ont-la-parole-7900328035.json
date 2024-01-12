@@ -3,6 +3,7 @@
     "id": 7900328035,
     "programId": 18131,
     "program": "Les auditeurs ont la parole",
+    "scheduleId": null,
     "date": "2023-04-12",
     "time": "",
     "title": "EXTRAIT - Le répondeur des auditeurs du 4 décembre 2023",
@@ -17,7 +18,7 @@
     {
       "startTime": 169,
       "endTime": 3852,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 169,
@@ -89,7 +90,7 @@
     {
       "startTime": 3912,
       "endTime": 20165,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 3912,
@@ -356,7 +357,7 @@
     {
       "startTime": 20205,
       "endTime": 36500,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 20205,
@@ -658,7 +659,7 @@
     {
       "startTime": 36561,
       "endTime": 44584,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 36561,
@@ -790,7 +791,7 @@
     {
       "startTime": 45625,
       "endTime": 73002,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 45625,
@@ -1167,7 +1168,7 @@
     {
       "startTime": 73062,
       "endTime": 78006,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 73062,
@@ -1244,7 +1245,7 @@
     {
       "startTime": 79056,
       "endTime": 94459,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 79056,
@@ -1536,7 +1537,7 @@
     {
       "startTime": 95450,
       "endTime": 99734,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 95450,
@@ -1588,7 +1589,7 @@
     {
       "startTime": 99754,
       "endTime": 101295,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 99754,
@@ -1635,7 +1636,7 @@
     {
       "startTime": 101355,
       "endTime": 111564,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 101355,

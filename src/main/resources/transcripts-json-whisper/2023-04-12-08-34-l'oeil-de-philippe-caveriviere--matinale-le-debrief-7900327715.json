@@ -3,6 +3,7 @@
     "id": 7900327715,
     "programId": 7798176110,
     "program": "L'oeil de Philippe Caverivière",
+    "scheduleId": "Matinale - Le debrief",
     "date": "2023-04-12",
     "time": "08:34",
     "title": "\"Nos politiques ne sont pas mauvais, ils sont juste complètement défoncés\"",
@@ -16,7 +17,7 @@
     {
       "startTime": 1250,
       "endTime": 12319,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 1250,
@@ -88,7 +89,7 @@
     {
       "startTime": 12359,
       "endTime": 54936,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 12359,
@@ -780,7 +781,7 @@
     {
       "startTime": 54976,
       "endTime": 64902,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 54976,
@@ -932,7 +933,7 @@
     {
       "startTime": 65062,
       "endTime": 149064,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 65062,

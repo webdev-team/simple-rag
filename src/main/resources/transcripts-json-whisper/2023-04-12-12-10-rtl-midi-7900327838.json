@@ -3,6 +3,7 @@
     "id": 7900327838,
     "programId": 18130,
     "program": "RTL Midi",
+    "scheduleId": null,
     "date": "2023-04-12",
     "time": "",
     "title": "ATTAQUE AU COUTEAU À PARIS - Quels liens l'assaillant a-t-il eu avec l'assassinat de Samuel Paty ?",
@@ -17,7 +18,7 @@
     {
       "startTime": 2871,
       "endTime": 27345,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": null,
@@ -419,7 +420,7 @@
     {
       "startTime": 27805,
       "endTime": 58396,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 27805,
@@ -921,7 +922,7 @@
     {
       "startTime": 73988,
       "endTime": 130579,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 73988,

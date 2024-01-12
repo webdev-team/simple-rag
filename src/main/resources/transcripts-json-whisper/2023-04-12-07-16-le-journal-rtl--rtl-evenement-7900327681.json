@@ -3,6 +3,7 @@
     "id": 7900327681,
     "programId": 7770882811,
     "program": "Le journal RTL",
+    "scheduleId": "RTL évènement",
     "date": "2023-04-12",
     "time": "07:16",
     "title": "RTL ÉVÉNEMENT - Pourquoi Les passoires thermiques ne se sont jamais aussi bien vendues",
@@ -16,7 +17,7 @@
     {
       "startTime": 9,
       "endTime": 6354,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 9,
@@ -43,7 +44,7 @@
     {
       "startTime": 6414,
       "endTime": 26151,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 6414,
@@ -340,7 +341,7 @@
     {
       "startTime": 26311,
       "endTime": 49700,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 26311,
@@ -732,7 +733,7 @@
     {
       "startTime": 49980,
       "endTime": 52481,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 49980,
@@ -799,7 +800,7 @@
     {
       "startTime": 52521,
       "endTime": 69929,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 52521,
@@ -1101,7 +1102,7 @@
     {
       "startTime": 70229,
       "endTime": 72772,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 70229,
@@ -1168,7 +1169,7 @@
     {
       "startTime": 72812,
       "endTime": 88389,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 72812,
@@ -1425,7 +1426,7 @@
     {
       "startTime": 88897,
       "endTime": 103671,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 88897,
@@ -1662,7 +1663,7 @@
     {
       "startTime": 104011,
       "endTime": 107535,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 104011,
@@ -1754,7 +1755,7 @@
     {
       "startTime": 107575,
       "endTime": 119026,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 107575,
@@ -1971,7 +1972,7 @@
     {
       "startTime": 119066,
       "endTime": 127855,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 119066,
@@ -2143,7 +2144,7 @@
     {
       "startTime": 128175,
       "endTime": 132277,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 128175,
@@ -2230,7 +2231,7 @@
     {
       "startTime": 132297,
       "endTime": 139780,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 132297,
@@ -2357,7 +2358,7 @@
     {
       "startTime": 140271,
       "endTime": 170989,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 140271,
@@ -2784,7 +2785,7 @@
     {
       "startTime": 171009,
       "endTime": 178302,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 171009,
@@ -2931,7 +2932,7 @@
     {
       "startTime": 180697,
       "endTime": 183979,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 180697,
@@ -2998,7 +2999,7 @@
     {
       "startTime": 184019,
       "endTime": 195127,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 184019,
@@ -3205,7 +3206,7 @@
     {
       "startTime": 195427,
       "endTime": 217200,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 195427,
@@ -3607,7 +3608,7 @@
     {
       "startTime": 217240,
       "endTime": 235947,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 217240,
@@ -3929,7 +3930,7 @@
     {
       "startTime": 235987,
       "endTime": 238768,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 235987,

@@ -3,6 +3,7 @@
     "id": 7900327679,
     "programId": 5943850324,
     "program": "Les éditos d'Alba Ventura",
+    "scheduleId": "",
     "date": "2023-04-12",
     "time": "06:43",
     "title": "ÉDITO - Fichés S :  sommes-nous impuissants ?",
@@ -16,7 +17,7 @@
     {
       "startTime": 670,
       "endTime": 16650,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 670,
@@ -228,7 +229,7 @@
     {
       "startTime": 16690,
       "endTime": 63498,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 16690,
@@ -1040,7 +1041,7 @@
     {
       "startTime": 63518,
       "endTime": 68463,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 63518,
@@ -1177,7 +1178,7 @@
     {
       "startTime": 68643,
       "endTime": 110269,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 68643,
@@ -1934,7 +1935,7 @@
     {
       "startTime": 110329,
       "endTime": 119074,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 110329,
@@ -2091,7 +2092,7 @@
     {
       "startTime": 119114,
       "endTime": 168148,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 119114,
@@ -3063,7 +3064,7 @@
     {
       "startTime": 168569,
       "endTime": 172241,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 168569,

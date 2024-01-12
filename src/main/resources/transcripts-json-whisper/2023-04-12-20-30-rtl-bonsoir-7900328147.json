@@ -3,6 +3,7 @@
     "id": 7900328147,
     "programId": 18132,
     "program": "RTL Bonsoir !",
+    "scheduleId": null,
     "date": "2023-04-12",
     "time": "",
     "title": "Val-de-Marne : un avion se pose en urgence en pleine ville, un témoin raconte la scène",
@@ -14,7 +15,7 @@
     {
       "startTime": 649,
       "endTime": 38287,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 649,
@@ -356,7 +357,7 @@
     {
       "startTime": 38827,
       "endTime": 56140,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 38827,
@@ -713,7 +714,7 @@
     {
       "startTime": 56821,
       "endTime": 67148,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 56821,

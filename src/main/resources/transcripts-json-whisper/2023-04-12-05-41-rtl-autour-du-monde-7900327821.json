@@ -3,6 +3,7 @@
     "id": 7900327821,
     "programId": 7784588199,
     "program": "RTL autour du monde",
+    "scheduleId": "",
     "date": "2023-04-12",
     "time": "05:41",
     "title": "NEW YORK -  La communauté juive renforce sa sécurité depuis les attaques du Hamas en Israël le 7 octobre dernier",
@@ -16,7 +17,7 @@
     {
       "startTime": 1638,
       "endTime": 2699,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 1638,
@@ -43,7 +44,7 @@
     {
       "startTime": 2719,
       "endTime": 10647,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 2719,
@@ -155,7 +156,7 @@
     {
       "startTime": 10687,
       "endTime": 21819,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 10687,
@@ -337,7 +338,7 @@
     {
       "startTime": 22318,
       "endTime": 32140,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 22318,
@@ -534,7 +535,7 @@
     {
       "startTime": 32280,
       "endTime": 40202,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 32280,
@@ -701,7 +702,7 @@
     {
       "startTime": 40242,
       "endTime": 43643,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 40242,
@@ -783,7 +784,7 @@
     {
       "startTime": 43683,
       "endTime": 57569,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 43683,
@@ -1070,7 +1071,7 @@
     {
       "startTime": 57589,
       "endTime": 67115,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 57589,
@@ -1237,7 +1238,7 @@
     {
       "startTime": 67135,
       "endTime": 80003,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 67135,
@@ -1484,7 +1485,7 @@
     {
       "startTime": 80663,
       "endTime": 87309,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 80663,

@@ -3,6 +3,7 @@
     "id": 7900327970,
     "programId": 7770882811,
     "program": "Le journal RTL",
+    "scheduleId": "journal-15h",
     "date": "2023-04-12",
     "time": "15:00",
     "title": "Mathias Vicherat en garde à vue pour violences conjugales, l'assaillant de la Tour Eiffel assume et revendique son geste, Israël agit avec force dans le Sud : le journal RTL de 15h du 4 décembre",
@@ -16,7 +17,7 @@
     {
       "startTime": 646,
       "endTime": 17565,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 646,
@@ -203,7 +204,7 @@
     {
       "startTime": 17605,
       "endTime": 31413,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 17605,
@@ -455,7 +456,7 @@
     {
       "startTime": 31733,
       "endTime": 38099,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 31733,
@@ -582,7 +583,7 @@
     {
       "startTime": 38159,
       "endTime": 68524,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 38159,
@@ -1099,7 +1100,7 @@
     {
       "startTime": 69699,
       "endTime": 126675,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 69699,
@@ -2011,7 +2012,7 @@
     {
       "startTime": 126695,
       "endTime": 133937,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 126695,
@@ -2148,7 +2149,7 @@
     {
       "startTime": 133977,
       "endTime": 175895,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 133977,
@@ -2890,7 +2891,7 @@
     {
       "startTime": 175955,
       "endTime": 184641,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 175955,

@@ -3,6 +3,7 @@
     "id": 7900327712,
     "programId": 25388,
     "program": "RTL Matin",
+    "scheduleId": null,
     "date": "2023-04-12",
     "time": "",
     "title": "RURALITÉ - Un agriculteur condamné à 106.000 euros de dommages-intérêts à ses voisins se plaignant du bruit et de l'odeur de ses vaches",
@@ -17,7 +18,7 @@
     {
       "startTime": 163,
       "endTime": 36423,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 163,
@@ -609,7 +610,7 @@
     {
       "startTime": 36443,
       "endTime": 47590,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 36443,
@@ -816,7 +817,7 @@
     {
       "startTime": 47630,
       "endTime": 53373,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 47630,
@@ -898,7 +899,7 @@
     {
       "startTime": 53393,
       "endTime": 56675,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 53393,
@@ -975,7 +976,7 @@
     {
       "startTime": 56695,
       "endTime": 69081,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 56695,
@@ -1237,7 +1238,7 @@
     {
       "startTime": 69281,
       "endTime": 80964,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 69281,
@@ -1444,7 +1445,7 @@
     {
       "startTime": 80984,
       "endTime": 84406,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 80984,
@@ -1526,7 +1527,7 @@
     {
       "startTime": 84446,
       "endTime": 85626,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 84446,
@@ -1563,7 +1564,7 @@
     {
       "startTime": 85666,
       "endTime": 96009,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 85666,
@@ -1770,7 +1771,7 @@
     {
       "startTime": 96350,
       "endTime": 102491,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 96350,

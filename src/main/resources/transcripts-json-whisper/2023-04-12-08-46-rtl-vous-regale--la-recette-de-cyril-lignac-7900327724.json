@@ -3,6 +3,7 @@
     "id": 7900327724,
     "programId": 7798176208,
     "program": "RTL vous régale",
+    "scheduleId": "La Recette de Cyril Lignac",
     "date": "2023-04-12",
     "time": "08:46",
     "title": "La salade de betteraves et chèvre frais de Cyril Lignac",
@@ -16,7 +17,7 @@
     {
       "startTime": 384,
       "endTime": 15572,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 384,
@@ -163,7 +164,7 @@
     {
       "startTime": 16093,
       "endTime": 107488,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 16093,
@@ -1505,7 +1506,7 @@
     {
       "startTime": 107508,
       "endTime": 108448,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 107508,
@@ -1537,7 +1538,7 @@
     {
       "startTime": 108508,
       "endTime": 110249,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 108508,
@@ -1584,7 +1585,7 @@
     {
       "startTime": 112749,
       "endTime": 117595,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 112749,

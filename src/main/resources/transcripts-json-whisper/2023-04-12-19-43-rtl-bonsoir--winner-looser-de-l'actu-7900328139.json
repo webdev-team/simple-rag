@@ -3,6 +3,7 @@
     "id": 7900328139,
     "programId": 18132,
     "program": "RTL Bonsoir !",
+    "scheduleId": "Winner Looser de l'actu",
     "date": "2023-04-12",
     "time": "19:43",
     "title": "LE LOSER DU JOUR - La booty therapy des Écologistes",
@@ -16,7 +17,7 @@
     {
       "startTime": 401,
       "endTime": 10843,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 401,
@@ -98,7 +99,7 @@
     {
       "startTime": 10903,
       "endTime": 25567,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 10903,
@@ -340,7 +341,7 @@
     {
       "startTime": 26107,
       "endTime": 80249,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 26107,
@@ -1107,7 +1108,7 @@
     {
       "startTime": 80289,
       "endTime": 92814,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 80289,
@@ -1279,7 +1280,7 @@
     {
       "startTime": 93274,
       "endTime": 127161,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 93274,
@@ -1911,7 +1912,7 @@
     {
       "startTime": 127321,
       "endTime": 134726,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 127321,
@@ -2068,7 +2069,7 @@
     {
       "startTime": 136923,
       "endTime": 157289,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 136923,
@@ -2460,7 +2461,7 @@
     {
       "startTime": 158029,
       "endTime": 167469,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 158029,
@@ -2622,7 +2623,7 @@
     {
       "startTime": 172322,
       "endTime": 230818,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 172322,
@@ -3654,7 +3655,7 @@
     {
       "startTime": 234292,
       "endTime": 236553,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 234292,
@@ -3726,7 +3727,7 @@
     {
       "startTime": 237013,
       "endTime": 237494,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 237013,
@@ -3748,7 +3749,7 @@
     {
       "startTime": 237554,
       "endTime": 249620,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 237554,

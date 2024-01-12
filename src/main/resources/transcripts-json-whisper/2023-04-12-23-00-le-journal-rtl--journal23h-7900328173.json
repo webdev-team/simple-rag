@@ -3,6 +3,7 @@
     "id": 7900328173,
     "programId": 7770882811,
     "program": "Le journal RTL",
+    "scheduleId": "journal-23h",
     "date": "2023-04-12",
     "time": "23:00",
     "title": "Le journal RTL de 23h du 04 décembre 2023",
@@ -16,7 +17,7 @@
     {
       "startTime": 690,
       "endTime": 18106,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 690,
@@ -143,7 +144,7 @@
     {
       "startTime": 18126,
       "endTime": 77236,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 18126,
@@ -1025,7 +1026,7 @@
     {
       "startTime": 77256,
       "endTime": 115616,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 77256,
@@ -1702,7 +1703,7 @@
     {
       "startTime": 116096,
       "endTime": 135978,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 116096,
@@ -1984,7 +1985,7 @@
     {
       "startTime": 136338,
       "endTime": 171553,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 136338,
@@ -2561,7 +2562,7 @@
     {
       "startTime": 171873,
       "endTime": 228112,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 171873,
@@ -3478,7 +3479,7 @@
     {
       "startTime": 228792,
       "endTime": 239954,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 228792,

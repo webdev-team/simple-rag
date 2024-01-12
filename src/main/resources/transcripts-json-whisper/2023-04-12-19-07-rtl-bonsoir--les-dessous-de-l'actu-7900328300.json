@@ -3,6 +3,7 @@
     "id": 7900328300,
     "programId": 18132,
     "program": "RTL Bonsoir !",
+    "scheduleId": "Les dessous de l'actu",
     "date": "2023-04-12",
     "time": "19:07",
     "title": "LES DESSOUS DE L'ACTU - Pourquoi le club de foot de Linas-Montlhéry a décidé d'annuler tous les entraînements",
@@ -16,7 +17,7 @@
     {
       "startTime": 1255,
       "endTime": 9499,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 1255,
@@ -133,7 +134,7 @@
     {
       "startTime": 9519,
       "endTime": 24885,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 9519,
@@ -365,7 +366,7 @@
     {
       "startTime": 25385,
       "endTime": 55912,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 25385,
@@ -877,7 +878,7 @@
     {
       "startTime": 55952,
       "endTime": 81430,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 55952,
@@ -1379,7 +1380,7 @@
     {
       "startTime": 81471,
       "endTime": 108480,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 81471,
@@ -1881,7 +1882,7 @@
     {
       "startTime": 108900,
       "endTime": 143789,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 108900,
@@ -2538,7 +2539,7 @@
     {
       "startTime": 143829,
       "endTime": 156077,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 143829,
@@ -2770,7 +2771,7 @@
     {
       "startTime": 156257,
       "endTime": 157940,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 156257,

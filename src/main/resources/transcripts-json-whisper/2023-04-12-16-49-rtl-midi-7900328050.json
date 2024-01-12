@@ -3,6 +3,7 @@
     "id": 7900328050,
     "programId": 18130,
     "program": "RTL Midi",
+    "scheduleId": null,
     "date": "2023-04-12",
     "time": "",
     "title": "TOUT SAVOIR SUR - L'attaque au couteau à Paris du samedi 2 décembre 2023",
@@ -16,7 +17,7 @@
     {
       "startTime": 2910,
       "endTime": 157285,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 2910,

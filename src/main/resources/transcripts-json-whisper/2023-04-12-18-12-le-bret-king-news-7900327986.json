@@ -3,6 +3,7 @@
     "id": 7900327986,
     "programId": 7798276425,
     "program": "Le Bret King News",
+    "scheduleId": "",
     "date": "2023-04-12",
     "time": "18:12",
     "title": "GROSSES TÊTES - Marc-Antoine Le Bret laisse ses messages à Joseph Kamel",
@@ -16,7 +17,7 @@
     {
       "startTime": 229,
       "endTime": 11142,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 229,
@@ -183,7 +184,7 @@
     {
       "startTime": 14764,
       "endTime": 20331,
-      "speaker": "SPEAKER_07",
+      "speaker": "Voix 7",
       "items": [
         {
           "startTime": 14764,
@@ -290,7 +291,7 @@
     {
       "startTime": 20351,
       "endTime": 30202,
-      "speaker": "SPEAKER_06",
+      "speaker": "Voix 6",
       "items": [
         {
           "startTime": 20351,
@@ -447,7 +448,7 @@
     {
       "startTime": 31817,
       "endTime": 45541,
-      "speaker": "SPEAKER_07",
+      "speaker": "Voix 7",
       "items": [
         {
           "startTime": 31817,
@@ -679,7 +680,7 @@
     {
       "startTime": 45701,
       "endTime": 58446,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 45701,
@@ -906,7 +907,7 @@
     {
       "startTime": 58466,
       "endTime": 63688,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 58466,
@@ -1028,7 +1029,7 @@
     {
       "startTime": 63728,
       "endTime": 76373,
-      "speaker": "SPEAKER_07",
+      "speaker": "Voix 7",
       "items": [
         {
           "startTime": 63728,
@@ -1250,7 +1251,7 @@
     {
       "startTime": 76681,
       "endTime": 99655,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 76681,
@@ -1577,7 +1578,7 @@
     {
       "startTime": 100236,
       "endTime": 108631,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 100236,
@@ -1759,7 +1760,7 @@
     {
       "startTime": 108651,
       "endTime": 112398,
-      "speaker": "SPEAKER_07",
+      "speaker": "Voix 7",
       "items": [
         {
           "startTime": 108651,
@@ -1821,7 +1822,7 @@
     {
       "startTime": 112998,
       "endTime": 132035,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 112998,
@@ -2093,7 +2094,7 @@
     {
       "startTime": 132076,
       "endTime": 135278,
-      "speaker": "SPEAKER_07",
+      "speaker": "Voix 7",
       "items": [
         {
           "startTime": 132076,
@@ -2155,7 +2156,7 @@
     {
       "startTime": 136408,
       "endTime": 151133,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 136408,
@@ -2377,7 +2378,7 @@
     {
       "startTime": 152125,
       "endTime": 174032,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 152125,

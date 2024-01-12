@@ -6,38 +6,24 @@ import dev.langchain4j.data.document.Document
 import dev.langchain4j.data.document.DocumentLoaderUtils
 import dev.langchain4j.data.document.DocumentSource
 import dev.langchain4j.data.document.DocumentType
-import dev.langchain4j.data.document.FileSystemDocumentLoader
 import dev.langchain4j.data.document.Metadata
-import dev.langchain4j.data.document.splitter.DocumentBySentenceSplitter
-import dev.langchain4j.data.segment.TextSegment
-import dev.langchain4j.model.embedding.EmbeddingModel
-import dev.langchain4j.model.openai.OpenAiTokenizer
-import dev.langchain4j.retriever.Retriever
-import dev.langchain4j.store.embedding.EmbeddingStore
-import dev.langchain4j.store.embedding.EmbeddingStoreIngestor
+import dev.langchain4j.model.chat.ChatLanguageModel
+import dev.langchain4j.model.openai.OpenAiChatModel
+import dev.langchain4j.service.AiServices
 import fr.m6.audio.factory.simplerag.domain.FileContent
 import fr.m6.audio.factory.simplerag.domain.Media
-import groovy.json.JsonSlurper
-import org.junit.jupiter.api.BeforeEach
 import org.junit.jupiter.api.Test
-import org.springframework.beans.factory.annotation.Autowired
+import org.springframework.beans.factory.annotation.Value
 import org.springframework.boot.test.context.SpringBootTest
 
-import static fr.m6.audio.factory.simplerag.SimpleRagApplication.MODEL
+import java.time.Duration
+
+import static java.time.temporal.ChronoUnit.SECONDS
 
 @SpringBootTest
 class ChatTest {
-    @Autowired
-    LibrarianAgent agent
-
-    @Autowired
-    Retriever<TextSegment> retriever
-
-    @Autowired
-    EmbeddingModel embeddingModel
-
-    @Autowired
-    EmbeddingStore<TextSegment> embeddingStore
+    @Value('${OPENAI_API_KEY}')
+    String openAiApiKey
 
     File databaseFile = new File('./db.json')
 
@@ -47,10 +33,10 @@ class ChatTest {
 
         List<Document> documents = []
 
-        new File(ChatTest.getResource("/transcripts-json").toURI()).eachFile {file ->
+        new File(ChatTest.getResource("/transcripts-json-whisper").toURI()).eachFile {file ->
             FileContent content = loadFile(file)
 
-            documents.addAll(toDocuments(content))
+            documents.add(toPlainDocument(content))
         }
 
         EmbeddingStoreWrapper store = new EmbeddingStoreWrapper()
@@ -63,29 +49,45 @@ class ChatTest {
 
         long time2 = System.currentTimeMillis()
 
-        println "ingestion " + (time2 - time1) + '\n\n'
+        println "Ingestion in " + (time2 - time1) + 'ms\n\n'
     }
 
     @Test
     void chat() {
         EmbeddingStoreWrapper store = new EmbeddingStoreWrapper()
-
         store.load(databaseFile)
 
-//        println agent.chat('Bonjour, quelles émissions parlent de musique ?') + '\n\n'
+        ChatLanguageModel chatLanguageModel = OpenAiChatModel.builder()
+                .apiKey(openAiApiKey)
+                .modelName(SimpleRagApplication.MODEL)
+                .temperature(0)
+                .timeout(Duration.of(60, SECONDS))
+                .build()
 
-        println agent.chat('Bonjour, quelles sont les actualités insolites du jour ?') + '\n\n'
+        LibrarianAgent agent = AiServices.builder(LibrarianAgent)
+                .chatLanguageModel(chatLanguageModel)
+                .retriever(store.retriever)
+                .build()
 
-        store.retriever.findRelevant('Bonjour, quelles émissions parlent de musique ?').each {
-            println it.metadata().get('source') + ' at index ' + it.metadata().get('index')
+        doChat(store, agent, 'Bonjour, quelles sont les actualités insolites du jour ?')
+        doChat(store, agent, 'Bonjour, quelles émissions parlent de musique ?')
+    }
+
+    void doChat(EmbeddingStoreWrapper store, LibrarianAgent agent, String question) {
+        println "QUESTION"
+        println question
+        println ''
+
+        println "REPONSE"
+        println agent.chat(question) + '\n'
+
+        println "SOURCES"
+        store.retriever.findRelevant(question).each {
+            println it.metadata().get('program') + ' à ' + it.metadata().get('time')
             println it.text()
             println ''
         }
-
-//        println agent.chat('Hi, I forgot when my booking is.')
     }
-
-
 
     FileContent loadFile(File jsonFile) {
         mapper().readValue(jsonFile, FileContent)
@@ -95,6 +97,22 @@ class ChatTest {
         ObjectMapper mapper = new ObjectMapper()
         mapper.configure(DeserializationFeature.FAIL_ON_UNKNOWN_PROPERTIES, false)
         mapper
+    }
+
+    private Document toPlainDocument(FileContent content) {
+        Media media = content.media
+
+        Map<String, Object> metadata = [mediaId: media.id, program: media.program, time: media.time, title: media.title, speakers: media.speakers?.join(', ')]
+
+        String text = content.segments?.collect {
+            it.items.content.join(' ')
+        }?.join('') ?: ''
+
+//        if (FormatUtils.removeHtmlElementsFromRichText(media.text)) {
+//            documents.add(toDocument(FormatUtils.removeHtmlElementsFromRichText(media.text), metadata + [voice: media.speakers?.join(', ') ?: '', timecode: 0]))
+//        }
+
+        toDocument(text, metadata)
     }
 
     private List<Document> toDocuments(FileContent content) {

@@ -3,6 +3,7 @@
     "id": 7900328068,
     "programId": 7770882811,
     "program": "Le journal RTL",
+    "scheduleId": "journal-17h",
     "date": "2023-04-12",
     "time": "17:00",
     "title": "Garde à vue en cours pour le terroriste de Paris, nouvelles turbulences à Sciences Po, des règles assouplies pour les crédits immobiliers : le journal RTL de 17h du 4 décembre",
@@ -16,7 +17,7 @@
     {
       "startTime": 421,
       "endTime": 10845,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 421,
@@ -108,7 +109,7 @@
     {
       "startTime": 10865,
       "endTime": 44049,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 10865,
@@ -685,7 +686,7 @@
     {
       "startTime": 44568,
       "endTime": 86896,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 44568,
@@ -1312,7 +1313,7 @@
     {
       "startTime": 90258,
       "endTime": 130233,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 90258,
@@ -1984,7 +1985,7 @@
     {
       "startTime": 130633,
       "endTime": 165087,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 130633,
@@ -2526,7 +2527,7 @@
     {
       "startTime": 165127,
       "endTime": 168911,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 165127,
@@ -2588,7 +2589,7 @@
     {
       "startTime": 169071,
       "endTime": 173575,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 169071,
@@ -2695,7 +2696,7 @@
     {
       "startTime": 173815,
       "endTime": 200033,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 173815,

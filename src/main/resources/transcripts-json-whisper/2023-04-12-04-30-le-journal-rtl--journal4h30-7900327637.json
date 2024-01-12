@@ -3,6 +3,7 @@
     "id": 7900327637,
     "programId": 7770882811,
     "program": "Le journal RTL",
+    "scheduleId": "journal-4h30",
     "date": "2023-04-12",
     "time": "04:30",
     "title": "Le journal RTL de 04h30 du 04 décembre 2023",
@@ -16,7 +17,7 @@
     {
       "startTime": 682,
       "endTime": 118255,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 682,

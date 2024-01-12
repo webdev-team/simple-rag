@@ -3,6 +3,7 @@
     "id": 7900327696,
     "programId": 7798176110,
     "program": "L'oeil de Philippe Caverivière",
+    "scheduleId": "Caverivière",
     "date": "2023-04-12",
     "time": "07:54",
     "title": "Attaques à Paris : \"L'assaillant habitait encore chez ses parents, c'est le Tanguy des terroristes\"",
@@ -16,7 +17,7 @@
     {
       "startTime": 634,
       "endTime": 14341,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 634,
@@ -138,7 +139,7 @@
     {
       "startTime": 14361,
       "endTime": 83381,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 14361,
@@ -1190,7 +1191,7 @@
     {
       "startTime": 83441,
       "endTime": 87523,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 83441,
@@ -1272,7 +1273,7 @@
     {
       "startTime": 87543,
       "endTime": 211756,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 87543,
@@ -3169,7 +3170,7 @@
     {
       "startTime": 211836,
       "endTime": 221202,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 211836,
@@ -3376,7 +3377,7 @@
     {
       "startTime": 221642,
       "endTime": 314316,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 221642,
@@ -5208,7 +5209,7 @@
     {
       "startTime": 314336,
       "endTime": 318299,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": null,
@@ -5310,7 +5311,7 @@
     {
       "startTime": 320806,
       "endTime": 351398,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 320806,

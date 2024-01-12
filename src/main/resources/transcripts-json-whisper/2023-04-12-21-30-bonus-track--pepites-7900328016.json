@@ -3,6 +3,7 @@
     "id": 7900328016,
     "programId": 7795163756,
     "program": "Bonus Track",
+    "scheduleId": "Pépites",
     "date": "2023-04-12",
     "time": "21:30",
     "title": "LES NEWS - Lana Del Rey : \"Take me home, country roads\", c'est la nouveauté du jour",
@@ -16,7 +17,7 @@
     {
       "startTime": 1890,
       "endTime": 21662,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 1890,
@@ -218,7 +219,7 @@
     {
       "startTime": 22142,
       "endTime": 53064,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 22142,
@@ -805,7 +806,7 @@
     {
       "startTime": 58626,
       "endTime": 60547,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 58626,
@@ -847,7 +848,7 @@
     {
       "startTime": 60628,
       "endTime": 67633,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 60628,
@@ -974,7 +975,7 @@
     {
       "startTime": 67673,
       "endTime": 72757,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 67673,
@@ -1006,7 +1007,7 @@
     {
       "startTime": 72797,
       "endTime": 104268,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 72797,
@@ -1453,7 +1454,7 @@
     {
       "startTime": 104308,
       "endTime": 107112,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 104308,
@@ -1535,7 +1536,7 @@
     {
       "startTime": 107563,
       "endTime": 136645,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 107563,
@@ -2072,7 +2073,7 @@
     {
       "startTime": 136725,
       "endTime": 154120,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 136725,
@@ -2449,7 +2450,7 @@
     {
       "startTime": 154685,
       "endTime": 196701,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 154685,
@@ -3196,7 +3197,7 @@
     {
       "startTime": 196721,
       "endTime": 210853,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 196721,
@@ -3268,7 +3269,7 @@
     {
       "startTime": 216502,
       "endTime": 222548,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 216502,
@@ -3360,7 +3361,7 @@
     {
       "startTime": 222649,
       "endTime": 271822,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 222649,
@@ -4052,7 +4053,7 @@
     {
       "startTime": 271862,
       "endTime": 426951,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 271862,
@@ -4839,7 +4840,7 @@
     {
       "startTime": 430006,
       "endTime": 434029,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 430006,
@@ -4921,7 +4922,7 @@
     {
       "startTime": 434069,
       "endTime": 446937,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 434069,
@@ -5113,7 +5114,7 @@
     {
       "startTime": 446957,
       "endTime": 456043,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 446957,

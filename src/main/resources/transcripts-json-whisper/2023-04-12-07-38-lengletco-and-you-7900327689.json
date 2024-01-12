@@ -3,6 +3,7 @@
     "id": 7900327689,
     "programId": 7763922319,
     "program": "Lenglet-Co and You",
+    "scheduleId": "",
     "date": "2023-04-12",
     "time": "07:38",
     "title": "LENGLET-CO - 1 salarié sur 6 est au Smic : est-ce encore une arme efficace ?",
@@ -16,7 +17,7 @@
     {
       "startTime": 418,
       "endTime": 14405,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 418,
@@ -173,7 +174,7 @@
     {
       "startTime": 14445,
       "endTime": 89377,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 14445,
@@ -1260,7 +1261,7 @@
     {
       "startTime": 89377,
       "endTime": 91819,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 89377,
@@ -1337,7 +1338,7 @@
     {
       "startTime": 91859,
       "endTime": 128094,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 91859,
@@ -1909,7 +1910,7 @@
     {
       "startTime": 128134,
       "endTime": 131395,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 128134,
@@ -1996,7 +1997,7 @@
     {
       "startTime": 131455,
       "endTime": 148822,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 131455,
@@ -2263,7 +2264,7 @@
     {
       "startTime": 148842,
       "endTime": 152384,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 148842,
@@ -2360,7 +2361,7 @@
     {
       "startTime": 153417,
       "endTime": 201347,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 153417,

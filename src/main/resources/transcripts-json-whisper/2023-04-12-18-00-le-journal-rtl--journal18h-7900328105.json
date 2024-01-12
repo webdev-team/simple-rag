@@ -3,6 +3,7 @@
     "id": 7900328105,
     "programId": 7770882811,
     "program": "Le journal RTL",
+    "scheduleId": "journal-18h",
     "date": "2023-04-12",
     "time": "18:00",
     "title": "Le journal RTL de 18h du 04 décembre 2023",
@@ -16,7 +17,7 @@
     {
       "startTime": 690,
       "endTime": 60775,
-      "speaker": "SPEAKER_09",
+      "speaker": "Voix 9",
       "items": [
         {
           "startTime": 690,
@@ -738,7 +739,7 @@
     {
       "startTime": 60835,
       "endTime": 71064,
-      "speaker": "SPEAKER_07",
+      "speaker": "Voix 7",
       "items": [
         {
           "startTime": 60835,
@@ -930,7 +931,7 @@
     {
       "startTime": 71224,
       "endTime": 79773,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 71224,
@@ -1082,7 +1083,7 @@
     {
       "startTime": 79894,
       "endTime": 88223,
-      "speaker": "SPEAKER_09",
+      "speaker": "Voix 9",
       "items": [
         {
           "startTime": 79894,
@@ -1254,7 +1255,7 @@
     {
       "startTime": 88903,
       "endTime": 90645,
-      "speaker": "SPEAKER_10",
+      "speaker": "Voix 10",
       "items": [
         {
           "startTime": 88903,
@@ -1271,7 +1272,7 @@
     {
       "startTime": 90705,
       "endTime": 92026,
-      "speaker": "SPEAKER_09",
+      "speaker": "Voix 9",
       "items": [
         {
           "startTime": 90705,
@@ -1313,7 +1314,7 @@
     {
       "startTime": 92066,
       "endTime": 102536,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 92066,
@@ -1515,7 +1516,7 @@
     {
       "startTime": 102657,
       "endTime": 108742,
-      "speaker": "SPEAKER_08",
+      "speaker": "Voix 8",
       "items": [
         {
           "startTime": 102657,
@@ -1622,7 +1623,7 @@
     {
       "startTime": 108762,
       "endTime": 111005,
-      "speaker": "SPEAKER_10",
+      "speaker": "Voix 10",
       "items": [
         {
           "startTime": 108762,
@@ -1659,7 +1660,7 @@
     {
       "startTime": 112312,
       "endTime": 121020,
-      "speaker": "SPEAKER_09",
+      "speaker": "Voix 9",
       "items": [
         {
           "startTime": 112312,
@@ -1836,7 +1837,7 @@
     {
       "startTime": 130089,
       "endTime": 156331,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 130089,
@@ -2303,7 +2304,7 @@
     {
       "startTime": 156452,
       "endTime": 165520,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 156452,
@@ -2470,7 +2471,7 @@
     {
       "startTime": 165600,
       "endTime": 176531,
-      "speaker": "SPEAKER_09",
+      "speaker": "Voix 9",
       "items": [
         {
           "startTime": 165600,
@@ -2652,7 +2653,7 @@
     {
       "startTime": 177051,
       "endTime": 215177,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 177051,
@@ -3284,7 +3285,7 @@
     {
       "startTime": 215237,
       "endTime": 226165,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 215237,
@@ -3451,7 +3452,7 @@
     {
       "startTime": 226805,
       "endTime": 261514,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 226805,
@@ -3948,7 +3949,7 @@
     {
       "startTime": 261554,
       "endTime": 269858,
-      "speaker": "SPEAKER_09",
+      "speaker": "Voix 9",
       "items": [
         {
           "startTime": 261554,
@@ -4120,7 +4121,7 @@
     {
       "startTime": 270658,
       "endTime": 272178,
-      "speaker": "SPEAKER_10",
+      "speaker": "Voix 10",
       "items": [
         {
           "startTime": 270658,
@@ -4137,7 +4138,7 @@
     {
       "startTime": 272238,
       "endTime": 279540,
-      "speaker": "SPEAKER_09",
+      "speaker": "Voix 9",
       "items": [
         {
           "startTime": 272238,
@@ -4274,7 +4275,7 @@
     {
       "startTime": 279600,
       "endTime": 299483,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 279600,
@@ -4516,7 +4517,7 @@
     {
       "startTime": 299923,
       "endTime": 338216,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 299923,
@@ -5048,7 +5049,7 @@
     {
       "startTime": 339243,
       "endTime": 357670,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 339243,
@@ -5330,7 +5331,7 @@
     {
       "startTime": 357810,
       "endTime": 362932,
-      "speaker": "SPEAKER_09",
+      "speaker": "Voix 9",
       "items": [
         {
           "startTime": 357810,
@@ -5422,7 +5423,7 @@
     {
       "startTime": 362972,
       "endTime": 370035,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 362972,
@@ -5559,7 +5560,7 @@
     {
       "startTime": 370115,
       "endTime": 423558,
-      "speaker": "SPEAKER_06",
+      "speaker": "Voix 6",
       "items": [
         {
           "startTime": 370115,
@@ -6446,7 +6447,7 @@
     {
       "startTime": 423698,
       "endTime": 441662,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 423698,
@@ -6703,7 +6704,7 @@
     {
       "startTime": 441682,
       "endTime": 447624,
-      "speaker": "SPEAKER_09",
+      "speaker": "Voix 9",
       "items": [
         {
           "startTime": 441682,
@@ -6795,7 +6796,7 @@
     {
       "startTime": 447664,
       "endTime": 468781,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 447664,
@@ -7007,7 +7008,7 @@
     {
       "startTime": 468821,
       "endTime": 503100,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 468821,
@@ -7674,7 +7675,7 @@
     {
       "startTime": 503200,
       "endTime": 506121,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 503200,
@@ -7716,7 +7717,7 @@
     {
       "startTime": 506161,
       "endTime": 508863,
-      "speaker": "SPEAKER_09",
+      "speaker": "Voix 9",
       "items": [
         {
           "startTime": 506161,
@@ -7768,7 +7769,7 @@
     {
       "startTime": 508883,
       "endTime": 515246,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 508883,
@@ -7880,7 +7881,7 @@
     {
       "startTime": 515266,
       "endTime": 530073,
-      "speaker": "SPEAKER_09",
+      "speaker": "Voix 9",
       "items": [
         {
           "startTime": 515266,
@@ -8157,7 +8158,7 @@
     {
       "startTime": 530213,
       "endTime": 531634,
-      "speaker": "SPEAKER_10",
+      "speaker": "Voix 10",
       "items": [
         {
           "startTime": 530213,
@@ -8174,7 +8175,7 @@
     {
       "startTime": 533420,
       "endTime": 544011,
-      "speaker": "SPEAKER_09",
+      "speaker": "Voix 9",
       "items": [
         {
           "startTime": 533420,
@@ -8326,7 +8327,7 @@
     {
       "startTime": 544031,
       "endTime": 568705,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 544031,
@@ -8698,7 +8699,7 @@
     {
       "startTime": 569025,
       "endTime": 581628,
-      "speaker": "SPEAKER_09",
+      "speaker": "Voix 9",
       "items": [
         {
           "startTime": 569025,
@@ -8955,7 +8956,7 @@
     {
       "startTime": 581648,
       "endTime": 635190,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 581648,
@@ -9787,7 +9788,7 @@
     {
       "startTime": 635290,
       "endTime": 639835,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 635290,
@@ -9864,7 +9865,7 @@
     {
       "startTime": 640055,
       "endTime": 647482,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 640055,
@@ -9971,7 +9972,7 @@
     {
       "startTime": 647522,
       "endTime": 653869,
-      "speaker": "SPEAKER_09",
+      "speaker": "Voix 9",
       "items": [
         {
           "startTime": 647522,
@@ -10048,7 +10049,7 @@
     {
       "startTime": 655811,
       "endTime": 675284,
-      "speaker": "SPEAKER_08",
+      "speaker": "Voix 8",
       "items": [
         {
           "startTime": 655811,
@@ -10405,7 +10406,7 @@
     {
       "startTime": 675304,
       "endTime": 680527,
-      "speaker": "SPEAKER_07",
+      "speaker": "Voix 7",
       "items": [
         {
           "startTime": 675304,
@@ -10517,7 +10518,7 @@
     {
       "startTime": 680607,
       "endTime": 682288,
-      "speaker": "SPEAKER_08",
+      "speaker": "Voix 8",
       "items": [
         {
           "startTime": 680607,
@@ -10569,7 +10570,7 @@
     {
       "startTime": 682308,
       "endTime": 684650,
-      "speaker": "SPEAKER_07",
+      "speaker": "Voix 7",
       "items": [
         {
           "startTime": 682308,
@@ -10596,7 +10597,7 @@
     {
       "startTime": 685030,
       "endTime": 700304,
-      "speaker": "SPEAKER_08",
+      "speaker": "Voix 8",
       "items": [
         {
           "startTime": 685030,

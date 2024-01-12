@@ -3,6 +3,7 @@
     "id": 7900327638,
     "programId": 5141228,
     "program": "La météo",
+    "scheduleId": "meteo-4h30",
     "date": "2023-04-12",
     "time": "04:35",
     "title": "La météo du 04 décembre 2023",
@@ -16,7 +17,7 @@
     {
       "startTime": 636,
       "endTime": 7850,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 636,
@@ -118,7 +119,7 @@
     {
       "startTime": 7890,
       "endTime": 55901,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 7890,
@@ -1055,7 +1056,7 @@
     {
       "startTime": 56101,
       "endTime": 57121,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 56101,
@@ -1087,7 +1088,7 @@
     {
       "startTime": 57161,
       "endTime": 129586,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 57161,

@@ -3,6 +3,7 @@
     "id": 7900327644,
     "programId": 18102,
     "program": "Laissez-vous tenter",
+    "scheduleId": "Une chanson, une histoire",
     "date": "2023-04-12",
     "time": "05:11",
     "title": "UNE CHANSON - L'histoire de \"My Sweet Lord\" de George Harrison",
@@ -16,7 +17,7 @@
     {
       "startTime": 724,
       "endTime": 13520,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 724,
@@ -148,7 +149,7 @@
     {
       "startTime": 18749,
       "endTime": 21111,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 18749,
@@ -185,7 +186,7 @@
     {
       "startTime": 21131,
       "endTime": 46573,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 21131,
@@ -557,7 +558,7 @@
     {
       "startTime": 47073,
       "endTime": 65128,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 47073,
@@ -594,7 +595,7 @@
     {
       "startTime": 65148,
       "endTime": 73696,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 65148,
@@ -746,7 +747,7 @@
     {
       "startTime": 76547,
       "endTime": 78220,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 76547,
@@ -773,7 +774,7 @@
     {
       "startTime": 112415,
       "endTime": 164993,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 112415,
@@ -1050,7 +1051,7 @@
     {
       "startTime": 300026,
       "endTime": 303269,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 300026,

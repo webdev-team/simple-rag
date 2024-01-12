@@ -3,6 +3,7 @@
     "id": 7900327855,
     "programId": 5141178,
     "program": "Les invités de RTL",
+    "scheduleId": "L'invité de 12h20",
     "date": "2023-04-12",
     "time": "12:20",
     "title": "NAGE EN APNÉE - De plus en plus d'adeptes : Simon Chenu est l'invité de RTL Midi",
@@ -16,7 +17,7 @@
     {
       "startTime": 670,
       "endTime": 1932,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 670,
@@ -43,7 +44,7 @@
     {
       "startTime": 18469,
       "endTime": 26572,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 18469,
@@ -175,7 +176,7 @@
     {
       "startTime": 26612,
       "endTime": 29754,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 26612,
@@ -217,7 +218,7 @@
     {
       "startTime": 29794,
       "endTime": 55768,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 29794,
@@ -589,7 +590,7 @@
     {
       "startTime": 57209,
       "endTime": 75013,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 57209,
@@ -901,7 +902,7 @@
     {
       "startTime": 75953,
       "endTime": 103762,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 75953,
@@ -1413,7 +1414,7 @@
     {
       "startTime": 105758,
       "endTime": 143916,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 105758,
@@ -2045,7 +2046,7 @@
     {
       "startTime": 144077,
       "endTime": 152905,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 144077,
@@ -2157,7 +2158,7 @@
     {
       "startTime": 154887,
       "endTime": 179579,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 154887,
@@ -2519,7 +2520,7 @@
     {
       "startTime": 179619,
       "endTime": 195408,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 179619,
@@ -2766,7 +2767,7 @@
     {
       "startTime": 197749,
       "endTime": 215861,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 197749,
@@ -3098,7 +3099,7 @@
     {
       "startTime": 215901,
       "endTime": 216842,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 215901,
@@ -3140,7 +3141,7 @@
     {
       "startTime": 217893,
       "endTime": 222616,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 217893,
@@ -3252,7 +3253,7 @@
     {
       "startTime": 222676,
       "endTime": 227239,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 222676,
@@ -3329,7 +3330,7 @@
     {
       "startTime": 227279,
       "endTime": 229260,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 227279,
@@ -3376,7 +3377,7 @@
     {
       "startTime": 229320,
       "endTime": 233663,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 229320,
@@ -3463,7 +3464,7 @@
     {
       "startTime": 233683,
       "endTime": 240467,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 233683,
@@ -3590,7 +3591,7 @@
     {
       "startTime": 240627,
       "endTime": 252308,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 240627,
@@ -3802,7 +3803,7 @@
     {
       "startTime": 252408,
       "endTime": 253868,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 252408,
@@ -3849,7 +3850,7 @@
     {
       "startTime": 253908,
       "endTime": 259490,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 253908,
@@ -3986,7 +3987,7 @@
     {
       "startTime": 260150,
       "endTime": 278419,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 260150,
@@ -4288,7 +4289,7 @@
     {
       "startTime": 278459,
       "endTime": 282462,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 278459,
@@ -4385,7 +4386,7 @@
     {
       "startTime": 283336,
       "endTime": 290942,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 283336,
@@ -4532,7 +4533,7 @@
     {
       "startTime": 290962,
       "endTime": 302851,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 290962,
@@ -4759,7 +4760,7 @@
     {
       "startTime": 305805,
       "endTime": 332968,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 305805,
@@ -5246,7 +5247,7 @@
     {
       "startTime": 333188,
       "endTime": 342012,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 333188,
@@ -5408,7 +5409,7 @@
     {
       "startTime": 342052,
       "endTime": 351535,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 342052,
@@ -5550,7 +5551,7 @@
     {
       "startTime": 351575,
       "endTime": 365941,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 351575,

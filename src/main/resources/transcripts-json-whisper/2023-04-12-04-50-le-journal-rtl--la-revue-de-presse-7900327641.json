@@ -3,6 +3,7 @@
     "id": 7900327641,
     "programId": 7770882811,
     "program": "Le journal RTL",
+    "scheduleId": "La revue de presse",
     "date": "2023-04-12",
     "time": "04:50",
     "title": "LA REVUE DE PRESSE - \"L'attaque terroriste était-elle évitable ?\", \"Question sur un islamiste en liberté\", \"Avant les JO, la sécurité en questions\"... Découvrez les unes de vos journaux",
@@ -16,7 +17,7 @@
     {
       "startTime": 9,
       "endTime": 62576,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 9,

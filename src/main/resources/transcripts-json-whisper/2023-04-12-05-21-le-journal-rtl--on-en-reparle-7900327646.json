@@ -3,6 +3,7 @@
     "id": 7900327646,
     "programId": 7770882811,
     "program": "Le journal RTL",
+    "scheduleId": "On en reparle",
     "date": "2023-04-12",
     "time": "05:21",
     "title": "ON VOUS EN PARLE - Ils font pousser des champignons pour faire fuir les dealers !",
@@ -16,7 +17,7 @@
     {
       "startTime": 632,
       "endTime": 1938,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 632,
@@ -43,7 +44,7 @@
     {
       "startTime": 4746,
       "endTime": 6887,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 4746,
@@ -80,7 +81,7 @@
     {
       "startTime": 6907,
       "endTime": 15469,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 6907,
@@ -237,7 +238,7 @@
     {
       "startTime": 15529,
       "endTime": 147001,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 15529,

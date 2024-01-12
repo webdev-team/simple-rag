@@ -1,6 +1,8 @@
 package fr.m6.audio.factory.simplerag
 
+import dev.langchain4j.data.document.DocumentSplitter
 import dev.langchain4j.data.document.splitter.DocumentByParagraphSplitter
+import dev.langchain4j.data.document.splitter.DocumentBySentenceSplitter
 import dev.langchain4j.data.segment.TextSegment
 import dev.langchain4j.data.segment.TextSegmentTransformer
 import dev.langchain4j.model.embedding.AllMiniLmL6V2EmbeddingModel
@@ -17,7 +19,7 @@ import groovy.transform.stc.SimpleType
 class EmbeddingStoreWrapper {
     EmbeddingStore<TextSegment> store = new InMemoryEmbeddingStore<>()
     EmbeddingModel embeddingModel = new AllMiniLmL6V2EmbeddingModel()
-    DocumentByParagraphSplitter splitter = new DocumentByParagraphSplitter(80, 0, new OpenAiTokenizer(SimpleRagApplication.MODEL))
+    DocumentSplitter splitter = new DocumentBySentenceSplitter(120, 20, new OpenAiTokenizer(SimpleRagApplication.MODEL))
 
     /**
      * Process segments (to add metadata for exemple) before they go in the store
@@ -37,7 +39,7 @@ class EmbeddingStoreWrapper {
 
     Retriever<TextSegment> getRetriever() {
         int maxResults = 16
-        double minScore = 0.8
+        double minScore = 0.7
         EmbeddingStoreRetriever.from(store, embeddingModel, maxResults, minScore)
     }
 

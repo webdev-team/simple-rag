@@ -3,6 +3,7 @@
     "id": 7900327720,
     "programId": 7780785433,
     "program": "On refait la télé",
+    "scheduleId": "Isabelle Morini Bosc",
     "date": "2023-04-12",
     "time": "08:42",
     "title": "LA QUOTIDIENNE - Coup de cœur pour le doc de France 3 \"Le rêve de Lino\" à 22h50",
@@ -16,7 +17,7 @@
     {
       "startTime": 635,
       "endTime": 15085,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 635,
@@ -128,7 +129,7 @@
     {
       "startTime": 15125,
       "endTime": 61520,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 15125,
@@ -910,7 +911,7 @@
     {
       "startTime": 62061,
       "endTime": 80882,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 62061,
@@ -1117,7 +1118,7 @@
     {
       "startTime": 80942,
       "endTime": 92354,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 80942,
@@ -1329,7 +1330,7 @@
     {
       "startTime": 92374,
       "endTime": 99721,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 92374,
@@ -1521,7 +1522,7 @@
     {
       "startTime": 104360,
       "endTime": 108882,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 104360,
@@ -1598,7 +1599,7 @@
     {
       "startTime": 108922,
       "endTime": 115464,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 108922,
@@ -1725,7 +1726,7 @@
     {
       "startTime": 115484,
       "endTime": 116445,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 115484,
@@ -1757,7 +1758,7 @@
     {
       "startTime": 116485,
       "endTime": 117265,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 116485,
@@ -1789,7 +1790,7 @@
     {
       "startTime": 117305,
       "endTime": 127089,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 117305,
@@ -2081,7 +2082,7 @@
     {
       "startTime": 129204,
       "endTime": 152050,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 129204,

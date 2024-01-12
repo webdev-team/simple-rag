@@ -3,6 +3,7 @@
     "id": 7900327704,
     "programId": 7762400672,
     "program": "Le surf de l'info",
+    "scheduleId": "",
     "date": "2023-04-12",
     "time": "08:14",
     "title": "COP : Macron a eu un peu de mal à respecter les règles",
@@ -16,7 +17,7 @@
     {
       "startTime": 418,
       "endTime": 1479,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 418,
@@ -43,7 +44,7 @@
     {
       "startTime": 18305,
       "endTime": 23749,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 18305,
@@ -140,7 +141,7 @@
     {
       "startTime": 24209,
       "endTime": 36258,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 24209,
@@ -242,7 +243,7 @@
     {
       "startTime": 36278,
       "endTime": 47944,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 36278,
@@ -389,7 +390,7 @@
     {
       "startTime": 48004,
       "endTime": 62928,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 48004,
@@ -516,7 +517,7 @@
     {
       "startTime": 63148,
       "endTime": 71649,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 63148,
@@ -568,7 +569,7 @@
     {
       "startTime": 72210,
       "endTime": 78211,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 72210,
@@ -600,7 +601,7 @@
     {
       "startTime": 78231,
       "endTime": 94394,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 78231,
@@ -732,7 +733,7 @@
     {
       "startTime": 94474,
       "endTime": 99957,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 94474,
@@ -809,7 +810,7 @@
     {
       "startTime": 99977,
       "endTime": 120108,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": null,
@@ -1196,7 +1197,7 @@
     {
       "startTime": 120148,
       "endTime": 128854,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 120148,
@@ -1353,7 +1354,7 @@
     {
       "startTime": 129095,
       "endTime": 145166,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 129095,
@@ -1625,7 +1626,7 @@
     {
       "startTime": 145407,
       "endTime": 165461,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 145407,

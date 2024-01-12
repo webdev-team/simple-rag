@@ -3,6 +3,7 @@
     "id": 7900327660,
     "programId": 5141178,
     "program": "Les invités de RTL",
+    "scheduleId": "L'invité de RTL Petit Matin",
     "date": "2023-04-12",
     "time": "06:15",
     "title": "ATTAQUE À PARIS - 3 questions à Matthieu Suc",
@@ -17,7 +18,7 @@
     {
       "startTime": 418,
       "endTime": 41520,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 418,
@@ -564,7 +565,7 @@
     {
       "startTime": 42521,
       "endTime": 102920,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": null,
@@ -1096,7 +1097,7 @@
     {
       "startTime": 102940,
       "endTime": 113203,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 102940,
@@ -1303,7 +1304,7 @@
     {
       "startTime": 113263,
       "endTime": 134316,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 113263,
@@ -1520,7 +1521,7 @@
     {
       "startTime": 134396,
       "endTime": 138899,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 134396,
@@ -1617,7 +1618,7 @@
     {
       "startTime": 138919,
       "endTime": 224709,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 138919,
@@ -2699,7 +2700,7 @@
     {
       "startTime": 224769,
       "endTime": 229973,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 224769,
@@ -2806,7 +2807,7 @@
     {
       "startTime": 230814,
       "endTime": 271870,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": null,
@@ -3318,7 +3319,7 @@
     {
       "startTime": 271890,
       "endTime": 283433,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 271890,
@@ -3535,7 +3536,7 @@
     {
       "startTime": 283473,
       "endTime": 287054,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 283473,

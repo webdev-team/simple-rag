@@ -3,6 +3,7 @@
     "id": 7900328034,
     "programId": 18131,
     "program": "Les auditeurs ont la parole",
+    "scheduleId": null,
     "date": "2023-04-12",
     "time": "",
     "title": "EXTRAIT - Attaque au couteau à Paris, Bénédicte, expat en Allemagne : \"mon mari a peur d'aller en France\"",
@@ -16,7 +17,7 @@
     {
       "startTime": 49,
       "endTime": 20497,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 49,
@@ -288,7 +289,7 @@
     {
       "startTime": 20517,
       "endTime": 27860,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 20517,
@@ -385,7 +386,7 @@
     {
       "startTime": 29184,
       "endTime": 40970,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 29184,
@@ -552,7 +553,7 @@
     {
       "startTime": 41130,
       "endTime": 79232,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 41130,
@@ -1094,7 +1095,7 @@
     {
       "startTime": 80072,
       "endTime": 116470,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 80072,
@@ -1596,7 +1597,7 @@
     {
       "startTime": 116510,
       "endTime": 118212,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 116510,
@@ -1623,7 +1624,7 @@
     {
       "startTime": 118752,
       "endTime": 120473,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 118752,
@@ -1660,7 +1661,7 @@
     {
       "startTime": 120513,
       "endTime": 133020,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 120513,
@@ -1912,7 +1913,7 @@
     {
       "startTime": 133040,
       "endTime": 135922,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 133040,
@@ -1929,7 +1930,7 @@
     {
       "startTime": 135942,
       "endTime": 144282,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 135942,
@@ -2056,7 +2057,7 @@
     {
       "startTime": 144303,
       "endTime": 173120,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 144303,

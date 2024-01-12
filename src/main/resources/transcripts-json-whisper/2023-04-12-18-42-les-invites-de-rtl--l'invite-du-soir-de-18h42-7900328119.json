@@ -3,6 +3,7 @@
     "id": 7900328119,
     "programId": 5141178,
     "program": "Les invités de RTL",
+    "scheduleId": "L'invité du soir de 18h42",
     "date": "2023-04-12",
     "time": "18:42",
     "title": "GRIPPE - Serge Smadja, secrétaire général de SOS Médecins, est l'invité de RTL Bonsoir",
@@ -17,7 +18,7 @@
     {
       "startTime": 643,
       "endTime": 9775,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 643,
@@ -79,7 +80,7 @@
     {
       "startTime": 9835,
       "endTime": 15278,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 9835,
@@ -181,7 +182,7 @@
     {
       "startTime": 15298,
       "endTime": 27463,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 15298,
@@ -438,7 +439,7 @@
     {
       "startTime": 27663,
       "endTime": 33106,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 27663,
@@ -550,7 +551,7 @@
     {
       "startTime": 33366,
       "endTime": 38148,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 33366,
@@ -632,7 +633,7 @@
     {
       "startTime": 38188,
       "endTime": 43451,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 38188,
@@ -719,7 +720,7 @@
     {
       "startTime": 43491,
       "endTime": 44191,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 43491,
@@ -746,7 +747,7 @@
     {
       "startTime": 44251,
       "endTime": 48093,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 44251,
@@ -823,7 +824,7 @@
     {
       "startTime": 48493,
       "endTime": 112104,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 48493,
@@ -1935,7 +1936,7 @@
     {
       "startTime": 112444,
       "endTime": 118010,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 112444,
@@ -2052,7 +2053,7 @@
     {
       "startTime": 118410,
       "endTime": 150250,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 118410,
@@ -2454,7 +2455,7 @@
     {
       "startTime": 150610,
       "endTime": 165215,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 150610,
@@ -2731,7 +2732,7 @@
     {
       "startTime": 165775,
       "endTime": 190784,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 165775,
@@ -3048,7 +3049,7 @@
     {
       "startTime": 190804,
       "endTime": 193625,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 190804,
@@ -3120,7 +3121,7 @@
     {
       "startTime": 193885,
       "endTime": 207357,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 193885,
@@ -3327,7 +3328,7 @@
     {
       "startTime": 207758,
       "endTime": 214524,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 207758,
@@ -3509,7 +3510,7 @@
     {
       "startTime": 214864,
       "endTime": 247311,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 214864,
@@ -3901,7 +3902,7 @@
     {
       "startTime": 247331,
       "endTime": 255794,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 247331,
@@ -4108,7 +4109,7 @@
     {
       "startTime": 255854,
       "endTime": 290633,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 255854,
@@ -4635,7 +4636,7 @@
     {
       "startTime": 290953,
       "endTime": 298279,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 290953,
@@ -4777,7 +4778,7 @@
     {
       "startTime": 298799,
       "endTime": 314424,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 298799,
@@ -5029,7 +5030,7 @@
     {
       "startTime": 314444,
       "endTime": 316944,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 314444,
@@ -5111,7 +5112,7 @@
     {
       "startTime": 317124,
       "endTime": 329078,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 317124,
@@ -5263,7 +5264,7 @@
     {
       "startTime": 329138,
       "endTime": 334505,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 329138,
@@ -5425,7 +5426,7 @@
     {
       "startTime": 335955,
       "endTime": 371782,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 335955,
@@ -5912,7 +5913,7 @@
     {
       "startTime": 371802,
       "endTime": 398880,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 371802,

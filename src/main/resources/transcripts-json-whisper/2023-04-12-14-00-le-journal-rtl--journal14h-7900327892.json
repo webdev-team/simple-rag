@@ -3,6 +3,7 @@
     "id": 7900327892,
     "programId": 7770882811,
     "program": "Le journal RTL",
+    "scheduleId": "journal-14h",
     "date": "2023-04-12",
     "time": "14:00",
     "title": "Attaque au couteau à Paris, chars israéliens dans Gaza, temps très changeant : le journal RTL de 14h du 4 décembre",
@@ -16,7 +17,7 @@
     {
       "startTime": 641,
       "endTime": 22511,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 641,
@@ -248,7 +249,7 @@
     {
       "startTime": 22711,
       "endTime": 42739,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 22711,
@@ -565,7 +566,7 @@
     {
       "startTime": 42799,
       "endTime": 57106,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 42799,
@@ -802,7 +803,7 @@
     {
       "startTime": 57146,
       "endTime": 80301,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 57146,
@@ -1144,7 +1145,7 @@
     {
       "startTime": 80381,
       "endTime": 84164,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 80381,
@@ -1221,7 +1222,7 @@
     {
       "startTime": 84384,
       "endTime": 108712,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 84384,
@@ -1578,7 +1579,7 @@
     {
       "startTime": 109620,
       "endTime": 121589,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 109620,
@@ -1755,7 +1756,7 @@
     {
       "startTime": 121649,
       "endTime": 135159,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 121649,
@@ -1937,7 +1938,7 @@
     {
       "startTime": 135199,
       "endTime": 149070,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 135199,
@@ -2134,7 +2135,7 @@
     {
       "startTime": 168067,
       "endTime": 177825,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 168067,
@@ -2291,7 +2292,7 @@
     {
       "startTime": 178869,
       "endTime": 200936,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": null,

@@ -3,6 +3,7 @@
     "id": 7900328037,
     "programId": 18131,
     "program": "Les auditeurs ont la parole",
+    "scheduleId": null,
     "date": "2023-04-12",
     "time": "",
     "title": "EXTRAIT - Attaque à Paris, pour Jérôme, guide touristique : \"Paris c'est le far west\"",
@@ -16,7 +17,7 @@
     {
       "startTime": 29,
       "endTime": 31890,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 29,
@@ -423,7 +424,7 @@
     {
       "startTime": 33899,
       "endTime": 133238,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 33899,
@@ -2155,7 +2156,7 @@
     {
       "startTime": 133298,
       "endTime": 148788,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 133298,
@@ -2387,7 +2388,7 @@
     {
       "startTime": 150134,
       "endTime": 205597,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 150134,
@@ -3424,7 +3425,7 @@
     {
       "startTime": 206832,
       "endTime": 231953,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 206832,

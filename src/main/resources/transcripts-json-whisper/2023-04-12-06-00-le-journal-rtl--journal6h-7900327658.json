@@ -3,6 +3,7 @@
     "id": 7900327658,
     "programId": 7770882811,
     "program": "Le journal RTL",
+    "scheduleId": "journal-6h",
     "date": "2023-04-12",
     "time": "06:00",
     "title": "Le journal RTL de 6h du 04 décembre 2023",
@@ -16,7 +17,7 @@
     {
       "startTime": 634,
       "endTime": 8487,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 634,
@@ -78,7 +79,7 @@
     {
       "startTime": 8507,
       "endTime": 88570,
-      "speaker": "SPEAKER_07",
+      "speaker": "Voix 7",
       "items": [
         {
           "startTime": 8507,
@@ -1550,7 +1551,7 @@
     {
       "startTime": 89510,
       "endTime": 148457,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 89510,
@@ -2377,7 +2378,7 @@
     {
       "startTime": 148517,
       "endTime": 169943,
-      "speaker": "SPEAKER_07",
+      "speaker": "Voix 7",
       "items": [
         {
           "startTime": 148517,
@@ -2754,7 +2755,7 @@
     {
       "startTime": 170632,
       "endTime": 199294,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 170632,
@@ -3166,7 +3167,7 @@
     {
       "startTime": 199814,
       "endTime": 275360,
-      "speaker": "SPEAKER_07",
+      "speaker": "Voix 7",
       "items": [
         {
           "startTime": 199814,
@@ -4403,7 +4404,7 @@
     {
       "startTime": 275880,
       "endTime": 328685,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 275880,
@@ -5205,7 +5206,7 @@
     {
       "startTime": 328945,
       "endTime": 401973,
-      "speaker": "SPEAKER_07",
+      "speaker": "Voix 7",
       "items": [
         {
           "startTime": 328945,
@@ -6407,7 +6408,7 @@
     {
       "startTime": 402213,
       "endTime": 408878,
-      "speaker": "SPEAKER_06",
+      "speaker": "Voix 6",
       "items": [
         {
           "startTime": 402213,
@@ -6514,7 +6515,7 @@
     {
       "startTime": 408898,
       "endTime": 415303,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 408898,
@@ -6616,7 +6617,7 @@
     {
       "startTime": 415343,
       "endTime": 435211,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 415343,
@@ -7018,7 +7019,7 @@
     {
       "startTime": 435231,
       "endTime": 445295,
-      "speaker": "SPEAKER_06",
+      "speaker": "Voix 6",
       "items": [
         {
           "startTime": 435231,
@@ -7180,7 +7181,7 @@
     {
       "startTime": 445435,
       "endTime": 457389,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 445435,
@@ -7352,7 +7353,7 @@
     {
       "startTime": 457449,
       "endTime": 462315,
-      "speaker": "SPEAKER_06",
+      "speaker": "Voix 6",
       "items": [
         {
           "startTime": 457449,
@@ -7434,7 +7435,7 @@
     {
       "startTime": 462435,
       "endTime": 483329,
-      "speaker": "SPEAKER_07",
+      "speaker": "Voix 7",
       "items": [
         {
           "startTime": 462435,

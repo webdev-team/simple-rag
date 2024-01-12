@@ -3,6 +3,7 @@
     "id": 7900327718,
     "programId": 7784590125,
     "program": "Ça va Beaucoup Mieux",
+    "scheduleId": "Chronique Jimmy Mohamed",
     "date": "2023-04-12",
     "time": "08:38",
     "title": "HIVER - Pourquoi tombe-t-on malade lorsqu'il fait froid ?",
@@ -16,7 +17,7 @@
     {
       "startTime": 9,
       "endTime": 1570,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 9,
@@ -48,7 +49,7 @@
     {
       "startTime": 4552,
       "endTime": 6253,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 4552,
@@ -90,7 +91,7 @@
     {
       "startTime": 6713,
       "endTime": 12957,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 6713,
@@ -217,7 +218,7 @@
     {
       "startTime": 13017,
       "endTime": 18061,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 13017,
@@ -324,7 +325,7 @@
     {
       "startTime": 18221,
       "endTime": 52722,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 18221,
@@ -881,7 +882,7 @@
     {
       "startTime": 52762,
       "endTime": 58746,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 52762,
@@ -1008,7 +1009,7 @@
     {
       "startTime": 58786,
       "endTime": 94973,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 58786,
@@ -1645,7 +1646,7 @@
     {
       "startTime": 95153,
       "endTime": 100460,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 95153,
@@ -1772,7 +1773,7 @@
     {
       "startTime": 100560,
       "endTime": 130503,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 100560,
@@ -2329,7 +2330,7 @@
     {
       "startTime": 130843,
       "endTime": 134326,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 130843,
@@ -2416,7 +2417,7 @@
     {
       "startTime": 134366,
       "endTime": 160538,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 134366,

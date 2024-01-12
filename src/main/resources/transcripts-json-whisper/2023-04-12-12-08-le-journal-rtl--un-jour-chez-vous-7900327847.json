@@ -3,6 +3,7 @@
     "id": 7900327847,
     "programId": 7770882811,
     "program": "Le journal RTL",
+    "scheduleId": "Un jour chez vous",
     "date": "2023-04-12",
     "time": "12:08",
     "title": "UN JOUR CHEZ VOUS - Recyclage : le Smictom des Pays de Vilaine chasse les erreurs de tri dans les poubelles jaunes",
@@ -16,7 +17,7 @@
     {
       "startTime": 9,
       "endTime": 26689,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 9,
@@ -358,7 +359,7 @@
     {
       "startTime": 26989,
       "endTime": 40798,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 26989,
@@ -545,7 +546,7 @@
     {
       "startTime": 41414,
       "endTime": 53278,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 41414,
@@ -732,7 +733,7 @@
     {
       "startTime": 53298,
       "endTime": 58480,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 53298,
@@ -814,7 +815,7 @@
     {
       "startTime": 58720,
       "endTime": 82599,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 58720,
@@ -1121,7 +1122,7 @@
     {
       "startTime": 82639,
       "endTime": 85621,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 82639,
@@ -1208,7 +1209,7 @@
     {
       "startTime": 85661,
       "endTime": 92607,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 85661,
@@ -1345,7 +1346,7 @@
     {
       "startTime": 93843,
       "endTime": 98525,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 93843,
@@ -1437,7 +1438,7 @@
     {
       "startTime": 98585,
       "endTime": 101006,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 98585,
@@ -1494,7 +1495,7 @@
     {
       "startTime": 101326,
       "endTime": 121133,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 101326,
@@ -1876,7 +1877,7 @@
     {
       "startTime": 121767,
       "endTime": 138429,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 121767,
@@ -2153,7 +2154,7 @@
     {
       "startTime": 139264,
       "endTime": 148028,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 139264,
@@ -2310,7 +2311,7 @@
     {
       "startTime": 148048,
       "endTime": 158434,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 148048,
@@ -2522,7 +2523,7 @@
     {
       "startTime": 158454,
       "endTime": 165297,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 158454,
@@ -2629,7 +2630,7 @@
     {
       "startTime": 166137,
       "endTime": 167238,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 166137,

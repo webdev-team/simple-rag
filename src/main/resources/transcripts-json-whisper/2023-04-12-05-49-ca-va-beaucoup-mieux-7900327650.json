@@ -3,6 +3,7 @@
     "id": 7900327650,
     "programId": 7784590125,
     "program": "Ça va Beaucoup Mieux",
+    "scheduleId": "",
     "date": "2023-04-12",
     "time": "05:49",
     "title": "LAIT - Le sans lactose est-il bon pour la santé ?",
@@ -16,7 +17,7 @@
     {
       "startTime": 401,
       "endTime": 13733,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 401,
@@ -193,7 +194,7 @@
     {
       "startTime": 13793,
       "endTime": 19578,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 13793,
@@ -320,7 +321,7 @@
     {
       "startTime": 20518,
       "endTime": 31324,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 20518,
@@ -542,7 +543,7 @@
     {
       "startTime": 31884,
       "endTime": 164782,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 31884,
@@ -2374,7 +2375,7 @@
     {
       "startTime": 166022,
       "endTime": 172728,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 166022,
@@ -2456,7 +2457,7 @@
     {
       "startTime": 172768,
       "endTime": 219767,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 172768,

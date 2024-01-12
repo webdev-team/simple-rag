@@ -3,6 +3,7 @@
     "id": 7900328143,
     "programId": 7770882811,
     "program": "Le journal RTL",
+    "scheduleId": "journal-20h",
     "date": "2023-04-12",
     "time": "20:00",
     "title": "Le journal RTL de 20h du 04 décembre 2023",
@@ -16,7 +17,7 @@
     {
       "startTime": 646,
       "endTime": 42522,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 646,
@@ -508,7 +509,7 @@
     {
       "startTime": 43029,
       "endTime": 76175,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 43029,
@@ -1095,7 +1096,7 @@
     {
       "startTime": 76195,
       "endTime": 173760,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 76195,

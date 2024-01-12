@@ -3,6 +3,7 @@
     "id": 7900327697,
     "programId": 18103,
     "program": "Ça peut vous arriver",
+    "scheduleId": "Les Pourquoi de la conso",
     "date": "2023-04-12",
     "time": "05:52",
     "title": "LES ? DE LA CONSO - Pourquoi les fans d'Hépar ont du mal à trouver leur eau préférée ?",
@@ -16,7 +17,7 @@
     {
       "startTime": 503,
       "endTime": 3986,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 503,
@@ -58,7 +59,7 @@
     {
       "startTime": 4026,
       "endTime": 8849,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 4026,
@@ -145,7 +146,7 @@
     {
       "startTime": 9229,
       "endTime": 27543,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 9229,
@@ -467,7 +468,7 @@
     {
       "startTime": 28223,
       "endTime": 30985,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 28223,
@@ -534,7 +535,7 @@
     {
       "startTime": 31385,
       "endTime": 43272,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 31385,
@@ -771,7 +772,7 @@
     {
       "startTime": 43292,
       "endTime": 44593,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 43292,
@@ -803,7 +804,7 @@
     {
       "startTime": 44833,
       "endTime": 107818,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 44833,
@@ -1800,7 +1801,7 @@
     {
       "startTime": 107858,
       "endTime": 110360,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 107858,
@@ -1872,7 +1873,7 @@
     {
       "startTime": 110660,
       "endTime": 143396,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 110660,
@@ -2434,7 +2435,7 @@
     {
       "startTime": 143416,
       "endTime": 146319,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 143416,
@@ -2501,7 +2502,7 @@
     {
       "startTime": 146619,
       "endTime": 169972,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 146619,
@@ -2958,7 +2959,7 @@
     {
       "startTime": 170032,
       "endTime": 173034,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 170032,

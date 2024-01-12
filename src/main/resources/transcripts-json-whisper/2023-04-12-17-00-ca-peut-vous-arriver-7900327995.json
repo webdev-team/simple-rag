@@ -3,6 +3,7 @@
     "id": 7900327995,
     "programId": 18103,
     "program": "Ça peut vous arriver",
+    "scheduleId": null,
     "date": "2023-04-12",
     "time": "",
     "title": "À VENIR - Une poubelle détruit sa voiture au menu du 5 décembre",
@@ -16,7 +17,7 @@
     {
       "startTime": 569,
       "endTime": 4851,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 569,
@@ -73,7 +74,7 @@
     {
       "startTime": 4891,
       "endTime": 9133,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 4891,
@@ -165,7 +166,7 @@
     {
       "startTime": 9534,
       "endTime": 21099,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 9534,
@@ -367,7 +368,7 @@
     {
       "startTime": 21139,
       "endTime": 30064,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 21139,
@@ -554,7 +555,7 @@
     {
       "startTime": 30084,
       "endTime": 31405,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 30084,
@@ -596,7 +597,7 @@
     {
       "startTime": 31425,
       "endTime": 35148,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 31425,
@@ -693,7 +694,7 @@
     {
       "startTime": 35188,
       "endTime": 40632,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 35188,
@@ -825,7 +826,7 @@
     {
       "startTime": 40672,
       "endTime": 46776,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 40672,
@@ -927,7 +928,7 @@
     {
       "startTime": 46876,
       "endTime": 49818,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 46876,
@@ -999,7 +1000,7 @@
     {
       "startTime": 49878,
       "endTime": 93170,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 49878,
@@ -1606,7 +1607,7 @@
     {
       "startTime": 93230,
       "endTime": 94270,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 93230,
@@ -1643,7 +1644,7 @@
     {
       "startTime": 94290,
       "endTime": 105434,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 94290,
@@ -1855,7 +1856,7 @@
     {
       "startTime": 106307,
       "endTime": 111034,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 106307,
@@ -1937,7 +1938,7 @@
     {
       "startTime": 111094,
       "endTime": 113096,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 111094,
@@ -1984,7 +1985,7 @@
     {
       "startTime": 113116,
       "endTime": 116080,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 113116,
@@ -2061,7 +2062,7 @@
     {
       "startTime": 116120,
       "endTime": 118624,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 116120,
@@ -2108,7 +2109,7 @@
     {
       "startTime": 121087,
       "endTime": 121868,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 121087,
@@ -2145,7 +2146,7 @@
     {
       "startTime": 121888,
       "endTime": 136600,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 121888,
@@ -2392,7 +2393,7 @@
     {
       "startTime": 136920,
       "endTime": 141344,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 136920,
@@ -2484,7 +2485,7 @@
     {
       "startTime": 143298,
       "endTime": 159485,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 143298,

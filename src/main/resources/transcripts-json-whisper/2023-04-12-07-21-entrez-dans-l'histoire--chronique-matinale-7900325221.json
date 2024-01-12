@@ -3,6 +3,7 @@
     "id": 7900325221,
     "programId": 7798176290,
     "program": "Entrez dans l'Histoire",
+    "scheduleId": "Chronique matinale",
     "date": "2023-04-12",
     "time": "07:21",
     "title": "LA QUOTIDIENNE - Pourquoi le cardinal de Richelieu est à l'origine des couteaux ronds ?",
@@ -16,7 +17,7 @@
     {
       "startTime": 1950,
       "endTime": 189332,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 1950,

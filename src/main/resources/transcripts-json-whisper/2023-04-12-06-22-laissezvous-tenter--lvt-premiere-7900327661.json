@@ -3,6 +3,7 @@
     "id": 7900327661,
     "programId": 18102,
     "program": "Laissez-vous tenter",
+    "scheduleId": "LVT Première",
     "date": "2023-04-12",
     "time": "06:22",
     "title": "LIVRE - Philippe Coupérie-Eiffel publie \"Eiffel par Eiffel\"",
@@ -16,7 +17,7 @@
     {
       "startTime": 9,
       "endTime": 27968,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 9,
@@ -383,7 +384,7 @@
     {
       "startTime": 28428,
       "endTime": 73728,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 28428,
@@ -1020,7 +1021,7 @@
     {
       "startTime": 73988,
       "endTime": 98139,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 73988,
@@ -1337,7 +1338,7 @@
     {
       "startTime": 98179,
       "endTime": 100920,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 98179,
@@ -1409,7 +1410,7 @@
     {
       "startTime": 101611,
       "endTime": 137689,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 101611,
@@ -1911,7 +1912,7 @@
     {
       "startTime": 137709,
       "endTime": 172433,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 137709,

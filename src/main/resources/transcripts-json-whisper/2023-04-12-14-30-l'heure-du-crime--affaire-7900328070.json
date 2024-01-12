@@ -3,6 +3,7 @@
     "id": 7900328070,
     "programId": 5946912506,
     "program": "L'heure du Crime",
+    "scheduleId": "affaire",
     "date": "2023-04-12",
     "time": "14:30",
     "title": "L'ENQUÊTE - Janine Sopka : qui a tué la retraité, il y a 30 ans ?",
@@ -16,7 +17,7 @@
     {
       "startTime": 1476,
       "endTime": 3697,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 1476,
@@ -43,7 +44,7 @@
     {
       "startTime": 3797,
       "endTime": 4798,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 3797,
@@ -65,7 +66,7 @@
     {
       "startTime": 5318,
       "endTime": 16645,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 5318,
@@ -307,7 +308,7 @@
     {
       "startTime": 18110,
       "endTime": 80296,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 18110,
@@ -1174,7 +1175,7 @@
     {
       "startTime": 80336,
       "endTime": 84458,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 80336,
@@ -1226,7 +1227,7 @@
     {
       "startTime": 85683,
       "endTime": 569553,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 85683,
@@ -7848,7 +7849,7 @@
     {
       "startTime": 569613,
       "endTime": 584623,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 569613,
@@ -8200,7 +8201,7 @@
     {
       "startTime": 585772,
       "endTime": 824876,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 585772,
@@ -11727,7 +11728,7 @@
     {
       "startTime": 826113,
       "endTime": 840105,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 826113,
@@ -11979,7 +11980,7 @@
     {
       "startTime": 840125,
       "endTime": 844709,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 840125,
@@ -12066,7 +12067,7 @@
     {
       "startTime": 846173,
       "endTime": 857326,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 846173,

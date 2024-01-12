@@ -3,6 +3,7 @@
     "id": 7900327843,
     "programId": 18130,
     "program": "RTL Midi",
+    "scheduleId": null,
     "date": "2023-04-12",
     "time": "",
     "title": "SANTÉ - Grippe : la campagne de vaccination ne décolle pas",
@@ -17,7 +18,7 @@
     {
       "startTime": 189,
       "endTime": 4695,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 189,
@@ -104,7 +105,7 @@
     {
       "startTime": 4715,
       "endTime": 16811,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": null,
@@ -331,7 +332,7 @@
     {
       "startTime": 17051,
       "endTime": 40417,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 17051,
@@ -723,7 +724,7 @@
     {
       "startTime": 41391,
       "endTime": 61336,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 41391,
@@ -1090,7 +1091,7 @@
     {
       "startTime": 61912,
       "endTime": 80987,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 61912,

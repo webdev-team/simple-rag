@@ -3,6 +3,7 @@
     "id": 7900327839,
     "programId": 18130,
     "program": "RTL Midi",
+    "scheduleId": null,
     "date": "2023-04-12",
     "time": "",
     "title": "ISRAËL/HAMAS - Des dizaines de chars israéliens sont entrés dans la bande de Gaza",
@@ -17,7 +18,7 @@
     {
       "startTime": 69,
       "endTime": 4294,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 69,
@@ -99,7 +100,7 @@
     {
       "startTime": 4334,
       "endTime": 17170,
-      "speaker": "SPEAKER_00",
+      "speaker": "Voix 0",
       "items": [
         {
           "startTime": 4334,
@@ -326,7 +327,7 @@
     {
       "startTime": 17310,
       "endTime": 48495,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 17310,
@@ -888,7 +889,7 @@
     {
       "startTime": 52382,
       "endTime": 72500,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 52382,
@@ -1315,7 +1316,7 @@
     {
       "startTime": 75066,
       "endTime": 85682,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 75066,

@@ -3,6 +3,7 @@
     "id": 7900328113,
     "programId": 18132,
     "program": "RTL Bonsoir !",
+    "scheduleId": "RTL Inside",
     "date": "2023-04-12",
     "time": "18:33",
     "title": "RTL INSIDE - Pâté-croûte : au cœur du championnat du monde à Lyon",
@@ -16,7 +17,7 @@
     {
       "startTime": 9,
       "endTime": 15198,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 9,
@@ -183,7 +184,7 @@
     {
       "startTime": 15278,
       "endTime": 26665,
-      "speaker": "SPEAKER_02",
+      "speaker": "Voix 2",
       "items": [
         {
           "startTime": 15278,
@@ -385,7 +386,7 @@
     {
       "startTime": 27702,
       "endTime": 52029,
-      "speaker": "SPEAKER_06",
+      "speaker": "Voix 6",
       "items": [
         {
           "startTime": 27702,
@@ -832,7 +833,7 @@
     {
       "startTime": 52329,
       "endTime": 82679,
-      "speaker": "SPEAKER_04",
+      "speaker": "Voix 4",
       "items": [
         {
           "startTime": 52329,
@@ -1229,7 +1230,7 @@
     {
       "startTime": 82719,
       "endTime": 106398,
-      "speaker": "SPEAKER_06",
+      "speaker": "Voix 6",
       "items": [
         {
           "startTime": 82719,
@@ -1731,7 +1732,7 @@
     {
       "startTime": 106798,
       "endTime": 118693,
-      "speaker": "SPEAKER_01",
+      "speaker": "Voix 1",
       "items": [
         {
           "startTime": 106798,
@@ -1998,7 +1999,7 @@
     {
       "startTime": 119653,
       "endTime": 123016,
-      "speaker": "SPEAKER_06",
+      "speaker": "Voix 6",
       "items": [
         {
           "startTime": 119653,
@@ -2075,7 +2076,7 @@
     {
       "startTime": 123036,
       "endTime": 134387,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 123036,
@@ -2257,7 +2258,7 @@
     {
       "startTime": 134447,
       "endTime": 154079,
-      "speaker": "SPEAKER_06",
+      "speaker": "Voix 6",
       "items": [
         {
           "startTime": 134447,
@@ -2639,7 +2640,7 @@
     {
       "startTime": 154439,
       "endTime": 178027,
-      "speaker": "SPEAKER_03",
+      "speaker": "Voix 3",
       "items": [
         {
           "startTime": 154439,
@@ -3046,7 +3047,7 @@
     {
       "startTime": 178047,
       "endTime": 183789,
-      "speaker": "SPEAKER_06",
+      "speaker": "Voix 6",
       "items": [
         {
           "startTime": 178047,
@@ -3178,7 +3179,7 @@
     {
       "startTime": 186561,
       "endTime": 188844,
-      "speaker": "SPEAKER_05",
+      "speaker": "Voix 5",
       "items": [
         {
           "startTime": 186561,
